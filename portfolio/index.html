@@ -507,6 +507,20 @@ h1 {
   margin-bottom: 10px;
   font-size: 18px;
 }
+.plan-price {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  margin: 0 0 12px;
+  color: var(--accent);
+  font-size: 24px;
+  font-weight: 800;
+}
+.plan-price span {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
 .plan-card p {
   margin: 0;
   color: var(--muted);
@@ -798,9 +812,21 @@ h1 {
         </div>
       </div>
       <div class="plans">
-        <article class="plan-card reveal"><strong>LP/サイト改善診断</strong><p>現状ページを見て、導線、コピー、構成、信頼感の改善点を整理します。</p></article>
-        <article class="plan-card reveal reveal-delay-1"><strong>LP制作ディレクション</strong><p>構成整理、素材確認、外注指示、公開前チェックまで制作を前に進めます。</p></article>
-        <article class="plan-card reveal reveal-delay-2"><strong>AI業務効率化サポート</strong><p>リサーチ、文章作成、スプレッドシート/GASなどの軽い自動化を支援します。</p></article>
+        <article class="plan-card reveal">
+          <strong>LP/サイト改善診断</strong>
+          <div class="plan-price">¥10,000〜<span>目安</span></div>
+          <p>現状ページを見て、導線、コピー、構成、信頼感の改善点を整理します。</p>
+        </article>
+        <article class="plan-card reveal reveal-delay-1">
+          <strong>LP制作ディレクション</strong>
+          <div class="plan-price">¥50,000〜<span>目安</span></div>
+          <p>構成整理、素材確認、外注指示、公開前チェックまで制作を前に進めます。</p>
+        </article>
+        <article class="plan-card reveal reveal-delay-2">
+          <strong>AI業務効率化サポート</strong>
+          <div class="plan-price">¥30,000〜<span>月額目安</span></div>
+          <p>リサーチ、文章作成、スプレッドシート/GASなどの軽い自動化を支援します。</p>
+        </article>
       </div>
     </div>
   </section>
