@@ -1,0 +1,505 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>経歴詳細｜damono</title>
+<meta name="description" content="damonoの経歴、スキル、対応領域の詳細ページ。AI活用型Webディレクター / 業務改善パートナー。">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --ink: #17191c;
+  --text: #30343a;
+  --muted: #68707b;
+  --line: #dce1e7;
+  --paper: #f6f7f5;
+  --surface: #ffffff;
+  --accent: #16756f;
+  --accent-2: #df6b3f;
+  --accent-soft: #e5f2ef;
+  --shadow: 0 24px 70px rgba(20, 24, 28, .12);
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font-family: Inter, "Noto Sans JP", sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+}
+a { color: inherit; text-decoration: none; }
+.wrap { width: min(1120px, calc(100% - 40px)); margin: 0 auto; }
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(246, 247, 245, .92);
+  border-bottom: 1px solid var(--line);
+  backdrop-filter: blur(14px);
+}
+.nav-inner {
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  font-weight: 800;
+}
+.brand-mark {
+  width: 28px;
+  height: 28px;
+  display: block;
+  overflow: hidden;
+  border-radius: 7px;
+  background: #f4f1de;
+  border: 1px solid rgba(23, 25, 28, .08);
+  box-shadow: 0 8px 20px rgba(20, 24, 28, .08);
+}
+.brand-mark img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.back {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: 0 16px;
+  border-radius: 6px;
+  border: 1px solid var(--ink);
+  font-size: 14px;
+  font-weight: 800;
+}
+.back:hover { background: var(--ink); color: #fff; }
+.hero {
+  padding: 88px 0 72px;
+  border-bottom: 1px solid var(--line);
+  background:
+    linear-gradient(90deg, rgba(246,247,245,.96), rgba(246,247,245,.82)),
+    url("assets/ai-hero.png") center / cover;
+}
+.kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+.kicker::before {
+  content: "";
+  width: 34px;
+  height: 2px;
+  background: currentColor;
+}
+h1 {
+  margin: 18px 0 0;
+  max-width: 900px;
+  font-size: clamp(42px, 7vw, 78px);
+  line-height: 1.04;
+}
+.lead {
+  max-width: 760px;
+  margin: 24px 0 0;
+  color: var(--text);
+  font-size: 17px;
+  line-height: 1.9;
+}
+.summary {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1px;
+  margin-top: 40px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--line);
+}
+.summary div {
+  min-height: 118px;
+  padding: 22px;
+  background: rgba(255,255,255,.88);
+}
+.summary b {
+  display: block;
+  color: var(--accent-2);
+  font-size: 28px;
+  line-height: 1;
+  margin-bottom: 12px;
+}
+.summary span {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 800;
+  line-height: 1.6;
+}
+.section {
+  padding: 78px 0;
+  border-bottom: 1px solid var(--line);
+}
+.section-head {
+  display: grid;
+  grid-template-columns: minmax(250px, .32fr) minmax(0, 1fr);
+  gap: 44px;
+  align-items: start;
+  margin-bottom: 32px;
+}
+.section-title {
+  padding: 22px;
+  border-left: 6px solid var(--accent);
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+}
+.section-title h2 {
+  margin: 0;
+  font-size: clamp(30px, 4vw, 48px);
+  line-height: 1;
+  text-transform: uppercase;
+}
+.section-title p {
+  margin: 12px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 800;
+}
+.section-copy {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.9;
+}
+.timeline {
+  display: grid;
+  gap: 14px;
+}
+.timeline-item {
+  display: grid;
+  grid-template-columns: 170px 1fr;
+  gap: 24px;
+  padding: 24px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+.timeline-date {
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.timeline-item h3 {
+  margin: 0 0 10px;
+  font-size: 22px;
+}
+.timeline-item p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.85;
+}
+.skill-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+}
+.skill-card {
+  min-height: 190px;
+  padding: 22px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+.skill-card b {
+  display: block;
+  margin-bottom: 12px;
+  font-size: 18px;
+}
+.skill-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.8;
+}
+.focus {
+  display: grid;
+  grid-template-columns: .95fr 1.05fr;
+  gap: 20px;
+}
+.focus-panel {
+  padding: 30px;
+  border-radius: 8px;
+  background: var(--ink);
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+}
+.focus-panel::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(to right, rgba(255,255,255,.07) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255,255,255,.06) 1px, transparent 1px);
+  background-size: 42px 42px;
+}
+.focus-panel > * { position: relative; z-index: 1; }
+.focus-panel h2 {
+  margin: 0;
+  font-size: clamp(30px, 4vw, 54px);
+  line-height: 1.12;
+}
+.focus-panel p {
+  margin: 20px 0 0;
+  color: rgba(255,255,255,.72);
+  line-height: 1.9;
+}
+.focus-list {
+  display: grid;
+  gap: 12px;
+}
+.focus-list div {
+  padding: 20px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+.focus-list b { display: block; margin-bottom: 8px; }
+.focus-list p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.75;
+}
+.cta-section {
+  padding: 60px 0;
+  background: var(--ink);
+  color: #fff;
+}
+.cta-box {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 24px;
+  align-items: center;
+}
+.cta-box h2 {
+  margin: 0;
+  font-size: clamp(28px, 4vw, 48px);
+}
+.cta-box p {
+  margin: 12px 0 0;
+  color: rgba(255,255,255,.72);
+  line-height: 1.8;
+}
+.cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 0 18px;
+  border-radius: 6px;
+  background: #fff;
+  color: var(--ink);
+  font-weight: 800;
+}
+.cta:hover { background: var(--accent-2); color: #fff; }
+footer {
+  padding: 26px 0;
+  color: var(--muted);
+  font-size: 12px;
+}
+@media (max-width: 900px) {
+  .summary,
+  .section-head,
+  .focus,
+  .cta-box { grid-template-columns: 1fr; }
+  .skill-grid { grid-template-columns: repeat(2, 1fr); }
+  .timeline-item { grid-template-columns: 1fr; gap: 12px; }
+}
+@media (max-width: 640px) {
+  .wrap { width: min(100% - 28px, 1120px); }
+  .brand span:last-child { display: none; }
+  .hero { padding: 78px 0 54px; }
+  h1 { font-size: clamp(34px, 10.5vw, 46px); }
+  .summary,
+  .skill-grid { grid-template-columns: 1fr; }
+  .section { padding: 58px 0; }
+}
+</style>
+</head>
+<body>
+<nav class="nav">
+  <div class="wrap nav-inner">
+    <a class="brand" href="index.html"><span class="brand-mark"><img src="assets/damono-icon.png" alt=""></span><span>damono</span></a>
+    <a class="back" href="index.html#profile">戻る</a>
+  </div>
+</nav>
+
+<main>
+  <section class="hero">
+    <div class="wrap">
+      <div class="kicker">Detailed Profile</div>
+      <h1>AI活用・Web制作・業務理解を横断する実務プロフィール</h1>
+      <p class="lead">
+        制作だけ、ツールだけ、運用だけに閉じず、事業者が実際に前へ進める状態を作ることを重視しています。
+        正社員応募では実務適応力、副業営業では伴走力が伝わるように整理しています。
+      </p>
+      <div class="summary">
+        <div><b>5</b><span>企業コーポレートサイト制作実績</span></div>
+        <div><b>LP</b><span>LP制作業務全般</span></div>
+        <div><b>AI</b><span>調査・設計・文章化・実装補助</span></div>
+        <div><b>OPS</b><span>サイトパトロール/法務関連業務</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="section-title">
+          <h2>Career</h2>
+          <p>経験の整理</p>
+        </div>
+        <p class="section-copy">
+          株式会社USEN-NEXT HOLDINGSでのエンジニア研修後、株式会社USEN Mediaでグルメサイト「ヒトサラ」や関連管理画面の開発・保守運用を担当。
+          直近では業務委託として、サイトパトロールのチームリード、法務関連業務、外注サイト制作ディレクションを担当しています。
+        </p>
+      </div>
+      <div class="timeline">
+        <article class="timeline-item">
+          <div class="timeline-date">Education</div>
+          <div>
+            <h3>鹿児島大学 理学部 物理科学科 卒業</h3>
+            <p>理学部で培った論理的な思考と、複雑な内容を分解して理解する姿勢を、Web制作や業務整理に活かしています。</p>
+          </div>
+        </article>
+        <article class="timeline-item">
+          <div class="timeline-date">2022.04 - 2024.06</div>
+          <div>
+            <h3>株式会社USEN Media / Webサービス開発・保守運用</h3>
+            <p>エンジニア研修後、メディアプロダクトのプロダクト＆エンジニア部門に配属。主にグルメサイト「ヒトサラ」の開発、デザイン、保守・運用、関連するオーナー管理画面などのサービス開発を担当しました。</p>
+          </div>
+        </article>
+        <article class="timeline-item">
+          <div class="timeline-date">Works</div>
+          <div>
+            <h3>実務で担当した開発・運用例</h3>
+            <p>マイページ設定画面のアイコン画像削除ボタン実装、休業告知の掲出・削除、エントリー管理画面での連携解除データ追加、契約情報変更予約登録ページ作成、即時予約のポイント取り込み処理に関する過去データ削除などを担当しました。</p>
+          </div>
+        </article>
+        <article class="timeline-item">
+          <div class="timeline-date">Recent</div>
+          <div>
+            <h3>業務委託プロジェクト / サイトパトロール・法務関連業務・制作ディレクション</h3>
+            <p>業務委託として、サイトパトロールチームのリーダー業務、法務関連業務、外注によるサイト制作のディレクションを担当。運用現場の確認力、リスク観点、制作進行を横断して対応しています。</p>
+          </div>
+        </article>
+        <article class="timeline-item">
+          <div class="timeline-date">LP / Creative</div>
+          <div>
+            <h3>企業サイト制作・LP制作業務全般</h3>
+            <p>企業コーポレートサイト制作実績5件、LP制作業務全般の経験あり。企画、構成、素材整理、制作進行、公開前チェックまで対応します。</p>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="section-title">
+          <h2>Skills</h2>
+          <p>対応できること</p>
+        </div>
+        <p class="section-copy">
+          コードを書く専門職として一点突破するより、AIと既存ツールを使いながら、制作・改善・運用の初速を出す役割に向いています。
+        </p>
+      </div>
+      <div class="skill-grid">
+        <article class="skill-card">
+          <b>Web基礎技術</b>
+          <p>HTML/CSS/JavaScript/PHPを中心に、Webサービス開発とLP制作の両方で構造を理解して進行できます。</p>
+        </article>
+        <article class="skill-card">
+          <b>SQL / GAS / スクレイピング</b>
+          <p>AI補完を使いながら、リスト整理、スプレッドシート自動化、簡易データ取得、運用データ整理などに対応できます。</p>
+        </article>
+        <article class="skill-card">
+          <b>AIエージェント活用</b>
+          <p>リサーチ、構成案、コピー、作業分解、制作進行、改善提案のたたき台作成を高速化します。</p>
+        </article>
+        <article class="skill-card">
+          <b>LP/サイト改善</b>
+          <p>ファーストビュー、CTA、導線、訴求、信頼要素を見直し、改善提案として整理します。</p>
+        </article>
+        <article class="skill-card">
+          <b>Webサービス保守運用</b>
+          <p>既存サービスの仕様を読み解き、管理画面や運用に関わる細かな改善を進めた経験があります。</p>
+        </article>
+        <article class="skill-card">
+          <b>サイトパトロール/法務関連業務</b>
+          <p>サイトパトロールのチームリードと法務関連業務の経験を活かし、確認精度とリスク観点を持って業務を進めます。</p>
+        </article>
+        <article class="skill-card">
+          <b>タスク整理・進行管理</b>
+          <p>曖昧な依頼を作業単位に分け、優先順位と納品物を整理して進めます。</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap focus">
+      <div class="focus-panel">
+        <h2>狙うポジションと副業メニュー</h2>
+        <p>
+          正社員ではフルリモートのWebディレクター、業務改善、AI活用推進、Webサービス運用/開発支援、法務・リスク観点を含むオペレーション領域。
+          副業ではAI活用型のWeb/業務改善パートナーとして、初回診断から月額伴走まで展開します。
+        </p>
+      </div>
+      <div class="focus-list">
+        <div>
+          <b>正社員で活かせる方向</b>
+          <p>Webディレクター、制作進行、業務改善、AI活用推進、Webサービス運用、サイトパトロール/法務関連オペレーション、ITオペレーション。</p>
+        </div>
+        <div>
+          <b>副業で売りやすい方向</b>
+          <p>LP/サイト改善診断、LP制作ディレクション、GAS/スプレッドシート自動化、営業リスト/リサーチ支援。</p>
+        </div>
+        <div>
+          <b>商談で伝える軸</b>
+          <p>AIを使って安く速く作る人ではなく、AIを使って課題整理と実行速度を上げるパートナーとして提案します。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-section">
+    <div class="wrap cta-box">
+      <div>
+        <h2>ポートフォリオに戻る</h2>
+        <p>実績、サービスメニュー、問い合わせ導線はトップページにまとめています。</p>
+      </div>
+      <a class="cta" href="index.html#profile">Profileへ戻る</a>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">© damono. Detailed Profile.</div>
+</footer>
+</body>
+</html>

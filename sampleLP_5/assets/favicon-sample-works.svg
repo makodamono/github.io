@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sample Works">
+  <rect width="64" height="64" rx="14" fill="#f8f6ef"/>
+  <text x="10" y="43" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="-2" fill="#11151a">S</text>
+  <line x1="34" y1="16" x2="26" y2="49" stroke="#11151a" stroke-width="3.5" stroke-linecap="round"/>
+  <text x="36" y="43" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="-2" fill="#2e9a4f">W</text>
+</svg>

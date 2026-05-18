@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html lang="ja-JP">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Sample Digital｜オンライン広告・EC・SEO・システムコンサルティング</title>
+<meta name="description" content="Sample Digitalは、オンライン広告・EC支援・SEO対策・オンラインシステムコンサルティングを通じて、お客様のビジネス成長をトータルでサポートするデジタルソリューション企業です。">
+<meta name="author" content="Sample Digital">
+<meta name="robots" content="noindex, nofollow">
+
+<!-- ファビコン -->
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="apple-touch-icon" href="favicon.svg">
+
+<!-- OGP (Open Graph) -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Sample Digital">
+<meta property="og:title" content="Sample Digital｜オンライン広告・EC・SEO・システムコンサルティング">
+<meta property="og:description" content="オンライン広告・EC支援・SEO対策・オンラインシステムコンサルティングを通じて、お客様のビジネス成長をトータルでサポートします。">
+<meta property="og:url" content="https://sample.com/">
+<meta property="og:image" content="./ogp.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Sample Digital ファーストビュー">
+<meta property="og:locale" content="ja_JP">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Sample Digital｜デジタルソリューション">
+<meta name="twitter:description" content="オンライン広告・EC支援・SEO対策・オンラインシステムコンサルティングを提供します。">
+<meta name="twitter:image" content="./ogp.png">
+<meta name="twitter:image:alt" content="Sample Digital ファーストビュー">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+/* ── RESET (from actual source) ── */
+html { scroll-behavior: smooth; }
+html, body { margin: 0; }
+*, *::before, *::after { box-sizing: border-box; }
+
+/* ── ACTUAL CSS from layout.css / main.css (extracted) ── */
+body {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 15px;
+  line-height: 1.4;
+  color: #373534;
+  background-color: #f5f5f5;
+}
+a { color: inherit; text-decoration: none; }
+img { display: block; max-width: 100%; height: auto; }
+p { margin: 0.5em 0; padding: 0; box-sizing: border-box; line-height: 21px; }
+strong { font-weight: 700; }
+
+/* ── WORKS-HEADING (exact class from source) ── */
+p.works-heading,
+.works-heading {
+  color: #373534;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 34px;
+  font-weight: 700 !important;
+  line-height: 120% !important;
+  margin: 0; padding: 0;
+}
+
+/* ── NAVIGATION ── */
+#navigation {
+  background: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+  position: sticky; top: 0; z-index: 100;
+}
+.header-nav {
+  max-width: 1100px; margin: 0 auto;
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 0 20px; height: 60px;
+}
+.logo a { display: block; line-height: 0; }
+.logo-image { height: 32px; width: auto; }
+
+/* Hamburger */
+.hamburger {
+  display: none;
+  flex-direction: column; justify-content: center; gap: 5px;
+  width: 32px; height: 32px; cursor: pointer;
+}
+.hamburger span { display: block; width: 22px; height: 2px; background: #373534; transition: all .3s; }
+.hamburger.active span:nth-child(1) { transform: rotate(45deg) translate(5px, 5px); }
+.hamburger.active span:nth-child(2) { opacity: 0; }
+.hamburger.active span:nth-child(3) { transform: rotate(-45deg) translate(5px, -5px); }
+
+/* Main nav */
+#mainNav1 {
+  list-style: none; margin: 0; padding: 0;
+  display: flex;
+}
+#mainNav1 li a {
+  display: block;
+  padding: 0 16px; height: 60px; line-height: 60px;
+  font-size: 14px; font-weight: 500; color: #373534;
+  border-bottom: 3px solid transparent;
+  transition: color 200ms, border-bottom-color 200ms;
+  white-space: nowrap;
+}
+#mainNav1 li a:hover,
+#mainNav1 li a.current { color: #d90d1a; border-bottom-color: #d90d1a; }
+
+/* Mobile nav slide */
+#mainNav1.active {
+  display: flex; flex-direction: column;
+  position: fixed; top: 60px; left: 0; right: 0;
+  background: #fff; border-top: 1px solid #e0e0e0;
+  z-index: 99; padding: 8px 0;
+  box-shadow: 0 4px 12px rgba(0,0,0,.1);
+}
+#mainNav1.active li a {
+  height: auto; line-height: 1.5;
+  padding: 12px 20px; border-bottom: 1px solid #f0f0f0;
+  border-left: none;
+}
+
+/* ── GUTTER / PAGE WRAPPER ── */
+.gutter {
+  max-width: 1100px; margin: 0 auto; padding: 0 20px;
+}
+
+/* ── SECTION SPACING ── */
+.j-spacing .cc-m-spacer { display: block; }
+
+/* ── TEXT WITH IMAGE (hero) ── */
+/* First module: image left, text right */
+#cc-m-15371026723 {
+  background-color: #373534;
+}
+.hero-module {
+  background-color: #ffffff;
+}
+.hero-inner {
+  max-width: 1100px; margin: 0 auto; padding: 40px 20px;
+  display: flex; align-items: center; gap: 40px;
+}
+.hero-img-wrap { flex: 0 0 auto; }
+.hero-img-wrap img { width: 513px; max-width: 100%; }
+.hero-text-wrap { flex: 1; padding-left: 60px; }
+.hero-text-wrap p { line-height: 1.7; }
+.hero-text-wrap p,
+.hero-text-wrap p span { color: #373534 !important; }
+
+/* Intro text below hero */
+.intro-text {
+  background: #d70c19;
+  text-align: center;
+  padding: 28px 20px;
+}
+.intro-text-inner {
+  max-width: 720px;
+  margin: 0 auto;
+}
+.intro-text p {
+  color: #fff;
+  font-size: 16px;
+  line-height: 1.9;
+  margin: 0 !important;
+  letter-spacing: 0.04em;
+}
+
+/* Contact link in hero — CTAボタンと同デザイン */
+.hero-contact-link {
+  display: inline-block;
+  padding: 1rem 4rem;
+  color: #d70c19;
+  border: 2px solid #d70c19;
+  border-radius: 6px;
+  font-weight: 700; font-size: 15px;
+  box-shadow: #cccccc 4px 4px 5px;
+  transition: background 200ms, color 200ms;
+  text-decoration: none;
+}
+.hero-contact-link:hover { background: #d70c19; color: #fff; }
+
+/* ── CONTENT AREA ── */
+#content_area {
+  background: #f5f5f5;
+}
+.content-section {
+  max-width: 1100px; margin: 0 auto; padding: 0 20px;
+  background: #f5f5f5;
+}
+
+/* ── SERVICE TEXT BLOCKS ── */
+.service-number-label { color: #666666; font-size: 20px; }
+.service-title-red { color: #d90d1a; font-size: 20px; font-weight: 700; }
+.service-title-dark { color: #373534; font-size: 20px; font-weight: 700; }
+.service-body { color: #666666; font-size: 15px; line-height: 1.75; }
+
+/* X certified badge block */
+.x-certified-wrap {
+  display: flex; align-items: flex-start; gap: 20px;
+  background: #fff; padding: 16px 20px; border-radius: 4px;
+  margin-top: 12px;
+}
+.x-badge-img { flex-shrink: 0; }
+.x-badge-img img { width: 130px; height: auto; display: block; }
+.x-cert-text { font-size: 13px; line-height: 1.75; color: #373534; }
+.x-cert-text a { color: #0a49a9; text-decoration: underline; }
+
+/* ── FEATURES IMAGE ── */
+.feature-platform-img img { width: 100%; height: auto; }
+
+/* ── HGRID (3-column grid) ── */
+.hgrid-3col {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px;
+}
+.hgrid-2col {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 32px;
+  align-items: start;
+}
+
+/* textWithImage inside grid */
+.grid-card img { width: 100%; height: auto; display: block; border-radius: 2px; }
+.grid-card-client { font-size: 13px; color: #363433; margin-top: 8px !important; }
+.grid-card-title { font-size: 18px; font-weight: 700; color: #363433; margin-top: 4px !important; }
+.grid-card-desc { color: #666666; font-size: 15px; margin-top: 4px !important; }
+
+/* imageSubtitle (column articles) */
+.col-article figure { margin: 0; }
+.col-article figure a img { width: 301px; max-width: 100%; height: auto; }
+.col-article figcaption {
+  width: 301px; max-width: 100%;
+  font-size: 14px; color: #373534; line-height: 1.5;
+  margin-top: 6px;
+}
+.col-article figcaption a { color: #373534; }
+.col-article figcaption a:hover { color: #d90d1a; text-decoration: underline; }
+
+/* ── NEWS TEXT BLOCK ── */
+.news-block { font-size: 15px; color: #363433; line-height: 21px; }
+.news-block a {
+  color: #363433; text-decoration: underline;
+  transition: color 200ms;
+}
+.news-block a:hover { color: #d90d1a; }
+.news-date { color: #363433; margin-top: 16px !important; }
+.news-see-all {
+  text-align: right; margin-bottom: 8px;
+}
+.news-see-all a { font-size: 13px; color: #000; text-decoration: underline; }
+.news-see-all a:hover { color: #d90d1a; }
+
+/* ── SERVICE CARD LAYOUT ── */
+.service-card-inner {
+  display: flex;
+  gap: 28px;
+  align-items: flex-start;
+}
+.service-card-img-wrap {
+  flex: 0 0 260px;
+}
+.service-card-img {
+  width: 260px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 6px;
+  display: block;
+}
+.service-card-body { flex: 1; }
+@media (max-width: 768px) {
+  .service-card-inner { flex-direction: column; }
+  .service-card-img-wrap { flex: none; width: 100%; }
+  .service-card-img { width: 100%; height: 200px; }
+}
+
+/* ── SERVICE / FEATURE CARDS (白カード) ── */
+#cc-m-15371300523,
+#cc-m-15371304623,
+#cc-m-15371304723,
+#cc-m-15371305023 {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 17px !important;
+}
+
+/* ── ABOUT TABLE ── */
+.about-table { width: 100%; border-collapse: collapse; font-size: 15px; line-height: 21px; }
+.about-table tr { border-bottom: 1px solid #e0e0e0; }
+.about-table tr:first-child { border-top: 1px solid #e0e0e0; }
+.about-table td { padding: 12px 8px; vertical-align: top; }
+.about-table td:first-child { font-weight: 700; white-space: nowrap; padding-right: 20px; min-width: 100px; color: #373534; }
+
+/* ── GOOGLE MAP ── */
+.map-wrapper { width: 100%; height: 400px; overflow: hidden; }
+.map-wrapper iframe { width: 100%; height: 400px; border: 0; display: block; }
+
+/* ── CTA BOTTOM ── */
+.cta-bottom { text-align: center; padding: 0 20px 40px; }
+.cta-bottom p { font-size: 20px; line-height: 1.7; color: #373534; margin: 0 0 16px !important; }
+.cta-link {
+  display: inline-block;
+  padding: 1rem 4rem; color: #d70c19;
+  border: 2px solid #d70c19;
+  font-weight: 700; font-size: 15px;
+  box-shadow: #cccccc 4px 4px 5px;
+  transition: background 200ms, color 200ms;
+}
+.cta-link:hover { background: #d70c19; color: #fff; }
+
+/* ── CONTACT FORM ── */
+.contact-section {
+  background: #f5f5f5;
+  padding: 60px 20px;
+}
+.contact-section .works-heading { margin-bottom: 8px; }
+.contact-lead { font-size: 15px; color: #666666; line-height: 1.7; margin: 0 0 32px !important; }
+.contact-form {
+  background: #fff;
+  border-radius: 10px;
+  padding: 40px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+.form-row { margin-bottom: 24px; }
+.form-row label {
+  display: block;
+  font-size: 14px; font-weight: 700;
+  color: #373534;
+  margin-bottom: 8px;
+}
+.form-required {
+  display: inline-block;
+  background: #d70c19; color: #fff;
+  font-size: 11px; font-weight: 700;
+  padding: 2px 6px; border-radius: 3px;
+  margin-left: 6px; vertical-align: middle;
+}
+.form-row input,
+.form-row textarea,
+.form-row select {
+  width: 100%;
+  border: 1px solid #ddd; border-radius: 4px;
+  padding: 12px 14px;
+  font-size: 14px; font-family: 'Noto Sans JP', sans-serif;
+  color: #373534;
+  outline: none;
+  transition: border-color 200ms;
+  box-sizing: border-box;
+  background: #fff;
+}
+.form-row input:focus,
+.form-row textarea:focus { border-color: #d70c19; }
+.form-row textarea { resize: vertical; line-height: 1.7; }
+.form-submit { text-align: center; margin-top: 32px; }
+.submit-btn {
+  display: inline-block;
+  padding: 1rem 4rem;
+  background: transparent; color: #d70c19;
+  border: 2px solid #d70c19; border-radius: 6px;
+  font-weight: 700; font-size: 15px;
+  font-family: 'Noto Sans JP', sans-serif;
+  box-shadow: #cccccc 4px 4px 5px;
+  cursor: pointer;
+  transition: background 200ms, color 200ms;
+}
+.submit-btn:hover { background: #d70c19; color: #fff; }
+
+/* ── FOOTER ── */
+#footer {
+  background: #fff; border-top: 1px solid #e0e0e0;
+  padding: 32px 20px 20px;
+}
+#footer .gutter {
+  max-width: 1100px; margin: 0 auto;
+  display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 24px;
+}
+.footer-brand { font-size: 16px; font-weight: 700; color: #373534; }
+.footer-brand small { display: block; font-size: 12px; font-weight: 400; color: #888; margin-top: 4px; }
+.footer-nav { list-style: none; margin: 0; padding: 0; display: flex; gap: 24px; flex-wrap: wrap; }
+.footer-nav li a { font-size: 13px; color: #666; transition: color 200ms; }
+.footer-nav li a:hover { color: #d90d1a; }
+.footer-copy { width: 100%; border-top: 1px solid #eee; margin-top: 20px; padding-top: 14px; font-size: 12px; color: #999; text-align: center; }
+.leftrow { font-size: 12px; color: #666; }
+
+/* HR divider */
+.section-hr { border: none; border-top: 1px solid #ddd; margin: 0; }
+
+/* ── RESPONSIVE ── */
+@media (max-width: 768px) {
+  .header-nav { height: 56px; }
+  #mainNav1 { display: none; }
+  #mainNav1.active { top: 56px; }
+  .hamburger { display: flex; }
+
+  .hero-inner { flex-direction: column; padding: 24px 16px; gap: 20px; }
+  .hero-img-wrap img { width: 100%; }
+  .hero-text-wrap { padding-left: 0; }
+
+  .hgrid-3col { grid-template-columns: 1fr; }
+  .hgrid-2col { grid-template-columns: 1fr; }
+  .col-article figure a img { width: 100%; }
+  .col-article figcaption { width: 100%; }
+}
+@media (max-width: 480px) {
+  .gutter { padding: 0 12px; }
+  .content-section { padding: 0 12px; }
+}
+</style>
+</head>
+<body class="body cc-page cc-page-index cc-indexpage">
+
+<!-- ── NAVIGATION ── -->
+<div id="navigation">
+  <nav class="header-nav">
+    <div class="logo">
+      <a href="#top">
+        <svg viewBox="0 0 230 44" height="36" xmlns="http://www.w3.org/2000/svg" style="display:block;">
+          <circle cx="14" cy="22" r="13" fill="#d70c19" opacity="0.9"/>
+          <circle cx="26" cy="22" r="13" fill="#373534" opacity="0.9"/>
+          <circle cx="20" cy="22" r="1.8" fill="#ffffff"/>
+          <text x="50" y="28" font-family="Inter, sans-serif" font-weight="700" font-size="19" fill="#373534" letter-spacing="-0.4">Sample Digital</text>
+        </svg>
+      </a>
+    </div>
+
+    <div class="hamburger" id="hamburger">
+      <span></span><span></span><span></span>
+    </div>
+
+    <ul id="mainNav1">
+      <li><a href="#top" class="current level_1"><span>TOP</span></a></li>
+      <li><a href="#service" class="level_1"><span>サービス</span></a></li>
+      <li><a href="#about" class="level_1"><span>会社情報</span></a></li>
+      <li><a href="#contact" class="level_1"><span>お問い合わせ</span></a></li>
+    </ul>
+  </nav>
+</div>
+
+<!-- ── CONTENT AREA ── -->
+<div id="content_area">
+
+  <!-- ── HERO: textWithImage (id cc-m-15371026723) ── -->
+  <div class="hero-module" id="top">
+    <div class="hero-inner">
+      <div class="hero-img-wrap">
+        <img src="hero-original.png"
+             alt="ヒーローイラスト" style="width:513px;max-width:100%;">
+      </div>
+      <div class="hero-text-wrap">
+        <p style="text-align:left;">
+          <span style="color:#373534;font-size:24px;font-weight:700;">デジタルの力と確かなサービスで、</span>
+        </p>
+        <p style="text-align:left;">
+          <span style="color:#373534;font-size:24px;font-weight:700;">あなたのビジネスを</span>
+        </p>
+        <p style="text-align:left;">
+          <span style="color:#373534;font-size:24px;font-weight:700;">次のステージへ。</span>
+        </p>
+        <p style="text-align:left;">&nbsp;</p>
+        <p style="text-align:left; margin-top: 24px !important;">
+          <a href="#contact" title="お問い合わせ" class="hero-contact-link">お問い合わせはこちら</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Intro white-text block (cc-m-15371026823) -->
+  <div class="intro-text">
+    <div class="intro-text-inner">
+      <p>Sample Digitalは、オンライン広告・EC・SEOコンサルティング・システム構築など幅広いデジタル事業を展開しています。</p>
+    </div>
+  </div>
+
+  <!-- spacer 50px -->
+  <div style="height:50px;background:#f5f5f5;"></div>
+
+  <div class="content-section" id="service">
+
+    <!-- ── SERVICE HEADING (cc-m-15371329623) ── -->
+    <p class="works-heading">＜サービス内容＞</p>
+
+    <!-- spacer 20px -->
+    <div style="height:20px;"></div>
+
+    <!-- Service description (cc-m-15371329823) -->
+    <p class="works-heading" style="font-size:15px;font-weight:400;">
+      <span style="color:#373534;font-family:'Noto Sans JP',sans-serif;font-size:15px;">お客様のビジネス課題に応じた多彩なデジタルソリューションをご提供します。オンライン広告・EC支援からSEOコンサルティング、オンライン情報システムの企画・構築まで、幅広い領域でビジネス成長をサポートいたします。</span>
+    </p>
+
+    <!-- spacer 20px -->
+    <div style="height:20px;"></div>
+
+    <!-- 01 オンライン広告・EC支援 (cc-m-15371300523) -->
+    <div id="cc-m-15371300523">
+      <div class="service-card-inner">
+        <div class="service-card-img-wrap">
+          <img src="https://images.unsplash.com/photo-1664455340023-214c33a9d0bd?w=1200&fit=max&q=95"
+               alt="オンライン広告・EC支援" class="service-card-img">
+        </div>
+        <div class="service-card-body">
+          <p style="line-height:21px;font-family:'Noto Sans JP',sans-serif;">
+            <span style="color:#666666;font-size:20px;">01 オンライン広告・EC支援</span>
+          </p>
+          <p style="line-height:21px;">&nbsp;</p>
+          <p style="line-height:21px;">
+            <span style="font-size:20px;font-weight:700;"><span style="color:#d90d1a;">集客・販促を最大化する</span></span>
+          </p>
+          <p style="line-height:21px;">
+            <span style="font-size:20px;font-weight:700;color:#373534;">オンライン広告・通信販売の総合支援</span>
+          </p>
+          <p style="line-height:21px;">&nbsp;</p>
+          <p style="line-height:21px;">
+            <span style="color:#666666;">各種デジタル媒体を活用した広告運用から、インターネット通販の構築・運営まで一貫して対応。お客様のビジネスの認知拡大と売上向上をトータルでサポートします。</span>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- spacer 50px -->
+    <div style="height:50px;"></div>
+
+    <!-- 02 SEO・オンラインシステム (cc-m-15371304623) -->
+    <div id="cc-m-15371304623">
+      <div class="service-card-inner">
+        <div class="service-card-img-wrap">
+          <img src="https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=1200&fit=max&q=95"
+               alt="SEO・オンラインシステム" class="service-card-img">
+        </div>
+        <div class="service-card-body">
+          <p style="line-height:21px;">
+            <span style="font-size:20px;color:#666666;">02 SEO・オンラインシステム</span>
+          </p>
+          <p style="line-height:21px;">&nbsp;</p>
+          <p style="line-height:21px;">
+            <span style="font-size:20px;font-weight:700;color:#d90d1a;">検索流入を最大化し、</span>
+          </p>
+          <p style="line-height:21px;">
+            <span style="font-size:20px;font-weight:700;">デジタル基盤の強化を一貫サポート</span>
+          </p>
+          <p style="line-height:21px;">&nbsp;</p>
+          <p style="line-height:21px;">
+            <span style="color:#666666;">検索エンジン最適化（SEO）の戦略立案から実施まで一貫して支援します。また、オンライン情報提供システムの企画・立案・制作にも対応し、お客様のデジタル基盤構築をトータルでサポートします。</span>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- spacer 50px -->
+    <div style="height:50px;"></div>
+
+    <!-- 03 オンラインシステムコンサルティング (cc-m-15371304723) -->
+    <div id="cc-m-15371304723">
+      <div class="service-card-inner">
+        <div class="service-card-img-wrap">
+          <img src="https://images.unsplash.com/photo-1590650516494-0c8e4a4dd67e?w=1200&fit=max&q=95"
+               alt="オンラインシステムコンサルティング" class="service-card-img">
+        </div>
+        <div class="service-card-body">
+          <p style="line-height:21px;">
+            <span style="font-size:20px;color:#666666;">03 オンラインシステムコンサルティング</span>
+          </p>
+          <p style="line-height:21px;">&nbsp;</p>
+          <p style="line-height:21px;">
+            <span style="font-size:20px;font-weight:700;"><span style="color:#d90d1a;">ビジネス課題を解決する</span></span>
+          </p>
+          <p style="line-height:21px;">
+            <span style="font-size:20px;font-weight:700;color:#373534;">システム設計・情報提供基盤の構築</span>
+          </p>
+          <p style="line-height:21px;">&nbsp;</p>
+          <p style="line-height:21px;">
+            <span style="color:#666666;">業務効率化・新規事業立ち上げに向けたオンラインシステムの設計・構築を支援します。オンライン情報提供システムの企画・立案・制作まで、お客様のニーズに合わせた最適なソリューションをご提案します。</span>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- spacer 50px -->
+    <div style="height:50px;"></div>
+    <hr class="section-hr">
+    <div style="height:50px;"></div>
+
+    <!-- ── 特徴 (cc-m-15371027823) ── -->
+    <p class="works-heading"><strong>特徴</strong></p>
+    <div style="height:20px;"></div>
+
+    <!-- 特徴 content (cc-m-15371305023) -->
+    <div id="cc-m-15371305023">
+      <p style="line-height:21px;">
+        <span style="color:#373534;font-size:20px;font-weight:700;">ワンストップのデジタルソリューション</span>
+      </p>
+      <p style="line-height:21px;">&nbsp;</p>
+      <p style="line-height:21px;">オンライン広告・EC・SEO・システムコンサルティングまで、デジタル領域を幅広くカバー。複数の専門サービスをワンストップで提供することで、お客様のビジネス成長を一貫してサポートします。</p>
+    </div>
+
+    <!-- spacer 50px -->
+    <div style="height:50px;"></div>
+    <hr class="section-hr">
+    <div style="height:50px;"></div>
+
+    <!-- ── ABOUT US (cc-m-15371029623) ── -->
+    <p class="works-heading" id="about"><strong><span>ABOUT US</span></strong></p>
+    <div style="height:20px;"></div>
+
+    <!-- About table (cc-m-15371029823) -->
+    <table align="" border="0" cellspacing="0" cellpadding="3" width="100%" class="about-table" style="border:1px solid rgba(0,0,0,0);">
+      <tbody>
+        <tr>
+          <td><strong>会社名</strong></td>
+          <td><p>株式会社サンプルデジタル</p></td>
+        </tr>
+        <tr>
+          <td><strong>設立</strong></td>
+          <td><p>2020年1月</p></td>
+        </tr>
+        <tr>
+          <td><strong>法人住所</strong></td>
+          <td>
+            <p>〒100-0005</p>
+            <p>東京都千代田区丸の内1-1-1</p>
+            <p>サンプルビル5F</p>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>代表者</strong></td>
+          <td><p>代表取締役　山田 太郎</p></td>
+        </tr>
+        <tr>
+          <td><strong>メール</strong></td>
+          <td><p><a href="mailto:contact@example.com">contact@example.com</a></p></td>
+        </tr>
+        <tr>
+          <td><strong>事業内容</strong></td>
+          <td>
+            <p>1. オンライン広告および通信販売業務</p>
+            <p>2. インターネットを利用した通信販売</p>
+            <p>3. オンラインシステムコンサルティング業</p>
+            <p>4. オンライン情報提供システムの企画、立案、制作</p>
+            <p>5. 検索エンジン最適化（SEO）に関するコンサルティング</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <!-- spacer 50px -->
+    <div style="height:50px;"></div>
+
+    <!-- ── OUR VISION (cc-m-15371030023) ── -->
+    <p class="works-heading">
+      <span style="color:#373534;font-size:34px;"><b>OUR  VISION</b></span>
+    </p>
+    <div style="height:20px;"></div>
+
+    <!-- Vision text (cc-m-15371030223) -->
+    <p class="works-heading" style="text-align:left;">
+      <span style="font-weight:700!important;font-size:22px;">デジタルの力で、ビジネスの可能性を広げ、豊かな未来をともに創る。</span>
+    </p>
+    <div style="height:16px;"></div>
+    <p style="font-size:15px;color:#666666;line-height:1.8;text-align:left;">
+      オンラインが持つ「広げ、つなぎ、加速させる」力と、サービスが持つ「温もり、体験、つながり」の価値を融合させることで、新たなビジネスの機会と価値を創ります。そして、お客様とともにより豊かなビジネス・生活・未来の実現を目指します。
+    </p>
+    <div style="height:20px;"></div>
+
+    <div style="height:20px;"></div>
+
+  </div><!-- /.content-section -->
+
+  <!-- ── GOOGLE MAP (cc-m-15371030423) ── -->
+  <div class="map-wrapper">
+    <iframe
+      width="100%" height="400" frameborder="0" allowfullscreen style="border:0;"
+      src="https://maps.google.com/maps?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E4%B8%B8%E3%81%AE%E5%86%851-1-1&output=embed&hl=ja&z=16">
+    </iframe>
+  </div>
+
+  <!-- spacer 50px -->
+  <div style="height:50px;background:#f5f5f5;"></div>
+
+  <!-- ── CONTACT FORM ── -->
+  <div class="contact-section" id="contact">
+    <div style="max-width:1100px;margin:0 auto;">
+      <p class="works-heading" style="text-align:center;"><strong>お問い合わせ</strong></p>
+      <div style="height:16px;"></div>
+      <p class="contact-lead" style="text-align:center;">お気軽にご相談ください。担当者よりご連絡いたします。</p>
+      <form class="contact-form" action="mailto:contact@example.com" method="post" enctype="text/plain">
+        <div class="form-row">
+          <label>お名前<span class="form-required">必須</span></label>
+          <input type="text" name="name" placeholder="山田 太郎" required>
+        </div>
+        <div class="form-row">
+          <label>会社名</label>
+          <input type="text" name="company" placeholder="株式会社〇〇">
+        </div>
+        <div class="form-row">
+          <label>メールアドレス<span class="form-required">必須</span></label>
+          <input type="email" name="email" placeholder="example@email.com" required>
+        </div>
+        <div class="form-row">
+          <label>電話番号</label>
+          <input type="tel" name="tel" placeholder="03-0000-0000">
+        </div>
+        <div class="form-row">
+          <label>件名<span class="form-required">必須</span></label>
+          <input type="text" name="subject" placeholder="お問い合わせの件名をご記入ください" required>
+        </div>
+        <div class="form-row">
+          <label>お問い合わせ内容<span class="form-required">必須</span></label>
+          <textarea name="message" rows="7" placeholder="お問い合わせ内容をご記入ください" required></textarea>
+        </div>
+        <div class="form-submit">
+          <button type="submit" class="submit-btn">送信する</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+</div><!-- /#content_area -->
+
+<!-- ── FOOTER ── -->
+<div id="footer">
+  <div class="gutter">
+    <div class="footer-brand">
+      <a href="#top" style="display:inline-block;margin-bottom:6px;">
+        <svg viewBox="0 0 230 44" height="30" xmlns="http://www.w3.org/2000/svg" style="display:block;">
+          <circle cx="14" cy="22" r="13" fill="#d70c19" opacity="0.9"/>
+          <circle cx="26" cy="22" r="13" fill="#373534" opacity="0.9"/>
+          <circle cx="20" cy="22" r="1.8" fill="#ffffff"/>
+          <text x="50" y="28" font-family="Inter, sans-serif" font-weight="700" font-size="19" fill="#373534" letter-spacing="-0.4">Sample Digital</text>
+        </svg>
+      </a>
+      <small>東京都千代田区丸の内1-1-1</small>
+    </div>
+    <ul class="footer-nav">
+      <li><a href="#top">TOP</a></li>
+      <li><a href="#service">サービス</a></li>
+      <li><a href="#about">会社情報</a></li>
+      <li><a href="#contact">お問い合わせ</a></li>
+    </ul>
+    <div class="footer-copy">© <span id="footer-year"></span> Sample Digital All Rights Reserved.</div>
+  </div>
+</div>
+
+<script>
+window.onload = function() {
+  // Copyright year
+  const yearEl = document.getElementById('footer-year');
+  if (yearEl) yearEl.textContent = new Date().getFullYear();
+
+  // Hamburger menu
+  const hamburger = document.querySelector('.hamburger');
+  const nav = document.querySelector('#mainNav1');
+  if (hamburger && nav) {
+    hamburger.addEventListener('click', () => {
+      hamburger.classList.toggle('active');
+      nav.classList.toggle('active');
+    });
+    // Close menu when a link is clicked
+    nav.querySelectorAll('a').forEach(a => {
+      a.addEventListener('click', () => {
+        hamburger.classList.remove('active');
+        nav.classList.remove('active');
+      });
+    });
+  }
+
+  // Scroll spy — highlight current section in nav
+  const sections = [
+    { id: 'top',     selector: '#top' },
+    { id: 'service', selector: '#service' },
+    { id: 'about',   selector: '#about' },
+    { id: 'contact', selector: '#contact' },
+  ];
+  const navLinks = document.querySelectorAll('#mainNav1 a');
+
+  function onScroll() {
+    const scrollY = window.scrollY + 80;
+    let current = 'top';
+    sections.forEach(s => {
+      const el = document.querySelector(s.selector);
+      if (el && el.offsetTop <= scrollY) current = s.id;
+    });
+    navLinks.forEach(a => {
+      const href = a.getAttribute('href');
+      a.classList.toggle('current', href === '#' + current);
+    });
+  }
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
+};
+</script>
+</body>
+</html>

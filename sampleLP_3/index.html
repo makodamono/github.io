@@ -1,0 +1,1590 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>デジタルと現場をつなぎ、事業価値を高める｜株式会社Sample</title>
+<meta name="description" content="デジタルと現場をつなぎ、事業価値を高める。ウェブ企画・制作・運用、コンサルティング、撮影・映像制作、SaaSツール開発を支援する株式会社SampleのLPです。">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="株式会社Sample">
+<meta property="og:title" content="デジタルと現場をつなぎ、事業価値を高める｜株式会社Sample">
+<meta property="og:description" content="ウェブ企画・制作・運用、コンサルティング、撮影・映像制作、SaaSツール開発を通じて、企業の現場とデジタルをつなぎます。">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="./ogp.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="株式会社Sample ファーストビュー">
+<meta property="og:url" content="https://sample.com/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="デジタルと現場をつなぎ、事業価値を高める｜株式会社Sample">
+<meta name="twitter:description" content="ウェブ企画・制作・運用、コンサルティング、撮影・映像制作、SaaSツール開発を支援します。">
+<meta name="twitter:image" content="./ogp.png">
+<meta name="twitter:image:alt" content="株式会社Sample ファーストビュー">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%230d0d0d'/><rect x='5' y='16' width='4' height='11' rx='1' fill='%23c8a96e'/><rect x='11' y='10' width='4' height='17' rx='1' fill='%23c8a96e'/><rect x='17' y='18' width='4' height='9' rx='1' fill='%23c8a96e'/><rect x='23' y='5' width='4' height='22' rx='1' fill='%23c8a96e'/></svg>">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans+JP:wght@300;400;500;700&family=Barlow+Condensed:wght@300;400;600;700&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --black: #0d0d0d;
+  --white: #f5f5f0;
+  --gold: #c8a96e;
+  --gold-light: #e2c890;
+  --gray: #888;
+  --gray-light: #ccc;
+  --border: rgba(200,169,110,0.3);
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Noto Sans JP', sans-serif;
+  background: var(--white);
+  color: var(--black);
+  overflow-x: hidden;
+}
+@media (hover: hover) and (pointer: fine) {
+  body { cursor: none; }
+}
+
+/* カスタムカーソル */
+.cursor {
+  position: fixed;
+  width: 10px; height: 10px;
+  background: var(--gold);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 9999;
+  transform: translate(-50%, -50%);
+  transition: transform 0.1s ease, width 0.3s, height 0.3s, background 0.3s;
+  mix-blend-mode: difference;
+}
+.cursor-ring {
+  position: fixed;
+  width: 36px; height: 36px;
+  border: 1px solid var(--gold);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 9998;
+  transform: translate(-50%, -50%);
+  transition: transform 0.15s ease, width 0.3s, height 0.3s;
+}
+
+/* ── ナビゲーション ── */
+nav {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 48px;
+  height: 80px;
+  mix-blend-mode: difference;
+}
+.nav-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--white);
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-decoration: none;
+}
+.nav-logo-bars {
+  display: flex;
+  gap: 3px;
+  align-items: flex-end;
+  height: 18px;
+}
+.nav-logo-bars span {
+  display: block;
+  width: 3px;
+  background: var(--white);
+  border-radius: 1px;
+}
+.nav-logo-bars span:nth-child(1) { height: 10px; }
+.nav-logo-bars span:nth-child(2) { height: 16px; }
+.nav-logo-bars span:nth-child(3) { height: 8px; }
+.nav-logo-bars span:nth-child(4) { height: 18px; }
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 36px;
+  list-style: none;
+}
+.nav-links a {
+  color: var(--white);
+  text-decoration: none;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  position: relative;
+  transition: color 0.2s;
+}
+.nav-links a::after {
+  content: '';
+  position: absolute;
+  bottom: -4px; left: 0; right: 0;
+  height: 1px;
+  background: var(--gold);
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+}
+.nav-links a:hover::after { transform: scaleX(1); }
+.nav-dropdown {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.nav-dropdown::after { content: '▾'; font-size: 10px; }
+
+/* ハンバーガー（SP専用） */
+.nav-hamburger { display: none; }
+
+/* モバイルナビ */
+.nav-mobile {
+  display: none;
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: var(--black);
+  z-index: 199;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.35s ease;
+}
+.nav-mobile.open { opacity: 1; pointer-events: all; }
+.nav-mobile-link {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 44px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: var(--white);
+  text-decoration: none;
+  padding: 16px 0;
+  width: 75%;
+  text-align: center;
+  border-bottom: 1px solid rgba(200,169,110,0.15);
+  transition: color 0.2s;
+}
+.nav-mobile-link:last-child { border-bottom: none; }
+.nav-mobile-link:hover { color: var(--gold); }
+
+/* ── ヒーロー ── */
+.hero {
+  position: relative;
+  height: 100vh;
+  min-height: 640px;
+  overflow: hidden;
+}
+
+/* 斜め分割：左=白、右=黒 */
+.hero-left-bg {
+  position: absolute;
+  top: 0; left: 0;
+  width: 55%;
+  height: 100%;
+  background: var(--white);
+  clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
+  z-index: 0;
+}
+.hero-right-bg {
+  position: absolute;
+  top: 0; right: 0;
+  width: 55%;
+  height: 100%;
+  background: var(--black);
+  clip-path: polygon(15% 0, 100% 0, 100% 100%, 0 100%);
+  z-index: 0;
+}
+
+/* 金のライン */
+.hero-divider {
+  position: absolute;
+  top: 0;
+  left: calc(55% - 2px);
+  width: 2px;
+  height: 100%;
+  background: linear-gradient(to bottom, transparent, var(--gold) 20%, var(--gold) 80%, transparent);
+  z-index: 10;
+  transform: skewX(-8deg);
+  transform-origin: center;
+}
+
+/* GIGの大文字マスク */
+.hero-gig {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  gap: 0;
+  pointer-events: none;
+}
+
+.gig-letter {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(200px, 22vw, 340px);
+  line-height: 1;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-image: url('https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80');
+  background-size: cover;
+  background-position: center;
+  letter-spacing: -0.02em;
+  filter: contrast(1.1);
+}
+
+/* テキストブロック（左下） */
+.hero-text {
+  position: absolute;
+  bottom: 80px;
+  left: 60px;
+  z-index: 20;
+}
+.hero-slogan {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: clamp(32px, 4vw, 52px);
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: var(--black);
+  line-height: 1.15;
+  margin-bottom: 16px;
+}
+
+/* サブテキスト（右下） */
+.hero-sub {
+  position: absolute;
+  bottom: 80px;
+  left: calc(55% + 48px);
+  z-index: 20;
+  border-left: 2px solid var(--gold);
+  padding-left: 20px;
+}
+.hero-sub-en {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 0.12em;
+  color: var(--black);
+  line-height: 1.7;
+  margin-bottom: 8px;
+}
+.hero-sub-jp {
+  font-size: 12px;
+  color: var(--gray);
+  letter-spacing: 0.08em;
+}
+
+/* スクロール */
+.hero-scroll {
+  position: absolute;
+  right: 48px;
+  bottom: 40px;
+  z-index: 20;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  color: var(--white);
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  writing-mode: vertical-rl;
+}
+.hero-scroll::after {
+  content: '';
+  width: 1px;
+  height: 60px;
+  background: linear-gradient(to bottom, var(--gold), transparent);
+  animation: scrollLine 2s infinite;
+}
+@keyframes scrollLine {
+  0% { opacity: 0; transform: scaleY(0); transform-origin: top; }
+  50% { opacity: 1; }
+  100% { opacity: 0; transform: scaleY(1); transform-origin: top; }
+}
+
+/* 無料相談バー（右下固定） */
+.consult-bar {
+  position: fixed;
+  bottom: 32px;
+  right: 0;
+  z-index: 300;
+  display: flex;
+  align-items: center;
+  gap: 0;
+}
+.consult-logo-small {
+  background: var(--black);
+  width: 56px;
+  height: 56px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  padding: 8px;
+}
+.consult-logo-small .bars-mini {
+  display: flex;
+  gap: 2px;
+  align-items: flex-end;
+  height: 12px;
+}
+.consult-logo-small .bars-mini span {
+  display: block;
+  width: 2px;
+  background: var(--white);
+  border-radius: 1px;
+}
+.consult-logo-small .bars-mini span:nth-child(1) { height: 6px; }
+.consult-logo-small .bars-mini span:nth-child(2) { height: 10px; }
+.consult-logo-small .bars-mini span:nth-child(3) { height: 5px; }
+.consult-logo-small .bars-mini span:nth-child(4) { height: 12px; }
+.consult-logo-small .gig-label {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 9px;
+  color: var(--white);
+  letter-spacing: 0.08em;
+}
+.consult-btn {
+  background: var(--white);
+  color: var(--black);
+  padding: 0 28px;
+  height: 56px;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  border: none;
+  cursor: pointer;
+  border-left: 1px solid var(--gray-light);
+  transition: background 0.2s, color 0.2s;
+  white-space: nowrap;
+}
+.consult-btn:hover { background: var(--gold); color: var(--white); }
+.consult-up {
+  background: var(--gold);
+  width: 56px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  color: var(--white);
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.consult-up:hover { background: var(--gold-light); }
+
+/* ── セクション共通 ── */
+section { padding: 100px 60px; }
+.sec-label {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.sec-label::before {
+  content: '';
+  width: 32px; height: 1px;
+  background: var(--gold);
+}
+.sec-title {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: clamp(40px, 5vw, 72px);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  line-height: 1;
+  margin-bottom: 20px;
+}
+.sec-desc {
+  font-size: 14px;
+  color: #444;
+  max-width: 600px;
+  line-height: 2;
+  margin-bottom: 48px;
+}
+
+/* ── SERVICE ── */
+.service-section { background: var(--white); color: var(--black); }
+.service-section .sec-desc { color: rgba(0,0,0,0.6); }
+.service-section .sec-title { color: var(--black); }
+
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1px;
+  margin-top: 60px;
+  background: rgba(200,169,110,0.2);
+}
+.service-card {
+  background: #f0f0eb;
+  padding: 40px 32px;
+  position: relative;
+  overflow: hidden;
+  transition: background 0.4s;
+  cursor: pointer;
+}
+.service-card::before {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0;
+  width: 100%; height: 2px;
+  background: var(--gold);
+  transform: scaleX(0);
+  transition: transform 0.4s ease;
+  transform-origin: left;
+}
+.service-card:hover::before { transform: scaleX(1); }
+.service-card:hover { background: #e2e2db; }
+
+.service-card-tag {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.25em;
+  color: var(--gold);
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+.service-card h3 {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--black);
+  margin-bottom: 16px;
+  line-height: 1.5;
+}
+.service-card p {
+  font-size: 12px;
+  color: rgba(0,0,0,0.55);
+  line-height: 1.9;
+}
+.service-card-num {
+  position: absolute;
+  top: 32px; right: 32px;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 64px;
+  color: rgba(200,169,110,0.08);
+  line-height: 1;
+}
+.btn-more {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 60px;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 13px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--gold);
+  border: 1px solid var(--gold);
+  padding: 14px 36px;
+  text-decoration: none;
+  transition: background 0.3s, color 0.3s;
+  cursor: pointer;
+  background: transparent;
+}
+.btn-more::after { content: '→'; transition: transform 0.3s; }
+.btn-more:hover { background: var(--gold); color: var(--black); }
+.btn-more:hover::after { transform: translateX(4px); }
+
+/* ── CLIENT ── */
+.client-section { background: var(--white); }
+.client-header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-bottom: 60px;
+}
+.client-works-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2px;
+}
+.work-card {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  background: #e0e0dc;
+}
+.work-card-img {
+  width: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.6s ease;
+}
+.work-card:hover .work-card-img { transform: scale(1.05); }
+.work-card-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0,0,0,0.7) 0%, transparent 60%);
+  opacity: 0;
+  transition: opacity 0.4s;
+}
+.work-card:hover .work-card-overlay { opacity: 1; }
+.work-card-info {
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  padding: 24px;
+  transform: translateY(8px);
+  opacity: 0;
+  transition: all 0.4s;
+}
+.work-card:hover .work-card-info { opacity: 1; transform: translateY(0); }
+.work-card-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--white);
+  margin-bottom: 4px;
+}
+.work-card-type {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  color: var(--gold-light);
+  text-transform: uppercase;
+}
+
+/* ── WORKS ── */
+#works { background: var(--black); color: var(--white); }
+#works .sec-title { color: var(--white); }
+#works .sec-desc { color: rgba(255,255,255,0.6); }
+
+/* ── ABOUT ── */
+.about-section {
+  background: var(--white);
+  color: var(--black);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
+  align-items: center;
+  padding: 120px 80px;
+}
+.about-section .sec-title { color: var(--black); }
+.about-text {
+  font-size: 15px;
+  color: rgba(0,0,0,0.7);
+  line-height: 2.1;
+  margin-bottom: 32px;
+}
+.about-tagline {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.1em;
+  color: var(--gold);
+  font-weight: 600;
+  margin-bottom: 32px;
+}
+.about-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  border: 1px solid rgba(200,169,110,0.2);
+}
+.about-link-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--black) !important;
+  padding: 20px 28px;
+  border-bottom: 1px solid rgba(200,169,110,0.2);
+  cursor: pointer;
+  transition: background 0.2s;
+  text-decoration: none;
+}
+.about-link-item:last-child { border-bottom: none; }
+.about-link-item:hover { background: rgba(200,169,110,0.08); }
+.about-link-item span:first-child {
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+}
+.about-link-en {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  color: var(--gold);
+  text-transform: uppercase;
+}
+.about-link-arrow { color: var(--gold); font-size: 16px; }
+.about-visual {
+  position: relative;
+}
+.about-img-box {
+  width: 100%;
+  aspect-ratio: 3/4;
+  background: #1a1a1a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+}
+.about-img-pattern {
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    -45deg,
+    rgba(200,169,110,0.04) 0px,
+    rgba(200,169,110,0.04) 1px,
+    transparent 1px,
+    transparent 8px
+  );
+}
+.about-img-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 120px;
+  color: rgba(200,169,110,0.12);
+  letter-spacing: 0.05em;
+  z-index: 1;
+}
+.about-gold-line {
+  position: absolute;
+  top: 20px; right: -20px;
+  width: 1px; height: 80%;
+  background: linear-gradient(to bottom, transparent, var(--gold) 30%, var(--gold) 70%, transparent);
+}
+
+/* ── RECRUIT ── */
+.recruit-section { background: var(--white); }
+.recruit-inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
+  align-items: center;
+}
+.recruit-text p {
+  font-size: 15px;
+  color: #444;
+  line-height: 2;
+  margin-bottom: 20px;
+}
+.recruit-text strong {
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--black);
+  display: block;
+  margin-bottom: 16px;
+  line-height: 1.5;
+}
+.recruit-visual {
+  position: relative;
+  overflow: hidden;
+}
+.recruit-img-box {
+  width: 100%;
+  aspect-ratio: 5/4;
+  background: var(--black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+.recruit-img-bg {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 30% 50%, rgba(200,169,110,0.15) 0%, transparent 60%),
+    var(--black);
+}
+.recruit-img-text {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 80px;
+  color: rgba(255,255,255,0.06);
+  letter-spacing: 0.1em;
+  z-index: 1;
+}
+.recruit-gold-accent {
+  position: absolute;
+  top: -10px; left: -10px;
+  width: 60px; height: 60px;
+  border-top: 2px solid var(--gold);
+  border-left: 2px solid var(--gold);
+}
+.recruit-gold-accent2 {
+  position: absolute;
+  bottom: -10px; right: -10px;
+  width: 60px; height: 60px;
+  border-bottom: 2px solid var(--gold);
+  border-right: 2px solid var(--gold);
+}
+
+/* ── BLOG ── */
+.blog-section { background: #0a0a0a; color: var(--white); }
+.blog-section .sec-title { color: var(--white); }
+.blog-section .sec-desc { color: rgba(255,255,255,0.5); }
+.blog-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  background: rgba(200,169,110,0.15);
+}
+.blog-card {
+  background: #0a0a0a;
+  padding: 36px 32px;
+  cursor: pointer;
+  transition: background 0.3s;
+  position: relative;
+}
+.blog-card::after {
+  content: '→';
+  position: absolute;
+  top: 36px; right: 32px;
+  color: var(--gold);
+  font-size: 16px;
+  opacity: 0;
+  transition: opacity 0.3s, transform 0.3s;
+  transform: translateX(-8px);
+}
+.blog-card:hover::after { opacity: 1; transform: translateX(0); }
+.blog-card:hover { background: #111; }
+.blog-meta {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+.blog-date {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  color: var(--gold);
+}
+.blog-cat {
+  font-size: 10px;
+  padding: 2px 10px;
+  border: 1px solid rgba(200,169,110,0.3);
+  color: rgba(255,255,255,0.5);
+  letter-spacing: 0.05em;
+}
+.blog-title {
+  font-size: 14px;
+  font-weight: 500;
+  color: rgba(255,255,255,0.85);
+  line-height: 1.75;
+}
+
+/* ── フッター ── */
+footer {
+  background: var(--black);
+  border-top: 1px solid rgba(200,169,110,0.2);
+  padding: 80px 60px 40px;
+  color: rgba(255,255,255,0.4);
+}
+.footer-top {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  gap: 80px;
+  margin-bottom: 60px;
+}
+.footer-logo-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--white);
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  margin-bottom: 20px;
+}
+.footer-bars {
+  display: flex;
+  gap: 3px;
+  align-items: flex-end;
+  height: 18px;
+}
+.footer-bars span {
+  display: block;
+  width: 3px;
+  background: var(--gold);
+  border-radius: 1px;
+}
+.footer-bars span:nth-child(1) { height: 10px; }
+.footer-bars span:nth-child(2) { height: 16px; }
+.footer-bars span:nth-child(3) { height: 8px; }
+.footer-bars span:nth-child(4) { height: 18px; }
+.footer-tagline {
+  font-size: 12px;
+  color: rgba(255,255,255,0.35);
+  line-height: 1.8;
+}
+.footer-nav {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+}
+.footer-nav-col h4 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 20px;
+}
+.footer-nav-col ul { list-style: none; display: flex; flex-direction: column; gap: 12px; }
+.footer-nav-col li a {
+  font-size: 12px;
+  color: rgba(255,255,255,0.4);
+  text-decoration: none;
+  transition: color 0.2s;
+  letter-spacing: 0.05em;
+}
+.footer-nav-col li a:hover { color: var(--gold); }
+.footer-bottom {
+  border-top: 1px solid rgba(200,169,110,0.1);
+  padding-top: 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 11px;
+  color: rgba(255,255,255,0.25);
+  letter-spacing: 0.08em;
+}
+.footer-bottom-links { display: flex; gap: 28px; }
+.footer-bottom-links a {
+  color: rgba(255,255,255,0.25);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.footer-bottom-links a:hover { color: var(--gold); }
+
+/* ── アニメーション ── */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.fade-in {
+  animation: fadeInUp 0.8s ease forwards;
+  opacity: 0;
+}
+.fade-in-1 { animation-delay: 0.1s; }
+.fade-in-2 { animation-delay: 0.3s; }
+.fade-in-3 { animation-delay: 0.5s; }
+.fade-in-4 { animation-delay: 0.7s; }
+
+/* ── CONTACT FORM ── */
+.contact-inner {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 80px;
+  align-items: start;
+  text-align: left;
+}
+.contact-left {
+  padding-top: 8px;
+}
+.contact-left .sec-label,
+.contact-left .sec-title {
+  text-align: left;
+}
+.contact-form {
+  text-align: left;
+}
+.contact-form-row {
+  margin-bottom: 32px;
+}
+.contact-form-row-2col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 32px;
+}
+.contact-form label {
+  display: block;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gray);
+  margin-bottom: 10px;
+}
+.contact-form label .required {
+  color: var(--gold);
+  margin-left: 4px;
+  font-size: 10px;
+}
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid rgba(200,169,110,0.35);
+  color: var(--white);
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 14px;
+  padding: 10px 0;
+  outline: none;
+  transition: border-color 0.3s;
+  caret-color: var(--gold);
+}
+.contact-form input:focus,
+.contact-form textarea:focus {
+  border-bottom-color: var(--gold);
+}
+.contact-form input::placeholder,
+.contact-form textarea::placeholder {
+  color: rgba(255,255,255,0.18);
+  font-size: 13px;
+}
+.contact-form textarea {
+  resize: none;
+  min-height: 130px;
+  line-height: 1.8;
+}
+.contact-form-submit {
+  margin-top: 44px;
+}
+.contact-form-note {
+  margin-top: 16px;
+  font-size: 11px;
+  color: rgba(255,255,255,0.3);
+  letter-spacing: 0.05em;
+}
+/* 白背景バリアント */
+.contact-form--light input,
+.contact-form--light textarea {
+  color: var(--black);
+  border-bottom-color: rgba(0,0,0,0.2);
+  caret-color: var(--gold);
+}
+.contact-form--light input:focus,
+.contact-form--light textarea:focus {
+  border-bottom-color: var(--gold);
+}
+.contact-form--light input::placeholder,
+.contact-form--light textarea::placeholder {
+  color: rgba(0,0,0,0.25);
+}
+.contact-form--light .contact-form-note {
+  color: rgba(0,0,0,0.35);
+}
+
+/* ── MISSION ── */
+.mission-section {
+  background: var(--black);
+  color: var(--white);
+  padding: 120px 80px;
+}
+.mission-statement {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: clamp(36px, 5vw, 72px);
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  line-height: 1.2;
+  margin: 32px 0 48px;
+  color: var(--white);
+}
+.mission-statement em {
+  font-style: normal;
+  color: var(--gold);
+}
+.mission-body {
+  max-width: 640px;
+  font-size: 15px;
+  line-height: 2;
+  color: rgba(255,255,255,0.6);
+  margin-bottom: 80px;
+}
+.mission-values {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0;
+  border-top: 1px solid rgba(255,255,255,0.12);
+}
+.mission-value-item {
+  padding: 48px 40px 48px 0;
+  border-right: 1px solid rgba(255,255,255,0.08);
+}
+.mission-value-item:last-child {
+  border-right: none;
+  padding-right: 0;
+  padding-left: 0;
+}
+.mission-value-item:nth-child(2) {
+  padding-left: 40px;
+}
+.mission-value-num {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  color: var(--gold);
+  margin-bottom: 16px;
+}
+.mission-value-title {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--white);
+  margin-bottom: 12px;
+}
+.mission-value-desc {
+  font-size: 13px;
+  line-height: 1.9;
+  color: rgba(255,255,255,0.55);
+}
+
+/* ── レスポンシブ ── */
+@media (max-width: 1024px) {
+  .service-grid { grid-template-columns: repeat(3,1fr); }
+  .about-section { grid-template-columns: 1fr; padding: 80px 40px; }
+  .recruit-inner { grid-template-columns: 1fr; }
+  .blog-grid { grid-template-columns: 1fr; }
+  .footer-nav { grid-template-columns: repeat(2,1fr); }
+  .footer-top { grid-template-columns: 1fr; }
+  .client-works-grid { grid-template-columns: repeat(2,1fr); }
+  nav { padding: 0 24px; }
+  .nav-links { display: none; }
+  section { padding: 80px 24px; }
+  .hero-sub { left: calc(55% + 24px); }
+  .mission-section { padding: 80px 40px; }
+  .mission-values { grid-template-columns: 1fr; }
+  .mission-value-item { border-right: none; border-bottom: 1px solid rgba(255,255,255,0.08); padding: 40px 0; }
+  .mission-value-item:last-child { border-bottom: none; }
+  .mission-value-item:nth-child(2) { padding-left: 0; }
+  .contact-inner { grid-template-columns: 1fr; gap: 48px; }
+  .contact-form-row-2col { grid-template-columns: 1fr; gap: 0; }
+}
+
+@media (max-width: 767px) {
+  /* カーソル非表示 */
+  .cursor, .cursor-ring { display: none; }
+
+  /* ── ナビ ── */
+  nav { padding: 0 20px; height: 64px; }
+  .nav-mobile { display: flex; }
+  .nav-hamburger {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    width: 40px; height: 40px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 4px;
+    position: relative;
+    z-index: 260;
+  }
+  .nav-hamburger span {
+    display: block;
+    width: 22px; height: 1.5px;
+    background: var(--white);
+    border-radius: 1px;
+    transition: transform 0.3s, opacity 0.3s;
+    transform-origin: center;
+  }
+  .nav-hamburger.open span:nth-child(1) { transform: rotate(45deg) translateY(6.5px); }
+  .nav-hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+  .nav-hamburger.open span:nth-child(3) { transform: rotate(-45deg) translateY(-6.5px); }
+  .nav-mobile { padding-top: 64px; }
+
+  /* ── ヒーロー ── */
+  .hero { height: 75vh; min-height: 480px; }
+  /* Sample: 黒エリアに収まるよう右寄せ・縮小 */
+  .hero-gig { left: 66%; }
+  .gig-letter { font-size: 72px; }
+  /* スローガン: 白エリア内に収まるようサイズ・幅制限 */
+  .hero-text { left: 20px; bottom: 80px; max-width: calc(52% - 20px); }
+  .hero-slogan { font-size: 17px; line-height: 1.5; letter-spacing: 0.04em; }
+  .hero-sub { display: none; }
+  .hero-scroll { display: none; }
+
+  /* ── セクション共通 ── */
+  section { padding: 60px 20px; }
+  .sec-title { font-size: clamp(32px, 10vw, 52px); }
+
+  /* ── SERVICE ── */
+  .service-grid { grid-template-columns: 1fr; margin-top: 32px; }
+
+  /* ── WORKS ── */
+  .client-works-grid { grid-template-columns: 1fr; }
+
+  /* ── MISSION ── */
+  .mission-section { padding: 60px 20px; }
+  .mission-statement { font-size: clamp(28px, 8vw, 44px); margin-bottom: 32px; }
+  .mission-body { margin-bottom: 48px; }
+
+  /* ── ABOUT ── */
+  .about-section { padding: 60px 20px; gap: 40px; }
+  .about-img-box { aspect-ratio: 4/3; }
+
+  /* ── CONTACT ── */
+  #contact { padding: 60px 20px; }
+
+  /* ── フッター ── */
+  footer { padding: 60px 20px 120px; }
+  .footer-top { gap: 32px; }
+  .footer-nav { grid-template-columns: repeat(2, 1fr); gap: 28px; }
+  .footer-bottom { flex-direction: column; gap: 12px; text-align: center; }
+  .footer-bottom-links { gap: 16px; }
+
+}
+</style>
+</head>
+<body>
+
+<!-- カスタムカーソル -->
+<div class="cursor" id="cursor"></div>
+<div class="cursor-ring" id="cursorRing"></div>
+
+<!-- ナビゲーション -->
+<nav>
+  <a class="nav-logo" href="#">
+    <div class="nav-logo-bars">
+      <span></span><span></span><span></span><span></span>
+    </div>
+    Sample INC.
+  </a>
+  <ul class="nav-links">
+    <li><a href="#mission">MISSION</a></li>
+    <li><a href="#service" class="nav-dropdown">SERVICE</a></li>
+    <li><a href="#works">WORKS</a></li>
+    <li><a href="#about">ABOUT</a></li>
+    <li><a href="#contact">CONTACT</a></li>
+  </ul>
+  <button class="nav-hamburger" id="navHamburger" aria-label="メニューを開く">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<div class="nav-mobile" id="navMobile">
+  <a href="#mission" class="nav-mobile-link">MISSION</a>
+  <a href="#service" class="nav-mobile-link">SERVICE</a>
+  <a href="#works" class="nav-mobile-link">WORKS</a>
+  <a href="#about" class="nav-mobile-link">ABOUT</a>
+  <a href="#contact" class="nav-mobile-link">CONTACT</a>
+</div>
+
+<!-- ── ヒーロー ── -->
+<section class="hero" style="padding:0;">
+  <div class="hero-left-bg"></div>
+  <div class="hero-right-bg"></div>
+  <div class="hero-divider"></div>
+
+  <!-- Sample 大文字フォトマスク -->
+  <div class="hero-gig fade-in fade-in-2">
+    <span class="gig-letter">Sample</span>
+  </div>
+
+  <!-- デジタルと現場をつなぎ、事業価値を高める -->
+  <div class="hero-text fade-in fade-in-3">
+    <div class="hero-slogan">
+      デジタルと現場を<br>つなぎ、<br>事業価値を高める
+    </div>
+  </div>
+
+  <!-- サブコピー -->
+  <div class="hero-sub fade-in fade-in-4">
+    <p class="hero-sub-en">
+      Web Planning & Production,<br>
+      Consulting, Photography & Video,<br>
+      SaaS Tool Development.
+    </p>
+    <p class="hero-sub-jp">ウェブ企画・制作・運用、コンサル、撮影・映像、SaaSツール開発</p>
+  </div>
+
+  <!-- スクロール -->
+  <div class="hero-scroll">SCROLL</div>
+</section>
+
+<!-- ── MISSION ── -->
+<section class="mission-section" id="mission">
+  <p class="sec-label">MISSION</p>
+  <h2 class="mission-statement">
+    デジタルと現場を<em>つなぎ</em>、<br>
+    事業価値を<em>高める</em>
+  </h2>
+  <p class="mission-body">
+    私たちSampleは、ウェブ制作・コンサルティング・映像制作・SaaSツール開発を通じて、
+    企業の現場とデジタルの橋渡しを担います。
+    テクノロジーを手段として捉え、クライアントのビジネス課題を本質から解決することを使命としています。
+  </p>
+  <div class="mission-values">
+    <div class="mission-value-item">
+      <p class="mission-value-num">01 — CONNECT</p>
+      <h3 class="mission-value-title">現場とデジタルをつなぐ</h3>
+      <p class="mission-value-desc">現場の課題を深く理解し、最適なデジタルソリューションで解決します。技術と人をつなぐことで、新たな価値を生み出します。</p>
+    </div>
+    <div class="mission-value-item">
+      <p class="mission-value-num">02 — CREATE</p>
+      <h3 class="mission-value-title">価値あるコンテンツを創る</h3>
+      <p class="mission-value-desc">ウェブ・映像・写真など多様なメディアを横断し、伝えるべきメッセージを最大化するコンテンツ制作を行います。</p>
+    </div>
+    <div class="mission-value-item">
+      <p class="mission-value-num">03 — GROW</p>
+      <h3 class="mission-value-title">ともに事業を成長させる</h3>
+      <p class="mission-value-desc">制作にとどまらず、運用・改善・戦略立案まで伴走します。クライアントの事業成長を長期的にサポートします。</p>
+    </div>
+  </div>
+</section>
+
+<!-- ── SERVICE ── -->
+<section class="service-section" id="service">
+  <p class="sec-label">SERVICE</p>
+  <h2 class="sec-title">SERVICE</h2>
+  <p class="sec-desc">
+    ウェブコンテンツの企画、制作および運用管理、通信ネットワークを利用した通信販売業、経営およびマーケティングに関するコンサルティング業務、写真撮影および映像制作に関する業務、製造・建設・物流などの現場における安全点検を効率化するSaaSツールの企画、開発および運営を行っています。
+  </p>
+
+  <div class="service-grid">
+    <div class="service-card">
+      <div class="service-card-num">01</div>
+      <p class="service-card-tag">Web Planning</p>
+      <h3>ウェブコンテンツの<br>企画・制作・運用</h3>
+      <p>ウェブサイトの企画から制作、運用管理まで一貫してサポートします。ユーザビリティを考慮したデザインとSEO対策で効果的なコンテンツを提供します。</p>
+    </div>
+    <div class="service-card">
+      <div class="service-card-num">02</div>
+      <p class="service-card-tag">E-commerce</p>
+      <h3>通信販売業<br>ソリューション</h3>
+      <p>通信ネットワークを利用したオンライン販売システムの構築と運営。ECサイトの設計、決済システムの統合、在庫管理など総合的なソリューションを提供します。</p>
+    </div>
+    <div class="service-card">
+      <div class="service-card-num">03</div>
+      <p class="service-card-tag">Consulting</p>
+      <h3>経営・マーケティング<br>コンサルティング</h3>
+      <p>事業戦略の立案から実行支援まで。市場分析、競合調査、マーケティング戦略の策定、KPI設定など、企業の成長をサポートするコンサルティング業務を行います。</p>
+    </div>
+    <div class="service-card">
+      <div class="service-card-num">04</div>
+      <p class="service-card-tag">Photography & Video</p>
+      <h3>写真撮影・<br>映像制作</h3>
+      <p>プロフェッショナルな写真撮影と映像制作サービス。商品撮影、企業PR動画、イベント記録など、多様なニーズに対応した高品質なコンテンツを制作します。</p>
+    </div>
+    <div class="service-card">
+      <div class="service-card-num">05</div>
+      <p class="service-card-tag">SaaS Development</p>
+      <h3>SaaS安全点検<br>ツール開発</h3>
+      <p>製造・建設・物流現場の安全点検を効率化するSaaSツールの企画・開発・運営。リアルタイム監視、データ分析、報告書自動生成などの機能を備えています。</p>
+    </div>
+  </div>
+</section>
+
+<!-- ── CLIENT / WORKS ── -->
+<section id="works">
+  <div class="client-header">
+    <div>
+      <p class="sec-label">CLIENT</p>
+      <h2 class="sec-title">WORKS</h2>
+    </div>
+  </div>
+  <p class="sec-desc">
+    クライアントのビジネス課題に沿って、ウェブ制作・運用、通信販売ソリューション、経営・マーケティングコンサル、写真・映像制作、SaaS安全点検ツールなど、最適なソリューションをご提供しています。
+  </p>
+  <div class="client-works-grid">
+    <div class="work-card">
+      <img class="work-card-img" src="https://images.unsplash.com/photo-1547658719-da2b51169166?auto=format&fit=crop&w=800&q=80" alt="コーポレートサイト制作">
+      <div class="work-card-overlay"></div>
+      <div class="work-card-info">
+        <p class="work-card-title">コーポレートサイト制作</p>
+        <p class="work-card-type">Web Planning</p>
+      </div>
+    </div>
+    <div class="work-card">
+      <img class="work-card-img" src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=800&q=80" alt="ECサイト構築">
+      <div class="work-card-overlay"></div>
+      <div class="work-card-info">
+        <p class="work-card-title">ECサイト構築</p>
+        <p class="work-card-type">E-commerce</p>
+      </div>
+    </div>
+    <div class="work-card">
+      <img class="work-card-img" src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=800&q=80" alt="事業戦略コンサルティング">
+      <div class="work-card-overlay"></div>
+      <div class="work-card-info">
+        <p class="work-card-title">事業戦略コンサルティング</p>
+        <p class="work-card-type">Consulting</p>
+      </div>
+    </div>
+    <div class="work-card">
+      <img class="work-card-img" src="https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=800&q=80" alt="プロモーション映像制作">
+      <div class="work-card-overlay"></div>
+      <div class="work-card-info">
+        <p class="work-card-title">プロモーション映像制作</p>
+        <p class="work-card-type">Photography & Video</p>
+      </div>
+    </div>
+    <div class="work-card">
+      <img class="work-card-img" src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80" alt="安全点検SaaSツール開発">
+      <div class="work-card-overlay"></div>
+      <div class="work-card-info">
+        <p class="work-card-title">安全点検SaaSツール開発</p>
+        <p class="work-card-type">SaaS Development</p>
+      </div>
+    </div>
+    <div class="work-card">
+      <img class="work-card-img" src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80" alt="ウェブサイト運用管理">
+      <div class="work-card-overlay"></div>
+      <div class="work-card-info">
+        <p class="work-card-title">ウェブサイト運用管理</p>
+        <p class="work-card-type">Web Planning</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── COMPANY ── -->
+<section class="about-section" id="about">
+  <div>
+    <p class="sec-label">COMPANY</p>
+    <h2 class="sec-title">COMPANY</h2>
+    <div class="about-text">
+      <p><strong>会社名：</strong>株式会社Sample</p>
+      <p><strong>資本金：</strong>100万円</p>
+      <p><strong>代表取締役：</strong>山田 花子</p>
+      <p><strong>設立：</strong>2026年1月</p>
+      <p><strong>所在地：</strong>〒100-0001 東京都千代田区千代田1-1 サンプルビル101</p>
+      <p><strong>TEL：</strong>080-xxxx-xxxx</p>
+      <p><strong>メール：</strong>info@sample-h.com</p>
+    </div>
+    <p class="about-tagline">デジタルと現場をつなぎ、<br>事業価値を高める</p>
+    <div class="about-links">
+      <a class="about-link-item" href="#service">
+        <div>
+          <span>事業内容</span>
+          <span class="about-link-en">SERVICES</span>
+        </div>
+        <span class="about-link-arrow">→</span>
+      </a>
+      <a class="about-link-item" href="#contact">
+        <div>
+          <span>お問い合わせ</span>
+          <span class="about-link-en">CONTACT</span>
+        </div>
+        <span class="about-link-arrow">→</span>
+      </a>
+    </div>
+  </div>
+  <div class="about-visual">
+    <div class="about-img-box">
+      <iframe
+        src="https://maps.google.com/maps?q=東京都千代田区千代田1-1&output=embed&hl=ja&z=16"
+        width="100%" height="100%"
+        style="border:0; display:block;"
+        allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
+    </div>
+    <div class="about-gold-line"></div>
+  </div>
+</section>
+
+<!-- ── CONTACT ── -->
+<section id="contact" style="background: var(--black); color: var(--white); padding: 100px 60px;">
+  <div class="contact-inner">
+    <!-- 左：テキスト -->
+    <div class="contact-left">
+      <p class="sec-label">CONTACT</p>
+      <h2 class="sec-title">CONTACT</h2>
+      <p class="sec-desc" style="color: rgba(255,255,255,0.6);">
+        ウェブ制作、コンサルティング、映像制作など、どんなお問い合わせでもお気軽にご連絡ください。まずは無料相談から、お客様の課題解決をお手伝いいたします。
+      </p>
+      <div style="margin-top: 40px; display: flex; flex-direction: column; gap: 12px;">
+        <p style="font-size: 12px; color: var(--gray); letter-spacing: 0.1em;">
+          <span style="color: var(--gold); font-family: 'Barlow Condensed', sans-serif; font-size: 11px; letter-spacing: 0.15em; display: block; margin-bottom: 4px;">MAIL</span>
+          info@sample-h.com
+        </p>
+        <p style="font-size: 12px; color: var(--gray); letter-spacing: 0.1em;">
+          <span style="color: var(--gold); font-family: 'Barlow Condensed', sans-serif; font-size: 11px; letter-spacing: 0.15em; display: block; margin-bottom: 4px;">TEL</span>
+          080-xxxx-xxxx
+        </p>
+      </div>
+    </div>
+
+    <!-- 右：フォーム -->
+    <form class="contact-form" action="mailto:info@sample-h.com" method="POST" enctype="text/plain">
+      <div class="contact-form-row-2col">
+        <div class="contact-form-row">
+          <label>お名前<span class="required">*</span></label>
+          <input type="text" name="name" placeholder="山田 太郎" required>
+        </div>
+        <div class="contact-form-row">
+          <label>会社名</label>
+          <input type="text" name="company" placeholder="株式会社〇〇">
+        </div>
+      </div>
+      <div class="contact-form-row-2col">
+        <div class="contact-form-row">
+          <label>メールアドレス<span class="required">*</span></label>
+          <input type="email" name="email" placeholder="info@example.com" required>
+        </div>
+        <div class="contact-form-row">
+          <label>電話番号</label>
+          <input type="tel" name="phone" placeholder="000-0000-0000">
+        </div>
+      </div>
+      <div class="contact-form-row">
+        <label>お問い合わせ内容<span class="required">*</span></label>
+        <textarea name="message" placeholder="ご相談内容をご記入ください" required></textarea>
+      </div>
+      <div class="contact-form-submit">
+        <button type="submit" class="btn-more" style="background: var(--gold); color: var(--black); border-color: var(--gold);">送信する</button>
+      </div>
+      <p class="contact-form-note">* は必須項目です。送信後、担当者より2営業日以内にご連絡いたします。</p>
+    </form>
+  </div>
+</section>
+
+<!-- ── フッター ── -->
+<footer>
+  <div class="footer-top">
+    <div>
+      <div class="footer-logo-wrap">
+        <div class="footer-bars">
+          <span></span><span></span><span></span><span></span>
+        </div>
+        Sample INC.
+      </div>
+      <p class="footer-tagline">
+        デジタルと現場をつなぎ、<br>事業価値を高める<br>株式会社Sample
+      </p>
+    </div>
+    <div class="footer-nav">
+      <div class="footer-nav-col">
+        <h4>Service</h4>
+        <ul>
+          <li><a href="#service">ウェブコンテンツ企画・制作</a></li>
+          <li><a href="#service">通信販売ソリューション</a></li>
+          <li><a href="#service">コンサルティング</a></li>
+          <li><a href="#service">写真・映像制作</a></li>
+          <li><a href="#service">SaaSツール開発</a></li>
+        </ul>
+      </div>
+      <div class="footer-nav-col">
+        <h4>Works</h4>
+        <ul>
+          <li><a href="#works">制作実績</a></li>
+          <li><a href="#works">ケーススタディ</a></li>
+        </ul>
+      </div>
+      <div class="footer-nav-col">
+        <h4>About</h4>
+        <ul>
+          <li><a href="#about">会社概要</a></li>
+          <li><a href="#service">事業内容</a></li>
+          <li><a href="#mission">ミッション</a></li>
+        </ul>
+      </div>
+      <div class="footer-nav-col">
+        <h4>Other</h4>
+        <ul>
+          <li><a href="#contact">お問い合わせ</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026 Sample Inc. All rights reserved.</span>
+  </div>
+</footer>
+
+<!-- 無料相談バー（固定） -->
+<div class="consult-bar">
+  <div class="consult-logo-small">
+    <div class="bars-mini">
+      <span></span><span></span><span></span><span></span>
+    </div>
+    <span class="gig-label">Sample INC.</span>
+  </div>
+  <button class="consult-btn" onclick="document.getElementById('contact').scrollIntoView({behavior:'smooth'})">無料相談はこちら</button>
+  <div class="consult-up" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</div>
+</div>
+
+<script>
+// カスタムカーソル
+const cursor = document.getElementById('cursor');
+const ring = document.getElementById('cursorRing');
+let mouseX = 0, mouseY = 0;
+let ringX = 0, ringY = 0;
+
+document.addEventListener('mousemove', (e) => {
+  mouseX = e.clientX;
+  mouseY = e.clientY;
+  cursor.style.left = mouseX + 'px';
+  cursor.style.top = mouseY + 'px';
+});
+
+function animateRing() {
+  ringX += (mouseX - ringX) * 0.12;
+  ringY += (mouseY - ringY) * 0.12;
+  ring.style.left = ringX + 'px';
+  ring.style.top = ringY + 'px';
+  requestAnimationFrame(animateRing);
+}
+animateRing();
+
+// ホバー時カーソル拡大
+document.querySelectorAll('a, button, .work-card, .service-card, .blog-card').forEach(el => {
+  el.addEventListener('mouseenter', () => {
+    cursor.style.width = '20px';
+    cursor.style.height = '20px';
+    ring.style.width = '56px';
+    ring.style.height = '56px';
+  });
+  el.addEventListener('mouseleave', () => {
+    cursor.style.width = '10px';
+    cursor.style.height = '10px';
+    ring.style.width = '36px';
+    ring.style.height = '36px';
+  });
+});
+
+// ハンバーガーメニュー
+const hamburger = document.getElementById('navHamburger');
+const navMobile = document.getElementById('navMobile');
+hamburger.addEventListener('click', () => {
+  const isOpen = hamburger.classList.toggle('open');
+  navMobile.classList.toggle('open', isOpen);
+  document.body.style.overflow = isOpen ? 'hidden' : '';
+});
+document.querySelectorAll('.nav-mobile-link').forEach(link => {
+  link.addEventListener('click', () => {
+    hamburger.classList.remove('open');
+    navMobile.classList.remove('open');
+    document.body.style.overflow = '';
+  });
+});
+
+// スクロールアニメーション（Intersection Observer）
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.style.opacity = '1';
+      entry.target.style.transform = 'translateY(0)';
+    }
+  });
+}, { threshold: 0.1 });
+
+document.querySelectorAll('.service-card, .blog-card, .work-card').forEach(el => {
+  el.style.opacity = '0';
+  el.style.transform = 'translateY(24px)';
+  el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+  observer.observe(el);
+});
+</script>
+</body>
+</html>

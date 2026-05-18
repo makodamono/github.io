@@ -1,0 +1,863 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>damono｜AI活用型Webディレクター / 業務改善パートナー</title>
+<meta name="description" content="damonoのポートフォリオ。AIを活用して、Web制作・LP改善・業務効率化を支援するWebディレクター/業務改善パートナー。">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --ink: #17191c;
+  --text: #30343a;
+  --muted: #68707b;
+  --line: #dce1e7;
+  --paper: #f6f7f5;
+  --surface: #fff;
+  --accent: #16756f;
+  --accent-2: #df6b3f;
+  --accent-soft: #e5f2ef;
+  --dark: #20252b;
+  --shadow: 0 24px 70px rgba(20, 24, 28, .12);
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font-family: Inter, "Noto Sans JP", sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+  letter-spacing: 0;
+}
+body::selection { background: var(--accent); color: #fff; }
+a { color: inherit; text-decoration: none; }
+img { max-width: 100%; display: block; }
+.wrap { width: min(1120px, calc(100% - 40px)); margin: 0 auto; }
+.progress {
+  position: fixed;
+  inset: 0 auto auto 0;
+  z-index: 40;
+  width: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--accent), var(--accent-2));
+}
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(246, 247, 245, .92);
+  border-bottom: 1px solid var(--line);
+  backdrop-filter: blur(14px);
+}
+.nav-inner {
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  font-weight: 800;
+  white-space: nowrap;
+}
+.brand-mark {
+  width: 28px;
+  height: 28px;
+  display: block;
+  overflow: hidden;
+  border: 1px solid rgba(23, 25, 28, .08);
+  border-radius: 7px;
+  background: #f4f1de;
+  box-shadow: 0 8px 20px rgba(20, 24, 28, .08);
+}
+.brand-mark img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.links {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+.links a:hover { color: var(--accent); }
+.cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: 0 18px;
+  border-radius: 6px;
+  background: var(--ink);
+  color: #fff;
+  font-size: 13px;
+  font-weight: 800;
+}
+.cta:hover { background: var(--accent); }
+.hero {
+  min-height: calc(100vh - 64px);
+  display: grid;
+  align-items: center;
+  padding: 64px 0 80px;
+  overflow: hidden;
+}
+.hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, .92fr) minmax(420px, 1fr);
+  gap: 48px;
+  align-items: center;
+}
+.label {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 18px;
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.label::before {
+  content: "";
+  width: 36px;
+  height: 2px;
+  background: var(--accent-2);
+}
+h1 {
+  margin: 0;
+  font-size: clamp(46px, 7.5vw, 88px);
+  line-height: .98;
+  letter-spacing: 0;
+}
+.hero-copy {
+  margin: 24px 0 0;
+  max-width: 590px;
+  color: var(--text);
+  font-size: 17px;
+  line-height: 1.95;
+  font-weight: 600;
+}
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 30px;
+}
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 50px;
+  padding: 0 22px;
+  border-radius: 7px;
+  border: 1px solid var(--ink);
+  font-size: 14px;
+  font-weight: 800;
+}
+.btn.primary {
+  background: var(--ink);
+  color: #fff;
+}
+.btn:hover {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: #fff;
+}
+.hero-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 26px;
+}
+.meta-pill {
+  padding: 8px 11px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+.hero-media {
+  position: relative;
+  min-height: 620px;
+  border-radius: 8px;
+}
+.hero-shot {
+  position: absolute;
+  inset: 34px 0 0 0;
+  height: min(620px, 74vh);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  transform: rotate(1.2deg);
+}
+.hero-shot img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.floating-chip,
+.proof {
+  position: absolute;
+  z-index: 2;
+  border: 1px solid rgba(255, 255, 255, .54);
+  background: rgba(255, 255, 255, .84);
+  backdrop-filter: blur(16px);
+  box-shadow: 0 18px 50px rgba(20, 24, 28, .14);
+}
+.floating-chip {
+  top: 0;
+  left: -22px;
+  padding: 14px 16px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 800;
+}
+.floating-chip span { display: block; color: var(--accent); font-size: 11px; }
+.proof {
+  right: -18px;
+  bottom: 42px;
+  width: 250px;
+  padding: 18px;
+  border-radius: 8px;
+}
+.proof b { display: block; margin-bottom: 8px; }
+.proof p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.7;
+}
+.section { padding: 92px 0; }
+.section:nth-of-type(even) { background: #fff; }
+.section-head {
+  display: grid;
+  grid-template-columns: 320px minmax(0, 1fr);
+  gap: 34px;
+  align-items: stretch;
+  margin-bottom: 34px;
+}
+.section-marker {
+  min-height: 156px;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  border-left: 8px solid var(--accent);
+  background: var(--ink);
+  color: #fff;
+  border-radius: 8px;
+}
+.section-name {
+  font-size: clamp(30px, 5vw, 54px);
+  line-height: .95;
+  font-weight: 800;
+}
+.section-ja {
+  margin-top: 10px;
+  color: rgba(255, 255, 255, .72);
+  font-size: 13px;
+  font-weight: 800;
+}
+.section-summary {
+  min-height: 156px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 24px 26px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+}
+.section-kicker {
+  margin-bottom: 8px;
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+.section-summary h2 {
+  margin: 0;
+  font-size: clamp(24px, 3.2vw, 42px);
+  line-height: 1.22;
+  letter-spacing: 0;
+}
+.section-copy {
+  margin: 12px 0 0;
+  color: var(--muted);
+  font-size: 15px;
+  line-height: 1.9;
+  font-weight: 600;
+}
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+.service-card {
+  min-height: 230px;
+  padding: 24px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+}
+.service-card b {
+  display: block;
+  margin: 18px 0 10px;
+  font-size: 19px;
+}
+.service-card p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.8;
+  font-size: 14px;
+}
+.service-icon {
+  width: 42px;
+  height: 42px;
+  display: grid;
+  place-items: center;
+  border-radius: 8px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-weight: 800;
+}
+.workflow {
+  display: grid;
+  grid-template-columns: minmax(0, .9fr) minmax(0, 1.1fr);
+  gap: 24px;
+  align-items: center;
+  margin-top: 24px;
+}
+.workflow img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+.workflow-list {
+  display: grid;
+  gap: 12px;
+}
+.workflow-item {
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+}
+.workflow-item b { display: block; margin-bottom: 6px; }
+.workflow-item p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.75;
+  font-size: 14px;
+}
+.works-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+.work-card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+.work-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow);
+}
+.work-card .preview {
+  aspect-ratio: 1.91 / 1;
+  display: grid;
+  place-items: center;
+  border-bottom: 1px solid var(--line);
+  background: #f1f4f2;
+}
+.work-card .preview img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.work-body { padding: 20px; }
+.work-body small {
+  display: inline-block;
+  margin-bottom: 8px;
+  color: var(--accent);
+  font-weight: 800;
+}
+.work-body h3 {
+  margin: 0 0 8px;
+  font-size: 20px;
+}
+.work-body p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.8;
+}
+.work-wide {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(320px, .8fr);
+}
+.work-wide .preview {
+  min-height: 300px;
+  border-right: 1px solid var(--line);
+  border-bottom: 0;
+}
+.profile-strengths {
+  display: grid;
+  grid-template-columns: minmax(280px, .75fr) minmax(0, 1.25fr);
+  gap: 18px;
+}
+.strength-lead {
+  padding: 26px;
+  border-radius: 8px;
+  background: var(--dark);
+  color: #fff;
+}
+.strength-lead small {
+  color: #83d3ca;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+.strength-lead h3 {
+  margin: 14px 0 12px;
+  font-size: 28px;
+  line-height: 1.25;
+}
+.strength-lead p {
+  color: rgba(255, 255, 255, .72);
+  line-height: 1.9;
+}
+.strength-detail {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 18px;
+  min-height: 44px;
+  padding: 0 16px;
+  border-radius: 6px;
+  background: #fff;
+  color: var(--ink);
+  font-size: 13px;
+  font-weight: 800;
+}
+.strength-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+.strength-card {
+  min-height: 190px;
+  padding: 20px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+}
+.strength-card.featured { background: var(--accent-soft); border-color: #c8e2dc; }
+.strength-icon {
+  width: 38px;
+  height: 38px;
+  display: grid;
+  place-items: center;
+  margin-bottom: 14px;
+  border-radius: 8px;
+  background: var(--ink);
+  color: #fff;
+  font-size: 12px;
+  font-weight: 800;
+}
+.strength-card b { display: block; margin-bottom: 8px; font-size: 17px; }
+.strength-card p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.75;
+  font-size: 14px;
+}
+.plans {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+.plan-card {
+  padding: 24px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+}
+.plan-card strong {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+.plan-card p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.8;
+  font-size: 14px;
+}
+.contact-panel {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 330px;
+  gap: 22px;
+  padding: 28px;
+  border-radius: 8px;
+  background: var(--dark);
+  color: #fff;
+}
+.contact-panel h2 {
+  margin: 0 0 12px;
+  font-size: clamp(28px, 4vw, 46px);
+}
+.contact-panel p {
+  margin: 0;
+  color: rgba(255, 255, 255, .72);
+  line-height: 1.9;
+}
+.contact-card {
+  padding: 20px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, .08);
+  border: 1px solid rgba(255, 255, 255, .12);
+}
+.contact-card a {
+  display: inline-flex;
+  margin-top: 14px;
+  color: #9ae1d9;
+  font-weight: 800;
+  overflow-wrap: anywhere;
+}
+.footer {
+  padding: 24px 0 40px;
+  color: var(--muted);
+  font-size: 12px;
+}
+.reveal {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity .65s ease, transform .65s ease;
+}
+.reveal.in {
+  opacity: 1;
+  transform: translateY(0);
+}
+.reveal-delay-1 { transition-delay: .08s; }
+.reveal-delay-2 { transition-delay: .16s; }
+@media (max-width: 920px) {
+  .hero-grid,
+  .section-head,
+  .workflow,
+  .profile-strengths,
+  .contact-panel {
+    grid-template-columns: 1fr;
+  }
+  .hero-media { min-height: 520px; }
+  .service-grid,
+  .plans { grid-template-columns: repeat(2, 1fr); }
+  .work-wide {
+    display: block;
+    grid-column: auto;
+  }
+  .work-wide .preview {
+    aspect-ratio: 1.91 / 1;
+    min-height: 0;
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+}
+@media (max-width: 640px) {
+  .wrap { width: min(100% - 28px, 1120px); }
+  .nav-inner { height: 58px; }
+  .brand span:last-child { display: none; }
+  .links { display: none; }
+  .cta { min-height: 38px; padding: 0 13px; }
+  .hero { min-height: auto; padding: 44px 0 52px; }
+  h1 { font-size: clamp(38px, 13vw, 54px); }
+  .hero-media { min-height: 440px; }
+  .hero-shot { transform: none; }
+  .floating-chip { left: 12px; top: 14px; }
+  .proof {
+    right: 12px;
+    bottom: 12px;
+    width: calc(100% - 24px);
+  }
+  .section { padding: 62px 0; }
+  .section-marker,
+  .section-summary { min-height: auto; }
+  .service-grid,
+  .works-grid,
+  .strength-grid,
+  .plans { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+<div class="progress" aria-hidden="true"></div>
+
+<nav class="nav">
+  <div class="wrap nav-inner">
+    <a class="brand" href="#top"><span class="brand-mark"><img src="assets/damono-icon.png" alt=""></span><span>damono</span></a>
+    <div class="links">
+      <a href="#service">Service</a>
+      <a href="#works">Works</a>
+      <a href="#profile">Profile</a>
+      <a href="#plans">Menu</a>
+    </div>
+    <a class="cta" href="#contact">相談する</a>
+  </div>
+</nav>
+
+<main id="top">
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div class="reveal">
+        <p class="label">AI-enabled Web Direction</p>
+        <h1>制作だけで終わらせず、売上・集客・業務まで整える。</h1>
+        <p class="hero-copy">
+          damonoは、AIを活用してWeb制作、LP改善、業務効率化を支援するポートフォリオです。
+          広く浅い技術理解と運用目線を組み合わせ、現場で使える形まで整理します。
+        </p>
+        <div class="hero-actions">
+          <a class="btn primary" href="#works">実績を見る</a>
+          <a class="btn" href="#service">できること</a>
+        </div>
+        <div class="hero-meta">
+          <span class="meta-pill">LP/サイト改善</span>
+          <span class="meta-pill">AI活用</span>
+          <span class="meta-pill">制作ディレクション</span>
+          <span class="meta-pill">業務整理</span>
+        </div>
+      </div>
+      <div class="hero-media reveal reveal-delay-1">
+        <div class="floating-chip"><span>Portfolio</span>damono / Web Direction</div>
+        <div class="hero-shot">
+          <img src="assets/ai-hero.png" alt="AIを活用したWeb制作と業務整理のイメージ">
+        </div>
+        <div class="proof">
+          <b>AIで速く、運用目線で丁寧に。</b>
+          <p>調査、構成、文章化、作業分解、改善提案をAIで補助しながら、公開後の使いやすさまで見ます。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="service">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <div class="section-marker">
+          <div>
+            <div class="section-name">Service</div>
+            <div class="section-ja">できること</div>
+          </div>
+        </div>
+        <div class="section-summary">
+          <div class="section-kicker">What I Do</div>
+          <h2>Web制作と業務改善の間にある、曖昧な仕事を前に進める。</h2>
+          <p class="section-copy">AI、Web基礎、制作進行、運用理解を組み合わせて、作る前の整理から公開前チェックまで対応します。</p>
+        </div>
+      </div>
+
+      <div class="service-grid">
+        <article class="service-card reveal">
+          <div class="service-icon">LP</div>
+          <b>LP/サイト改善</b>
+          <p>導線、構成、コピー、見せ方を整理し、問い合わせや行動につながるページへ改善します。</p>
+        </article>
+        <article class="service-card reveal reveal-delay-1">
+          <div class="service-icon">AI</div>
+          <b>AI活用・文章整理</b>
+          <p>リサーチ、構成案、文章化、作業分解をAIで高速化し、実務で使えるアウトプットに落とします。</p>
+        </article>
+        <article class="service-card reveal reveal-delay-2">
+          <div class="service-icon">PM</div>
+          <b>制作ディレクション</b>
+          <p>依頼内容の整理、素材確認、外注への指示、修正確認、公開前チェックまで進行できます。</p>
+        </article>
+      </div>
+
+      <div class="workflow">
+        <img class="reveal" src="assets/ai-workflow.png" alt="AIを活用した制作ワークフロー">
+        <div class="workflow-list reveal reveal-delay-1">
+          <div class="workflow-item"><b>1. 課題整理</b><p>目的、ターゲット、現状の詰まりを整理し、やることを明確にします。</p></div>
+          <div class="workflow-item"><b>2. 構成・制作</b><p>AIも活用しながら構成、文章、素材、制作進行を具体化します。</p></div>
+          <div class="workflow-item"><b>3. 公開前チェック</b><p>表示、導線、文言、運用面の確認まで行い、安心して出せる状態に整えます。</p></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="works">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <div class="section-marker">
+          <div>
+            <div class="section-name">Works</div>
+            <div class="section-ja">制作実績</div>
+          </div>
+        </div>
+        <div class="section-summary">
+          <div class="section-kicker">Selected Samples</div>
+          <h2>企業LP/コーポレートサイトを想定した制作サンプル。</h2>
+          <p class="section-copy">実務で担当したLP制作業務全般の経験をもとに、構成・見せ方・公開前チェックまで意識して制作しています。</p>
+        </div>
+      </div>
+
+      <div class="works-grid" data-work-grid>
+        <a class="work-card" href="../sampleLP_1/index.html" target="_blank" rel="noopener">
+          <div class="preview"><img src="../sampleLP_1/hero-firstview.jpg" alt=""></div>
+          <div class="work-body"><small>Corporate LP</small><h3>採用/企業紹介LP</h3><p>第一印象と信頼感を重視した、企業向けのLPサンプルです。</p></div>
+        </a>
+        <a class="work-card" href="../sampleLP_2/index.html" target="_blank" rel="noopener">
+          <div class="preview"><img src="../sampleLP_2/ogp.png" alt=""></div>
+          <div class="work-body"><small>Service LP</small><h3>サービス訴求LP</h3><p>サービスの価値、導線、CTAまでを整理したLPサンプルです。</p></div>
+        </a>
+        <a class="work-card" href="../sampleLP_3/index.html" target="_blank" rel="noopener">
+          <div class="preview"><img src="../sampleLP_3/ogp.png" alt=""></div>
+          <div class="work-body"><small>Business Site</small><h3>事業紹介サイト</h3><p>情報量を整理し、読みやすさと問い合わせ導線を意識しています。</p></div>
+        </a>
+        <a class="work-card" href="../sampleLP_4/index.html" target="_blank" rel="noopener">
+          <div class="preview"><img src="../sampleLP_4/ogp.png" alt=""></div>
+          <div class="work-body"><small>Digital LP</small><h3>デジタルサービスLP</h3><p>機能説明と導入メリットをわかりやすく伝える構成です。</p></div>
+        </a>
+        <a class="work-card" href="../sampleLP_5/index.html" target="_blank" rel="noopener">
+          <div class="preview"><img src="../sampleLP_5/assets/ogp.png" alt=""></div>
+          <div class="work-body"><small>Long Form LP</small><h3>横長構成のLP</h3><p>ブランド感と情報整理を両立した、横長ビジュアルの制作サンプルです。</p></div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="profile">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <div class="section-marker">
+          <div>
+            <div class="section-name">Profile</div>
+            <div class="section-ja">強みと経験</div>
+          </div>
+        </div>
+        <div class="section-summary">
+          <div class="section-kicker">Strength</div>
+          <h2>広く浅い技術と業務理解を、現場で使える成果に変える。</h2>
+          <p class="section-copy">
+            USEN MediaでのWebサービス開発・保守運用、直近の業務委託でのサイトパトロールのチームリード、
+            法務関連業務、外注サイト制作ディレクションの経験を土台に、制作と業務改善の間をつなぎます。
+          </p>
+        </div>
+      </div>
+      <div class="profile-strengths reveal reveal-delay-1">
+        <div class="strength-lead">
+          <small>Portable Skills</small>
+          <h3>制作と業務のあいだを、AIで前に進める。</h3>
+          <p>
+            手を動かすWeb基礎、制作進行、サイトパトロールや法務関連業務の運用理解を組み合わせて、
+            「何を作るか」だけでなく「どう運用するか」まで整理します。
+          </p>
+          <a class="strength-detail" href="profile.html">経歴を詳しく見る</a>
+        </div>
+        <div class="strength-grid">
+          <article class="strength-card featured"><div class="strength-icon">AI</div><b>AI活用・作業分解</b><p>調査、設計、文章化、実装補助をAIで高速化し、実行タスクに落とし込みます。</p></article>
+          <article class="strength-card"><div class="strength-icon">LP</div><b>制作ディレクション</b><p>構成、コピー、素材整理、制作進行、公開前チェックまで進行できます。</p></article>
+          <article class="strength-card"><div class="strength-icon">OPS</div><b>運用・法務関連業務</b><p>サイトパトロールのチームリードや法務関連業務の経験をもとに、リスク観点を含めて改善を考えます。</p></article>
+          <article class="strength-card"><div class="strength-icon">UX</div><b>顧客目線とリスク観点</b><p>使う人の迷いと運用上のリスクを見ながら、現実的な改善案を出します。</p></article>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="plans">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <div class="section-marker">
+          <div>
+            <div class="section-name">Menu</div>
+            <div class="section-ja">副業メニュー</div>
+          </div>
+        </div>
+        <div class="section-summary">
+          <div class="section-kicker">Side Work</div>
+          <h2>まずは小さく、でも成果につながる入口から。</h2>
+          <p class="section-copy">副業案件では、初回診断から改善提案、制作ディレクション、月額伴走まで段階的に対応します。</p>
+        </div>
+      </div>
+      <div class="plans">
+        <article class="plan-card reveal"><strong>LP/サイト改善診断</strong><p>現状ページを見て、導線、コピー、構成、信頼感の改善点を整理します。</p></article>
+        <article class="plan-card reveal reveal-delay-1"><strong>LP制作ディレクション</strong><p>構成整理、素材確認、外注指示、公開前チェックまで制作を前に進めます。</p></article>
+        <article class="plan-card reveal reveal-delay-2"><strong>AI業務効率化サポート</strong><p>リサーチ、文章作成、スプレッドシート/GASなどの軽い自動化を支援します。</p></article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="contact">
+    <div class="wrap">
+      <div class="contact-panel reveal">
+        <div>
+          <div class="section-kicker">Contact</div>
+          <h2>まずは、いま困っていることから聞かせてください。</h2>
+          <p>LP/サイト制作、改善、業務整理、AI活用の相談を受け付けています。内容が固まり切っていない段階でも、整理から一緒に進められます。</p>
+        </div>
+        <div class="contact-card">
+          <b>damono</b>
+          <p>AI活用型Webディレクター / 業務改善パートナー</p>
+          <a href="mailto:naruhodo.0905@gmail.com">naruhodo.0905@gmail.com</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="wrap">© damono. AI-enabled Web Director Portfolio.</div>
+</footer>
+
+<script>
+const progress = document.querySelector('.progress');
+const updateProgress = () => {
+  const height = document.documentElement.scrollHeight - window.innerHeight;
+  const rate = height > 0 ? (window.scrollY / height) * 100 : 0;
+  progress.style.width = `${rate}%`;
+};
+window.addEventListener('scroll', updateProgress, { passive: true });
+updateProgress();
+
+const io = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) entry.target.classList.add('in');
+  });
+}, { threshold: .12 });
+document.querySelectorAll('.reveal').forEach((el) => io.observe(el));
+
+const grid = document.querySelector('[data-work-grid]');
+if (grid) {
+  const cards = Array.from(grid.children);
+  for (let i = cards.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [cards[i], cards[j]] = [cards[j], cards[i]];
+  }
+  cards.forEach((card) => {
+    card.classList.remove('work-wide');
+    grid.appendChild(card);
+  });
+  const last = grid.lastElementChild;
+  if (last) last.classList.add('work-wide');
+}
+</script>
+</body>
+</html>

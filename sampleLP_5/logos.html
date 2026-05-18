@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>株式会社サンプルワークス — ロゴ案</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: oklch(0.18 0.012 265);
+    --paper: oklch(0.98 0.005 85);
+    --muted: oklch(0.55 0.01 265);
+    --line: oklch(0.88 0.008 265);
+    --accent: oklch(0.62 0.22 265);
+  }
+  html, body { margin: 0; font-family: 'Inter', sans-serif; color: var(--ink); }
+  .artboard-shell { background: var(--paper); display: flex; flex-direction: column; width: 100%; height: 100%; }
+  .ab-head { padding: 20px 28px; border-bottom: 1px solid var(--line); display: flex; align-items: baseline; justify-content: space-between; }
+  .ab-head .idx { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--muted); letter-spacing: 0.08em; text-transform: uppercase; }
+  .ab-head .name { font-family: 'Instrument Serif', serif; font-size: 22px; font-style: italic; }
+  .ab-body { flex: 1; display: grid; grid-template-rows: 1fr auto; }
+  .ab-stage { display: flex; align-items: center; justify-content: center; padding: 40px; min-height: 0; }
+  .ab-foot { border-top: 1px solid var(--line); padding: 16px 28px; display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; font-family: 'JetBrains Mono', monospace; font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; }
+  .ab-foot .swatch { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: middle; border: 1px solid var(--line); }
+
+  .l01-wrap { display: flex; gap: 40px; align-items: center; }
+  .l01-mark { width: 140px; height: 140px; background: var(--ink); color: var(--paper); display: grid; place-items: center; position: relative; border-radius: 2px; }
+  .l01-mark .e { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 110px; line-height: 1; padding-right: 14px; padding-bottom: 6px; }
+  .l01-mark .dot { position: absolute; right: 18px; bottom: 22px; width: 10px; height: 10px; border-radius: 50%; background: var(--accent); }
+  .l01-text { line-height: 1.1; }
+  .l01-text .wm { font-family: 'Instrument Serif', serif; font-size: 54px; font-style: italic; letter-spacing: -0.02em; }
+  .l01-text .sub { font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.4em; text-transform: uppercase; color: var(--muted); margin-top: 8px; }
+
+  .l02 { display: flex; align-items: center; gap: 0; }
+  .l02 .tok { font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 84px; letter-spacing: -0.04em; line-height: 0.9; }
+  .l02 .slash { width: 2px; height: 72px; background: var(--ink); transform: skewX(-18deg); margin: 0 18px; }
+  .l02 .right { display: flex; flex-direction: column; align-items: flex-start; }
+  .l02 .right .small { font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.25em; color: var(--muted); text-transform: uppercase; margin-top: 8px; white-space: nowrap; }
+  .l02 .accent { color: var(--accent); }
+
+  .l03 { display: flex; flex-direction: column; align-items: center; gap: 18px; }
+  .l03 .ring { width: 110px; height: 110px; border-radius: 50%; border: 2px solid var(--ink); position: relative; display: grid; place-items: center; }
+  .l03 .ring::after { content: ''; position: absolute; inset: 14px; border-radius: 50%; background: var(--accent); }
+  .l03 .ring::before { content: ''; position: absolute; left: 50%; top: -6px; width: 2px; height: 20px; background: var(--ink); transform: translateX(-1px); }
+  .l03 .wm { font-family: 'Instrument Serif', serif; font-size: 46px; letter-spacing: 0.02em; }
+  .l03 .wm em { font-style: italic; color: var(--accent); }
+
+  .l04 { display: flex; align-items: center; gap: 26px; }
+  .l04 .sq { position: relative; width: 120px; height: 120px; background: var(--paper); border: 1.5px solid var(--ink); }
+  .l04 .sq::before, .l04 .sq::after { content: ''; position: absolute; left: 0; right: 0; top: 50%; height: 1.5px; background: var(--ink); }
+  .l04 .sq::before { transform: rotate(45deg); }
+  .l04 .sq::after { transform: rotate(-45deg); }
+  .l04 .sq span { position: absolute; left: 50%; top: 50%; transform: translate(-50%,-50%); width: 16px; height: 16px; background: var(--accent); border-radius: 50%; }
+  .l04 .type { font-family: 'Space Grotesk', sans-serif; font-weight: 500; font-size: 44px; letter-spacing: -0.02em; }
+  .l04 .type b { font-weight: 700; }
+
+  .l05 { text-align: center; }
+  .l05 .main { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 96px; line-height: 1; letter-spacing: -0.02em; }
+  .l05 .main .ul { border-bottom: 2px solid var(--accent); padding-bottom: 4px; }
+  .l05 .bar { margin: 14px auto 0; width: 200px; height: 1px; background: var(--ink); position: relative; }
+  .l05 .bar::before, .l05 .bar::after { content: ''; position: absolute; top: -3px; width: 1px; height: 7px; background: var(--ink); }
+  .l05 .bar::before { left: 0; } .l05 .bar::after { right: 0; }
+  .l05 .meta { font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.3em; color: var(--muted); text-transform: uppercase; margin-top: 12px; }
+
+  .l06 { display: flex; flex-direction: column; align-items: center; gap: 18px; }
+  .l06 .grid { display: grid; grid-template-columns: repeat(5, 14px); grid-template-rows: repeat(5, 14px); gap: 3px; }
+  .l06 .grid i { background: var(--ink); border-radius: 2px; }
+  .l06 .grid i.off { background: transparent; }
+  .l06 .grid i.ac { background: var(--accent); }
+  .l06 .wm { font-family: 'Space Grotesk', sans-serif; font-weight: 600; font-size: 38px; letter-spacing: 0.02em; }
+</style>
+</head>
+<body>
+
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<script type="text/babel" src="lib/design-canvas.jsx"></script>
+
+<div id="root"></div>
+
+<script type="text/babel">
+
+function Shell({ idx, name, tag, children }) {
+  return (
+    <div className="artboard-shell">
+      <div className="ab-head">
+        <span className="idx">Logo · {idx}</span>
+        <span className="name">{name}</span>
+      </div>
+      <div className="ab-body">
+        <div className="ab-stage">{children}</div>
+        <div className="ab-foot">
+          <div>{tag}</div>
+          <div>
+            <span style={{ marginRight: 10 }}><span className="swatch" style={{ background: 'oklch(0.18 0.012 265)' }}></span>Ink</span>
+            <span><span className="swatch" style={{ background: 'oklch(0.62 0.22 265)' }}></span>Accent</span>
+          </div>
+          <div style={{ textAlign: 'right' }}>Sample Works Inc.</div>
+        </div>
+      </div>
+    </div>);
+
+}
+
+function Logo01() {return (
+    <div className="l01-wrap">
+    <div className="l01-mark"><span className="e">S</span><span className="dot"></span></div>
+    <div className="l01-text"><div className="wm">Sample Works</div><div className="sub">Tokyo · Est. 2020</div></div>
+  </div>);
+}
+
+function Logo02() {return (
+    <div className="l02">
+    <span className="tok">SW</span>
+    <span className="slash"></span>
+    <div className="right">
+      <span className="tok accent" style={{ fontSize: 56, lineHeight: 1, color: "rgb(58, 151, 66)" }}>works</span>
+      <span className="small">multidisciplinary studio</span>
+    </div>
+  </div>);
+}
+
+function Logo03() {return (
+    <div className="l03">
+    <div className="ring"></div>
+    <div className="wm">Sample<em>Works</em></div>
+  </div>);
+}
+
+function Logo04() {return (
+    <div className="l04">
+    <div className="sq"><span></span></div>
+    <div className="type"><b>SAMPLE WORKS</b></div>
+  </div>);
+}
+
+function Logo05() {return (
+    <div className="l05">
+    <div className="main">Sample<span className="ul">Works</span>.</div>
+    <div className="bar"></div>
+    <div className="meta">Creative × Commerce × Tech</div>
+  </div>);
+}
+
+function Logo06() {
+  const P = (...on) => Array.from({ length: 25 }, (_, i) => on.includes(i));
+  const ac = new Set([0, 5, 10, 15, 20]);
+  const on = P(0, 1, 2, 3, 5, 10, 11, 12, 15, 20, 21, 22, 23);
+  return (
+    <div className="l06">
+      <div className="grid">
+        {on.map((v, i) => <i key={i} className={!v ? 'off' : ac.has(i) ? 'ac' : ''}></i>)}
+      </div>
+      <div className="wm">SAMPLE WORKS</div>
+    </div>);
+
+}
+
+function App() {
+  const W = 720,H = 440;
+  return (
+    <DesignCanvas>
+      <DCSection id="logos" title="Sample Works — Logo Directions" subtitle="6案。お気に入りを教えてください。クリックでフルスクリーン。">
+        <DCArtboard id="l1" label="01 · Monogram Serif" width={W} height={H}>
+          <Shell idx="01" name="Monogram Serif" tag="Signature / Editorial"><Logo01 /></Shell>
+        </DCArtboard>
+        <DCArtboard id="l2" label="02 · Split Wordmark" width={W} height={H}>
+          <Shell idx="02" name="Split Wordmark" tag="Dynamic / Typographic"><Logo02 /></Shell>
+        </DCArtboard>
+        <DCArtboard id="l3" label="03 · Orbit Mark" width={W} height={H}>
+          <Shell idx="03" name="Orbit Mark" tag="Iconic / Abstract"><Logo03 /></Shell>
+        </DCArtboard>
+        <DCArtboard id="l4" label="04 · Geometric X" width={W} height={H}>
+          <Shell idx="04" name="Geometric X" tag="Structural / Tech"><Logo04 /></Shell>
+        </DCArtboard>
+        <DCArtboard id="l5" label="05 · Italic Flourish" width={W} height={H}>
+          <Shell idx="05" name="Italic Flourish" tag="Artistic / Premium"><Logo05 /></Shell>
+        </DCArtboard>
+        <DCArtboard id="l6" label="06 · Pixel Grid" width={W} height={H}>
+          <Shell idx="06" name="Pixel Grid" tag="Digital / Systemic"><Logo06 /></Shell>
+        </DCArtboard>
+      </DCSection>
+    </DesignCanvas>);
+
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+</script>
+</body>
+</html>

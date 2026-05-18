@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>株式会社サンプルデジタル ロゴ案</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;700&family=Fraunces:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --brand-red: #d70c19;
+    --brand-red-alt: #d90d1a;
+    --brand-dark: #373534;
+    --brand-gray: #666666;
+    --bg: #f5f5f5;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background: var(--bg);
+    color: var(--brand-dark);
+    padding: 60px 40px;
+    line-height: 1.6;
+  }
+  .page-header {
+    max-width: 1100px;
+    margin: 0 auto 60px;
+    text-align: center;
+  }
+  .page-header h1 {
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    margin-bottom: 12px;
+  }
+  .page-header p {
+    color: var(--brand-gray);
+    font-size: 15px;
+  }
+  .logo-grid {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 36px;
+  }
+  .logo-card {
+    background: #fff;
+    border-radius: 8px;
+    padding: 48px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+  }
+  .logo-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 32px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #eee;
+  }
+  .logo-card-title {
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .logo-card-title span {
+    color: var(--brand-red);
+    margin-right: 10px;
+    font-family: 'Inter', sans-serif;
+  }
+  .logo-card-tagline {
+    font-size: 13px;
+    color: var(--brand-gray);
+  }
+
+  .logo-display {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 30px;
+    background: #fafafa;
+    border-radius: 6px;
+    margin-bottom: 24px;
+  }
+  .logo-display.dark {
+    background: var(--brand-dark);
+  }
+  .logo-display.red {
+    background: var(--brand-red);
+  }
+
+  /* === 共通ロゴのベースサイズ === */
+  .logo-main svg { height: 56px; width: auto; display: block; }
+  .logo-small svg { height: 32px; width: auto; display: block; }
+
+  .logo-notes {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 12px 20px;
+    font-size: 14px;
+  }
+  .logo-notes dt {
+    color: var(--brand-gray);
+    font-weight: 500;
+  }
+  .logo-notes dd {
+    color: var(--brand-dark);
+  }
+
+  /* === サイトヘッダー風プレビュー === */
+  .header-preview {
+    margin-top: 24px;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  .header-preview-label {
+    background: #fafafa;
+    padding: 8px 16px;
+    font-size: 12px;
+    color: var(--brand-gray);
+    border-bottom: 1px solid #e0e0e0;
+  }
+  .header-preview-bar {
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    height: 60px;
+  }
+  .header-preview-bar .logo-small svg { height: 32px; }
+  .header-preview-nav {
+    display: flex;
+    gap: 28px;
+    font-size: 13px;
+    color: var(--brand-dark);
+    font-weight: 500;
+  }
+  .header-preview-nav span.current {
+    color: var(--brand-red);
+    border-bottom: 3px solid var(--brand-red);
+    padding: 20px 0;
+  }
+
+  @media (max-width: 640px) {
+    body { padding: 30px 16px; }
+    .logo-card { padding: 28px 20px; }
+    .logo-display { padding: 30px 16px; gap: 24px; }
+    .logo-notes { grid-template-columns: 1fr; gap: 4px; }
+    .logo-notes dt { margin-top: 8px; }
+    .header-preview-nav { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<div class="page-header">
+  <h1>株式会社サンプルデジタル ロゴデザイン案</h1>
+  <p>社名の「≒（サンプルデジタル）」をコンセプトの核に据えた4案。コーポレートカラー #d70c19 / #373534 を踏襲。</p>
+</div>
+
+<div class="logo-grid">
+
+  <!-- ========================================= -->
+  <!-- CASE 01: 数式記号型（王道・正統派） -->
+  <!-- ========================================= -->
+  <div class="logo-card">
+    <div class="logo-card-header">
+      <div class="logo-card-title"><span>01</span>Equation Mark — 正統派・記号ドリブン</div>
+      <div class="logo-card-tagline">最もストレートに社名の概念を体現</div>
+    </div>
+
+    <!-- Light版 -->
+    <div class="logo-display">
+      <div class="logo-main">
+        <svg viewBox="0 0 360 72" xmlns="http://www.w3.org/2000/svg">
+          <!-- ≒ シンボル部分 -->
+          <g transform="translate(4, 14)">
+            <!-- 上の ~ (波線) -->
+            <path d="M 4 12 Q 12 4, 20 12 T 36 12" stroke="#d70c19" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+            <!-- 下の = (二重線) -->
+            <line x1="4" y1="28" x2="36" y2="28" stroke="#373534" stroke-width="4.5" stroke-linecap="round"/>
+            <line x1="4" y1="40" x2="36" y2="40" stroke="#373534" stroke-width="4.5" stroke-linecap="round"/>
+          </g>
+          <!-- ワードマーク -->
+          <text x="58" y="38" font-family="Inter, sans-serif" font-weight="700" font-size="28" fill="#373534" letter-spacing="-0.5">Sample</text>
+          <text x="58" y="62" font-family="Inter, sans-serif" font-weight="400" font-size="18" fill="#666666" letter-spacing="2">Digital</text>
+        </svg>
+      </div>
+      <div class="logo-small">
+        <svg viewBox="0 0 220 44" xmlns="http://www.w3.org/2000/svg">
+          <g transform="translate(2, 8)">
+            <path d="M 2 7 Q 8 2, 13 7 T 24 7" stroke="#d70c19" stroke-width="3" fill="none" stroke-linecap="round"/>
+            <line x1="2" y1="18" x2="24" y2="18" stroke="#373534" stroke-width="3" stroke-linecap="round"/>
+            <line x1="2" y1="26" x2="24" y2="26" stroke="#373534" stroke-width="3" stroke-linecap="round"/>
+          </g>
+          <text x="38" y="28" font-family="Inter, sans-serif" font-weight="700" font-size="18" fill="#373534" letter-spacing="-0.3">Sample Digital</text>
+        </svg>
+      </div>
+    </div>
+
+    <!-- Dark版 -->
+    <div class="logo-display dark">
+      <div class="logo-main">
+        <svg viewBox="0 0 360 72" xmlns="http://www.w3.org/2000/svg">
+          <g transform="translate(4, 14)">
+            <path d="M 4 12 Q 12 4, 20 12 T 36 12" stroke="#d70c19" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+            <line x1="4" y1="28" x2="36" y2="28" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round"/>
+            <line x1="4" y1="40" x2="36" y2="40" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round"/>
+          </g>
+          <text x="58" y="38" font-family="Inter, sans-serif" font-weight="700" font-size="28" fill="#ffffff" letter-spacing="-0.5">Sample</text>
+          <text x="58" y="62" font-family="Inter, sans-serif" font-weight="400" font-size="18" fill="#cccccc" letter-spacing="2">Digital</text>
+        </svg>
+      </div>
+    </div>
+
+    <dl class="logo-notes">
+      <dt>コンセプト</dt>
+      <dd>「≒」の波線を赤、等号を黒にすることで「オンラインの動き」と「確かな基盤」の両立を表現。</dd>
+      <dt>強み</dt>
+      <dd>社名とシンボルの意味が完全一致。視認性が高く、名刺・封筒・Web全てで機能する。</dd>
+      <dt>使用場面</dt>
+      <dd>最も汎用性が高く、正式な企業ロゴとしてメイン採用に向く。</dd>
+    </dl>
+
+    <div class="header-preview">
+      <div class="header-preview-label">▼ 実際のサイトヘッダーに配置したイメージ</div>
+      <div class="header-preview-bar">
+        <div class="logo-small">
+          <svg viewBox="0 0 220 44" xmlns="http://www.w3.org/2000/svg">
+            <g transform="translate(2, 8)">
+              <path d="M 2 7 Q 8 2, 13 7 T 24 7" stroke="#d70c19" stroke-width="3" fill="none" stroke-linecap="round"/>
+              <line x1="2" y1="18" x2="24" y2="18" stroke="#373534" stroke-width="3" stroke-linecap="round"/>
+              <line x1="2" y1="26" x2="24" y2="26" stroke="#373534" stroke-width="3" stroke-linecap="round"/>
+            </g>
+            <text x="38" y="28" font-family="Inter, sans-serif" font-weight="700" font-size="18" fill="#373534" letter-spacing="-0.3">Sample Digital</text>
+          </svg>
+        </div>
+        <div class="header-preview-nav">
+          <span class="current">TOP</span><span>サービス</span><span>会社情報</span><span>お問い合わせ</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========================================= -->
+  <!-- CASE 02: モノグラム型（n≒ シンボル） -->
+  <!-- ========================================= -->
+  <div class="logo-card">
+    <div class="logo-card-header">
+      <div class="logo-card-title"><span>02</span>Monogram "n≒" — アイコニック・モダン</div>
+      <div class="logo-card-tagline">SNS・ファビコン・アプリアイコンに最適</div>
+    </div>
+
+    <div class="logo-display">
+      <div class="logo-main">
+        <svg viewBox="0 0 340 72" xmlns="http://www.w3.org/2000/svg">
+          <!-- 赤丸の中にn -->
+          <circle cx="36" cy="36" r="32" fill="#d70c19"/>
+          <!-- 小文字n -->
+          <text x="36" y="50" font-family="Inter, sans-serif" font-weight="800" font-size="38" fill="#ffffff" text-anchor="middle" letter-spacing="-1">n</text>
+          <!-- ≒ 記号を小さくnの右下に -->
+          <g transform="translate(52, 46)">
+            <path d="M 0 3 Q 3 0, 6 3 T 12 3" stroke="#ffffff" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+            <line x1="0" y1="8" x2="12" y2="8" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round"/>
+            <line x1="0" y1="12" x2="12" y2="12" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round"/>
+          </g>
+          <!-- ワードマーク -->
+          <text x="84" y="42" font-family="Inter, sans-serif" font-weight="700" font-size="24" fill="#373534" letter-spacing="-0.5">Sample Digital</text>
+          <text x="84" y="60" font-family="Inter, sans-serif" font-weight="400" font-size="11" fill="#999999" letter-spacing="3">DIGITAL SOLUTIONS</text>
+        </svg>
+      </div>
+      <!-- シンボルのみ -->
+      <div class="logo-small">
+        <svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" style="height:64px;">
+          <circle cx="36" cy="36" r="32" fill="#d70c19"/>
+          <text x="36" y="50" font-family="Inter, sans-serif" font-weight="800" font-size="38" fill="#ffffff" text-anchor="middle" letter-spacing="-1">n</text>
+          <g transform="translate(52, 46)">
+            <path d="M 0 3 Q 3 0, 6 3 T 12 3" stroke="#ffffff" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+            <line x1="0" y1="8" x2="12" y2="8" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round"/>
+            <line x1="0" y1="12" x2="12" y2="12" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round"/>
+          </g>
+        </svg>
+      </div>
+    </div>
+
+    <div class="logo-display dark">
+      <div class="logo-main">
+        <svg viewBox="0 0 340 72" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="36" cy="36" r="32" fill="#d70c19"/>
+          <text x="36" y="50" font-family="Inter, sans-serif" font-weight="800" font-size="38" fill="#ffffff" text-anchor="middle" letter-spacing="-1">n</text>
+          <g transform="translate(52, 46)">
+            <path d="M 0 3 Q 3 0, 6 3 T 12 3" stroke="#ffffff" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+            <line x1="0" y1="8" x2="12" y2="8" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round"/>
+            <line x1="0" y1="12" x2="12" y2="12" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round"/>
+          </g>
+          <text x="84" y="42" font-family="Inter, sans-serif" font-weight="700" font-size="24" fill="#ffffff" letter-spacing="-0.5">Sample Digital</text>
+          <text x="84" y="60" font-family="Inter, sans-serif" font-weight="400" font-size="11" fill="#aaaaaa" letter-spacing="3">DIGITAL SOLUTIONS</text>
+        </svg>
+      </div>
+    </div>
+
+    <dl class="logo-notes">
+      <dt>コンセプト</dt>
+      <dd>円の中に「n」+小さな「≒」を配置したモノグラム。円はデジタルネットワーク・グローバル展開を象徴。</dd>
+      <dt>強み</dt>
+      <dd>シンボル単体で成立するため、ファビコン・SNSアイコン・アプリアイコンに強い。記憶されやすい。</dd>
+      <dt>使用場面</dt>
+      <dd>Web中心のデジタル企業に最適。スタートアップらしい先進性。</dd>
+    </dl>
+  </div>
+
+  <!-- ========================================= -->
+  <!-- CASE 03: タイポグラフィ型（洗練・エディトリアル） -->
+  <!-- ========================================= -->
+  <div class="logo-card">
+    <div class="logo-card-header">
+      <div class="logo-card-title"><span>03</span>Editorial Type — 洗練・コンサルティング寄り</div>
+      <div class="logo-card-tagline">落ち着いた知性と信頼感を前面に</div>
+    </div>
+
+    <div class="logo-display">
+      <div class="logo-main">
+        <svg viewBox="0 0 400 72" xmlns="http://www.w3.org/2000/svg">
+          <!-- Sample -->
+          <text x="0" y="44" font-family="Fraunces, serif" font-weight="600" font-size="38" fill="#373534" letter-spacing="-0.5">Sample</text>
+          <!-- ≒ アクセント -->
+          <g transform="translate(144, 18)">
+            <path d="M 0 8 Q 6 2, 12 8 T 24 8" stroke="#d70c19" stroke-width="3" fill="none" stroke-linecap="round"/>
+            <line x1="0" y1="20" x2="24" y2="20" stroke="#d70c19" stroke-width="3" stroke-linecap="round"/>
+            <line x1="0" y1="29" x2="24" y2="29" stroke="#d70c19" stroke-width="3" stroke-linecap="round"/>
+          </g>
+          <!-- Digital -->
+          <text x="180" y="44" font-family="Fraunces, serif" font-weight="600" font-size="38" fill="#373534" letter-spacing="-0.5">Digital</text>
+          <!-- アンダーライン装飾 -->
+          <line x1="0" y1="58" x2="292" y2="58" stroke="#373534" stroke-width="1"/>
+          <text x="0" y="70" font-family="Inter, sans-serif" font-weight="500" font-size="9" fill="#666666" letter-spacing="5">DIGITAL × HUMAN, EQUALLY.</text>
+        </svg>
+      </div>
+    </div>
+
+    <div class="logo-display dark">
+      <div class="logo-main">
+        <svg viewBox="0 0 400 72" xmlns="http://www.w3.org/2000/svg">
+          <text x="0" y="44" font-family="Fraunces, serif" font-weight="600" font-size="38" fill="#ffffff" letter-spacing="-0.5">Sample</text>
+          <g transform="translate(144, 18)">
+            <path d="M 0 8 Q 6 2, 12 8 T 24 8" stroke="#d70c19" stroke-width="3" fill="none" stroke-linecap="round"/>
+            <line x1="0" y1="20" x2="24" y2="20" stroke="#d70c19" stroke-width="3" stroke-linecap="round"/>
+            <line x1="0" y1="29" x2="24" y2="29" stroke="#d70c19" stroke-width="3" stroke-linecap="round"/>
+          </g>
+          <text x="180" y="44" font-family="Fraunces, serif" font-weight="600" font-size="38" fill="#ffffff" letter-spacing="-0.5">Digital</text>
+          <line x1="0" y1="58" x2="292" y2="58" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+          <text x="0" y="70" font-family="Inter, sans-serif" font-weight="500" font-size="9" fill="#cccccc" letter-spacing="5">DIGITAL × HUMAN, EQUALLY.</text>
+        </svg>
+      </div>
+    </div>
+
+    <dl class="logo-notes">
+      <dt>コンセプト</dt>
+      <dd>セリフ体(Fraunces)で知性と信頼を、中央の「≒」記号で社名を表現。雑誌のロゴのような品格。</dd>
+      <dt>強み</dt>
+      <dd>コンサルティング・上位クライアント向けに強い。他のデジタル企業との差別化が明確。</dd>
+      <dt>使用場面</dt>
+      <dd>役員名刺、提案書表紙、プレスリリース等、信頼感を重視する場面。</dd>
+    </dl>
+  </div>
+
+  <!-- ========================================= -->
+  <!-- CASE 04: ジオメトリック型（幾何学・スタートアップ的） -->
+  <!-- ========================================= -->
+  <div class="logo-card">
+    <div class="logo-card-header">
+      <div class="logo-card-title"><span>04</span>Geometric Pair — 二つの円が重なる</div>
+      <div class="logo-card-tagline">「≒」を抽象化した、もう一つの方向性</div>
+    </div>
+
+    <div class="logo-display">
+      <div class="logo-main">
+        <svg viewBox="0 0 340 72" xmlns="http://www.w3.org/2000/svg">
+          <!-- 二つの円が「ほぼ重なる」= ≒ のメタファー -->
+          <g transform="translate(4, 12)">
+            <!-- 赤円（デジタル・オンライン） -->
+            <circle cx="22" cy="24" r="20" fill="#d70c19" opacity="0.9"/>
+            <!-- 黒円（リアル・人・ビジネス） -->
+            <circle cx="38" cy="24" r="20" fill="#373534" opacity="0.9"/>
+            <!-- 重なり部分を強調する小さな点 -->
+            <circle cx="30" cy="24" r="2.5" fill="#ffffff"/>
+          </g>
+          <!-- ワードマーク -->
+          <text x="78" y="36" font-family="Inter, sans-serif" font-weight="700" font-size="26" fill="#373534" letter-spacing="-0.5">Sample Digital</text>
+          <text x="78" y="56" font-family="Inter, sans-serif" font-weight="400" font-size="11" fill="#666666" letter-spacing="4">株式会社サンプルデジタル</text>
+        </svg>
+      </div>
+      <div class="logo-small">
+        <svg viewBox="0 0 72 56" xmlns="http://www.w3.org/2000/svg" style="height:56px;">
+          <g transform="translate(4, 4)">
+            <circle cx="22" cy="24" r="20" fill="#d70c19" opacity="0.9"/>
+            <circle cx="38" cy="24" r="20" fill="#373534" opacity="0.9"/>
+            <circle cx="30" cy="24" r="2.5" fill="#ffffff"/>
+          </g>
+        </svg>
+      </div>
+    </div>
+
+    <div class="logo-display dark">
+      <div class="logo-main">
+        <svg viewBox="0 0 340 72" xmlns="http://www.w3.org/2000/svg">
+          <g transform="translate(4, 12)">
+            <circle cx="22" cy="24" r="20" fill="#d70c19"/>
+            <circle cx="38" cy="24" r="20" fill="#ffffff" opacity="0.95"/>
+            <circle cx="30" cy="24" r="2.5" fill="#373534"/>
+          </g>
+          <text x="78" y="36" font-family="Inter, sans-serif" font-weight="700" font-size="26" fill="#ffffff" letter-spacing="-0.5">Sample Digital</text>
+          <text x="78" y="56" font-family="Inter, sans-serif" font-weight="400" font-size="11" fill="#cccccc" letter-spacing="4">株式会社サンプルデジタル</text>
+        </svg>
+      </div>
+    </div>
+
+    <dl class="logo-notes">
+      <dt>コンセプト</dt>
+      <dd>二つの円が「ほぼ重なる＝≒」ことで、デジタルとリアル、オンラインとサービスの融合を象徴。ビジョンステートメントと完全合致。</dd>
+      <dt>強み</dt>
+      <dd>抽象度が高く、記憶に残る。成長・拡張しても意味がブレない。国際展開にも適合。</dd>
+      <dt>使用場面</dt>
+      <dd>モダンなテック企業・DX支援企業らしさを出したい場合に最適。</dd>
+    </dl>
+  </div>
+
+</div>
+
+</body>
+</html>
