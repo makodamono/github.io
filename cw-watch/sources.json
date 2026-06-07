@@ -1,12 +1,12 @@
 {
   "sources": [
     {
-      "name": "Web制作グループ",
-      "url": "https://crowdworks.jp/public/jobs/group/web_products?order=new"
+      "name": "全体新着",
+      "url": "https://crowdworks.jp/public/jobs?order=new"
     },
     {
-      "name": "システム開発グループ",
-      "url": "https://crowdworks.jp/public/jobs/group/system?order=new"
+      "name": "Web制作グループ",
+      "url": "https://crowdworks.jp/public/jobs/group/web_products?order=new"
     },
     {
       "name": "ビジネスグループ",
