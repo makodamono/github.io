@@ -198,6 +198,134 @@ def extract_job_urls(search_html: str) -> list[str]:
     return urls
 
 
+def extract_vue_data(search_html: str) -> dict | None:
+    match = re.search(r'<div id="vue-container" data="([^"]+)"', search_html)
+    if not match:
+        return None
+    try:
+        return json.loads(html.unescape(match.group(1)))
+    except json.JSONDecodeError as exc:
+        print(f"[warn] vue data parse failed: {exc}", file=sys.stderr)
+        return None
+
+
+def format_budget(payment: dict) -> tuple[str, bool]:
+    if not isinstance(payment, dict):
+        return "不明", False
+    fixed = payment.get("fixed_price_payment") or payment.get("fixed_price_writing_payment")
+    if isinstance(fixed, dict):
+        if "article_price" in fixed:
+            return f"{int(float(fixed.get('article_price') or 0)):,}円/記事", False
+        min_budget = fixed.get("min_budget")
+        max_budget = fixed.get("max_budget")
+        if min_budget is not None and max_budget is not None:
+            return f"{int(float(min_budget)):,}円〜{int(float(max_budget)):,}円", False
+        if max_budget is not None:
+            return f"〜{int(float(max_budget)):,}円", False
+        if min_budget is not None:
+            return f"{int(float(min_budget)):,}円〜", False
+        return "固定報酬: 予算不明", False
+    competition = payment.get("competition_payment")
+    if isinstance(competition, dict):
+        price = competition.get("competition_price")
+        return (f"コンペ {int(float(price)):,}円" if price is not None else "コンペ", False)
+    task = payment.get("task_payment")
+    if isinstance(task, dict):
+        price = task.get("task_price")
+        return (f"タスク {int(float(price)):,}円" if price is not None else "タスク", False)
+    hourly = payment.get("hourly_payment")
+    if isinstance(hourly, dict):
+        min_wage = hourly.get("min_hourly_wage")
+        max_wage = hourly.get("max_hourly_wage")
+        if min_wage is not None and max_wage is not None:
+            return f"時給 {int(float(min_wage)):,}円〜{int(float(max_wage)):,}円", True
+        return "時給", True
+    return "不明", False
+
+
+def format_applicants(entry: dict) -> str:
+    if not isinstance(entry, dict):
+        return "不明"
+    project = entry.get("project_entry")
+    if isinstance(project, dict):
+        value = project.get("num_application_conditions")
+        return f"{value}人" if value is not None else "不明"
+    competition = entry.get("competition_entry")
+    if isinstance(competition, dict):
+        value = competition.get("num_proposal_products")
+        return f"{value}件提案" if value is not None else "不明"
+    task = entry.get("task_entry")
+    if isinstance(task, dict):
+        completed = task.get("num_completed_tasks")
+        total = task.get("num_tasks")
+        if completed is not None and total is not None:
+            return f"{completed}/{total}件"
+    return "不明"
+
+
+def collect_embedded_jobs(search_html: str, keyword: str, url: str, seen: dict, collected_urls: set[str]) -> list[Job]:
+    data = extract_vue_data(search_html)
+    if not data:
+        return []
+    result = data.get("searchResult") or {}
+    groups = ["job_offers", "pr_diamond", "pr_platinum", "pr_gold", "recommendation"]
+    raw_items: list[dict] = []
+    for group in groups:
+        items = result.get(group)
+        if isinstance(items, list):
+            raw_items.extend(item for item in items if isinstance(item, dict))
+
+    jobs: list[Job] = []
+    for item in raw_items[:MAX_PER_KEYWORD]:
+        offer = item.get("job_offer") or {}
+        if not isinstance(offer, dict):
+            continue
+        job_id = offer.get("id")
+        if not job_id:
+            continue
+        job_url = f"{BASE_URL}/public/jobs/{job_id}"
+        if job_url in seen or job_url in collected_urls:
+            print(f"[info] skipped duplicate url={job_url}")
+            continue
+        collected_urls.add(job_url)
+
+        payment = item.get("payment") or {}
+        budget, is_hourly = format_budget(payment)
+        if is_hourly:
+            print(f"[info] skipped hourly job url={job_url}")
+            continue
+        if offer.get("status") != "released":
+            print(f"[info] skipped unreleased job url={job_url}")
+            continue
+
+        title = str(offer.get("title") or "タイトル取得不可")
+        digest = str(offer.get("description_digest") or "")
+        skills = " ".join(str(skill.get("name") or "") for skill in offer.get("skills", []) if isinstance(skill, dict))
+        text = f"{title} {digest} {skills}"
+        applicants = format_applicants(item.get("entry") or {})
+        posted = str(offer.get("last_released_at") or offer.get("expired_on") or "不明")
+        priority, reason, caution = score_job(title, text, keyword, budget)
+        print(f"[info] scored priority={priority} keyword={keyword} title={title[:80]}")
+        jobs.append(
+            Job(
+                title=title,
+                url=job_url,
+                keyword=keyword,
+                search_url=url,
+                detail_text=text[:1000],
+                budget=budget,
+                applicants=applicants,
+                posted=posted,
+                priority=priority,
+                reason=reason,
+                caution=caution,
+            )
+        )
+        if len(jobs) >= MAX_NOTIFICATIONS:
+            return jobs
+    return jobs
+
+
 def extract_title(page_html: str) -> str:
     h1 = re.search(r"<h1[^>]*>([\s\S]*?)</h1>", page_html, flags=re.I)
     if h1:
@@ -303,7 +431,11 @@ def collect_from_pages(search_pages: list[tuple[str, str]], seen: dict) -> list[
             continue
 
         job_urls = extract_job_urls(page)
-        print(f"[info] keyword={keyword} found_urls={len(job_urls)}")
+        embedded_jobs = collect_embedded_jobs(page, keyword, url, seen, collected_urls)
+        jobs.extend(embedded_jobs)
+        print(f"[info] keyword={keyword} found_urls={len(job_urls)} embedded_jobs={len(embedded_jobs)}")
+        if len(jobs) >= MAX_NOTIFICATIONS:
+            return jobs
 
         for job_url in job_urls[:MAX_PER_KEYWORD]:
             if job_url in seen or job_url in collected_urls:
@@ -399,21 +531,22 @@ def slack_payload(jobs: list[Job]) -> dict:
     return {"text": f"クラウドワークス応募候補 {len(jobs)}件", "blocks": blocks[:45]}
 
 
-def notify_slack(payload: dict) -> None:
+def notify_slack(payload: dict) -> bool:
     webhook = os.getenv("SLACK_WEBHOOK_URL")
     if payload.get("empty") and os.getenv("CW_NOTIFY_EMPTY", "false").lower() != "true":
         print("[info] no new jobs. Slack notification skipped.")
-        return
+        return False
     if not webhook:
         print("[info] SLACK_WEBHOOK_URL is not set. Skipping notification.")
         print(json.dumps(payload, ensure_ascii=False, indent=2))
-        return
+        return False
 
     body = json.dumps(payload).encode("utf-8")
     req = Request(webhook, data=body, headers={"Content-Type": "application/json"}, method="POST")
     with urlopen(req, timeout=20) as res:
         if res.status >= 300:
             raise RuntimeError(f"Slack notification failed: {res.status}")
+    return True
 
 
 def main() -> int:
@@ -432,7 +565,11 @@ def main() -> int:
     payload = slack_payload(jobs)
     if not jobs:
         payload["empty"] = True
-    notify_slack(payload)
+    notification_sent = notify_slack(payload)
+    if jobs and not notification_sent:
+        print("[info] notification was not sent. seen_jobs update skipped.")
+        print(f"notified={len(jobs)}")
+        return 0
 
     for job in jobs:
         seen[job.url] = {
