@@ -139,12 +139,12 @@ def search_url(keyword: str) -> str:
 def extract_job_urls(search_html: str) -> list[str]:
     urls: list[str] = []
     seen_ids: set[str] = set()
-    for match in re.finditer(r'href=["\']([^"\']*/public/jobs/(\d+)[^"\']*)["\']', search_html):
-        job_id = match.group(2)
+    for match in re.finditer(r"(?:https?://crowdworks\.jp)?/public/jobs/(\d+)", search_html):
+        job_id = match.group(1)
         if job_id in seen_ids:
             continue
         seen_ids.add(job_id)
-        urls.append(urljoin(BASE_URL, match.group(1)))
+        urls.append(f"{BASE_URL}/public/jobs/{job_id}")
     return urls
 
 
@@ -231,8 +231,12 @@ def collect_jobs(keywords: list[str], seen: dict) -> list[Job]:
             print(f"[warn] search failed keyword={keyword}: {exc}", file=sys.stderr)
             continue
 
-        for job_url in extract_job_urls(page)[:MAX_PER_KEYWORD]:
+        job_urls = extract_job_urls(page)
+        print(f"[info] keyword={keyword} found_urls={len(job_urls)}")
+
+        for job_url in job_urls[:MAX_PER_KEYWORD]:
             if job_url in seen or job_url in collected_urls:
+                print(f"[info] skipped duplicate url={job_url}")
                 continue
             collected_urls.add(job_url)
 
@@ -249,6 +253,7 @@ def collect_jobs(keywords: list[str], seen: dict) -> list[Job]:
             applicants = extract_applicants(text)
             posted = extract_posted(text)
             priority, reason, caution = score_job(title, text, keyword, budget)
+            print(f"[info] scored priority={priority} keyword={keyword} title={title[:80]}")
             if priority == "低":
                 continue
             jobs.append(

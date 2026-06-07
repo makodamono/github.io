@@ -27,6 +27,7 @@ jobs:
       - name: Run watcher
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          CW_NOTIFY_EMPTY: "true"
         run: python3 cw-watch/watch_crowdworks.py
 
       - name: Commit seen jobs
