@@ -28,6 +28,8 @@ jobs:
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL || vars.SLACK_WEBHOOK_URL }}
           CW_NOTIFY_EMPTY: "true"
+          CW_MAX_PER_KEYWORD: "10"
+          CW_MAX_NOTIFICATIONS: "30"
         run: python3 cw-watch/watch_crowdworks.py
 
       - name: Commit seen jobs

@@ -1,0 +1,55 @@
+{
+  "genres": [
+    {
+      "name": "Web制作・サイト改善",
+      "url": "https://crowdworks.jp/public/jobs/group/web_products?order=new",
+      "keywords": [
+        "LP",
+        "LP制作",
+        "ランディングページ",
+        "ホームページ",
+        "ホームページ制作",
+        "Web制作",
+        "Webサイト制作",
+        "Webサイト修正",
+        "WordPress",
+        "STUDIO",
+        "HTML・CSSコーディング"
+      ]
+    },
+    {
+      "name": "Webディレクション",
+      "keywords": [
+        "Webディレクター",
+        "制作ディレクション",
+        "進行管理",
+        "LPディレクション",
+        "サイト制作ディレクション"
+      ]
+    },
+    {
+      "name": "業務自動化・AI活用",
+      "keywords": [
+        "GAS",
+        "Google Apps Script",
+        "スプレッドシート",
+        "スプレッドシート自動化",
+        "ChatGPT",
+        "AI活用",
+        "AI業務効率化",
+        "業務改善"
+      ]
+    },
+    {
+      "name": "リサーチ・データ収集",
+      "keywords": [
+        "営業リスト",
+        "営業リスト作成",
+        "Webリサーチ",
+        "リサーチ",
+        "データ収集",
+        "スクレイピング"
+      ]
+    }
+  ]
+}

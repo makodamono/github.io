@@ -5,10 +5,11 @@
 ## できること
 
 - キーワードごとに新着順で検索
+- ジャンルごとに関連キーワードとカテゴリURLをまとめて検索
 - Web制作などのカテゴリ/グループ一覧も巡回
 - クラウドワークス内検索で拾えない公開案件はBing RSS検索で補助取得
 - 案件URL単位で重複通知を防止
-- 低優先度/怪しい案件を除外
+- 募集終了/時給案件以外の新着案件をSlackへ通知
 - Slackへタイトル、URL、報酬、優先度、応募理由、注意点を通知
 
 ## GitHub Secrets
@@ -30,6 +31,7 @@ python3 watch_crowdworks.py
 
 - `keywords.json`: キーワード検索用
 - `sources.json`: カテゴリ/グループ一覧ページ用
+- `genres.json`: ジャンル別の検索キーワード/カテゴリURL用
 - `seen_jobs.json`: 通知済みURLの保存用
 
 `SLACK_WEBHOOK_URL` が未設定の場合は、Slack通知せずに通知内容を標準出力に表示します。

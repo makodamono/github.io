@@ -18,17 +18,23 @@ from urllib.request import Request, urlopen
 ROOT = Path(__file__).resolve().parent
 KEYWORDS_PATH = ROOT / "keywords.json"
 SOURCES_PATH = ROOT / "sources.json"
+GENRES_PATH = ROOT / "genres.json"
 SEEN_PATH = ROOT / "seen_jobs.json"
 BASE_URL = "https://crowdworks.jp"
 SEARCH_URL = f"{BASE_URL}/public/jobs/search"
-MAX_PER_KEYWORD = int(os.getenv("CW_MAX_PER_KEYWORD", "5"))
-MAX_NOTIFICATIONS = int(os.getenv("CW_MAX_NOTIFICATIONS", "8"))
+MAX_PER_KEYWORD = int(os.getenv("CW_MAX_PER_KEYWORD", "10"))
+MAX_NOTIFICATIONS = int(os.getenv("CW_MAX_NOTIFICATIONS", "30"))
 WEB_FALLBACK_ENABLED = os.getenv("CW_WEB_FALLBACK", "true").lower() == "true"
 WEB_FALLBACK_KEYWORDS = [
     "LP制作",
+    "LP（ランディングページ）制作・デザイン",
     "ランディングページ制作",
     "ホームページ制作",
+    "ホームページ作成",
+    "Webデザイン",
     "Webサイト制作",
+    "Webサイト修正・更新・機能追加",
+    "HTML・CSSコーディング",
     "WordPress",
     "STUDIO",
     "Webディレクター",
@@ -93,6 +99,20 @@ LOW_OR_RISK_TERMS = [
     "アカウント",
     "本人確認",
     "購入代行",
+]
+
+CLOSED_TERMS = [
+    "このお仕事の募集は終了しています",
+    "募集は終了しています",
+    "応募受付終了",
+    "募集終了",
+]
+
+HOURLY_TERMS = [
+    "時間単価制",
+    "時間単価",
+    "時給",
+    "hourly",
 ]
 
 
@@ -162,8 +182,8 @@ def search_url(keyword: str) -> str:
 
 
 def web_search_url(keyword: str) -> str:
-    query = f'site:crowdworks.jp/public/jobs/ "{keyword}" の仕事 の依頼'
-    return "https://www.bing.com/search?" + urlencode({"q": query, "format": "rss", "cc": "JP", "count": "10"})
+    query = f"site:crowdworks.jp/public/jobs/ {keyword} クラウドワークス 仕事 依頼"
+    return "https://www.bing.com/search?" + urlencode({"q": query, "cc": "JP", "mkt": "ja-JP", "count": "10"})
 
 
 def extract_job_urls(search_html: str) -> list[str]:
@@ -219,12 +239,18 @@ def extract_posted(text: str) -> str:
 
 def score_job(title: str, detail_text: str, keyword: str, budget: str) -> tuple[str, str, str]:
     blob = f"{title} {detail_text} {keyword}".lower()
+    closed_hits = [term for term in CLOSED_TERMS if term.lower() in blob]
+    hourly_hits = [term for term in HOURLY_TERMS if term.lower() in blob]
     risk_hits = [term for term in LOW_OR_RISK_TERMS if term.lower() in blob]
     high_hits = [term for term in HIGH_TERMS if term.lower() in blob]
     mid_hits = [term for term in MID_TERMS if term.lower() in blob]
 
     caution = "特になし"
-    if risk_hits:
+    if closed_hits:
+        caution = f"募集終了: {', '.join(closed_hits[:2])}"
+    elif hourly_hits:
+        caution = f"時給案件: {', '.join(hourly_hits[:2])}"
+    elif risk_hits:
         caution = f"注意ワード: {', '.join(risk_hits[:4])}"
 
     numeric_budget = 0
@@ -232,7 +258,13 @@ def score_job(title: str, detail_text: str, keyword: str, budget: str) -> tuple[
     if nums:
         numeric_budget = max(nums)
 
-    if risk_hits:
+    if closed_hits:
+        priority = "低"
+        reason = "募集終了の可能性が高いため通知対象外です。"
+    elif hourly_hits:
+        priority = "低"
+        reason = "時給案件のため通知対象外です。"
+    elif risk_hits:
         priority = "低"
         reason = "注意ワードが含まれるため、応募前に内容確認が必要です。"
     elif high_hits and (numeric_budget >= 10000 or budget == "不明"):
@@ -247,6 +279,16 @@ def score_job(title: str, detail_text: str, keyword: str, budget: str) -> tuple[
         reason = "検索語には一致しましたが、強いマッチ理由は薄めです。"
 
     return priority, reason, caution
+
+
+def is_closed_job(text: str) -> bool:
+    blob = text.lower()
+    return any(term.lower() in blob for term in CLOSED_TERMS)
+
+
+def is_hourly_job(text: str) -> bool:
+    blob = text.lower()
+    return any(term.lower() in blob for term in HOURLY_TERMS)
 
 
 def collect_from_pages(search_pages: list[tuple[str, str]], seen: dict) -> list[Job]:
@@ -283,7 +325,11 @@ def collect_from_pages(search_pages: list[tuple[str, str]], seen: dict) -> list[
             posted = extract_posted(text)
             priority, reason, caution = score_job(title, text, keyword, budget)
             print(f"[info] scored priority={priority} keyword={keyword} title={title[:80]}")
-            if priority == "低":
+            if is_closed_job(text):
+                print(f"[info] skipped closed job url={job_url}")
+                continue
+            if is_hourly_job(text):
+                print(f"[info] skipped hourly job url={job_url}")
                 continue
             jobs.append(
                 Job(
@@ -312,15 +358,26 @@ def collect_jobs(keywords: list[str], sources: list[dict], seen: dict) -> list[J
         url = str(source.get("url") or "").strip()
         if url:
             search_pages.append((name, url))
+    genres_data = load_json(GENRES_PATH, {"genres": []})
+    genres = [genre for genre in genres_data.get("genres", []) if isinstance(genre, dict)]
+    for genre in genres:
+        name = str(genre.get("name") or "genre").strip()
+        url = str(genre.get("url") or "").strip()
+        if url:
+            search_pages.append((f"ジャンル:{name}", url))
+        for keyword in genre.get("keywords", []):
+            keyword = str(keyword).strip()
+            if keyword:
+                search_pages.append((f"ジャンル:{name}/{keyword}", search_url(keyword)))
     if WEB_FALLBACK_ENABLED:
-        fallback_keywords = [keyword for keyword in WEB_FALLBACK_KEYWORDS if keyword in keywords]
+        fallback_keywords = list(dict.fromkeys(WEB_FALLBACK_KEYWORDS))
         search_pages.extend((f"外部検索:{keyword}", web_search_url(keyword)) for keyword in fallback_keywords)
     return collect_from_pages(search_pages, seen)
 
 
 def slack_payload(jobs: list[Job]) -> dict:
     if not jobs:
-        return {"text": "クラウドワークス案件監視: 新規の高/中優先度案件なし"}
+        return {"text": "クラウドワークス案件監視: 新規案件なし"}
 
     blocks = [
         {
@@ -333,7 +390,7 @@ def slack_payload(jobs: list[Job]) -> dict:
             f"*<{job.url}|{job.title[:90]}>*\n"
             f"優先度: *{job.priority}* / 検索語: `{job.keyword}`\n"
             f"報酬: {job.budget} / 応募人数: {job.applicants} / 掲載: {job.posted}\n"
-            f"応募理由: {job.reason}\n"
+            f"判定: {job.reason}\n"
             f"注意点: {job.caution}\n"
             f"応募文: このURLをCodexに貼って「応募文作って」でOK"
         )
