@@ -23,6 +23,21 @@ BASE_URL = "https://crowdworks.jp"
 SEARCH_URL = f"{BASE_URL}/public/jobs/search"
 MAX_PER_KEYWORD = int(os.getenv("CW_MAX_PER_KEYWORD", "5"))
 MAX_NOTIFICATIONS = int(os.getenv("CW_MAX_NOTIFICATIONS", "8"))
+WEB_FALLBACK_ENABLED = os.getenv("CW_WEB_FALLBACK", "true").lower() == "true"
+WEB_FALLBACK_KEYWORDS = [
+    "LP制作",
+    "ランディングページ制作",
+    "ホームページ制作",
+    "Webサイト制作",
+    "WordPress",
+    "STUDIO",
+    "Webディレクター",
+    "GAS",
+    "Google Apps Script",
+    "AI業務効率化",
+    "営業リスト作成",
+    "スクレイピング",
+]
 
 HIGH_TERMS = [
     "lp",
@@ -138,12 +153,17 @@ def search_url(keyword: str) -> str:
     query = urlencode(
         {
             "search[keywords]": keyword,
-            "keep_search_criteria": "true",
+            "keep_search_criteria": "false",
             "order": "new",
-            "hide_expired": "false",
+            "hide_expired": "true",
         }
     )
     return f"{SEARCH_URL}?{query}"
+
+
+def web_search_url(keyword: str) -> str:
+    query = f'site:crowdworks.jp/public/jobs/ "{keyword}" の仕事 の依頼'
+    return "https://www.bing.com/search?" + urlencode({"q": query, "format": "rss", "cc": "JP", "count": "10"})
 
 
 def extract_job_urls(search_html: str) -> list[str]:
@@ -292,6 +312,9 @@ def collect_jobs(keywords: list[str], sources: list[dict], seen: dict) -> list[J
         url = str(source.get("url") or "").strip()
         if url:
             search_pages.append((name, url))
+    if WEB_FALLBACK_ENABLED:
+        fallback_keywords = [keyword for keyword in WEB_FALLBACK_KEYWORDS if keyword in keywords]
+        search_pages.extend((f"外部検索:{keyword}", web_search_url(keyword)) for keyword in fallback_keywords)
     return collect_from_pages(search_pages, seen)
 
 
