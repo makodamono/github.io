@@ -30,6 +30,7 @@ jobs:
           CW_NOTIFY_EMPTY: "true"
           CW_MAX_PER_KEYWORD: "10"
           CW_MAX_NOTIFICATIONS: "30"
+          CW_NOTIFY_PRIORITIES: "高"
         run: python3 cw-watch/watch_crowdworks.py
 
       - name: Commit seen jobs

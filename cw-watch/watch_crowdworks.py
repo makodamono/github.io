@@ -24,6 +24,7 @@ BASE_URL = "https://crowdworks.jp"
 SEARCH_URL = f"{BASE_URL}/public/jobs/search"
 MAX_PER_KEYWORD = int(os.getenv("CW_MAX_PER_KEYWORD", "10"))
 MAX_NOTIFICATIONS = int(os.getenv("CW_MAX_NOTIFICATIONS", "30"))
+NOTIFY_PRIORITIES = {value.strip() for value in os.getenv("CW_NOTIFY_PRIORITIES", "高").split(",") if value.strip()}
 WEB_FALLBACK_ENABLED = os.getenv("CW_WEB_FALLBACK", "true").lower() == "true"
 WEB_FALLBACK_KEYWORDS = [
     "LP制作",
@@ -263,7 +264,14 @@ def format_applicants(entry: dict) -> str:
     return "不明"
 
 
-def collect_embedded_jobs(search_html: str, keyword: str, url: str, seen: dict, collected_urls: set[str]) -> list[Job]:
+def collect_embedded_jobs(
+    search_html: str,
+    keyword: str,
+    url: str,
+    seen: dict,
+    collected_urls: set[str],
+    stats: dict[str, int],
+) -> list[Job]:
     data = extract_vue_data(search_html)
     if not data:
         return []
@@ -292,9 +300,11 @@ def collect_embedded_jobs(search_html: str, keyword: str, url: str, seen: dict, 
         payment = item.get("payment") or {}
         budget, is_hourly = format_budget(payment)
         if is_hourly:
+            stats["時給"] += 1
             print(f"[info] skipped hourly job url={job_url}")
             continue
         if offer.get("status") != "released":
+            stats["募集終了"] += 1
             print(f"[info] skipped unreleased job url={job_url}")
             continue
 
@@ -305,7 +315,12 @@ def collect_embedded_jobs(search_html: str, keyword: str, url: str, seen: dict, 
         applicants = format_applicants(item.get("entry") or {})
         posted = str(offer.get("last_released_at") or offer.get("expired_on") or "不明")
         priority, reason, caution = score_job(title, text, keyword, budget)
+        stats[priority] = stats.get(priority, 0) + 1
         print(f"[info] scored priority={priority} keyword={keyword} title={title[:80]}")
+        if not should_notify(priority):
+            print(f"[info] skipped priority={priority} url={job_url}")
+            continue
+        stats["通知対象"] += 1
         jobs.append(
             Job(
                 title=title,
@@ -419,9 +434,26 @@ def is_hourly_job(text: str) -> bool:
     return any(term.lower() in blob for term in HOURLY_TERMS)
 
 
+def should_notify(priority: str) -> bool:
+    return priority in NOTIFY_PRIORITIES
+
+
+def print_stats(stats: dict[str, int]) -> None:
+    print(
+        "[summary] "
+        f"高={stats.get('高', 0)} "
+        f"中={stats.get('中', 0)} "
+        f"低={stats.get('低', 0)} "
+        f"時給={stats.get('時給', 0)} "
+        f"募集終了={stats.get('募集終了', 0)} "
+        f"通知対象={stats.get('通知対象', 0)}"
+    )
+
+
 def collect_from_pages(search_pages: list[tuple[str, str]], seen: dict) -> list[Job]:
     jobs: list[Job] = []
     collected_urls: set[str] = set()
+    stats: dict[str, int] = {"高": 0, "中": 0, "低": 0, "時給": 0, "募集終了": 0, "通知対象": 0}
 
     for keyword, url in search_pages:
         try:
@@ -431,10 +463,11 @@ def collect_from_pages(search_pages: list[tuple[str, str]], seen: dict) -> list[
             continue
 
         job_urls = extract_job_urls(page)
-        embedded_jobs = collect_embedded_jobs(page, keyword, url, seen, collected_urls)
+        embedded_jobs = collect_embedded_jobs(page, keyword, url, seen, collected_urls, stats)
         jobs.extend(embedded_jobs)
         print(f"[info] keyword={keyword} found_urls={len(job_urls)} embedded_jobs={len(embedded_jobs)}")
         if len(jobs) >= MAX_NOTIFICATIONS:
+            print_stats(stats)
             return jobs
 
         for job_url in job_urls[:MAX_PER_KEYWORD]:
@@ -456,13 +489,20 @@ def collect_from_pages(search_pages: list[tuple[str, str]], seen: dict) -> list[
             applicants = extract_applicants(text)
             posted = extract_posted(text)
             priority, reason, caution = score_job(title, text, keyword, budget)
+            stats[priority] = stats.get(priority, 0) + 1
             print(f"[info] scored priority={priority} keyword={keyword} title={title[:80]}")
             if is_closed_job(text):
+                stats["募集終了"] += 1
                 print(f"[info] skipped closed job url={job_url}")
                 continue
             if is_hourly_job(text):
+                stats["時給"] += 1
                 print(f"[info] skipped hourly job url={job_url}")
                 continue
+            if not should_notify(priority):
+                print(f"[info] skipped priority={priority} url={job_url}")
+                continue
+            stats["通知対象"] += 1
             jobs.append(
                 Job(
                     title=title,
@@ -479,7 +519,9 @@ def collect_from_pages(search_pages: list[tuple[str, str]], seen: dict) -> list[
                 )
             )
             if len(jobs) >= MAX_NOTIFICATIONS:
+                print_stats(stats)
                 return jobs
+    print_stats(stats)
     return jobs
 
 

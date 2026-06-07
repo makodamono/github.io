@@ -11,6 +11,7 @@
 - 案件URL単位で重複通知を防止
 - 募集終了/時給案件以外の新着案件をSlackへ通知
 - Slackへタイトル、URL、報酬、優先度、応募理由、注意点を通知
+- 現在は `CW_NOTIFY_PRIORITIES=高` で高優先度のみ通知
 
 ## GitHub Secrets
 
@@ -37,6 +38,8 @@ python3 watch_crowdworks.py
 `SLACK_WEBHOOK_URL` が未設定の場合は、Slack通知せずに通知内容を標準出力に表示します。
 
 `CW_WEB_FALLBACK=false` を設定すると、Bing RSS検索による補助取得を停止できます。
+
+`CW_NOTIFY_PRIORITIES=高,中` のように設定すると、通知する優先度を変更できます。
 
 ## 注意
 
