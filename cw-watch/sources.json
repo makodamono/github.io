@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "name": "Web制作グループ",
+      "url": "https://crowdworks.jp/public/jobs/group/web_products?order=new"
+    },
+    {
+      "name": "システム開発グループ",
+      "url": "https://crowdworks.jp/public/jobs/group/system?order=new"
+    },
+    {
+      "name": "ビジネスグループ",
+      "url": "https://crowdworks.jp/public/jobs/group/business?order=new"
+    },
+    {
+      "name": "LP制作カテゴリ候補",
+      "url": "https://crowdworks.jp/public/jobs/category/17?order=new"
+    }
+  ]
+}

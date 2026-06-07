@@ -17,6 +17,7 @@ from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parent
 KEYWORDS_PATH = ROOT / "keywords.json"
+SOURCES_PATH = ROOT / "sources.json"
 SEEN_PATH = ROOT / "seen_jobs.json"
 BASE_URL = "https://crowdworks.jp"
 SEARCH_URL = f"{BASE_URL}/public/jobs/search"
@@ -228,12 +229,11 @@ def score_job(title: str, detail_text: str, keyword: str, budget: str) -> tuple[
     return priority, reason, caution
 
 
-def collect_jobs(keywords: list[str], seen: dict) -> list[Job]:
+def collect_from_pages(search_pages: list[tuple[str, str]], seen: dict) -> list[Job]:
     jobs: list[Job] = []
     collected_urls: set[str] = set()
 
-    for keyword in keywords:
-        url = search_url(keyword)
+    for keyword, url in search_pages:
         try:
             page = fetch(url)
         except Exception as exc:
@@ -285,6 +285,16 @@ def collect_jobs(keywords: list[str], seen: dict) -> list[Job]:
     return jobs
 
 
+def collect_jobs(keywords: list[str], sources: list[dict], seen: dict) -> list[Job]:
+    search_pages = [(keyword, search_url(keyword)) for keyword in keywords]
+    for source in sources:
+        name = str(source.get("name") or "source").strip()
+        url = str(source.get("url") or "").strip()
+        if url:
+            search_pages.append((name, url))
+    return collect_from_pages(search_pages, seen)
+
+
 def slack_payload(jobs: list[Job]) -> dict:
     if not jobs:
         return {"text": "クラウドワークス案件監視: 新規の高/中優先度案件なし"}
@@ -329,6 +339,8 @@ def notify_slack(payload: dict) -> None:
 def main() -> int:
     keywords_data = load_json(KEYWORDS_PATH, {"keywords": []})
     keywords = [str(k).strip() for k in keywords_data.get("keywords", []) if str(k).strip()]
+    sources_data = load_json(SOURCES_PATH, {"sources": []})
+    sources = [source for source in sources_data.get("sources", []) if isinstance(source, dict) and source.get("url")]
     if not keywords:
         print("No keywords configured.", file=sys.stderr)
         return 1
@@ -336,7 +348,7 @@ def main() -> int:
     seen_data = load_json(SEEN_PATH, {"seen": {}})
     seen = seen_data.setdefault("seen", {})
 
-    jobs = collect_jobs(keywords, seen)
+    jobs = collect_jobs(keywords, sources, seen)
     payload = slack_payload(jobs)
     if not jobs:
         payload["empty"] = True
