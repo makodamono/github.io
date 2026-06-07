@@ -1,0 +1,39 @@
+name: CrowdWorks Watch
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run watcher
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python3 cw-watch/watch_crowdworks.py
+
+      - name: Commit seen jobs
+        run: |
+          if git diff --quiet -- cw-watch/seen_jobs.json; then
+            echo "No seen_jobs changes"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add cw-watch/seen_jobs.json
+            git commit -m "Update seen CrowdWorks jobs"
+            git push
+          fi
