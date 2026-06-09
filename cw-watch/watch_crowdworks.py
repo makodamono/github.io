@@ -142,6 +142,11 @@ EXCLUDED_WORK_TERMS = [
     "テレアポ",
     "電話営業",
     "コールセンター",
+    # Advertising campaign operation
+    "広告運用",
+    "広告運用者",
+    "meta広告",
+    "リスティング広告",
 ]
 
 CLOSED_TERMS = [
