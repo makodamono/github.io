@@ -103,6 +103,46 @@ LOW_OR_RISK_TERMS = [
     "購入代行",
 ]
 
+EXCLUDED_WORK_TERMS = [
+    # Video, filming, and on-camera work
+    "動画制作",
+    "動画編集",
+    "動画作成",
+    "映像制作",
+    "映像編集",
+    "映像撮影",
+    "写真撮影",
+    "撮影スタッフ",
+    "顔出し出演",
+    "ナレーション",
+    "司会",
+    # Standalone visual/design production
+    "バナー制作",
+    "バナー作成",
+    "バナーデザイン",
+    "画像制作",
+    "画像作成",
+    "商品画像",
+    "サムネイル",
+    "ロゴ制作",
+    "ロゴ作成",
+    "名刺デザイン",
+    "チラシ制作",
+    "フライヤー制作",
+    "イラスト制作",
+    # Customer support and phone-based sales/support
+    "カスタマーサポート",
+    "問い合わせ対応",
+    "顧客対応",
+    "電話対応",
+    "電話サポート",
+    "受電",
+    "架電",
+    "テレアポ",
+    "電話営業",
+    "コールセンター",
+]
+
 CLOSED_TERMS = [
     "このお仕事の募集は終了しています",
     "募集は終了しています",
@@ -313,6 +353,11 @@ def collect_embedded_jobs(
         digest = str(offer.get("description_digest") or "")
         skills = " ".join(str(skill.get("name") or "") for skill in offer.get("skills", []) if isinstance(skill, dict))
         text = f"{title} {digest} {skills}"
+        excluded_hits = excluded_work_hits(title, text)
+        if excluded_hits:
+            stats["業務除外"] += 1
+            print(f"[info] skipped excluded work terms={','.join(excluded_hits[:4])} url={job_url}")
+            continue
         applicants = format_applicants(item.get("entry") or {})
         posted = str(offer.get("last_released_at") or offer.get("expired_on") or "不明")
         priority, reason, caution = score_job(title, text, keyword, budget)
@@ -425,6 +470,11 @@ def score_job(title: str, detail_text: str, keyword: str, budget: str) -> tuple[
     return priority, reason, caution
 
 
+def excluded_work_hits(title: str, detail_text: str) -> list[str]:
+    blob = f"{title} {detail_text}".lower()
+    return [term for term in EXCLUDED_WORK_TERMS if term.lower() in blob]
+
+
 def is_closed_job(text: str) -> bool:
     blob = text.lower()
     return any(term.lower() in blob for term in CLOSED_TERMS)
@@ -445,6 +495,7 @@ def print_stats(stats: dict[str, int]) -> None:
         f"高={stats.get('高', 0)} "
         f"中={stats.get('中', 0)} "
         f"低={stats.get('低', 0)} "
+        f"業務除外={stats.get('業務除外', 0)} "
         f"時給={stats.get('時給', 0)} "
         f"募集終了={stats.get('募集終了', 0)} "
         f"通知対象={stats.get('通知対象', 0)}"
@@ -454,7 +505,15 @@ def print_stats(stats: dict[str, int]) -> None:
 def collect_from_pages(search_pages: list[tuple[str, str]], seen: dict) -> list[Job]:
     jobs: list[Job] = []
     collected_urls: set[str] = set()
-    stats: dict[str, int] = {"高": 0, "中": 0, "低": 0, "時給": 0, "募集終了": 0, "通知対象": 0}
+    stats: dict[str, int] = {
+        "高": 0,
+        "中": 0,
+        "低": 0,
+        "業務除外": 0,
+        "時給": 0,
+        "募集終了": 0,
+        "通知対象": 0,
+    }
 
     for keyword, url in search_pages:
         try:
@@ -486,6 +545,11 @@ def collect_from_pages(search_pages: list[tuple[str, str]], seen: dict) -> list[
 
             title = extract_title(detail_html)
             text = strip_tags(detail_html)
+            excluded_hits = excluded_work_hits(title, text)
+            if excluded_hits:
+                stats["業務除外"] += 1
+                print(f"[info] skipped excluded work terms={','.join(excluded_hits[:4])} url={job_url}")
+                continue
             budget = extract_budget(text)
             applicants = extract_applicants(text)
             posted = extract_posted(text)
