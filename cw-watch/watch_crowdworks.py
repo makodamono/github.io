@@ -24,6 +24,7 @@ BASE_URL = "https://crowdworks.jp"
 SEARCH_URL = f"{BASE_URL}/public/jobs/search"
 MAX_PER_KEYWORD = int(os.getenv("CW_MAX_PER_KEYWORD", "10"))
 MAX_NOTIFICATIONS = int(os.getenv("CW_MAX_NOTIFICATIONS", "30"))
+SLACK_JOBS_PER_MESSAGE = 20
 NOTIFY_PRIORITIES = {value.strip() for value in os.getenv("CW_NOTIFY_PRIORITIES", "高").split(",") if value.strip()}
 WEB_FALLBACK_ENABLED = os.getenv("CW_WEB_FALLBACK", "true").lower() == "true"
 WEB_FALLBACK_KEYWORDS = [
@@ -526,37 +527,56 @@ def collect_from_pages(search_pages: list[tuple[str, str]], seen: dict) -> list[
 
 
 def collect_jobs(keywords: list[str], sources: list[dict], seen: dict) -> list[Job]:
-    search_pages = [(keyword, search_url(keyword)) for keyword in keywords]
+    search_pages: list[tuple[str, str]] = []
+    added_urls: set[str] = set()
+
+    def add_search_page(name: str, url: str) -> None:
+        if url and url not in added_urls:
+            added_urls.add(url)
+            search_pages.append((name, url))
+
+    # Check broad/category new-job feeds first so fresh listings are not
+    # crowded out by repeated keyword results.
     for source in sources:
         name = str(source.get("name") or "source").strip()
         url = str(source.get("url") or "").strip()
-        if url:
-            search_pages.append((name, url))
+        add_search_page(name, url)
+
     genres_data = load_json(GENRES_PATH, {"genres": []})
     genres = [genre for genre in genres_data.get("genres", []) if isinstance(genre, dict)]
     for genre in genres:
         name = str(genre.get("name") or "genre").strip()
         url = str(genre.get("url") or "").strip()
-        if url:
-            search_pages.append((f"ジャンル:{name}", url))
+        add_search_page(f"ジャンル:{name}", url)
+
+    for keyword in keywords:
+        add_search_page(keyword, search_url(keyword))
+
+    for genre in genres:
+        name = str(genre.get("name") or "genre").strip()
         for keyword in genre.get("keywords", []):
             keyword = str(keyword).strip()
             if keyword:
-                search_pages.append((f"ジャンル:{name}/{keyword}", search_url(keyword)))
+                add_search_page(f"ジャンル:{name}/{keyword}", search_url(keyword))
+
     if WEB_FALLBACK_ENABLED:
         fallback_keywords = list(dict.fromkeys(WEB_FALLBACK_KEYWORDS))
-        search_pages.extend((f"外部検索:{keyword}", web_search_url(keyword)) for keyword in fallback_keywords)
+        for keyword in fallback_keywords:
+            add_search_page(f"外部検索:{keyword}", web_search_url(keyword))
     return collect_from_pages(search_pages, seen)
 
 
-def slack_payload(jobs: list[Job]) -> dict:
+def slack_payload(jobs: list[Job], part: str = "") -> dict:
     if not jobs:
         return {"text": "クラウドワークス案件監視: 新規案件なし"}
 
+    heading = f"クラウドワークス応募候補 {len(jobs)}件"
+    if part:
+        heading += f"（{part}）"
     blocks = [
         {
             "type": "header",
-            "text": {"type": "plain_text", "text": f"クラウドワークス応募候補 {len(jobs)}件", "emoji": True},
+            "text": {"type": "plain_text", "text": heading, "emoji": True},
         }
     ]
     for job in jobs:
@@ -570,7 +590,7 @@ def slack_payload(jobs: list[Job]) -> dict:
         )
         blocks.append({"type": "section", "text": {"type": "mrkdwn", "text": text}})
         blocks.append({"type": "divider"})
-    return {"text": f"クラウドワークス応募候補 {len(jobs)}件", "blocks": blocks[:45]}
+    return {"text": heading, "blocks": blocks}
 
 
 def notify_slack(payload: dict) -> bool:
@@ -604,16 +624,30 @@ def main() -> int:
     seen = seen_data.setdefault("seen", {})
 
     jobs = collect_jobs(keywords, sources, seen)
-    payload = slack_payload(jobs)
     if not jobs:
+        payload = slack_payload([])
         payload["empty"] = True
-    notification_sent = notify_slack(payload)
-    if jobs and not notification_sent:
+        notify_slack(payload)
+        print("notified=0")
+        return 0
+
+    chunks = [
+        jobs[index : index + SLACK_JOBS_PER_MESSAGE]
+        for index in range(0, len(jobs), SLACK_JOBS_PER_MESSAGE)
+    ]
+    notified_jobs: list[Job] = []
+    for index, chunk in enumerate(chunks, start=1):
+        part = f"{index}/{len(chunks)}" if len(chunks) > 1 else ""
+        if not notify_slack(slack_payload(chunk, part)):
+            break
+        notified_jobs.extend(chunk)
+
+    if not notified_jobs:
         print("[info] notification was not sent. seen_jobs update skipped.")
         print(f"notified={len(jobs)}")
         return 0
 
-    for job in jobs:
+    for job in notified_jobs:
         seen[job.url] = {
             "title": job.title,
             "keyword": job.keyword,
@@ -627,7 +661,7 @@ def main() -> int:
         seen_data["seen"] = dict(items)
 
     save_json(SEEN_PATH, seen_data)
-    print(f"notified={len(jobs)}")
+    print(f"notified={len(notified_jobs)}")
     return 0
 
 
