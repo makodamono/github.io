@@ -25,6 +25,7 @@ SEARCH_URL = f"{BASE_URL}/public/jobs/search"
 MAX_PER_KEYWORD = int(os.getenv("CW_MAX_PER_KEYWORD", "10"))
 MAX_NOTIFICATIONS = int(os.getenv("CW_MAX_NOTIFICATIONS", "30"))
 SLACK_JOBS_PER_MESSAGE = 20
+IGNORE_SEEN = os.getenv("CW_IGNORE_SEEN", "false").lower() == "true"
 NOTIFY_PRIORITIES = {value.strip() for value in os.getenv("CW_NOTIFY_PRIORITIES", "高").split(",") if value.strip()}
 WEB_FALLBACK_ENABLED = os.getenv("CW_WEB_FALLBACK", "true").lower() == "true"
 WEB_FALLBACK_KEYWORDS = [
@@ -687,7 +688,7 @@ def main() -> int:
     seen_data = load_json(SEEN_PATH, {"seen": {}})
     seen = seen_data.setdefault("seen", {})
 
-    jobs = collect_jobs(keywords, sources, seen)
+    jobs = collect_jobs(keywords, sources, {} if IGNORE_SEEN else seen)
     if not jobs:
         payload = slack_payload([])
         payload["empty"] = True

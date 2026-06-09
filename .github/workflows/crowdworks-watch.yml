@@ -4,6 +4,16 @@ on:
   schedule:
     - cron: "*/10 * * * *"
   workflow_dispatch:
+    inputs:
+      max_notifications:
+        description: "Maximum jobs to notify"
+        required: false
+        default: "80"
+      ignore_seen:
+        description: "Include previously notified jobs"
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -29,7 +39,8 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL || vars.SLACK_WEBHOOK_URL }}
           CW_NOTIFY_EMPTY: "true"
           CW_MAX_PER_KEYWORD: "30"
-          CW_MAX_NOTIFICATIONS: "80"
+          CW_MAX_NOTIFICATIONS: ${{ inputs.max_notifications || '80' }}
+          CW_IGNORE_SEEN: ${{ inputs.ignore_seen || 'false' }}
           CW_NOTIFY_PRIORITIES: "高"
         run: python3 cw-watch/watch_crowdworks.py
 
