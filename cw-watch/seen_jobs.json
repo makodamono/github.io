@@ -2591,6 +2591,12 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-06-14T20:18:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13239228": {
+      "title": "Stable Diffusion 環境構築依頼",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-06-14T22:52:56+00:00"
     }
   }
 }
