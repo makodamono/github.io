@@ -2471,6 +2471,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-06-13T23:49:04+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13238256": {
+      "title": "【動画字幕（SRT）修正作業｜継続依頼あり】",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-14T02:04:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13238177": {
+      "title": "【Pythonテストツール制作】ローカル環境で動作する画像の自動マスキング（墨消し）ツール開発",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-06-14T02:04:33+00:00"
     }
   }
 }
