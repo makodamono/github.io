@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13223223": {
-      "title": "【LPデザイン改善＋コーディング依頼】UI/UX・アニメーション表現が得意なWebデザイナー募集",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-06-07T21:53:35+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13223203": {
       "title": "【継続案件あり】｜AI活用LP制作スタッフ募集",
       "keyword": "LP",
@@ -2999,6 +2993,12 @@
       "keyword": "LP",
       "priority": "高",
       "notified_at": "2026-06-15T22:22:41+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13221216": {
+      "title": "【20代の人大歓迎！！！】海外旅行体験のnote記事ライター募集！",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-06-16T00:07:51+00:00"
     }
   }
 }
