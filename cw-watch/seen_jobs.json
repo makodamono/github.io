@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13218670": {
-      "title": "【フリーの視点を手に入れる✨】最新の美容・ダイエット領域を支えるSNS戦略・運用パートナー募集",
-      "keyword": "Webディレクター",
-      "priority": "高",
-      "notified_at": "2026-06-07T22:35:03+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13216197": {
-      "title": "【経験不問】お客様の窓口（フロント）を担当するWebディレクター・Webデザイナー募集！",
-      "keyword": "Webディレクター",
-      "priority": "高",
-      "notified_at": "2026-06-07T22:35:03+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13213209": {
-      "title": "【完全リモート・副業可】Webデザイナー募集",
-      "keyword": "Webディレクター",
-      "priority": "高",
-      "notified_at": "2026-06-07T22:35:03+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13199975": {
       "title": "⭐【Webディレクター】自社宿泊施設の直販比率向上に向けたWebマーケティングディレクター業務案件・JA-085588⭐",
       "keyword": "Webディレクター",
@@ -2999,6 +2981,24 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-06-16T15:25:53+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13244640": {
+      "title": "AIを使ったマイクロアプリケーションを開発してくれるエンジニアの方を募集します。",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-16T19:01:09+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13244604": {
+      "title": "自社ECサイトの商品ページのデザイン更新。（経験者・実績ある方のみ）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-16T19:01:09+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13244610": {
+      "title": "Stable Diffusion 環境構築依頼",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-06-16T19:01:09+00:00"
     }
   }
 }
