@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13222970": {
-      "title": "【急募】スプレッドシートへの簡単入力作業＊30分で完了するお仕事",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-07T22:35:03+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13222837": {
       "title": "【完全在宅/未経験OK】ネットなどから3つの情報を集めるだけ！リスト作成業務",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-06-16T21:43:45+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13215576": {
+      "title": "【freee API連携×GAS】複数ECブランドの管理会計ダッシュボード（スプレッドシート）構築のお願い",
+      "keyword": "GAS",
+      "priority": "高",
+      "notified_at": "2026-06-16T23:11:56+00:00"
     }
   }
 }
