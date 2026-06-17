@@ -1,53 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13225547": {
-      "title": "生成AI研修で使用する資料や動画の撮影依頼",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-06-08T11:54:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13224073": {
-      "title": "【1文字1.5円】【長期継続前提】AI系チャンネルのライター募集",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-06-08T11:54:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13224094": {
-      "title": "【1台本5,000円】【長期継続前提】AI系チャンネルの台本チェッカー募集",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-06-08T11:54:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13224871": {
-      "title": "ご請求業務のみの代理店募集",
-      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
-      "priority": "高",
-      "notified_at": "2026-06-08T11:54:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13211639": {
-      "title": "コーヒーが好きな方！おしゃれなカフェのサムネイル制作をお願いします⭐️",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-06-08T15:28:53+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13225880": {
-      "title": "領収書・経費データを科目別に仕分けしてSheetsへ入力する作業（1件100〜200円 / 在宅・PC）",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-08T15:28:53+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13226178": {
-      "title": "★万年筆好き必見★【完全在宅】可愛い万年筆のインスタグラム海外向けAI画像加工、投稿代行",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-08T15:28:53+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13226049": {
-      "title": "【長期歓迎】関東の観光スポット紹介Instagram投稿作成者募集！フィード投稿作成、Canva制作",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-09T01:39:36+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13216847": {
       "title": "レトロな画質やフィルム風の写真が好きな方におすすめ｜投稿画像制作パートナー募集",
       "keyword": "Web制作グループ",
@@ -2999,6 +2951,54 @@
       "keyword": "営業リスト作成",
       "priority": "高",
       "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13247053": {
+      "title": "イベントのホームページ作成",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-17T17:35:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13247047": {
+      "title": "1件40件〜【継続あり・完全在宅】Web制作会社のリスト作成・問い合わせフォーム送信・その他",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-17T17:35:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13247017": {
+      "title": "【新ブランド✨】グラノーラのSNSバナー・LPデザイン（Figma/Studio）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-17T17:35:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13247011": {
+      "title": "（依頼料:8千円）wordpress ワードプレスでのホームページ作成 ",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-17T17:35:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13246993": {
+      "title": "【フィード投稿デザイン】医療・美容の知識を届ける｜SNS運用サポート",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-17T17:35:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13246946": {
+      "title": "【タイトル例】 【Illustrator納品/8P】マンション大規模修繕・防水工事会社の営業用パンフレット作成",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-06-17T17:35:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13224373": {
+      "title": "スプレッドシート拡張ツール開発依頼",
+      "keyword": "スプレッドシート自動化",
+      "priority": "高",
+      "notified_at": "2026-06-17T17:35:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13246072": {
+      "title": "【急募】企業のYouTubeディレクター募集！SNS運用／動画マーケティング【継続依頼・複数案件可・リモート中心】",
+      "keyword": "AI活用",
+      "priority": "高",
+      "notified_at": "2026-06-17T17:35:35+00:00"
     }
   }
 }
