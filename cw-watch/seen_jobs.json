@@ -1,113 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13224951": {
-      "title": "ナレーター募集【YouTubeの声優・ナレーション】長期継続あり",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-08T06:58:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13224373": {
-      "title": "スプレッドシート拡張ツール開発依頼",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-08T06:58:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13224394": {
-      "title": "生成AI研修で使用する資料や動画の撮影依頼",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-06-08T06:58:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13184322": {
-      "title": "【ショート動画】台本あり！実績獲得に！縦型ショート動画制作",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-08T06:58:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13225024": {
-      "title": "ぬいぐるみキーホルダー用2Dイラスト制作",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-08T06:58:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13195858": {
-      "title": "【急募！！】1本5,000円〜/ 素材選びからアニメーションまで任せられる方、即採用＆即発注！ショート動画制作クリエイター募集",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-06-08T06:58:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13222431": {
-      "title": "YouTubeディレクター募集｜異業種出身メンバーが多数活躍中！成果追求型のSNSマーケティング【リモート中心・継続依頼可】",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-06-08T06:58:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13056965": {
-      "title": "【月30万円☆】YouTube登録60万人（トラブルバスターズ）のサムネイルのディレクター募集です！月30枚程度",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-08T06:58:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13224595": {
-      "title": "顧客アンケートの回答をタグ付け・カテゴリ別に集計するデータ整理（月5万〜10万円 / 在宅・PC）",
-      "keyword": "ジャンル:業務自動化・AI活用/スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-08T06:58:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13225550": {
-      "title": "【商品の監修依頼】皮膚科医・エステティシャンさん 募集/脱毛器の監修/★報酬15,000円",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-06-08T11:54:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13225457": {
-      "title": "骨付鳥の商品撮影を依頼2.0",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-06-08T11:54:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13224545": {
-      "title": "【SP用LPデザイン】ビジネス向け速読スクールのランディングページ制作（Figma納品）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-09T01:39:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13225515": {
-      "title": "歯科医師・歯科衛生士向け講習会のフォトスポット用バックパネルデザインコンペ！女性受け・SNS映えするデザインを募集します！",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-06-08T11:54:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13225732": {
-      "title": "ドライヘッドスパ　のロゴを作成していただきたい",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-06-08T11:54:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13225268": {
-      "title": "【月額3万円＋成果1件3〜5万円※報酬UP可】HP・YouTube公開中！あなたの「マーケティング力」でサービスを広めませんか？",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-06-08T11:54:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13225281": {
-      "title": "【30代女性・ママ世代歓迎】住宅展示場紹介動画に出演いただけるモデルさん募集",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-06-08T11:54:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13224572": {
-      "title": "【簡単！初心者大歓迎！】ジョジョの反応集の動画制作者さん大募集！【昇給あり・継続依頼・主婦歓迎・副業】",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-06-08T11:54:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13225631": {
-      "title": "【初めての方歓迎】SNS投稿＆記録サポート",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-08T11:54:40+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13225547": {
       "title": "生成AI研修で使用する資料や動画の撮影依頼",
       "keyword": "ChatGPT",
@@ -2999,6 +2891,114 @@
       "keyword": "リサーチ",
       "priority": "高",
       "notified_at": "2026-06-17T06:52:36+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13246828": {
+      "title": "技術力で長く組めるコーディングパートナー募集｜HTML/CSS・WordPress",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13065792": {
+      "title": "【在宅】Instagramデザイン制作｜スキルを活かして幅を広げたい方向け🎨",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13246586": {
+      "title": "【InstagramのSNS運用に関わりたい方に向け】Canvaを使ったカフェInstagramフィード投稿",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13246438": {
+      "title": "【急募】Webコーダー募集｜アニメーション実装・表示崩れ修正（即対応歓迎）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13246628": {
+      "title": "【ECフォースの管理画面初期構築ができる方を募集】",
+      "keyword": "LP",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13246605": {
+      "title": "行政書士事務所のリストをピックアップ",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13219739": {
+      "title": "WordPressで検索・比較サイト構築お願いします！",
+      "keyword": "ホームページ制作",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13246491": {
+      "title": "【急募】プラットフォームからの動画データ収集作業（スプレッドシート入力 / 1件100円〜）",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13246429": {
+      "title": "広告代理店経験者歓迎｜広告施策の進行管理・運用調整メンバー募集",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13246403": {
+      "title": "【長期希望】SEO記事制作を共に進めてくださるディレクターの方を探しています！",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13246066": {
+      "title": "リファービッシュトラックのロゴデザイン作成",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13245790": {
+      "title": "【就労支援事業者様求む】問い合わせフォームからのメール送付",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13222434": {
+      "title": "【エンジニアさん募集中】GoogleスプレッドシートでEC商品の原価・利益計算表を作成できる方募集",
+      "keyword": "Google Apps Script",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13246281": {
+      "title": "飲食店予約システムの改善・再構築（確実に予約できる導線設計）",
+      "keyword": "Google Apps Script",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13246606": {
+      "title": "【Canva初心者OK】SNS投稿作成メンバー募集",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13246863": {
+      "title": "【ページ単価1500円〜】AIイラスト生成をお願いします",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13245143": {
+      "title": "ISO認証取得支援サービスのチラシデザイン募集",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13222197": {
+      "title": "【未経験OK/完全在宅】1件5円〜 営業リスト作成｜コツコツ作業が得意な方歓迎！#165",
+      "keyword": "営業リスト作成",
+      "priority": "高",
+      "notified_at": "2026-06-17T14:36:34+00:00"
     }
   }
 }
