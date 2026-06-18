@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13227026": {
-      "title": "コピーサイトの制作（ワードプレス）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-09T05:45:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13067667": {
-      "title": "ECサイトのPHPバージョンアップをお願いします。",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-09T05:45:19+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13226616": {
       "title": "在宅勤務OK・未経験相談可｜SNS（X）運用・投稿作成のお仕事",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-06-18T18:38:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13249354": {
+      "title": "【Next.js/TS】エンタープライズ品質のコーポレートサイト刷新（全ページ・スマホ対応・画像生成込）UI/UX刷新",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-18T23:03:22+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13249326": {
+      "title": "フリーのカメラマン募集（個人でポートレート撮影のSNSを運用している信頼のできる方）",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-06-18T23:03:22+00:00"
     }
   }
 }
