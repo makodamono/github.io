@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13227040": {
-      "title": "【大型IP×LPデザイン】プリキュア・ウルトラマン等の公式イベントLPデザイン（カンプ制作）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-09T05:45:19+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13227026": {
       "title": "コピーサイトの制作（ワードプレス）",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-06-18T16:18:21+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13249311": {
+      "title": "★継続発注 ★ワードプレスHP制作の継続的なご依頼",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-18T18:38:11+00:00"
     }
   }
 }
