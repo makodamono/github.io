@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13227145": {
-      "title": "【急募】新規プレミアムサプリのパッケージデザイン",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-09T08:51:19+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13227442": {
       "title": "ライティング/ブログ記事作成【転職・キャリア記事作成依頼】",
       "keyword": "AI活用",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-06-19T18:24:21+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13251902": {
+      "title": "【長期継続】YouTube台本をお任せできる方を探しています！【経験者優遇】",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-06-20T01:53:12+00:00"
     }
   }
 }
