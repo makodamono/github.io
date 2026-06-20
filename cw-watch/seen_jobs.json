@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13228683": {
-      "title": "【初心者大歓迎／カンタン作業】Indeedから特定の求人企業情報をスプレッドシートにコピペ！【1,000件／5,000円】",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-09T14:23:17+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13228380": {
       "title": "【1000件・急募】新卒採用サイトからの企業情報リスト作成（データ収集・抽出）",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-06-20T11:32:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13252678": {
+      "title": "領収書・経費データを科目ごとにシートへ仕分け入力する作業（1件100〜200円 / 在宅・PC）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-20T13:10:13+00:00"
     }
   }
 }
