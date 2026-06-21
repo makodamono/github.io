@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13229323": {
-      "title": "【スキンケアオタク調べ！日焼け止め乳液厳選紹介】SNS運用",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-10T04:42:02+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13229327": {
       "title": "関東温泉施設の魅力を発信するInstagramフィード投稿デザイン",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-06-21T18:01:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13254135": {
+      "title": "WIXのHPの全面リニューアル",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-21T22:37:31+00:00"
     }
   }
 }
