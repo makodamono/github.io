@@ -1,47 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13228809": {
-      "title": "AIエンジニア（画像解析・モザイク自動化システム開発）",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-09T14:23:17+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13228406": {
-      "title": "オーガニック食品・スーパーフード商品のパッケージデザインのブラッシュアップ",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-09T14:23:17+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13228557": {
-      "title": "自動運転EVバス(EVO)のラッピングデザインを募集",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-09T14:23:17+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13229004": {
-      "title": "★継続発注　★ワードプレスHP制作の継続的なご依頼",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-06-09T17:08:29+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13229003": {
-      "title": "【2〜10万円/1分程度】不動産投資家向けアニメーション広告PV制作（AI活用可）",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-06-09T17:08:29+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13228955": {
-      "title": "【継続】Studioの担当急募(ページ修正・更新等)",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-09T17:08:29+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13228935": {
-      "title": "【在宅・継続案件】ブックカフェ紹介のInstagram投稿画像（フィード投稿画像）を作成してくださる方募集📚☕Canva制作",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-09T17:08:29+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13227141": {
       "title": "【中国人の方限定募集】RED（小紅書）ユーザー向け市場調査",
       "keyword": "スプレッドシート",
@@ -2999,6 +2957,48 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-06-21T02:03:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13253389": {
+      "title": "【YouTube動画の素材集め】日本に感動する外国人のTikTok動画を集めるお仕事です！（長期で継続できる方優先）",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-06-21T07:01:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13253456": {
+      "title": "補助金・助成金の調査／要件整理／申請期限スケジュール作成の依頼",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-06-21T07:01:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13253399": {
+      "title": "AI漫画プロジェクト／Stable Diffusionプロンプト制作｜ 1プロンプト：最低150円  １件15000円～",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-06-21T07:01:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13253360": {
+      "title": "【Canvaで簡単】SNS投稿作成スタッフ募集",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-06-21T07:01:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13253337": {
+      "title": " 【★経験者優遇★演技力のある方歓迎】シニア向け感動漫画YouTubeのナレーターさん募集！【長期継続有】",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-06-21T07:01:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13253195": {
+      "title": " 【★経験者優遇★演技力のある方歓迎】スカッと朗読YouTubeのナレーターさん募集！【長期継続有】",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-06-21T07:01:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13253407": {
+      "title": "【AI-OCR開発】領収書を自動データ化→会計ソフト連携システム（税理士事務所向け・まずPoC）",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-06-21T07:01:39+00:00"
     }
   }
 }
