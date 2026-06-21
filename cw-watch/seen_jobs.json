@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13228835": {
-      "title": "【1本2,000円・頑張り次第で昇給！！】youtubeシナリオライター様募集",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-09T14:23:17+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13228809": {
       "title": "AIエンジニア（画像解析・モザイク自動化システム開発）",
       "keyword": "AI",
@@ -2999,6 +2993,12 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-06-20T19:51:41+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13253205": {
+      "title": "真空圧縮バッグトラベルのLP",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-21T02:03:10+00:00"
     }
   }
 }
