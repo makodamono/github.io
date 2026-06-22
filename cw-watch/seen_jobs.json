@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13229072": {
-      "title": "【完全在宅】社内DXに詳しい方募集/メンター、相談役として",
-      "keyword": "制作ディレクション",
-      "priority": "高",
-      "notified_at": "2026-06-11T02:36:57+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13231634": {
       "title": "食材・材料データをレシピ別に在庫管理シートへ入力する作業（1件100〜200円 / 在宅・PC）",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-06-22T18:31:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13230699": {
+      "title": "【フルスタック/AIエンジニア】AirOpsを超える次世代プラットフォームをで創り上げる初期コアメンバー募集",
+      "keyword": "CSS",
+      "priority": "高",
+      "notified_at": "2026-06-22T21:22:12+00:00"
     }
   }
 }
