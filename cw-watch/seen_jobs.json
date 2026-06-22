@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13231634": {
-      "title": "食材・材料データをレシピ別に在庫管理シートへ入力する作業（1件100〜200円 / 在宅・PC）",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-11T02:36:57+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13230547": {
       "title": "依頼タイトル【ライティング学習中でもOK】Webライター募集｜ AI補助OK・マニュアルあり・継続依頼あり",
       "keyword": "ChatGPT",
@@ -2999,6 +2993,12 @@
       "keyword": "CSS",
       "priority": "高",
       "notified_at": "2026-06-22T21:22:12+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13257207": {
+      "title": "【主婦さん歓迎！長期での依頼も◎】サウナ施設をリスト化する簡単業務(スマホのみでもOK！)",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-06-22T22:59:39+00:00"
     }
   }
 }
