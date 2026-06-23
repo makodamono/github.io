@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13235621": {
-      "title": "製造業（ＢtoB）ホームページ　　",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-12T09:09:20+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13235607": {
-      "title": "【Wix】LPデザイン制作（可能なら実装まで）｜継続あり",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-12T09:09:20+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13235825": {
       "title": "ホームセキュリティに関するホワイトペーパーの作成依頼",
       "keyword": "ビジネスグループ",
@@ -2999,6 +2987,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-06-23T16:16:16+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13258449": {
+      "title": "新規で開業する法律事務所のロゴを募集します！",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-06-23T21:54:54+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13258903": {
+      "title": "【在宅可・営業なし】サプリ・健康茶通販のお客様対応／電話折り返し・Yahoo!ショッピング問い合わせ返信",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-06-23T21:54:54+00:00"
     }
   }
 }
