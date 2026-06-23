@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13235822": {
-      "title": "【2万円】PDFのデザインをSTUDIOでWebページとして実装していただける方募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-12T09:09:20+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13235621": {
       "title": "製造業（ＢtoB）ホームページ　　",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-06-23T13:48:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13259547": {
+      "title": "【Studio】弊社サイトの追加ページデザイン",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-23T16:16:16+00:00"
     }
   }
 }
