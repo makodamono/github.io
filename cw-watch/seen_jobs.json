@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13235825": {
-      "title": "ホームセキュリティに関するホワイトペーパーの作成依頼",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-06-12T09:09:20+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13235744": {
       "title": "業務改善や仕組み化を行なっていただくお仕事",
       "keyword": "ビジネスグループ",
@@ -2999,6 +2993,12 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-06-23T21:54:54+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13235607": {
+      "title": "【Wix】LPデザイン制作（可能なら実装まで）｜継続あり",
+      "keyword": "LP制作カテゴリ候補",
+      "priority": "高",
+      "notified_at": "2026-06-23T22:59:24+00:00"
     }
   }
 }
