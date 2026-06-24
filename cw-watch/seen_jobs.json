@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13237422": {
-      "title": "【急募】某企業の周年記念展示会のバナー&展示グラフィック依頼",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-13T08:17:04+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13237329": {
-      "title": "Stable Diffusion 環境構築依頼",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-13T08:17:04+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13237681": {
-      "title": "生成AI研修で使用する資料や動画の撮影依頼",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-06-13T10:40:41+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13237649": {
       "title": "WordPressのElementorでサクッと1ページ制作",
       "keyword": "Web制作グループ",
@@ -2999,6 +2981,24 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-06-24T10:00:29+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13261329": {
+      "title": "ページ1枚：民宿のwebページデザイン依頼",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-24T12:21:02+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13261552": {
+      "title": "美容系YouTuberのリスト作成 ",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-06-24T12:21:02+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13261323": {
+      "title": "【看板デザイン】浅草国際通り 1階路面店 ホビーショップ大型看板（Illustrator完全ベクターデータ納品）※たたき台有",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-06-24T12:21:02+00:00"
     }
   }
 }
