@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13237766": {
-      "title": "【画像→動画】AIで建物が完成していく8秒程度動画の制作　AI動画生成・継続あり",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-13T14:28:39+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13209146": {
-      "title": "【AI使用OK】20代向け｜朝活習慣の始め方をテーマにした記事作成",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-06-13T23:49:04+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13238256": {
       "title": "【動画字幕（SRT）修正作業｜継続依頼あり】",
       "keyword": "全体新着",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-06-24T15:16:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13261983": {
+      "title": "実践を通してSNS運用の知識を身につけたい方歓迎！",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-24T23:19:06+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13261930": {
+      "title": "Stable Diffusion 環境構築依頼",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-06-24T23:19:06+00:00"
     }
   }
 }
