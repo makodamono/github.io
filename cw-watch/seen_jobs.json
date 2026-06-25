@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13238929": {
-      "title": "【月75万/AI×Web開発】大手生命保険会社向け・最先端プロジェクト推進PMO案件",
-      "keyword": "ジャンル:Webディレクション/進行管理",
-      "priority": "高",
-      "notified_at": "2026-06-15T05:23:23+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13202940": {
       "title": "【フリーランス・独立予定の方】採用戦略～実行まで｜採用コンサルタント募集（業務委託／フルリモート）",
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
@@ -2999,6 +2993,12 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-06-25T16:02:27+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13264187": {
+      "title": "【このままでいいのかなって感じている方へ】AIスキルを“自分の武器”にするInstagram運用メンバー募集✨",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-25T18:23:06+00:00"
     }
   }
 }
