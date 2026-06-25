@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13202940": {
-      "title": "【フリーランス・独立予定の方】採用戦略～実行まで｜採用コンサルタント募集（業務委託／フルリモート）",
-      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
-      "priority": "高",
-      "notified_at": "2026-06-15T05:23:23+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13237372": {
       "title": "リユース事業の業務改善・組織設計を相談できる方募集",
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-06-25T18:23:06+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13264161": {
+      "title": "【長期】YouTube台本ライター募集｜主婦・副業ジャンル｜素材選定までできる方歓迎",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-06-25T22:00:42+00:00"
     }
   }
 }
