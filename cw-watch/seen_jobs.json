@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/12963094": {
-      "title": "【リモートOK｜月15万円】代表直下｜秘書 / バックオフィスアシスタント募集",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-16T05:27:49+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13242832": {
-      "title": "アンケート自由回答をタグ分類・集計シートへまとめる作業（月額5万〜10万円 / 在宅・PC）",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-16T05:27:49+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13233453": {
       "title": "生成AI×Canvaで広告バナーを作る制作パートナー募集（副業OK／月5万円）",
       "keyword": "ChatGPT",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-06-27T05:34:08+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13267130": {
+      "title": "【トライアル案件】SEO記事作成業務：ハイエンドパソコン関連記事　※FACTチェック順守/GPU搭載PC利用者を厚く希望",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-06-27T10:24:40+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13267315": {
+      "title": "未経験OK｜20代向け📖「社会人になって感じた理想と現実」ライター募集✨",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-06-27T10:24:40+00:00"
     }
   }
 }
