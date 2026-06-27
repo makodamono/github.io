@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13233453": {
-      "title": "生成AI×Canvaで広告バナーを作る制作パートナー募集（副業OK／月5万円）",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-06-16T05:27:49+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13242569": {
       "title": "AIを活用したYouTubeチャンネルのディレクターとADを募集します！【サポートあり】【経験者優遇】",
       "keyword": "ChatGPT",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-06-27T10:24:40+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13267323": {
+      "title": "【急募】幼児向け「ひらがな・漢字ドリル」のデザイン制作（計13ページ）◆子育て・ドリル経験者歓迎／継続案件あり",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-06-27T11:51:25+00:00"
     }
   }
 }
