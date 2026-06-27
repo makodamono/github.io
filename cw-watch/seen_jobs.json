@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13242569": {
-      "title": "AIを活用したYouTubeチャンネルのディレクターとADを募集します！【サポートあり】【経験者優遇】",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-06-16T05:27:49+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13241749": {
       "title": "【フリーランス歓迎】単なる技術自慢は卒業｜上場企業で教えるプロとして活躍するAI研修講師／最新ツール使い放題",
       "keyword": "ChatGPT",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-06-27T11:51:25+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13267746": {
+      "title": "フェアトレードを広める仲間を募集します",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-27T18:16:39+00:00"
     }
   }
 }
