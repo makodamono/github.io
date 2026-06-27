@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13241749": {
-      "title": "【フリーランス歓迎】単なる技術自慢は卒業｜上場企業で教えるプロとして活躍するAI研修講師／最新ツール使い放題",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-06-16T05:27:49+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13241727": {
       "title": "【上場企業】単なるコーダーは卒業！フルリモートで自社内製化チームのコアメンバーとなる実力派フリーランス募集",
       "keyword": "ChatGPT",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-06-27T18:16:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13241370": {
+      "title": "【会社外の繋がりをデザインする✨】朝活×カフェコミュニティのSNS運用メンバー募集",
+      "keyword": "Webディレクター",
+      "priority": "高",
+      "notified_at": "2026-06-27T23:43:23+00:00"
     }
   }
 }
