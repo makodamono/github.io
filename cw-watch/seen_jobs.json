@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13243258": {
-      "title": "【固定+レベシェア】vtuberの切り抜き動画の編集【経験者歓迎!】",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-16T10:24:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13242092": {
-      "title": "【Midjourney】シャビーシック・アンティークアートのデジタル絵画制作（30枚）",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-16T10:24:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13243781": {
-      "title": "【50,000円(税込)】Claude CodeスクールのVSL台本作成＆ファネル設計【マーケ・AI知見のある方】",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-16T10:24:56+00:00"
-    },
     "https://crowdworks.jp/public/jobs/12780293": {
       "title": "【高単価！ボーナス有！1本/4,000円】日本食や日本文化に関するyoutubeシナリオライター様募集(*^▽^*)",
       "keyword": "ホームページ修正",
@@ -2999,6 +2981,24 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-06-28T11:20:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13268901": {
+      "title": "AIエージェントで日本の法人リストを自動生成するプロダクトのフルスタックエンジニア募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-28T14:28:06+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13043866": {
+      "title": "通販サイト(楽天・ヤフーなど)の商品ページのデザイン、コーディング制作をお手伝いいただける方を募集。定期依頼",
+      "keyword": "サイト修正",
+      "priority": "高",
+      "notified_at": "2026-06-28T14:28:06+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13268722": {
+      "title": "美容系YouTuberのリスト作成",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-06-28T14:28:06+00:00"
     }
   }
 }
