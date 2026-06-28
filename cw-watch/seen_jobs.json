@@ -1,35 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13242330": {
-      "title": "賃貸・売買物件のデータを管理シートへ整理する作業（月額5万〜10万円 / 在宅・PC）",
-      "keyword": "スクレイピング",
-      "priority": "高",
-      "notified_at": "2026-06-16T05:27:49+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13243685": {
-      "title": "【急募！在宅デザイナー】売れるLPデザイン制作のお仕事〈実務経験者限定〉",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-16T10:24:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13243709": {
-      "title": "figmaでのWEBデザイン制作（AI出力の見本データあり）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-16T10:24:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13218263": {
-      "title": "ふるさと納税での楽天の商品ページ(デザイン作成)を作成できる方を探しています。※過去に作成したことある方のみ応募をお願いします。",
-      "keyword": "LP作成",
-      "priority": "高",
-      "notified_at": "2026-06-16T10:24:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13218539": {
-      "title": "実績作りでどなたでも気軽にご応募ください！カフェホームページ作成。",
-      "keyword": "ホームページ作成",
-      "priority": "高",
-      "notified_at": "2026-06-16T10:24:56+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13217194": {
       "title": "    【STUDIO】人材×営業会社のHP制作（採用強化・法人向け／将来拡張あり）",
       "keyword": "ホームページ制作",
@@ -2999,6 +2969,36 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-06-28T06:07:47+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13268610": {
+      "title": "構成・文章支給あり｜AIを活用したホームページ制作ができる方募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-28T09:29:07+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13268494": {
+      "title": "どなたでも気軽にご応募ください！実績作りにいかがでしょうか？ホームページ制作。",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-28T09:29:07+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13098947": {
+      "title": "【未経験者◎】ホテル・カフェのアフタヌーンティーをテーマにしたSNS投稿画像の制作パートナー募集",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-28T09:29:07+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13268472": {
+      "title": "＜WPデータ移行実績ある方のみ！急募＞【マンゴー屋さん】https://applemango.jp/ データ移行",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-28T09:29:07+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13268418": {
+      "title": "【名探偵プリキュア好き歓迎！】YouTubeショート動画の反応集台本作成者募集【長期継続・単価UPあり】",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-06-28T09:29:07+00:00"
     }
   }
 }
