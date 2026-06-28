@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13244493": {
-      "title": "【在宅】AIでYoutube動画の台本を出力するコツコツ作業！主婦・内職希望の方歓迎【トライアル250円】",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-16T15:25:53+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13244407": {
       "title": "【在宅・継続案件アリ！！】YouTube動画用台本のファクトチェック作業【インセンティブ制】",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "LP制作",
       "priority": "高",
       "notified_at": "2026-06-28T15:48:04+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/12780293": {
+      "title": "【高単価！ボーナス有！1本/4,000円】日本食や日本文化に関するyoutubeシナリオライター様募集(*^▽^*)",
+      "keyword": "GAS自動化",
+      "priority": "高",
+      "notified_at": "2026-06-28T20:20:59+00:00"
     }
   }
 }
