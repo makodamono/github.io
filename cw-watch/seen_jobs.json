@@ -1,41 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13244414": {
-      "title": "【未経験大歓迎！】東京エリアで覆面調査をお願いいたします。【限定2名】",
-      "keyword": "Web制作",
-      "priority": "高",
-      "notified_at": "2026-06-17T01:42:59+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13245054": {
-      "title": "【継続依頼あり】画像をもとにしたマンガ制作／コマ割り・セリフ・効果音・演出",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-06-17T01:42:59+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13245079": {
-      "title": "在宅でAIスキルを身に着け、柔軟にお仕事をしたい方へ ",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-17T01:42:59+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13244243": {
-      "title": "顧客アンケートの回答をカテゴリ別に集計・タグ付けする作業（1件100〜200円 / 在宅・PC）",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-17T01:42:59+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13244063": {
-      "title": "【在宅×副業】SNS運用サポートスタッフ募集",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-17T01:42:59+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13211335": {
-      "title": "【経験者急募】ebayリサーチスタッフ 100円/件",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-17T01:42:59+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13244072": {
       "title": "【完全フルリモート・副業OK】AI×営業スクールの担当トレーナー募集",
       "keyword": "AI活用",
@@ -2999,6 +2963,42 @@
       "keyword": "AI活用",
       "priority": "高",
       "notified_at": "2026-06-29T01:56:00+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13270476": {
+      "title": "お問合せフォームメール送信業務をお願いいたします。（リスト・文章あり）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-29T06:28:59+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13270474": {
+      "title": "美容サロンのLPデザイン・実装のお仕事｜継続あり",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-29T06:28:59+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13244331": {
+      "title": "【継続／長期】新規事業のLP・ホームページ制作パートナー募集｜立ち上げから一緒に（長期・継続発注前提）",
+      "keyword": "LP制作カテゴリ候補",
+      "priority": "高",
+      "notified_at": "2026-06-29T06:28:59+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13270194": {
+      "title": "【OCR・RPA開発エンジニア募集】業務自動化プロジェクト｜50〜100万円｜継続案件あり",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-06-29T06:28:59+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13270052": {
+      "title": "【機構設計】屋外IoT機器の防水筐体改良設計",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-06-29T06:28:59+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13261184": {
+      "title": "新規ブランドのロゴデザイン作成",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-06-29T06:28:59+00:00"
     }
   }
 }
