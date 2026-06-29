@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13246004": {
-      "title": "日本企業への問い合わせフォーム送信",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-06-17T06:52:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13245762": {
-      "title": "【AI利用OK！月給～18万のAIライティング案件】実績豊富なWebライター・SEOライターは優遇",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-06-17T06:52:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13245281": {
-      "title": "⭐【PM】Web制作におけるPM業務案件・JA-086208⭐",
-      "keyword": "Web制作",
-      "priority": "高",
-      "notified_at": "2026-06-17T06:52:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13245466": {
-      "title": "AI営業支援SaaS「MintMap」のロゴデザイン募集",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-06-17T06:52:36+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13245282": {
       "title": "⭐【Next.js】 Webサイト開発におけるフロントエンド実装業務案件・JA-086209⭐",
       "keyword": "Webサイト",
@@ -2999,6 +2975,30 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-06-29T19:26:48+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13270960": {
+      "title": "【継続有り・大幅昇給有】AIを活用してアニメ画像の実写化映像素材を作成いただける方を募集します！",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-29T23:18:25+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13271726": {
+      "title": "夏のSUPイベントをInstagramで届ける、デザインパートナー募集🌻",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-29T23:18:25+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13271910": {
+      "title": "【マニュアル完備】初めてでも安心SNSサポート",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-29T23:18:25+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13271903": {
+      "title": "【コツコツ作業】SNS投稿サポート募集中",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-06-29T23:18:25+00:00"
     }
   }
 }
