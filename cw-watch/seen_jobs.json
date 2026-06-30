@@ -1,59 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13246438": {
-      "title": "【急募】Webコーダー募集｜アニメーション実装・表示崩れ修正（即対応歓迎）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-17T14:36:34+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13246628": {
-      "title": "【ECフォースの管理画面初期構築ができる方を募集】",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-06-17T14:36:34+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13246605": {
-      "title": "行政書士事務所のリストをピックアップ",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-06-17T14:36:34+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13219739": {
-      "title": "WordPressで検索・比較サイト構築お願いします！",
-      "keyword": "ホームページ制作",
-      "priority": "高",
-      "notified_at": "2026-06-17T14:36:34+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13246491": {
-      "title": "【急募】プラットフォームからの動画データ収集作業（スプレッドシート入力 / 1件100円〜）",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-06-17T14:36:34+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13246429": {
-      "title": "広告代理店経験者歓迎｜広告施策の進行管理・運用調整メンバー募集",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-06-17T14:36:34+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13246403": {
-      "title": "【長期希望】SEO記事制作を共に進めてくださるディレクターの方を探しています！",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-06-17T14:36:34+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13246066": {
-      "title": "リファービッシュトラックのロゴデザイン作成",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-06-17T14:36:34+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13245790": {
-      "title": "【就労支援事業者様求む】問い合わせフォームからのメール送付",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-06-17T14:36:34+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13222434": {
       "title": "【エンジニアさん募集中】GoogleスプレッドシートでEC商品の原価・利益計算表を作成できる方募集",
       "keyword": "Google Apps Script",
@@ -2999,6 +2945,60 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-06-30T01:27:41+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13272519": {
+      "title": "マニュアルに沿ってコーディングできる方を募集します。必ず最後まで作業のできる方でお願い致します!!",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-30T05:40:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13272619": {
+      "title": "【継続依頼あり】ペット用品の商品監修・推薦コメント作成のご依頼",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-06-30T05:40:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13272456": {
+      "title": "【Figma整備】AIで作成したWebサービスのデザインをFigmaに落とし込んでくださる方を募集",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-06-30T05:40:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13246828": {
+      "title": "技術力で長く組めるコーディングパートナー募集｜HTML/CSS・WordPress",
+      "keyword": "HTML・CSS",
+      "priority": "高",
+      "notified_at": "2026-06-30T05:40:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13272615": {
+      "title": "【完全在宅】SNS運用のお手伝いスタッフ募集",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-06-30T05:40:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13272476": {
+      "title": "【長期】パワーストーンブレスレットの制作＆発送作業",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-06-30T05:40:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13272351": {
+      "title": "ホテル・飲食店の店舗情報を地域別データベースへ整理する入力作業（1件100〜200円 / 在宅・PC）",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-06-30T05:40:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13272982": {
+      "title": "生成AI研修で使用する資料や動画の撮影依頼",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-06-30T05:40:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13202940": {
+      "title": "【フリーランス・独立予定の方】採用戦略～実行まで｜採用コンサルタント募集（業務委託／フルリモート）",
+      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
+      "priority": "高",
+      "notified_at": "2026-06-30T05:40:43+00:00"
     }
   }
 }
