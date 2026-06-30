@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13221211": {
-      "title": "【20代の人歓迎！！！】「食べることが好き」をテーマにしたnote記事ライター募集！！",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-18T00:25:35+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13247749": {
-      "title": "STUDIO実装者募集｜デザイン支給・1案件3〜5万・継続発注あり",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-18T05:12:17+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13247500": {
       "title": "【2〜3万/月】スキンケアブランド「美白ケア商品紹介」誘導バナー",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "Web",
       "priority": "高",
       "notified_at": "2026-06-30T11:33:49+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13274072": {
+      "title": "AIアニメ・プロデューサー／ディレクター募集　（代表直下）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-30T13:27:22+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/12021891": {
+      "title": "【一本3,000円】漫画・アニメ(海外の反応)関連のライターさん募集【初心者・主婦大歓迎/長期継続】 ",
+      "keyword": "GAS自動化",
+      "priority": "高",
+      "notified_at": "2026-06-30T13:27:22+00:00"
     }
   }
 }
