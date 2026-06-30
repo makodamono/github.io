@@ -1,41 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/12021891": {
-      "title": "【一本3,000円】漫画・アニメ(海外の反応)関連のライターさん募集【初心者・主婦大歓迎/長期継続】 ",
-      "keyword": "ジャンル:Webディレクション/サイト制作ディレクション",
-      "priority": "高",
-      "notified_at": "2026-06-17T19:39:52+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13247069": {
-      "title": "飲食店予約システムの改善・再構築（予約導線改善＋機能追加／既存システムあり）",
-      "keyword": "GAS",
-      "priority": "高",
-      "notified_at": "2026-06-17T23:05:49+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13247176": {
-      "title": "【InstagramのSNS運用に関わりたい方に向け】Canvaを使ったカフェInstagramフィード投稿",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-18T00:25:35+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13247142": {
-      "title": "【Next.js/TS】エンタープライズ品質のコーポレートサイト刷新（全ページ・スマホ対応・画像生成込）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-18T00:25:35+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13245244": {
-      "title": "Instagram運用担当者募集｜ベビーシッター・イベント託児・ホテル託児",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-06-18T00:25:35+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13247175": {
-      "title": "未経験OK◎｜カフェ好きな方へ｜カフェ系SNSデザイン作成メンバー募集！｜継続依頼あり",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-18T00:25:35+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13221211": {
       "title": "【20代の人歓迎！！！】「食べることが好き」をテーマにしたnote記事ライター募集！！",
       "keyword": "AI",
@@ -2999,6 +2963,42 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-06-30T08:45:16+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13273890": {
+      "title": "【AI使用可／新人歓迎】TikTok漫画動画のイラスト素材制作｜絵本風キャラ・パーツ分けあり",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-30T11:33:49+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13273882": {
+      "title": "【予算1万円】既存Webサイト（ブログ）のSEO分析・具体的な改善アドバイスレポートの作成依頼",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-30T11:33:49+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13241777": {
+      "title": "｜未経験OK◎｜お菓子好きな方へ｜20代におすすめ♪好きなお菓子について書くだけ♪かんたんライター募集｜継続あり｜",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-30T11:33:49+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13273777": {
+      "title": "化粧品会社　インスタ投稿　デザイン制作",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-30T11:33:49+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13273764": {
+      "title": "歯科医院のホームページを作成してください。",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-06-30T11:33:49+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13273563": {
+      "title": "Python/Slenium etc.＊画面操作プログラムの開発依頼",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-06-30T11:33:49+00:00"
     }
   }
 }
