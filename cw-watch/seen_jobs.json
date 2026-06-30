@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13246174": {
-      "title": "【Webデザイン講師募集｜“教えるだけ”じゃなく“稼がせられる方”】",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-18T05:12:17+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13246182": {
-      "title": "【Webデザイン講師募集】フリーランス歓迎　受講生の収益化までのサポート",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-18T05:12:17+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13014611": {
-      "title": "ホームページリニューアル後のSEO内部対策・デザイン改善をお願いします【士業・コンサル事務所】",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-18T05:12:17+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13246944": {
       "title": "【HP制作、LP制作、制作ディレクション経験者】のWebサイト制作者（フロントエンド／デザイナー）を募集します。",
       "keyword": "LP",
@@ -2999,6 +2981,24 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-06-30T16:00:40+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13274587": {
+      "title": "通販サイト(楽天・ヤフーなど)の商品ページのデザイン、コーディング制作をお手伝いいただける方を募集。定期依頼",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-06-30T23:53:30+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13273363": {
+      "title": "広告クリエイティブディレクター・マーケティング募集｜企画・制作進行・動画ディレクション",
+      "keyword": "Webディレクター",
+      "priority": "高",
+      "notified_at": "2026-06-30T23:53:30+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13274681": {
+      "title": "【採用5万円】地域課題解決スタートアップの「コーポレートロゴ」デザイン（AI生成不可・.ai納品）",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-06-30T23:53:30+00:00"
     }
   }
 }
