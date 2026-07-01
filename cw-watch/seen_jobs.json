@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13251319": {
-      "title": "【エンジニア募集】開発パートナーを探しています【Next.js / TypeScript】",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-06-19T11:14:14+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13251237": {
       "title": "Claude CodeのようなAIエージェント機能をWebサービスに組み込むための開発パートナー募集",
       "keyword": "Web",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-01T17:56:06+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/12785932": {
+      "title": "【文字単価3円】金融実務経験者向けWebライター募集｜税務・投資・保険案件中心",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-01T19:29:42+00:00"
     }
   }
 }
