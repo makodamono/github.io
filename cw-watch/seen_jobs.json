@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13249151": {
-      "title": "🔴急募🔴【1文字1.5円】【経験者優遇】AI系チャンネルのライター募集【長期継続前提】",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-06-19T06:52:37+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13251319": {
       "title": "【エンジニア募集】開発パートナーを探しています【Next.js / TypeScript】",
       "keyword": "全体新着",
@@ -2999,6 +2993,12 @@
       "keyword": "ジャンル:Webディレクション/LPディレクション",
       "priority": "高",
       "notified_at": "2026-07-01T15:59:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13277162": {
+      "title": "Stable Diffusion ForeからForgeNeoへの 環境構築依頼",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-01T17:56:06+00:00"
     }
   }
 }
