@@ -1,53 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13249033": {
-      "title": "【急募】claude codeでFXツールを開発できる方募集",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-19T01:50:39+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13248476": {
-      "title": "【1本8000円・量より質重視、副業さん歓迎】ラブコメ/悪役/いい話シナリオライターさん募集【継続案件】",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-19T01:50:39+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13249992": {
-      "title": "ホームページリニューアルの依頼【WIX】",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-19T06:52:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13216875": {
-      "title": "お酒を楽しみながら健康も維持したい、そんなあなたの知識を仕事にしませんか？",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-19T06:52:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13249189": {
-      "title": "在宅でスキルアップしたい方歓迎！未経験から始められるお仕事です。",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-19T06:52:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13250073": {
-      "title": "コンサルティング案件【月80〜140万／フルリモート案件◎】大手コンサルファーム出身者活躍中＆単価アップ可",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-06-19T06:52:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13249501": {
-      "title": "【副業OK／高額インセンティブ】中小企業向けHP制作の営業パートナー募集",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-06-19T06:52:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13248990": {
-      "title": "【歯科・矯正歯科】増患・売上改善のマーケティングアドバイザー募集",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-06-19T06:52:37+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13249802": {
       "title": "【在宅・継続案件アリ！！】YouTube動画用台本のファクトチェック作業【インセンティブ制】",
       "keyword": "スプレッドシート",
@@ -2999,6 +2951,54 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-07-01T10:37:31+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13276897": {
+      "title": "【継続前提】WordPressでホームページ制作できるパートナー募集／〜50,000円／業務委託／定員2名",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-01T13:20:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13276846": {
+      "title": "【予算最大10万】WordPressを利用したWebサイト構築※日本の方限定で顔見せOKの方のみ",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-01T13:20:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13276756": {
+      "title": "webデザインを行なっていただけるメンバーを探しています。",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-01T13:20:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13276816": {
+      "title": "【報酬50,000円・1名限定】マットレスの商品ページに掲載する 「医師監修コメント」にご協力いただける医師の方を募集します！",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-07-01T13:20:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13248923": {
+      "title": "実績作り感覚で大丈夫です！カフェのホームページ作成。気軽によろしくお願いいたします！",
+      "keyword": "ホームページ作成",
+      "priority": "高",
+      "notified_at": "2026-07-01T13:20:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13244542": {
+      "title": "｜未経験OK◎｜カフェ好きな方へ｜20代におすすめ♪お気に入りのカフェや好きなメニューについて書くだけ♪ライター募集｜継続あり｜",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-07-01T13:20:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13275974": {
+      "title": "【完全リモート】民泊ゲスト対応／メッセージ対応スタッフ募集",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-07-01T13:20:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13276757": {
+      "title": "AIを表現する10秒程度の動画",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-01T13:20:57+00:00"
     }
   }
 }
