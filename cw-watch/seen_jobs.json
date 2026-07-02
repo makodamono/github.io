@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13253926": {
-      "title": "【飲食店LP制作】麻辣湯専門店のLPデザインができる方募集（継続あり）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-22T02:43:26+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13253277": {
       "title": "【ファンマーケティング】資料請求に直結する高反応LP制作パートナー募集（WordPress実装まで）",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-07-02T15:29:15+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13279672": {
+      "title": "【報酬1.8万円】お店で使っているレジ・キャッシュレス決済を取材させてください",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-02T17:11:20+00:00"
     }
   }
 }
