@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13252904": {
-      "title": "【副業歓迎】知人店舗のご紹介だけでOKの簡単案件",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-22T02:43:26+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13252536": {
       "title": "【継続依頼あり】WordPress記事投稿スタッフ募集",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-07-02T20:10:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13279652": {
+      "title": "【月額15万〜固定】平日日中稼働のインハウスデザイナー募集！美容業界のデザイン経験者優遇（稼働時間により報酬相談可）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-02T21:23:06+00:00"
     }
   }
 }
