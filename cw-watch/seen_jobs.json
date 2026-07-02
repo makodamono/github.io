@@ -1,53 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13252528": {
-      "title": "WordPressにコーダー募集",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-06-20T09:37:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13252406": {
-      "title": "Wirdpress",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-20T09:37:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13252289": {
-      "title": "【顔出しインタビュー出演者募集】未経験OK／台本あり／10分以内で、お打合せ含めて30〜60分程度",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-06-20T09:37:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13252065": {
-      "title": "自社ホームページ制作",
-      "keyword": "ホームページ制作",
-      "priority": "高",
-      "notified_at": "2026-06-20T09:37:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13252356": {
-      "title": "顧客管理DX（OCR×CRM×ナーチャリング）構築支援｜3フェーズ設計・実装できる方募集",
-      "keyword": "GAS",
-      "priority": "高",
-      "notified_at": "2026-06-20T09:37:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13215125": {
-      "title": "｜未経験OK◎｜カラオケ、歌うことが好きな方へ｜よく歌う曲や好きなアーティストについて書くライター募集｜継続あり｜",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-06-20T09:37:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13252592": {
-      "title": "AI Native Unreal Engine Engineer",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-06-20T11:32:43+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13252470": {
-      "title": "旅のSNS運用のサポートをしてくださる方を募集！",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-06-20T11:32:43+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13252486": {
       "title": "バレエスタジオ情報収集のご依頼【継続あり】",
       "keyword": "スプレッドシート",
@@ -2999,6 +2951,54 @@
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
       "priority": "高",
       "notified_at": "2026-07-02T01:52:49+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13278316": {
+      "title": "パーソナルジムLPのコーディング【PC&SP】",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-02T05:49:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13278185": {
+      "title": "★継続発注 ★ワードプレスHP制作の継続的なご依頼",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-02T05:49:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13278297": {
+      "title": "ショップカードの作成",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-07-02T05:49:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13275436": {
+      "title": "YouTube動画のタイトル・公開日・タグを一覧表にまとめる入力作業（1件100〜200円 / 在宅・PC）",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-07-02T05:49:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13277786": {
+      "title": "総合広告代理店のマーケティング施策における進行管理・運用調整メンバー募集",
+      "keyword": "Web制作",
+      "priority": "高",
+      "notified_at": "2026-07-02T05:49:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13277611": {
+      "title": "【完全リモート】Webメディアの運営マネージャー募集｜ライター統括・記事制作管理",
+      "keyword": "WordPress",
+      "priority": "高",
+      "notified_at": "2026-07-02T05:49:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13277728": {
+      "title": "【長期歓迎＆マニュアル完備】セリフを画像に貼りオノマトペの CLIP STUDIOでの作業【1枚70円】",
+      "keyword": "STUDIO",
+      "priority": "高",
+      "notified_at": "2026-07-02T05:49:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13278085": {
+      "title": "高級シガーアクセサリーブランド「Keiba」のブランドロゴ募集",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-02T05:49:42+00:00"
     }
   }
 }
