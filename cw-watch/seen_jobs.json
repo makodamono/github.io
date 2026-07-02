@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13254044": {
-      "title": "【関東圏内・女性限定】公務員予備校の広報・SNS発信サポートスタッフ募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-22T02:43:26+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13253926": {
       "title": "【飲食店LP制作】麻辣湯専門店のLPデザインができる方募集（継続あり）",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "STUDIO",
       "priority": "高",
       "notified_at": "2026-07-02T13:09:01+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13279539": {
+      "title": "名刺情報（氏名・会社名・連絡先）をCRM用スプレッドシートへ入力する作業（1件100〜200円 / 在宅・PC）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-02T15:29:15+00:00"
     }
   }
 }
