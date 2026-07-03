@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13256547": {
-      "title": "ECサイト実装担当｜EC Forceを活用したページ実装・改善担当募集",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-06-23T00:06:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13256159": {
       "title": "【フリーランス歓迎】経営直下で組織DXを牽引するWebPdM募集！AIやGASを駆使して仕組み化を主導",
       "keyword": "LP",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-07-03T16:48:45+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13282191": {
+      "title": "WordPressのサイト再構築（都内対面打ち合わせあり）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-03T18:04:13+00:00"
     }
   }
 }
