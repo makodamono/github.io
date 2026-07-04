@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13256248": {
-      "title": "【0.4人月/フルフレックス】経営戦略を具現化するクラウド基盤活用・DX組織立ち上げ支援",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-06-23T00:06:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13256163": {
-      "title": "【フリーランス歓迎】最新AIツール使い放題！教えるプロとして非エンジニアの成長に伴走支援するAI研修講師",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-06-23T00:06:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13256153": {
       "title": "【実務経験5年以上必須】AWSやモダン環境でのバックエンドエンジニア募集！完全内製化チームで安心の再構築",
       "keyword": "ChatGPT",
@@ -2999,6 +2987,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-07-03T23:44:25+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13282390": {
+      "title": "【Webサイト単発監修】理学療法士またはピラティス有資格者の方！記事チェックとコメント作成（お名前・お写真の掲載可能な方）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-04T01:18:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13282381": {
+      "title": "AI画像選別の依頼【フリーランス・主婦の方大募集】",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-04T01:18:57+00:00"
     }
   }
 }
