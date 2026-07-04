@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13259816": {
-      "title": "    【急募】WordPress構築できる方募集｜LP3サイト｜継続案件あり",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-24T02:34:28+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13259646": {
       "title": "【リモートOK】悩んだ瞬間にすぐ話せる転職エージェントの女性キャリアパートナー、100人採用します。",
       "keyword": "LP",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-07-04T22:34:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13284026": {
+      "title": "【急募】YouTubeショート用のオリジナルBGM制作案件",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-04T23:37:38+00:00"
     }
   }
 }
