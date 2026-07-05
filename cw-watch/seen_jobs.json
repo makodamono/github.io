@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13259314": {
-      "title": "【１本4000円】スカッと系が好きな方大募集！漫画YouTubeチャンネルのシナリオライターさん募集♪【継続案件】",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-06-24T02:34:28+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13258878": {
       "title": "【長期歓迎】SNS・副業コミュニティの講師/メンター募集｜Discordでの学習サポート業務",
       "keyword": "AI活用",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-05T08:25:15+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13284838": {
+      "title": "【構成案あり】食品保存グッズのShopify用LP制作（50代女性向け）｜デザイン＆コーディング｜",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-05T10:34:32+00:00"
     }
   }
 }
