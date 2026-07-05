@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13259646": {
-      "title": "【リモートOK】悩んだ瞬間にすぐ話せる転職エージェントの女性キャリアパートナー、100人採用します。",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-06-24T02:34:28+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13259047": {
       "title": "デジタルコミック編集・制作スタッフ募集｜画像素材・ネーム支給",
       "keyword": "STUDIO",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-04T23:37:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13284032": {
+      "title": "【1本300円】人気漫画のショート動画における台本作成と素材収集者様を大募集!!",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-07-05T01:21:16+00:00"
     }
   }
 }
