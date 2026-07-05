@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13224553": {
-      "title": "楽天商品ページ(ヘアトリートメント)デザイナーさん募集",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-06-24T06:31:05+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13260377": {
       "title": "【継続依頼あり】眼鏡・目の健康・IT分野の専門家さん優遇◎「ブルーライトカットメガネ」商品監修・推薦コメント作成のご依頼",
       "keyword": "ホームページ",
@@ -2999,6 +2993,12 @@
       "keyword": "ジャンル:Webディレクション/サイト制作ディレクション",
       "priority": "高",
       "notified_at": "2026-07-05T16:02:04+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13285551": {
+      "title": "【Instagramリール制作スタッフ募集】",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-05T23:46:00+00:00"
     }
   }
 }
