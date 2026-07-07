@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13265312": {
-      "title": "学習教材の問題文・選択肢を所定フォーマットへ入力する作業（1件100〜200円 / 在宅・PC）",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-26T08:49:51+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13265656": {
-      "title": "AIマンガの画像生成　経験者歓迎",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-06-26T08:49:51+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13265646": {
       "title": "⭐【AIエージェント】AIエージェント導入・業務改善支援案件・JA-086547⭐",
       "keyword": "AI",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-07T10:45:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13291382": {
+      "title": "不動産会社のコーポレートサイト制作",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-07T13:06:47+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13291219": {
+      "title": "【AIネイティブエンジニア募集】Claude Max・Codex Max必須｜継続案件あり",
+      "keyword": "CSS",
+      "priority": "高",
+      "notified_at": "2026-07-07T13:06:47+00:00"
     }
   }
 }
