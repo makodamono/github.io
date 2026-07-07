@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13265899": {
-      "title": "jpegの既存ロゴデータをAIデータ、PDFデータ、pngデータにして納品してもらいたい",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-26T11:35:10+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13237376": {
-      "title": "新しく立ち上げる軽配送会社のロゴデザインを募集します！",
-      "keyword": "ジャンル:Webディレクション/サイト制作ディレクション",
-      "priority": "高",
-      "notified_at": "2026-06-26T11:35:10+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13266323": {
       "title": "学校DX事業の立ち上げに伴うホームページ制作",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-07-07T19:26:30+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13291694": {
+      "title": "AIエージェントを使った領収書取得・MFクラウド会計への証憑保存自動化のご相談",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-07T21:03:23+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13265652": {
+      "title": "【WordPress】ホールディングス会社のコーポレートサイト制作依頼｜銀行・取引先向けの信用サイト",
+      "keyword": "サイト更新",
+      "priority": "高",
+      "notified_at": "2026-07-07T21:03:23+00:00"
     }
   }
 }
