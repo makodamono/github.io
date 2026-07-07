@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13265980": {
-      "title": "【約10分撮影で¥3000〜：顔出し演者募集】YouTube動画に出演しませんか？｜未経験OK！",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-26T11:35:10+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13265899": {
       "title": "jpegの既存ロゴデータをAIデータ、PDFデータ、pngデータにして納品してもらいたい",
       "keyword": "AI",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-07T15:49:36+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13291681": {
+      "title": "【神奈川県座間市／6時間程度】めっき製品・金属製品の撮影経験があるプロカメラマンさんを募集します",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-07T19:26:30+00:00"
     }
   }
 }
