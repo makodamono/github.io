@@ -1,35 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13265617": {
-      "title": "【Webデザイナー募集】CTAデザイン制作｜参考サイトを見てから契約判断OK！",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-06-26T08:49:51+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13208885": {
-      "title": "【初心者OK】SNS発信にも力を入れるカフェブランド立ち上げ｜デザインメンバー募集",
-      "keyword": "ランディングページ",
-      "priority": "高",
-      "notified_at": "2026-06-26T08:49:51+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13265366": {
-      "title": "【在宅・実績不問】バイブコーディングで作ったオリジナル作品を募集します（1作品500円／最大20点）",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-06-26T08:49:51+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13265368": {
-      "title": "【在宅・実績不問】バイブコーディングで作ったオリジナル作品を募集します（1作品500円／最大20点）",
-      "keyword": "コーディング",
-      "priority": "高",
-      "notified_at": "2026-06-26T08:49:51+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13265040": {
-      "title": "ChatGPT画像生成を使った1ページ漫画制作スタッフ募集｜ネタ・構図・セリフ支給｜継続あり",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-06-26T08:49:51+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13265312": {
       "title": "学習教材の問題文・選択肢を所定フォーマットへ入力する作業（1件100〜200円 / 在宅・PC）",
       "keyword": "スプレッドシート",
@@ -2999,6 +2969,36 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-07T07:53:54+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13288976": {
+      "title": "【仕事終わりのひとり時間を記事にしたい方へ🍚🌙✨】独りご飯ライター募集♪｜継続あり◎",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-07T10:45:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13291094": {
+      "title": "【50〜70代男性・女性限定】アイケア商品の広告・LP掲載用インタビュー／写真提供モデル募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-07T10:45:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13264312": {
+      "title": "【GAS × Claude API】会員制サービス運用自動化システム開発（Stripe・Slack連携）",
+      "keyword": "GAS",
+      "priority": "高",
+      "notified_at": "2026-07-07T10:45:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13291045": {
+      "title": "YouTubeで使用するオリジナルキャラの立ち絵イラストを募集！",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-07T10:45:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13290955": {
+      "title": "住宅会社事務所の窓ガラス用の看板デザイン",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-07T10:45:10+00:00"
     }
   }
 }
