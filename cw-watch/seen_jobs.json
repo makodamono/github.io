@@ -1,47 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13265646": {
-      "title": "⭐【AIエージェント】AIエージェント導入・業務改善支援案件・JA-086547⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-26T08:49:51+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13265622": {
-      "title": "⭐【TypeScript】音声×生成AIを活用した自社SaaSの0→1開発テックリード業務案件・JA-086555⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-26T08:49:51+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13265581": {
-      "title": "【1作品10000円】登録者数9万人のYoutube感動朗読動画のシナリオライター募集【継続・長期契約あり】",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-26T08:49:51+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13265417": {
-      "title": "Instagramリール投稿サポートスタッフ募集・在宅ワーク",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-06-26T08:49:51+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13241626": {
-      "title": "【美容💄】美しさを整えたい20代へ。“ふわっと心が軽くなる美容投稿”をつくるデザイナーさん募集！！",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-06-26T11:35:10+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13265442": {
-      "title": "折込チラシの簡単な修正・配布エリア選定・印刷会社とのやり取り等の業務",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-26T11:35:10+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13265990": {
-      "title": "急募！！【約10分撮影で¥3,000〜】感動系YouTubeの「顔出しナビゲーター」募集｜未経験・30~70代大歓迎！",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-26T11:35:10+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13265980": {
       "title": "【約10分撮影で¥3000〜：顔出し演者募集】YouTube動画に出演しませんか？｜未経験OK！",
       "keyword": "AI",
@@ -2999,6 +2957,48 @@
       "keyword": "CSS",
       "priority": "高",
       "notified_at": "2026-07-07T13:06:47+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13256732": {
+      "title": "🐶｜未経験OK◎｜動物好きな方へ｜20代におすすめ♪好きな動物の魅力や癒やされたエピソードを書くだけ♪ライター募集｜継続あり｜",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-07T15:49:36+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13233257": {
+      "title": "【20代歓迎】AIを活用しながら副業に挑戦したい方へ｜記事作成スタッフ募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-07T15:49:36+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13291468": {
+      "title": "会社HPのリニューアル作業",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-07T15:49:36+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13291458": {
+      "title": "激辛グルメ紹介｜Instagram投稿（フィード投稿）デザイン（Canva・テンプレあり）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-07T15:49:36+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13291537": {
+      "title": "【資料制作デザイナーさん募集】 Canva得意な方歓迎♪ 継続可能性もあり",
+      "keyword": "ビジネスグループ",
+      "priority": "高",
+      "notified_at": "2026-07-07T15:49:36+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13291471": {
+      "title": "【再掲・特化】ブラジル/南米サステナブル素材候補企業10社リスト作成｜公開情報リサーチ",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-07-07T15:49:36+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13291543": {
+      "title": "急募！！【約10分撮影で¥3,000〜】感動系YouTubeの「顔出しナビゲーター」募集｜未経験・30~70代大歓迎！",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-07T15:49:36+00:00"
     }
   }
 }
