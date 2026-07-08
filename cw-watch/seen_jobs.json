@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13265807": {
-      "title": "【AIイラスト漫画の制作スタッフ募集（プロンプト作成〜作画編集まで）】",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-06-29T01:56:00+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13268117": {
-      "title": "【月間契約】【継続】HPのお問い合わせフォームから営業メッセージ送信　2026年7月度　最大5名募集",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-06-29T01:56:00+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13267239": {
-      "title": "【完全在宅】越境ECカタログ作成スタッフ募集｜語学不要｜テンプレ作業",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-06-29T01:56:00+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13267164": {
       "title": "【新規事業】生成AIスクールのウェビナー講師募集",
       "keyword": "ChatGPT",
@@ -2999,6 +2981,24 @@
       "keyword": "ジャンル:Webディレクション/LPディレクション",
       "priority": "高",
       "notified_at": "2026-07-08T08:45:44+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13292761": {
+      "title": "【業務委託】スキルアップ希望＆稼ぎたい方大募集！業界最高の還元率でのアポインター募集　最先端のサービスを販売したい方",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-07-08T10:50:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13292756": {
+      "title": "【リモート】スキルアップ希望＆稼ぎたい方大募集！業界最高の還元率でのアポインター募集　最先端のサービスを販売したい方",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-07-08T10:50:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13293596": {
+      "title": "【Webデザイナー募集】Webサイトのサイドメニューデザイン",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-07-08T10:50:11+00:00"
     }
   }
 }
