@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13267164": {
-      "title": "【新規事業】生成AIスクールのウェビナー講師募集",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-06-29T01:56:00+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13266493": {
-      "title": "【継続案件】ビジネスドキュメンタリーYouTubeの脚本ライター募集！",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-06-29T01:56:00+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13013360": {
       "title": "【経験者急募】eBayの商品リサーチ【1件100円～】※17期目の安定した企業案件！！",
       "keyword": "AI",
@@ -2999,6 +2987,18 @@
       "keyword": "Web",
       "priority": "高",
       "notified_at": "2026-07-08T10:50:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13293788": {
+      "title": "【UI/UXデザイナー募集】競馬系データをスマホで見やすく整理するWebサービスのβ版デザイン",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-08T12:09:09+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13293755": {
+      "title": "ホームページの保守・修正・実装をお任せできるフリーランスの方を募集!",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-08T12:09:09+00:00"
     }
   }
 }
