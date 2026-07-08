@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13013360": {
-      "title": "【経験者急募】eBayの商品リサーチ【1件100円～】※17期目の安定した企業案件！！",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-29T01:56:00+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13269100": {
-      "title": "【急募・10万人登録を3ヶ月で目指す】YouTube声優・ナレーターパートナー募集！AIチャンネルを一緒に盛り上げてくださる方！",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-06-29T01:56:00+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13265987": {
       "title": "【成長事業で営業に挑戦したい方募集】AI×IT×人材紹介｜営業経験者歓迎｜大阪・本町",
       "keyword": "AI活用",
@@ -2999,6 +2987,18 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-07-08T12:09:09+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13293986": {
+      "title": "AI学習サービスのLPを、構成からデザインまで見直してくださる方を募集します",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-08T14:37:37+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13291591": {
+      "title": "【在宅】デザイン画像の制作サポートスタッフ募集｜Canvaなどが使える方歓迎",
+      "keyword": "LP",
+      "priority": "高",
+      "notified_at": "2026-07-08T14:37:37+00:00"
     }
   }
 }
