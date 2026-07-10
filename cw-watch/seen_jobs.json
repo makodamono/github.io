@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13275809": {
-      "title": "HP制作",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-01T10:37:31+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13275315": {
       "title": "【LP制作ディレクション補助】マーケ視点で構成・進行管理をサポートしてくれる方募集",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-07-10T21:17:09+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13299673": {
+      "title": "リクルート社のAirレジの複数店舗ジャーナルデータとエクセルで管理している原価リストを照らし合わせて利益等のデータを出したい",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-10T23:16:01+00:00"
     }
   }
 }
