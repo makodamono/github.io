@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13273909": {
-      "title": "【文字単価3円！！】2chスカッとショート動画のシナリオ作成者様を募集します【主婦・副業大歓迎】【継続案件】",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-01T02:30:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13274483": {
-      "title": "AI・LLM領域の記事監修者募集",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-07-01T02:30:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13275047": {
-      "title": "【報酬・継続アリ】小説創作経験者向け！「AI漫画制作支援ツール」をつかってあなたの作品を漫画にしてください！",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-01T02:30:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13274668": {
-      "title": "【AI×SNS】一人旅好き歓迎/SNSのお仕事に関わりたい方！✨",
-      "keyword": "リサーチ",
-      "priority": "高",
-      "notified_at": "2026-07-01T02:30:07+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13274679": {
       "title": "【SNSの仕事を目指している方へ✨】【AI×SNS運用】旅行好きなメンバー募集！",
       "keyword": "リサーチ",
@@ -2999,6 +2975,30 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-10T10:28:45+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13299289": {
+      "title": "原稿を元に、ノーコード開発(Google AppSheet)実演をしている録画撮影(スライドも作成できる方歓迎)",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-10T12:40:55+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13299263": {
+      "title": "【継続依頼あり】WordPressでのポータルサイト制作（セキュリティ重視）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-10T12:40:55+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13287445": {
+      "title": "【新設法人】コーポレートロゴ募集",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-07-10T12:40:55+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13299196": {
+      "title": "【日英対応】半導体基本特許〜次世代真空チャンネルトランジスタの解説動画シナリオ作成（日本語＋英語翻訳）",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-07-10T12:40:55+00:00"
     }
   }
 }
