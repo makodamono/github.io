@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13275503": {
-      "title": "【高額インセンティブ／副業も◯】中小企業に向けて営業代行",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-01T10:37:31+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13275809": {
       "title": "HP制作",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-10T17:12:24+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13299621": {
+      "title": "【完全在宅】SNS運用スタッフ｜Instagram・Threads・Substack｜AI活用",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-10T21:17:09+00:00"
     }
   }
 }
