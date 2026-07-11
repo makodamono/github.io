@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/12785932": {
-      "title": "【文字単価3円】金融実務経験者向けWebライター募集｜税務・投資・保険案件中心",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-01T19:29:42+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13277307": {
       "title": "【チェックリスト付】SNS投稿サポートのお仕事",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-11T09:27:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13248923": {
+      "title": "実績作り感覚で大丈夫です！カフェのホームページ作成。気軽によろしくお願いいたします！",
+      "keyword": "ホームページ作成",
+      "priority": "高",
+      "notified_at": "2026-07-11T10:40:42+00:00"
     }
   }
 }
