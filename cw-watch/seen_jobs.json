@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13277349": {
-      "title": "【セミナー企画｜10〜15万円】集客〜成約まで設計できる方（ポートフォリオ必須）",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-02T01:52:49+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13277621": {
-      "title": "webサイトの画像編集スタッフ募集【在宅】",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-07-02T01:52:49+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13277052": {
       "title": "【1案件6,000円〜（2枚想定）】 Instagram・Web掲載用デザイン制作スタッフ募集｜Canva使える方OK！",
       "keyword": "Webサイト",
@@ -2999,6 +2987,18 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-07-11T14:05:54+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13271610": {
+      "title": "グランピングスポット紹介｜Instagram投作成（フィード投稿作成）デザイン（Canva・テンプレあり）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-11T15:08:15+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13277158": {
+      "title": "【完全在宅OK！継続あり！】LP・ランディングページ制作パートナー募集！初心者・未経験OK！「LP制作が得意な方！」",
+      "keyword": "ランディングページ制作",
+      "priority": "高",
+      "notified_at": "2026-07-11T15:08:15+00:00"
     }
   }
 }
