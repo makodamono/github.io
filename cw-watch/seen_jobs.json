@@ -1,53 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13276462": {
-      "title": "【撮影クリエーター募集】フランス発レザーワインバッグのブランド写真 ＆ ショート動画素材。7万〜15万円／素材一時貸与・要返却",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-01T10:37:31+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13276245": {
-      "title": "【1本3万円！！女性の広告漫画家募集！※継続案件もございます。】",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-01T10:37:31+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13276187": {
-      "title": "Shopify / PageFly◆フランス発ワインバッグの用LP制作◆構成案・画像・テキストあり！デザインとPageFly構築",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-01T10:37:31+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13275438": {
-      "title": "ECフォースを使用したLP型ECサイトの構築・コーディングをご依頼できる方を募集　3万円（ECフォースでの制作経験がある方のみ）",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-01T10:37:31+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13276514": {
-      "title": "【ポートフォリオ必須】リフォーム業界向けSaaSのロゴデザイン制作",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-07-01T10:37:31+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13275124": {
-      "title": "急募！情報収集メンバー募集！",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-07-01T10:37:31+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13246944": {
-      "title": "【HP制作、LP制作、制作ディレクション経験者】のWebサイト制作者（フロントエンド／デザイナー）を募集します。",
-      "keyword": "Webサイト制作",
-      "priority": "高",
-      "notified_at": "2026-07-01T10:37:31+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13275833": {
-      "title": "【完全リモート】Webメディアの運営マネージャー募集｜ライター統括・記事制作管理",
-      "keyword": "WordPress",
-      "priority": "高",
-      "notified_at": "2026-07-01T10:37:31+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13276613": {
       "title": "【字起こし・データ整理サポート】情報を分かりやすくまとめるお仕事",
       "keyword": "スプレッドシート",
@@ -2999,6 +2951,54 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-11T03:38:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13236025": {
+      "title": "【20,000円/本/分間】声優さん大募集！【少女声、女性声優さんを4名募集】【継続案件＆昇給あり】",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-11T06:00:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13300153": {
+      "title": "【未経験OK / 在宅】プロンプトを入れるだけのAI記事作成＆サイト入稿（計100記事）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-11T06:00:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13300099": {
+      "title": "マニュアルに沿ってコーディングできる方を募集します。必ず最後まで作業のできる方でお願い致します!!",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-11T06:00:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13299930": {
+      "title": "【InstagramのSNS運用に関わりたい方に向け】Canvaを使ったカフェInstagramフィード投稿",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-11T06:00:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13299926": {
+      "title": "アスエル薬局｜在宅訪問調剤パンフレット（A4三つ折り）デザイン作成",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-07-11T06:00:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13276603": {
+      "title": "【完全リモート・副業可】Webデザイナー募集",
+      "keyword": "Webディレクター",
+      "priority": "高",
+      "notified_at": "2026-07-11T06:00:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13276197": {
+      "title": "⭐【Webディレクション】Webディレクター業務案件・JA-086699⭐",
+      "keyword": "Webディレクター",
+      "priority": "高",
+      "notified_at": "2026-07-11T06:00:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13275315": {
+      "title": "【LP制作ディレクション補助】マーケ視点で構成・進行管理をサポートしてくれる方募集",
+      "keyword": "制作ディレクション",
+      "priority": "高",
+      "notified_at": "2026-07-11T06:00:32+00:00"
     }
   }
 }
