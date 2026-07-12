@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13278762": {
-      "title": "【A級トリマー資格をお持ちの方】ECモール掲載用・ペット用品（フード）の監修・推薦コメント執筆の依頼",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-02T08:36:16+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13277903": {
-      "title": "【フリーランス歓迎】経営直下で組織DXを牽引するWebPdM募集！AIやGASを駆使して仕組み化を主導",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-02T08:36:16+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13278211": {
       "title": "【在宅ワーク】SNS投稿＆記録サポート募集",
       "keyword": "STUDIO",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-12T11:32:47+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13302135": {
+      "title": "生成AI研修で使用する資料や動画の撮影依頼",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-12T16:08:45+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13302123": {
+      "title": "かるーいWebサイト制作",
+      "keyword": "Webサイト制作",
+      "priority": "高",
+      "notified_at": "2026-07-12T16:08:45+00:00"
     }
   }
 }
