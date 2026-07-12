@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13278304": {
-      "title": "株式会社サカイビルサービス及びSAKAI  NODEの2社のホームページ制作をご依頼したいと思います　",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-02T08:36:16+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13278760": {
-      "title": "広告出稿用のLPの作成",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-02T08:36:16+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13278112": {
       "title": "【STUDIO実装案件・デザインあり】当社ホームページにてオウンドメディアを構築していただける方",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "ビジネスグループ",
       "priority": "高",
       "notified_at": "2026-07-12T06:21:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13301737": {
+      "title": "【未経験OK・継続あり】SNSデザインスタッフ募集！　LP制作やデザインにも繋がるお仕事！",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-12T10:13:07+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13301711": {
+      "title": "【AI解析アプリ】既存デスクトップアプリの追加開発エンジニア募集｜Python・RunPod・AI解析",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-12T10:13:07+00:00"
     }
   }
 }
