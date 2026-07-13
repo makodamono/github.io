@@ -1,47 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13280649": {
-      "title": "【月額契約】AI駆動開発のセキュリティチェック・デプロイ対応をSlackでサポートいただけるエンジニア募集",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-07-03T08:20:55+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13278785": {
-      "title": "【営業・展示会向け】物流DXサービスのA4両面リーフレットデザイン（★継続依頼あり）",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-07-03T08:20:55+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13280668": {
-      "title": "【GAS × Claude API 】会員制サービス運用自動化システム開発（ Stripe ・ Slack 連携）",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-07-03T08:20:55+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13280782": {
-      "title": "eラーニング動画用スライド作成／原稿支給あり",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-07-03T08:20:55+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13281137": {
-      "title": "⭐【TypeScript，React】AIを活用したHR新規プロダクトの0→1開発業務案件・JA-086777⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-03T08:20:55+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13280309": {
-      "title": "【代理店・紹介パートナー募集】EC事業者をご紹介いただける方を募集しています！",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-03T11:04:01+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13276881": {
-      "title": "【ブランドロゴ募集】建築×ライフスタイルブランド「TANE WORKS」のロゴデザイン募集",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-07-03T11:04:01+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13280542": {
       "title": "【フルリモート】看護師の新たなキャリアを支援する！WEBライティング講師募集",
       "keyword": "WordPress",
@@ -2999,6 +2957,48 @@
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
       "priority": "高",
       "notified_at": "2026-07-13T10:00:28+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13305659": {
+      "title": "【チャレンジしたい方！】サモエドカフェのInstagramフィード投稿を作ってくれる方を募集！！【動物好き！・20代おすすめ！】",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-13T12:33:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13305459": {
+      "title": "【フルリモート可】フルスタックエンジニア募集【Next.js / TypeScript】",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-07-13T12:33:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13278350": {
+      "title": "【業務委託/ 〜100万円/月】BtoB AI SaaSプロダクト｜UI/UXデザイナー募集｜フルリモート・Figma引継ぎあり",
+      "keyword": "CSS",
+      "priority": "高",
+      "notified_at": "2026-07-13T12:33:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13304330": {
+      "title": "【完全在宅】 月10時間程度 / 継続案件",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-07-13T12:33:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13304313": {
+      "title": "【売上・経費・各記入の確認等の作業】",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-07-13T12:33:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13305578": {
+      "title": "☕カフェ好きさん募集｜「おすすめカフェ紹介」ライター募集🍰",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-13T12:33:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13304417": {
+      "title": "バックオフィスBPO/BPR推進コンサルタント募集（人事給与・経理領域）",
+      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
+      "priority": "高",
+      "notified_at": "2026-07-13T12:33:19+00:00"
     }
   }
 }
