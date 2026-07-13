@@ -1,35 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13280542": {
-      "title": "【フルリモート】看護師の新たなキャリアを支援する！WEBライティング講師募集",
-      "keyword": "WordPress",
-      "priority": "高",
-      "notified_at": "2026-07-03T11:04:01+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13280520": {
-      "title": "【フルリモート】WEBライティング講師募集！",
-      "keyword": "WordPress",
-      "priority": "高",
-      "notified_at": "2026-07-03T11:04:01+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13281667": {
-      "title": "【初心者でも長期採用！！】美しさを整えたい20代へ。“ふわっと心が軽くなる美容投稿”をつくるデザイナーさん募集！！",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-03T13:04:18+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13281649": {
-      "title": "医療職の“働き方の悩み”に寄り添うフィード投稿を一緒につくりませんか？？",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-03T13:04:18+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13280539": {
-      "title": "会社の数値分析の仕組みを0→1で構築する！データで事業を推進する推進担当",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-03T13:04:18+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13281779": {
       "title": "【マニュアル完備 / 単純作業】SNS発信者のリストアップをお願いいたします！",
       "keyword": "スプレッドシート",
@@ -2999,6 +2969,36 @@
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
       "priority": "高",
       "notified_at": "2026-07-13T12:33:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13306002": {
+      "title": "【継続募集】100均紹介YouTubeの台本ライター｜AI下書きの仕上げ｜1本2,000円",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-13T15:30:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13305929": {
+      "title": "【旅行好き歓迎】冬におすすめの観光地を紹介してくださる方募集！Instagram投稿画像（フィード投稿画像）作成、デザイン作成",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-13T15:30:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13298024": {
+      "title": "【長期・安定】在宅でコツコツ稼げる！PCを使ったシンプルメール送信・データ検索業務",
+      "keyword": "LP修正",
+      "priority": "高",
+      "notified_at": "2026-07-13T15:30:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13280668": {
+      "title": "【GAS × Claude API 】会員制サービス運用自動化システム開発（ Stripe ・ Slack 連携）",
+      "keyword": "GAS",
+      "priority": "高",
+      "notified_at": "2026-07-13T15:30:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13305860": {
+      "title": "【高単価：20,000円】YouTubeエンタメ系チャンネルの動画の編集者を募集【継続案件／初心者お断り】",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-07-13T15:30:39+00:00"
     }
   }
 }
