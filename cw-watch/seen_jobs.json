@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13252356": {
-      "title": "顧客管理DX（OCR×CRM×ナーチャリング）構築支援｜3フェーズ設計・実装できる方募集",
-      "keyword": "GAS",
-      "priority": "高",
-      "notified_at": "2026-07-02T08:36:16+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13278440": {
-      "title": "【20代簿記保有歓迎✨】簿記系メディアの投稿管理＆リサーチ募集（週3〜5時間から・継続あり）",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-02T08:36:16+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13278354": {
       "title": "【完全在宅・シフト柔軟】建築会社代表の営業アシスタント業務（リスト作成・メール送信等）※丁寧な対応ができる方歓迎！",
       "keyword": "スプレッドシート",
@@ -2999,6 +2987,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-07-12T18:09:56+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13302337": {
+      "title": "【長期募集】楽天・Amazon・Yahoo向けECデザイナー（バナー・LP制作）募集！",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-13T00:05:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13302275": {
+      "title": "【副業にぴったり】毎日30分のSNS投稿作成",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-13T00:05:34+00:00"
     }
   }
 }
