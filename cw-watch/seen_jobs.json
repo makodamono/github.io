@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13235732": {
-      "title": "【未経験OK/完全在宅】1件5円〜 営業リスト作成｜コツコツ作業が得意な方歓迎！#165",
-      "keyword": "営業リスト作成",
-      "priority": "高",
-      "notified_at": "2026-07-03T13:04:18+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13281987": {
       "title": "【海外で話題の動画リサーチ＋YouTubeショート台本作成のお仕事】",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-13T17:31:00+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13306049": {
+      "title": "【継続あり】市場調査・商品企画に関するBtoB記事ライター募集",
+      "keyword": "WordPress",
+      "priority": "高",
+      "notified_at": "2026-07-13T22:11:10+00:00"
     }
   }
 }
