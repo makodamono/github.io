@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13284556": {
-      "title": "生成AI研修で使用する資料や動画の撮影依頼",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-07-05T08:25:15+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13284706": {
       "title": "【一案件2000円～】YouTube恋愛漫画用の二次元アニメAI画像の作成依頼【継続発注あり】",
       "keyword": "AI",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-07-14T17:02:29+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13308583": {
+      "title": "A1ポスター・A4チラシ・チケットをIllustratorで印刷用データへ仕上げていただける方募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-14T21:39:28+00:00"
     }
   }
 }
