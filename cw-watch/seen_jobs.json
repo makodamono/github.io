@@ -1,35 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13284028": {
-      "title": "FIGMAでLPのデザインお願いします。",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-04T17:29:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13243537": {
-      "title": "【完全在宅/未経験OK】YouTubeから情報を集めるだけ！リスト作成業務",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-04T21:34:45+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13284151": {
-      "title": "【実績作りにも応募可！】制作済みのWordPressサイトのテーマ変更をお願いします。【swell】",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-04T22:34:18+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13051719": {
-      "title": "毛穴ケアスキンケア｜商品紹介Instagram投稿（フィード投稿作成）デザイン（Canva・テンプレあり）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-04T22:34:18+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13284026": {
-      "title": "【急募】YouTubeショート用のオリジナルBGM制作案件",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-04T23:37:38+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13284032": {
       "title": "【1本300円】人気漫画のショート動画における台本作成と素材収集者様を大募集!!",
       "keyword": "スプレッドシート",
@@ -2999,6 +2969,36 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-07-14T12:21:23+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13308400": {
+      "title": "【 急募・Studio 】作成中のStudioサイトの仕上げ（アニメーション・レスポンシブ・SEO・リンク対応）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-14T14:21:54+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13308308": {
+      "title": "エクセルを用いた数学の作図",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-07-14T14:21:54+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13308280": {
+      "title": "【1通7円】SNS DM送信スタッフ募集｜リスト・文章すべて用意済み",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-07-14T14:21:54+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13308263": {
+      "title": "ゲーム風AIワークスペースのキャラクターアニメーション実装",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-07-14T14:21:54+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13308322": {
+      "title": "マッチングアプリの自動メッセージ送信ツールの開発",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-14T14:21:54+00:00"
     }
   }
 }
