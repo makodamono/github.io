@@ -1,53 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13283007": {
-      "title": "LPのワイヤーフレーム Studio実装",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-04T07:36:44+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13283003": {
-      "title": "LPのワイヤーフレーム Studio実装",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-04T07:36:44+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13279951": {
-      "title": "【完全在宅】SNS運用のお手伝いスタッフ募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-04T07:36:44+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13282313": {
-      "title": "【完全リモート】Webメディアの運営マネージャー募集｜ライター統括・記事制作管理",
-      "keyword": "WordPress",
-      "priority": "高",
-      "notified_at": "2026-07-04T07:36:44+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13283522": {
-      "title": "漫画のセリフ,ライター様募集 継続的にご依頼できる方に限ります！1文字あたり：1円　プロット4000円　ネーム作業あり",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-04T09:47:39+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13258561": {
-      "title": "【北陸在住の方優遇】WordPress・Webマーケティング担当募集｜一緒に事業を伸ばしてくれるパートナー募集",
-      "keyword": "HTML・CSS",
-      "priority": "高",
-      "notified_at": "2026-07-04T09:47:39+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13282896": {
-      "title": "【高単価！顔出し不要・完全在宅】ライティング教材動画の制作にご協力いただける講師の方を募集します！",
-      "keyword": "WordPress",
-      "priority": "高",
-      "notified_at": "2026-07-04T09:47:39+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13282810": {
-      "title": "【高単価！顔出し不要・完全在宅】ライティング教材動画の制作にご協力いただける講師の方を募集します！",
-      "keyword": "WordPress",
-      "priority": "高",
-      "notified_at": "2026-07-04T09:47:39+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13283344": {
       "title": "【高単価：20,000円】YouTubeエンタメ系チャンネルの動画の編集者を募集【継続案件／初心者お断り】",
       "keyword": "ChatGPT",
@@ -2999,6 +2951,54 @@
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
       "priority": "高",
       "notified_at": "2026-07-14T03:28:13+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13307074": {
+      "title": "WordPressテーマ【SWELL】を使用したカスタムサイト制作",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-14T05:51:14+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13307007": {
+      "title": "10月放送アニメ案件_作画作業のご相談",
+      "keyword": "STUDIO",
+      "priority": "高",
+      "notified_at": "2026-07-14T05:51:14+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13306957": {
+      "title": "【経験不問】 SNS投稿＆記録サポート｜SNS投稿＆記録サポート募集",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-07-14T05:51:14+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13306861": {
+      "title": "【1件5000円〜】ホラーゲームに特化したゆっくり解説動画のシナリオ作成",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-07-14T05:51:14+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13307069": {
+      "title": "【仕事の経験を文章に】転職・副業・働き方エッセイライター募集✨",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-07-14T05:51:14+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13307109": {
+      "title": "【5分で7500円】【男女 大量募集】AI学習用TTS音声収録「感情表現」",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-14T05:51:14+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13307098": {
+      "title": "【5分で7500円】【男女 大量募集】AI学習用TTS音声収録「高表現力」",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-14T05:51:14+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13306825": {
+      "title": "【単価5,000円／在宅】日本語リスニング動画の編集者募集！音声生成＋タイミング編集(画像+効果音すべて支給)<経験者優遇>",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-14T05:51:14+00:00"
     }
   }
 }
