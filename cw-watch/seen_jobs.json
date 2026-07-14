@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13283724": {
-      "title": "資料のデザイン",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-07-04T12:19:28+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13283889": {
-      "title": "生成AI研修で使用する資料や動画の撮影依頼",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-04T14:02:55+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13283883": {
-      "title": "福利厚生ビジネス紹介依頼のランディングページ",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-04T14:02:55+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13283734": {
       "title": "【不動産系YouTube 出演者募集】住まい・マンション購入の専門家募集｜出演料10万円〜／日｜継続出演の可能性あり",
       "keyword": "ホームページ",
@@ -2999,6 +2981,24 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-07-14T07:46:16+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13307873": {
+      "title": "ランディングページ制作",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-14T09:30:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13307664": {
+      "title": "介護施設ホームページ制作 依頼要件",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-14T09:30:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13283746": {
+      "title": "スタジオサブスク販促用のLP制作",
+      "keyword": "ランディングページ制作",
+      "priority": "高",
+      "notified_at": "2026-07-14T09:30:19+00:00"
     }
   }
 }
