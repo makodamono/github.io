@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13284346": {
-      "title": "【月決め契約】デザイン業務(ウェブ、バナー、パワーポイント、など）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-05T08:25:15+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13261307": {
-      "title": "営業",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-07-05T08:25:15+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13284556": {
       "title": "生成AI研修で使用する資料や動画の撮影依頼",
       "keyword": "ChatGPT",
@@ -2999,6 +2987,18 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-07-14T15:54:44+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13308530": {
+      "title": "XDのデザインデータからHTML＋SCSSでのWebサイトコーディング",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-14T17:02:29+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13308436": {
+      "title": "【パン巡り好き歓迎】Instagram投稿作成（フィード投稿作成）のお仕事🍞✨Canva作成",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-14T17:02:29+00:00"
     }
   }
 }
