@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13284706": {
-      "title": "【一案件2000円～】YouTube恋愛漫画用の二次元アニメAI画像の作成依頼【継続発注あり】",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-05T08:25:15+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13284650": {
-      "title": "【ラフ案あり】動物モチーフのキャラクター作成依頼",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-05T08:25:15+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13284838": {
       "title": "【構成案あり】食品保存グッズのShopify用LP制作（50代女性向け）｜デザイン＆コーディング｜",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-07-14T21:39:28+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13308721": {
+      "title": "【7/15急募Studio】デザインをもとにノーコードツールStudioでWebサイト構築",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-15T00:13:15+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13308607": {
+      "title": "【短時間OK】 SNS投稿＆記録サポート｜1日30分のSNS運用お手伝い",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-07-15T00:13:15+00:00"
     }
   }
 }
