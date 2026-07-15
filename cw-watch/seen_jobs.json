@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13288060": {
-      "title": "⭐高性能AIチャットボットSaaSプラットフォームにおけるデータ分析・マーケティングコンサルタント案件⭐",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-06T09:45:55+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13287305": {
       "title": "ワードプレスで作成されたホームページの修正案件",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-07-15T22:41:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13311042": {
+      "title": "美容・ライフスタイル系Instagramの投稿＆リール作成募集！AI活用！",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-15T23:42:08+00:00"
     }
   }
 }
