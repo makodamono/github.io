@@ -1,65 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13286857": {
-      "title": "「支払・入金期限アラート」",
-      "keyword": "GAS",
-      "priority": "高",
-      "notified_at": "2026-07-06T05:47:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13054961": {
-      "title": "日々変動する価格を修正するだけ◆売れたら報酬◆毎日短時間でコツコツお仕事◆長期",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-06T05:47:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13287177": {
-      "title": "【急募/継続あり】3ヶ月で10万人を目指すAI解説YouTube！専属ナレーター募集【インセンティブあり】",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-06T05:47:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13282069": {
-      "title": "【Notion構築・実装】業務ポータル/DB設計〜データ移行まで一気通貫でお任せできる方を募集",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-06T05:47:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13281654": {
-      "title": "【法人向けAI研修サービス】営業サポートスタッフ募集｜法人営業経験者歓迎（継続）",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-07-06T05:47:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13283774": {
-      "title": "【カンタン！高単価！】AI加工！動画・画像編集！『AI活用パートナー募集！』（AKOOL等）",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-07-06T05:47:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13281943": {
-      "title": "【四国】販路拡大のサポート／アライアンス・パートナーシップを推進いただける方（不動産業向け）",
-      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
-      "priority": "高",
-      "notified_at": "2026-07-06T05:47:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13281944": {
-      "title": "【中国】販路拡大のサポート／アライアンス・パートナーシップを推進いただける方（不動産業向け）",
-      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
-      "priority": "高",
-      "notified_at": "2026-07-06T05:47:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13281947": {
-      "title": "【九州】販路拡大のサポート／アライアンス・パートナーシップを推進いただける方（不動産業向け）",
-      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
-      "priority": "高",
-      "notified_at": "2026-07-06T05:47:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13281941": {
-      "title": "【関西】販路拡大のサポート／アライアンス・パートナーシップを推進いただける方（不動産業向け）",
-      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
-      "priority": "高",
-      "notified_at": "2026-07-06T05:47:07+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13281936": {
       "title": "【北関東】販路拡大のサポート／アライアンス・パートナーシップを推進いただける方（不動産業向け）",
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
@@ -2999,6 +2939,66 @@
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
       "priority": "高",
       "notified_at": "2026-07-15T07:54:00+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13310351": {
+      "title": "【n8n・OpenAI API】Amazon商品ページ制作の半自動AIシステム開発",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-15T09:49:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13310282": {
+      "title": "【新店舗ラーメン屋のHP作成依頼】",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-15T09:49:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13287109": {
+      "title": "AWSサーバ 構築・運用・保守が得意なサーバーエンジニア募集",
+      "keyword": "Webサイト制作",
+      "priority": "高",
+      "notified_at": "2026-07-15T09:49:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13281946": {
+      "title": "【HP制作、LP制作、制作ディレクション経験者】のWebサイト制作者（フロントエンド／デザイナー）を募集します。",
+      "keyword": "Webサイト制作",
+      "priority": "高",
+      "notified_at": "2026-07-15T09:49:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13310254": {
+      "title": "【文字単価2円】洋服レンタルサービスに関するSEO記事ライティング【長期継続あり】",
+      "keyword": "WordPress",
+      "priority": "高",
+      "notified_at": "2026-07-15T09:49:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13310297": {
+      "title": "フルリモート対応可能！Airbnbメッセージ代行募集",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-07-15T09:49:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13310120": {
+      "title": "ECサイトの商品タイトル・説明文作成",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-07-15T09:49:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13310271": {
+      "title": "🤖 あなたのAI活用術教えてください！",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-15T09:49:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13310175": {
+      "title": "⭐【Python or Go or Java】大規模AI駆動開発におけるハーネス作成業務案件・JA-087213⭐",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-15T09:49:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13310127": {
+      "title": "【1本1500円】YouTube・TikTok向けBGM制作（30秒〜1分程度）",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-15T09:49:51+00:00"
     }
   }
 }
