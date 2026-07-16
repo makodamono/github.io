@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13290722": {
-      "title": "法人の拠点、電話番号等の収集",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-07T07:53:54+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13290720": {
-      "title": "【主婦さん歓迎！】動画の編集ミスをチェックする簡単なお仕事！",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-07T07:53:54+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13290270": {
       "title": "【継続あり】企業情報のリスト作成・データ抽出作業の依頼",
       "keyword": "スプレッドシート",
@@ -2999,6 +2987,18 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-07-16T15:54:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13290372": {
+      "title": "⭐【GAS】API連携・Google Workspace業務自動化ツールの開発・保守業務案件・JA-086878⭐",
+      "keyword": "GAS",
+      "priority": "高",
+      "notified_at": "2026-07-16T18:15:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13300787": {
+      "title": "ロゴ作製（※原案あり・修正依頼)【不登校・多様な学びネットワーク 茨城 つながる”緑”日】",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-16T18:15:32+00:00"
     }
   }
 }
