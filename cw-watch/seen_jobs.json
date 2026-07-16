@@ -1,59 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13289005": {
-      "title": "全国のドッグランに関する収集作業をお願い致します",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-07T04:13:57+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13289802": {
-      "title": "【議事録・議事要旨】会議の議事要旨のチェック・校正(動画確認あり)",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-07T04:13:57+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13289676": {
-      "title": "【AI×SNS運用】初心者◎｜SNSを駆使して「集客」につなげてくれる長期パートナー募集",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-07T04:13:57+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13289419": {
-      "title": "【1作品10000円】登録者数9万人のYoutube感動朗読動画のシナリオライター募集【継続・長期契約あり】",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-07T04:13:57+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13290791": {
-      "title": "★万年筆好き必見★【完全在宅】可愛い万年筆のインスタグラム海外向けAI画像加工、投稿代行",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-07T07:53:54+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13290366": {
-      "title": "【HP制作／WordPress構築】ECコンサル企業のホームページ再構築を一緒に進めていただける方募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-07T07:53:54+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13290344": {
-      "title": "【Webデザイン】TOPページリニューアルデザイナー募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-07T07:53:54+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13290235": {
-      "title": "不動産会社のサイトのデザイン(2ページ)をFigmaで行なっていただける方",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-07T07:53:54+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13290204": {
-      "title": "コーポレートサイト(1ページのみ)のデザインをFigmaで行なっていただける方",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-07T07:53:54+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13290278": {
       "title": "【継続・在宅】Webサイト改善のSEO/CROアシスタント｜競合調査・改善指示書の作成",
       "keyword": "Web",
@@ -2999,6 +2945,60 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-16T08:59:31+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13313138": {
+      "title": "【経験者のみ】STUDIOテンプレートを使ったコーポレートサイトの作成（HP,ホームページ）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-16T12:20:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13313134": {
+      "title": "【センスの良い方&実績作りたい方歓迎】STUDIOテンプレートを使ったコーポレートサイトの作成（HP,ホームページ）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-16T12:20:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13313001": {
+      "title": "医療職の“働き方の悩み”に寄り添うフィード投稿を一緒につくりませんか？？",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-16T12:20:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13287728": {
+      "title": "【月25万保証＋歩合】広告代理店での営業経験を活かす！最先端AIツールのBtoB営業メンバー募集！フルリモート/継続",
+      "keyword": "LP作成",
+      "priority": "高",
+      "notified_at": "2026-07-16T12:20:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13312994": {
+      "title": "【完全在宅で月65万円以上可】開発・設計・運用・保守まで｜経験を活かせるシステムエンジニアを募集",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-07-16T12:20:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13289908": {
+      "title": "美容医療口コミWebサービスの開発エンジニアを募集します",
+      "keyword": "Webサイト制作",
+      "priority": "高",
+      "notified_at": "2026-07-16T12:20:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/12493235": {
+      "title": "★初学者大歓迎！★ 生成AI活用でライティングをお願いします【使い方レクチャー付き】",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-07-16T12:20:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13312989": {
+      "title": "【1曲3000円】ショート動画用の3分程度のオリジナルBGM制作",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-16T12:20:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13312976": {
+      "title": "製造業向け品質管理AIチャットボット「品質管理AIアシスタント」の開発",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-16T12:20:43+00:00"
     }
   }
 }
