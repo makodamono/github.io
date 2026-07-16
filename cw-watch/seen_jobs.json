@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13290278": {
-      "title": "【継続・在宅】Webサイト改善のSEO/CROアシスタント｜競合調査・改善指示書の作成",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-07-07T07:53:54+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13290164": {
-      "title": "【コピペで簡単】問い合わせフォーム送信作業　#PCのみで完結　#マニュアル完備",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-07-07T07:53:54+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13290277": {
-      "title": "⭐【Webディレクション】建築業界向けAIサービス開発における要件定義・上流ディレクター案件・JA-086875⭐",
-      "keyword": "ディレクション",
-      "priority": "高",
-      "notified_at": "2026-07-07T07:53:54+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13290372": {
       "title": "⭐【GAS】API連携・Google Workspace業務自動化ツールの開発・保守業務案件・JA-086878⭐",
       "keyword": "GAS",
@@ -2999,6 +2981,24 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-16T12:20:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13313220": {
+      "title": "【美容関連】LP制作　※既存LPの流用です。継続的に長くご一緒できる方ですと幸いです！",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-16T14:28:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13313181": {
+      "title": "FIGMAでHPのデザインの作成お願いします。",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-16T14:28:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13313015": {
+      "title": "不動産会社情報の取得",
+      "keyword": "GAS",
+      "priority": "高",
+      "notified_at": "2026-07-16T14:28:10+00:00"
     }
   }
 }
