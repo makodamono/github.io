@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13290270": {
-      "title": "【継続あり】企業情報のリスト作成・データ抽出作業の依頼",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-07T07:53:54+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13289822": {
       "title": "【完全在宅/未経験OK】YouTubeから情報を集めるだけ！リスト作成業務",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-16T18:15:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13313715": {
+      "title": "ライティング・WordPress記事入稿【継続あり】",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-16T23:31:28+00:00"
     }
   }
 }
