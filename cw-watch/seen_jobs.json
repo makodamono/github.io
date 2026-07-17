@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13292715": {
-      "title": "⭐【ITコンサル・PM】AI・データ活用プロジェクト推進業務内容案件・JA-085555⭐",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-07-08T06:16:55+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13292678": {
-      "title": "⭐【カスタマーサクセス】生成AI教育サービスの運用設計業務案件・JA-085655⭐",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-07-08T06:16:55+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13292659": {
       "title": "⭐【法人営業】デザイン・Web制作案件の新規リード獲得営業業務案件・JA-085750⭐",
       "keyword": "ビジネスグループ",
@@ -2999,6 +2987,18 @@
       "keyword": "CSS",
       "priority": "高",
       "notified_at": "2026-07-17T15:48:20+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13305633": {
+      "title": "【完全フルリモ】車好き歓迎！カスタムパーツ・最新情報のリサーチスタッフ募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-17T16:51:16+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13292796": {
+      "title": "⭐【Webディレクター】SaaSサービスのWebディレクション業務案件・JA-084436⭐",
+      "keyword": "Webディレクター",
+      "priority": "高",
+      "notified_at": "2026-07-17T16:51:16+00:00"
     }
   }
 }
