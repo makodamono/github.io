@@ -1,35 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13290697": {
-      "title": "【長期】EC事務局スタッフ募集！完全在宅/手厚い引継ぎあり/接客や店舗運営の経験が活かせるお仕事♪",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-07-08T03:45:58+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13292436": {
-      "title": "⭐【React・Go】新規プロダクトAI駆動エンジニアリングマネージャー開発業務案件・JA-086936⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-08T03:45:58+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13292397": {
-      "title": "⭐【React・Go】新規プロダクトAI駆動フルスタックエンジニア開発業務案件・JA-086935⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-08T03:45:58+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13292380": {
-      "title": "クリニックの看板デザインのAIデータ化",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-08T03:45:58+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13292383": {
-      "title": "⭐【Python】　AIソリューションアーキテクト業務案件・JA-086928⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-08T03:45:58+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13292379": {
       "title": "⭐【Python】　AIプロジェクトのPM業務案件・JA-086927⭐",
       "keyword": "AI",
@@ -2999,6 +2969,36 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-17T11:48:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13316163": {
+      "title": "【美容好き歓迎】ChatGPTを使って学べる♪美容ブログライター募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-17T12:50:59+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13316160": {
+      "title": "【急募】スプレッドシートへの簡単入力作業＊30分で完了するお仕事",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-17T12:50:59+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13316113": {
+      "title": "化粧品のLP制作",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-17T12:50:59+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13290986": {
+      "title": "【SNS運用・Webディレクター経験者歓迎】SNS集客支援サービスの提案・ディレクション担当（フルリモート）】",
+      "keyword": "Webディレクター",
+      "priority": "高",
+      "notified_at": "2026-07-17T12:50:59+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13316153": {
+      "title": "AIロゴ清書",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-17T12:50:59+00:00"
     }
   }
 }
