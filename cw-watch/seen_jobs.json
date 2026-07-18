@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13292945": {
-      "title": "イラスト男女2つ全身の作成",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-08T06:16:55+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13292801": {
-      "title": "⭐【フルスタックエンジニア】日本最大級の音声会話型AIアプリのフルスタック開発業務案件・JA-084356⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-08T06:16:55+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13292776": {
       "title": "⭐【AIエージェント活用】教育系SaaSの開発・運用全般業務案件・JA-084942⭐",
       "keyword": "AI",
@@ -2999,6 +2987,18 @@
       "keyword": "LP修正",
       "priority": "高",
       "notified_at": "2026-07-18T06:27:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13317400": {
+      "title": "学園祭で企画している体験型ゲームの紹介ホームページ作成",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-18T08:15:26+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13317392": {
+      "title": "boardの顧客一覧データを綺麗にしたい　board使用経験者のみの募集",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-18T08:15:26+00:00"
     }
   }
 }
