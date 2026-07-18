@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13292797": {
-      "title": "【20,000円～】場面・スタイルの高い表現力を持つ声優さんを募集します【高単価】声に自信のある方必見！",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-08T08:45:44+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13292688": {
-      "title": "Vlog系ショート動画の 編集・運用パートナーを募集 v2",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-08T08:45:44+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13268901": {
       "title": "AIエージェントで日本の法人リストを自動生成するプロダクトのフルスタックエンジニア募集",
       "keyword": "スクレイピング",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-18T15:07:08+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13317910": {
+      "title": "【AI不使用・手描き限定】小説の表紙用イラスト素材の作成依頼",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-18T18:04:26+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13317909": {
+      "title": "【編集のみ・1本2万円/継続】没入感のあるAI素材動画の編集者募集｜高品質な即戦力の方",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-18T18:04:26+00:00"
     }
   }
 }
