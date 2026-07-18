@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13293390": {
-      "title": "海外向けデジタル商品のランディングページ（LP）制作",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-08T08:45:44+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13292987": {
-      "title": "【女性デザイナー歓迎】UTAGEでの（不妊症改善プログラム） のセールスレター構築・画像デザイン",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-08T08:45:44+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13293271": {
       "title": "⭐【Webディレクション】自社および受託ECサイトやWeb制作におけるディレクション業務案件・JA-082817⭐",
       "keyword": "ビジネスグループ",
@@ -2999,6 +2987,18 @@
       "keyword": "STUDIO",
       "priority": "高",
       "notified_at": "2026-07-18T09:46:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13317653": {
+      "title": "【AI・テクノロジー好きな方へ】20代向けAI関係記事ライター募集✨",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-18T11:39:27+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13317628": {
+      "title": "WordPress｜CSV一括登録・SEO記事量産システム開発（ACF・カスタム投稿対応）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-18T11:39:27+00:00"
     }
   }
 }
