@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13268901": {
-      "title": "AIエージェントで日本の法人リストを自動生成するプロダクトのフルスタックエンジニア募集",
-      "keyword": "スクレイピング",
-      "priority": "高",
-      "notified_at": "2026-07-08T08:45:44+00:00"
-    },
     "https://crowdworks.jp/public/jobs/12780293": {
       "title": "【高単価！ボーナス有！1本/4,000円】日本食や日本文化に関するyoutubeシナリオライター様募集(*^▽^*)",
       "keyword": "ジャンル:Webディレクション/LPディレクション",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-07-18T18:04:26+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13317968": {
+      "title": "【在宅・フレックス・時短・時間柔軟】特許実務経験のある弁理士を募集｜AIエージェント活用の特許事務所",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-18T22:52:59+00:00"
     }
   }
 }
