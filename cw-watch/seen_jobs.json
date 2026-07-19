@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13294339": {
-      "title": "【LPコーディング】Adobe XD支給／レスポンシブ対応／スマホファースト／継続依頼あり",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-08T23:42:15+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13295437": {
       "title": "【継続依頼】アドアフィ広告記事用カラー漫画作成依頼",
       "keyword": "全体新着",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-19T07:10:48+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13318594": {
+      "title": "【AI使用禁止・AI提案禁止】学習塾ウェブサイトサイトリニューアルにおけるデザイン",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-19T09:15:30+00:00"
     }
   }
 }
