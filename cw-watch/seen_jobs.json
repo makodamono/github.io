@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13294894": {
-      "title": "【Makuakeクラファン】犬用「手作りごはん自動調理器」プロジェクトページのメインデザイン募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-09T05:09:10+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13261590": {
       "title": "【募集】システム開発が得意！なシステムエンジニアさん",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-19T14:08:37+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13318848": {
+      "title": "実績豊富な方でデザイン知識のある方を募集します",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-19T15:10:47+00:00"
     }
   }
 }
