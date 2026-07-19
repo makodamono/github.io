@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/12780293": {
-      "title": "【高単価！ボーナス有！1本/4,000円】日本食や日本文化に関するyoutubeシナリオライター様募集(*^▽^*)",
-      "keyword": "ジャンル:Webディレクション/LPディレクション",
-      "priority": "高",
-      "notified_at": "2026-07-08T08:45:44+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13292761": {
       "title": "【業務委託】スキルアップ希望＆稼ぎたい方大募集！業界最高の還元率でのアポインター募集　最先端のサービスを販売したい方",
       "keyword": "ホームページ",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-07-18T22:52:59+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13317973": {
+      "title": "【急募】本日午前中までに、10分前後の台本読み上げをしてくださる方はいらっしゃいますか？1本1,100円！",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-19T01:11:19+00:00"
     }
   }
 }
