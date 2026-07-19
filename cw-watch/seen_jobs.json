@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13261590": {
-      "title": "【募集】システム開発が得意！なシステムエンジニアさん",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-09T05:09:10+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13293763": {
       "title": "【継続】記事添削＆WordPress入稿ディレクター｜面談2200円/設計5500円/1記事3300円 税込",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-07-19T15:10:47+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13287341": {
+      "title": "【カワイイ系キャラデザ】お芋の神様ポテイトン",
+      "keyword": "GAS自動化",
+      "priority": "高",
+      "notified_at": "2026-07-19T19:22:50+00:00"
     }
   }
 }
