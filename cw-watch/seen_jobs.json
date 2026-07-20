@@ -1,35 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13296085": {
-      "title": "【初心者でもOK！！】美しさを整えたい20代へ。“ふわっと心が軽くなる美容投稿”をつくるデザイナーさん募集！！",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-09T08:49:45+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13295970": {
-      "title": "Codex（AI）が生成したHTMLをClaude Code経由でWordPressに実装する自動化ワークフローの構築",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-09T08:49:45+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13295951": {
-      "title": "Codexから出力されたHTMLデータをClaude Code経由でwordpressに実装するワークフロー作成",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-09T08:49:45+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13295631": {
-      "title": "【AI活用×デザイン力】スタートアップのホームページ刷新に伴うWebデザイナー募集！【事例のURL必須】",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-09T08:49:45+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13295481": {
-      "title": "報酬累計1000万円可能【美容×インバウンド】ストック型営業パートナー募集｜東京・地方都市歓迎｜個人、フルリモート可",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-07-09T08:49:45+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13296097": {
       "title": "Codex（AI）が生成したHTMLをClaude Code経由でWordPressに実装する自動化ワークフローの構築",
       "keyword": "LP",
@@ -2999,6 +2969,36 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-20T14:28:58+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13320875": {
+      "title": "【長期】Web制作ディレクター／デザイナー募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-20T16:08:52+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13320821": {
+      "title": "【家具・インテリア好き歓迎】Instagram投稿作成（フィード投稿作成）デザイン制作スタッフ募集｜サポートあり",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-20T16:08:52+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13320843": {
+      "title": "【急募・プロ野球好き歓迎】阪神タイガースの試合データ・全打席＆投手成績の入力作業（今季開幕〜作業終了日までの最新試合分を一括入力",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-07-20T16:08:52+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13292315": {
+      "title": "コンサルティング案件【月80〜140万／フルリモート案件◎】大手コンサルファーム出身者活躍中＆単価アップ可",
+      "keyword": "データ収集",
+      "priority": "高",
+      "notified_at": "2026-07-20T16:08:52+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13292292": {
+      "title": "【PMO／PM募集／月80〜160万／フルリモート案件あり◎】｜大手コンサルファーム出身者活躍中＆単価アップ可",
+      "keyword": "データ収集",
+      "priority": "高",
+      "notified_at": "2026-07-20T16:08:52+00:00"
     }
   }
 }
