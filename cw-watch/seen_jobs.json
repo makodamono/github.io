@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13296097": {
-      "title": "Codex（AI）が生成したHTMLをClaude Code経由でWordPressに実装する自動化ワークフローの構築",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-09T08:49:45+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13295982": {
       "title": "【継続依頼あり】Instagramフィード投稿用の画像編集・キャプション作成をお願いします",
       "keyword": "LP",
@@ -2999,6 +2993,12 @@
       "keyword": "データ収集",
       "priority": "高",
       "notified_at": "2026-07-20T16:08:52+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/12780293": {
+      "title": "【高単価！ボーナス有！1本/4,000円】日本食や日本文化に関するyoutubeシナリオライター様募集(*^▽^*)",
+      "keyword": "GAS自動化",
+      "priority": "高",
+      "notified_at": "2026-07-20T18:16:00+00:00"
     }
   }
 }
