@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13299289": {
-      "title": "原稿を元に、ノーコード開発(Google AppSheet)実演をしている録画撮影(スライドも作成できる方歓迎)",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-10T12:40:55+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13299263": {
       "title": "【継続依頼あり】WordPressでのポータルサイト制作（セキュリティ重視）",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-07-21T17:20:21+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13324710": {
+      "title": "【AI×ライティング】AIにお任せで口コミ・レビュー記事を作るお仕事｜継続でお願いできる方募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-21T18:44:05+00:00"
     }
   }
 }
