@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13298782": {
-      "title": "YouTube概要欄からメールアドレス収集",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-10T10:28:45+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13299033": {
       "title": "【急募】企業向け情シス・セキュリティ業務支援",
       "keyword": "AI",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-21T14:27:07+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13324547": {
+      "title": "【主婦さん歓迎！長期での依頼も◎】幼稚園・保育園をリスト化する簡単業務(スマホのみでもOK！)",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-07-21T16:00:02+00:00"
     }
   }
 }
