@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13273363": {
-      "title": "広告クリエイティブディレクター・マーケティング募集｜企画・制作進行・動画ディレクション",
-      "keyword": "Webディレクター",
-      "priority": "高",
-      "notified_at": "2026-07-10T10:28:45+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13298907": {
-      "title": "指定のHPリンク・リストからフォーム送信作業！送信可否は問いません。（定型業務）難易度☆☆★",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-10T10:28:45+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13298782": {
       "title": "YouTube概要欄からメールアドレス収集",
       "keyword": "スプレッドシート",
@@ -2999,6 +2987,18 @@
       "keyword": "Webディレクター",
       "priority": "高",
       "notified_at": "2026-07-21T10:52:22+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13296085": {
+      "title": "【初心者でもOK！！】美しさを整えたい20代へ。“ふわっと心が軽くなる美容投稿”をつくるデザイナーさん募集！！",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-21T14:27:07+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13324408": {
+      "title": "【継続依頼あり】イラスト作成・文字入れができる方を募集します【YouTube漫画動画】計18枚",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-21T14:27:07+00:00"
     }
   }
 }
