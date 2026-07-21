@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13299120": {
-      "title": "【楽天市場】既存商品ページ（LP）の画像テキスト化・HTMLコーディング作成（全60ページ程度）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-10T10:28:45+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13299109": {
-      "title": "エステサロン WordPress コーディング案件",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-10T10:28:45+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13298930": {
-      "title": "【カフェのHP制作】Webデザイン・実装パートナー募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-10T10:28:45+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13274587": {
-      "title": "通販サイト(楽天・ヤフーなど)の商品ページのデザイン、コーディング制作をお手伝いいただける方を募集。定期依頼",
-      "keyword": "サイト修正",
-      "priority": "高",
-      "notified_at": "2026-07-10T10:28:45+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13273363": {
       "title": "広告クリエイティブディレクター・マーケティング募集｜企画・制作進行・動画ディレクション",
       "keyword": "Webディレクター",
@@ -2999,6 +2975,30 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-21T08:47:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13324214": {
+      "title": "ecforce・Shopify等のLiquidを使ったショップページ編集ができる方を募集します",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-21T10:52:22+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13324205": {
+      "title": "ecforceでLP・ショップページ構築ができるコーダー募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-21T10:52:22+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13323976": {
+      "title": "【継続】WEBサイト制作業務",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-21T10:52:22+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13298096": {
+      "title": "⭐【Webディレクション・マーケ】海外不動産の日本向けWebディレクター業務案件・JA-086072⭐",
+      "keyword": "Webディレクター",
+      "priority": "高",
+      "notified_at": "2026-07-21T10:52:22+00:00"
     }
   }
 }
