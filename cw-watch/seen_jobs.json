@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13287445": {
-      "title": "【新設法人】コーポレートロゴ募集",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-07-10T12:40:55+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13299196": {
-      "title": "【日英対応】半導体基本特許〜次世代真空チャンネルトランジスタの解説動画シナリオ作成（日本語＋英語翻訳）",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-10T12:40:55+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13299536": {
       "title": "マニュアルに沿ってコーディングできる方を募集します。必ず最後まで作業のできる方でお願い致します!!",
       "keyword": "全体新着",
@@ -2999,6 +2987,18 @@
       "keyword": "Webディレクター",
       "priority": "高",
       "notified_at": "2026-07-21T22:25:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13324815": {
+      "title": "WordPress 修正　エレメンターElementor で稼働中サイト　店舗の追加削除を簡単にしたい",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-21T23:27:04+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13324519": {
+      "title": "美容系投稿デザインのお仕事◎20代におすすめ｜AI活用・未経験OK",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-21T23:27:04+00:00"
     }
   }
 }
