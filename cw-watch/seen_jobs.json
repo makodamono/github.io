@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13299263": {
-      "title": "【継続依頼あり】WordPressでのポータルサイト制作（セキュリティ重視）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-10T12:40:55+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13287445": {
       "title": "【新設法人】コーポレートロゴ募集",
       "keyword": "ホームページ",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-07-21T18:44:05+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13214029": {
+      "title": "【夏本番への準備をデザインする✨】アラサー向けボディメイク垢のSNS運用メンバー募集",
+      "keyword": "Webディレクター",
+      "priority": "高",
+      "notified_at": "2026-07-21T22:25:10+00:00"
     }
   }
 }
