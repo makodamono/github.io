@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13299536": {
-      "title": "マニュアルに沿ってコーディングできる方を募集します。必ず最後まで作業のできる方でお願い致します!!",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-10T17:12:24+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13299535": {
-      "title": "マニュアルに沿ってコーディングできる方を募集します。必ず最後まで作業のできる方でお願い致します!!",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-10T17:12:24+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13299486": {
       "title": "【急募・経験者歓迎】営業用資料作成案件！",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-21T23:27:04+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13324850": {
+      "title": "【月額約5万円/フルリモート】Google Apps Script（GAS）開発・保守エンジニア募集！",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-22T00:14:50+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13324808": {
+      "title": "TikTokで指定されたキーワードで検索＆データ収集",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-07-22T00:14:50+00:00"
     }
   }
 }
