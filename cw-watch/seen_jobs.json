@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13304955": {
-      "title": "VTube Studioで、カメラ連動による簡易的なトラッキングを目的としたLive2D用のパーツ分けをお願いします。",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-07-13T10:00:28+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13301232": {
       "title": "【月額40～50万円】基本リモート｜toC向けAIサービス｜プロジェクトマネージャー募集",
       "keyword": "ディレクション",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-23T14:36:13+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13304030": {
+      "title": "企業サイト掲載用の写真＆動画撮影と編集納品依頼（ご縁があれば、SNS運用担当として継続依頼予定）",
+      "keyword": "LP作成",
+      "priority": "高",
+      "notified_at": "2026-07-23T16:11:38+00:00"
     }
   }
 }
