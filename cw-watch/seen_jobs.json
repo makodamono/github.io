@@ -1,53 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13304002": {
-      "title": "【1枚2,000円・1案件2枚〜】広告デザイン制作◇20代向け｜長期継続あり◎",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-13T03:51:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13303857": {
-      "title": "在宅ワーク歓迎｜SNS（X）コンテンツ作成・運用サポートスタッフ",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-13T03:51:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13301356": {
-      "title": "【副業OK／高単価】HP保守運用担当者｜WordPress・PHPのスキルをお持ちの方を募集します",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-13T03:51:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13303867": {
-      "title": "LP制作",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-13T03:51:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13303206": {
-      "title": "【WordPress】公共交通系ホームページのコーディング・実装（デザイン支給／約15〜20ページ）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-13T03:51:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13299734": {
-      "title": "ストック収入150万円へ！超絶画期的なAIシステム開発サービスの営業案件！",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-07-13T03:51:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13299473": {
-      "title": "【月10万〜20万円／リモート】AIスクールの講師アドバイザー募集◆サイト経由の受注経験を活かす",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-07-13T03:51:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13301538": {
-      "title": "【完全在宅】エンジニア募集",
-      "keyword": "HTML",
-      "priority": "高",
-      "notified_at": "2026-07-13T03:51:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13299374": {
       "title": "訪日観光客向け店舗のショッパーのデザイン",
       "keyword": "STUDIO",
@@ -2999,6 +2951,54 @@
       "keyword": "リサーチ",
       "priority": "高",
       "notified_at": "2026-07-23T03:46:23+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13328650": {
+      "title": "荷物の受け取り",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-23T06:19:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13328604": {
+      "title": "【継続案件あり】CMSベースにHP制作できるパートナーの募集",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-23T06:19:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13328544": {
+      "title": "【急募】ワイヤーあり！Figmaでのwebデザイン【下層ページ】",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-23T06:19:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13328494": {
+      "title": "香典返しの自社ECサイトのフル改装依頼",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-23T06:19:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13327984": {
+      "title": "【急募／7月26日納品】AI生成キービジュアルの高解像度化・Photoshopレタッチ",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-07-23T06:19:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13302123": {
+      "title": "かるーいWebサイト制作",
+      "keyword": "Webサイト制作",
+      "priority": "高",
+      "notified_at": "2026-07-23T06:19:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13328376": {
+      "title": "【最大報酬~35万！】CLIP STUDIO PAINTでラフネーム通りに同人漫画を仕上げられる方募集！",
+      "keyword": "STUDIO",
+      "priority": "高",
+      "notified_at": "2026-07-23T06:19:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13328443": {
+      "title": "【フリーランス歓迎】SNS関連でAIを実装している人へ！最新ツール使い放題で教えるプロのAI研修講師",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-07-23T06:19:42+00:00"
     }
   }
 }
