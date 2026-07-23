@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13304843": {
-      "title": "8ヶ月分データの折線グラフ作成",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-13T10:00:28+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13304206": {
       "title": "【完全在宅・平日日中】【週10〜20時間程度】エンタメ企業の企画営業アシスタント（営業サポート／進行管理）　",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-07-23T18:52:02+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13329952": {
+      "title": "AIを活用したYouTube台本制作！！(継続あり）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-23T21:18:47+00:00"
     }
   }
 }
