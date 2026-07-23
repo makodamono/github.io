@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13301232": {
-      "title": "【月額40～50万円】基本リモート｜toC向けAIサービス｜プロジェクトマネージャー募集",
-      "keyword": "ディレクション",
-      "priority": "高",
-      "notified_at": "2026-07-13T10:00:28+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13301762": {
       "title": "【 GAS × Claude API 】会員制サービス運用自動化システム開発（ Stripe ・ Slack 連携）",
       "keyword": "GAS",
@@ -2999,6 +2993,12 @@
       "keyword": "LP作成",
       "priority": "高",
       "notified_at": "2026-07-23T16:11:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13329862": {
+      "title": "【美容系LP制作】眉毛サロン・アートメイクのLPデザイン募集（初心者大歓迎）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-23T17:47:39+00:00"
     }
   }
 }
