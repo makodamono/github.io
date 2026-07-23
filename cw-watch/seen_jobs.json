@@ -1,65 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13304264": {
-      "title": "独学やスクールで学んだ経験を活かしたい方歓迎！実践の場をご用意しています。",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-13T10:00:28+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13300140": {
-      "title": "【WordPress/Webデザイン】自社HP改修（子育て・EC支援）＋他社案件もトータルにお任せできる継続パートナー募集！",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-13T10:00:28+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13300841": {
-      "title": "【デザイン実装依頼】SWELLを使用したコーポレートサイトの構築",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-13T10:00:28+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13301543": {
-      "title": "レストランホームページ 多言語対応いただける方を募集します（韓国語・繁体字中国語）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-13T10:00:28+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13296845": {
-      "title": "【経営者インタビュー型オウンドメディアサイトを制作できる方を募集】 記事メディア設計・インタビュー記事テンプレート制作",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-13T10:00:28+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13294080": {
-      "title": "グループコーポレートサイト制作をお願いできるWeb制作者様を募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-13T10:00:28+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13304830": {
-      "title": "【 LPO・CRO 】検索広告向けLP設計・CVR改善／医薬系 人材紹介の新規事業／副業・リモート・長期可",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-07-13T10:00:28+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13304836": {
-      "title": "【 LPO・CRO 】検索広告向けLP設計・CVR改善／医薬系 人材紹介の新規事業／副業・リモート・長期可",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-13T10:00:28+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13304030": {
-      "title": "企業サイト掲載用の写真＆動画撮影と編集納品依頼（ご縁があれば、SNS運用担当として継続依頼予定）",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-13T10:00:28+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13304319": {
-      "title": "【ゲーム事業】3DCGアニメーターの募集【Blender】（継続アリ）",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-07-13T10:00:28+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13304955": {
       "title": "VTube Studioで、カメラ連動による簡易的なトラッキングを目的としたLive2D用のパーツ分けをお願いします。",
       "keyword": "STUDIO",
@@ -2999,6 +2939,66 @@
       "keyword": "データ収集",
       "priority": "高",
       "notified_at": "2026-07-23T10:53:25+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13329614": {
+      "title": "【スイーツ好き歓迎】かき氷店紹介｜Instagram投稿作成（フィード投稿作成）デザイン制作（Canva・テンプレあり）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-23T14:36:13+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13299356": {
+      "title": "ダイエット情報紹介｜Instagram投稿作成（フィード投稿作成）デザイン（Canvaなど・テンプレあり）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-23T14:36:13+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13329481": {
+      "title": "【InstagramのSNS運用に関わりたい方に向け】Canvaを使ったカフェInstagramフィード投稿",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-23T14:36:13+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13329296": {
+      "title": "医療職の“働き方の悩み”に寄り添うフィード投稿を一緒につくりませんか？？",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-23T14:36:13+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13329365": {
+      "title": "【国家資格などの専門資格必須】理学療法士・管理栄養士・医師・公認心理師など｜ジム会員向けAIトレーナーの監修（それぞれ募集）",
+      "keyword": "LP",
+      "priority": "高",
+      "notified_at": "2026-07-23T14:36:13+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13329328": {
+      "title": "Python/Slenium etc.＊画面操作プログラムの開発依頼",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-07-23T14:36:13+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13329063": {
+      "title": "【獣医師限定／継続依頼あり】犬用サプリメント商品の推奨コメントのお仕事。お名前・顔出し可能な方優遇。",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-07-23T14:36:13+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13329373": {
+      "title": "医療分野の専門知識を発信するライター募集｜AI活用スキル歓迎",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-23T14:36:13+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13329342": {
+      "title": "生成AIを利用した画像合成ツールの開発依頼",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-23T14:36:13+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13329265": {
+      "title": "【継続依頼あり】イラスト作成・文字入れができる方を募集します【YouTube漫画動画】計27枚",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-23T14:36:13+00:00"
     }
   }
 }
