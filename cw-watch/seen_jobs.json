@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13301762": {
-      "title": "【 GAS × Claude API 】会員制サービス運用自動化システム開発（ Stripe ・ Slack 連携）",
-      "keyword": "GAS",
-      "priority": "高",
-      "notified_at": "2026-07-13T10:00:28+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13304843": {
       "title": "8ヶ月分データの折線グラフ作成",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-07-23T17:47:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13329911": {
+      "title": "【継続依頼あり】整体院のウィンドウサイン（窓ガラスフィルム）デザイン制作",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-23T18:52:02+00:00"
     }
   }
 }
