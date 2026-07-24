@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13305246": {
-      "title": " Instagram運用代行｜sns運用代行、webデザイナー募集【初心者、未経験者可】",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-14T03:28:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13306574": {
       "title": "【マニュアル完備/毎日フィードバック】初めてでも安心！Threads投稿サポート",
       "keyword": "ビジネスグループ",
@@ -2999,6 +2993,12 @@
       "keyword": "LP修正",
       "priority": "高",
       "notified_at": "2026-07-24T14:07:04+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13332038": {
+      "title": "【食べることが好きな方歓迎】Instagram投稿作成（フィード投稿作成）クリエイター募集！デザイン制作、Canva作成",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-24T15:40:20+00:00"
     }
   }
 }
