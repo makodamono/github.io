@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13306665": {
-      "title": "Webデザイン・画像編集サポートのお仕事 在宅OK｜マニュアルあり",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-14T03:28:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13306610": {
-      "title": "【新規募集】医療機関のホームページのトップページのデザイン(2026年07月14日)",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-14T03:28:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13305246": {
       "title": " Instagram運用代行｜sns運用代行、webデザイナー募集【初心者、未経験者可】",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-24T12:08:15+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13331849": {
+      "title": "Topデザインのみ制作ご依頼（ワイヤーあり）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-24T14:07:04+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13298024": {
+      "title": "【長期・安定】在宅でコツコツ稼げる！PCを使ったシンプルメール送信・データ検索業務",
+      "keyword": "LP修正",
+      "priority": "高",
+      "notified_at": "2026-07-24T14:07:04+00:00"
     }
   }
 }
