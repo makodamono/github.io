@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13307074": {
-      "title": "WordPressテーマ【SWELL】を使用したカスタムサイト制作",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-14T05:51:14+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13307007": {
-      "title": "10月放送アニメ案件_作画作業のご相談",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-07-14T05:51:14+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13306957": {
       "title": "【経験不問】 SNS投稿＆記録サポート｜SNS投稿＆記録サポート募集",
       "keyword": "スプレッドシート",
@@ -2999,6 +2987,18 @@
       "keyword": "Google Apps Script",
       "priority": "高",
       "notified_at": "2026-07-25T11:23:05+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13333355": {
+      "title": "【報酬1.6万円】お店で使っているレジ・キャッシュレス決済を取材させてください",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-25T14:03:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13333259": {
+      "title": "Claude Codeでの記事作成代行",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-25T14:03:33+00:00"
     }
   }
 }
