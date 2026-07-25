@@ -1,41 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13306166": {
-      "title": "【スマホ作業OK】スレッズ運用サポート｜在宅でできるSNS運用補助",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-14T03:28:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13306045": {
-      "title": "SNS運用代行依頼の仕事 ",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-14T03:28:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13305039": {
-      "title": "【月10万円・長期】人材紹介サービスのコンテンツSEO担当募集｜AIO・LLMO対応の知見がある方歓迎",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-07-14T03:28:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13306659": {
-      "title": "粉末黒糖のパッケージデザインを募集します。",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-14T03:28:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13305364": {
-      "title": "千葉ロッテマリーンズ・キャラクター使用クリアファイルデザイン制作（パターンB）",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-14T03:28:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13304898": {
-      "title": "バックオフィスBPO/BPR推進コンサルタント募集（人事給与・経理領域）",
-      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
-      "priority": "高",
-      "notified_at": "2026-07-14T03:28:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13307074": {
       "title": "WordPressテーマ【SWELL】を使用したカスタムサイト制作",
       "keyword": "Web制作グループ",
@@ -2999,6 +2963,42 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-25T08:28:55+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13333161": {
+      "title": "【プログラミングやってみたい方◎】旅行系Webサイトを私たちと一緒に作ってみませんか？【未経験大歓迎☆】",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-25T11:23:05+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13333109": {
+      "title": "【初心者でもOK！！】美しさを整えたい20代へ。“ふわっと心が軽くなる美容投稿”をつくるデザイナーさん募集！！",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-25T11:23:05+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13333093": {
+      "title": "デザイナー募集｜継続案件（LP・コーポレートサイト・Web / iOS / Macアプリ）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-25T11:23:05+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13333099": {
+      "title": "【ホームページ制作/女性向け】転職相談サイトの制作スタッフ募集🙋🏻‍♀️（キャリア支援事業）",
+      "keyword": "ホームページ制作",
+      "priority": "高",
+      "notified_at": "2026-07-25T11:23:05+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13304845": {
+      "title": "報酬計算業務（平日の日中対応・長期）【フルリモート】",
+      "keyword": "GAS",
+      "priority": "高",
+      "notified_at": "2026-07-25T11:23:05+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13305717": {
+      "title": "メルカリとXをAPIで自動連携したい",
+      "keyword": "Google Apps Script",
+      "priority": "高",
+      "notified_at": "2026-07-25T11:23:05+00:00"
     }
   }
 }
