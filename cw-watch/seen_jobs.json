@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13307902": {
-      "title": "ECサイトの商品タイトル・説明文作成",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-14T11:08:20+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13307941": {
       "title": "AIの導入支援　社内AI環境整備支援",
       "keyword": "ChatGPT",
@@ -2999,6 +2993,12 @@
       "keyword": "LP修正",
       "priority": "高",
       "notified_at": "2026-07-26T19:49:53+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13334787": {
+      "title": "【長期案件】AIエージェント（Claude Code等）を活用したGasからのリプレイスプロジェクト",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-26T23:34:45+00:00"
     }
   }
 }
