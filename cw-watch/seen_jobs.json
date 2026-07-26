@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13307927": {
-      "title": "【20万円】旅行サイトのような高級感あるWebデザインができるデザイナー募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-14T11:08:20+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13283883": {
-      "title": "福利厚生ビジネス紹介依頼のランディングページ",
-      "keyword": "ランディングページ制作",
-      "priority": "高",
-      "notified_at": "2026-07-14T11:08:20+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13307787": {
       "title": "EC商品のパッケージデザイナー募集｜Illustrator使用・継続依頼あり",
       "keyword": "Webサイト",
@@ -2999,6 +2987,18 @@
       "keyword": "データ収集",
       "priority": "高",
       "notified_at": "2026-07-26T15:32:06+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13331378": {
+      "title": "新会社のロゴデザイン作成",
+      "keyword": "LP修正",
+      "priority": "高",
+      "notified_at": "2026-07-26T17:39:04+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13046245": {
+      "title": "【在宅】毎日1〜2時間程度運営管理サポート対応（電話なし）",
+      "keyword": "スプレッドシート自動化",
+      "priority": "高",
+      "notified_at": "2026-07-26T17:39:04+00:00"
     }
   }
 }
