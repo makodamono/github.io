@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13307314": {
-      "title": "【独自ドメインブログ運営者募集】オフィスチェア レビュー記事掲載のご依頼",
-      "keyword": "WordPress",
-      "priority": "高",
-      "notified_at": "2026-07-14T07:46:16+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13307075": {
       "title": "【インテリア・家具ブログ限定】レビュー記事掲載のお願い（商品提供あり）",
       "keyword": "WordPress",
@@ -2999,6 +2993,12 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-07-26T03:56:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13334011": {
+      "title": "【プロダクト導入エンジニア募集】DX推進プロジェクト｜関東エリア",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-26T06:30:27+00:00"
     }
   }
 }
