@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13307787": {
-      "title": "EC商品のパッケージデザイナー募集｜Illustrator使用・継続依頼あり",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-07-14T11:08:20+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13307902": {
       "title": "ECサイトの商品タイトル・説明文作成",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "スプレッドシート自動化",
       "priority": "高",
       "notified_at": "2026-07-26T17:39:04+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13181316": {
+      "title": "【在宅】月8〜20時間｜事務サポート募集（電話なし）",
+      "keyword": "LP修正",
+      "priority": "高",
+      "notified_at": "2026-07-26T19:49:53+00:00"
     }
   }
 }
