@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13310282": {
-      "title": "【新店舗ラーメン屋のHP作成依頼】",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-15T09:49:51+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13287109": {
-      "title": "AWSサーバ 構築・運用・保守が得意なサーバーエンジニア募集",
-      "keyword": "Webサイト制作",
-      "priority": "高",
-      "notified_at": "2026-07-15T09:49:51+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13281946": {
-      "title": "【HP制作、LP制作、制作ディレクション経験者】のWebサイト制作者（フロントエンド／デザイナー）を募集します。",
-      "keyword": "Webサイト制作",
-      "priority": "高",
-      "notified_at": "2026-07-15T09:49:51+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13310254": {
       "title": "【文字単価2円】洋服レンタルサービスに関するSEO記事ライティング【長期継続あり】",
       "keyword": "WordPress",
@@ -2999,6 +2981,24 @@
       "keyword": "営業リスト作成",
       "priority": "高",
       "notified_at": "2026-07-27T11:47:50+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13337588": {
+      "title": "【コツコツ作業】 SNS投稿＆記録サポート｜SNS投稿サポートのお仕事",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-07-27T14:00:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13294935": {
+      "title": "人間の音声対話に対する相槌アノテーション",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-27T14:00:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13308902": {
+      "title": "【業務委託契約】AI技術を活用したSNSコンテンツ制作（画像・動画）の効率化および運用パートナー募集",
+      "keyword": "データ収集",
+      "priority": "高",
+      "notified_at": "2026-07-27T14:00:18+00:00"
     }
   }
 }
