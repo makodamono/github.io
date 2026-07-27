@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13310271": {
-      "title": "🤖 あなたのAI活用術教えてください！",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-15T09:49:51+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13310175": {
       "title": "⭐【Python or Go or Java】大規模AI駆動開発におけるハーネス作成業務案件・JA-087213⭐",
       "keyword": "AI",
@@ -2999,6 +2993,12 @@
       "keyword": "ホームページ制作",
       "priority": "高",
       "notified_at": "2026-07-27T16:21:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13337949": {
+      "title": "【高単価：20,000円】YouTubeエンタメ系チャンネルの動画の編集者を募集【継続案件／初心者お断り】",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-07-27T22:53:18+00:00"
     }
   }
 }
