@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/12493235": {
-      "title": "★初学者大歓迎！★ 生成AI活用でライティングをお願いします【使い方レクチャー付き】",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-07-16T12:20:43+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13312989": {
-      "title": "【1曲3000円】ショート動画用の3分程度のオリジナルBGM制作",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-16T12:20:43+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13312976": {
-      "title": "製造業向け品質管理AIチャットボット「品質管理AIアシスタント」の開発",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-16T12:20:43+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13313220": {
-      "title": "【美容関連】LP制作　※既存LPの流用です。継続的に長くご一緒できる方ですと幸いです！",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-16T14:28:10+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13313181": {
       "title": "FIGMAでHPのデザインの作成お願いします。",
       "keyword": "Web制作グループ",
@@ -2999,6 +2975,30 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-28T12:06:30+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13341237": {
+      "title": "【AWS】静的Webサイトのインフラ構築サポート（要件整理・PM補佐できる方歓迎）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-28T14:30:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13287728": {
+      "title": "【月25万保証＋歩合】広告代理店での営業経験を活かす！最先端AIツールのBtoB営業メンバー募集！フルリモート/継続",
+      "keyword": "LP",
+      "priority": "高",
+      "notified_at": "2026-07-28T14:30:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13341054": {
+      "title": "【継続依頼あり】イラスト作成・文字入れができる方を募集します【YouTube漫画動画】計25枚",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-28T14:30:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13341033": {
+      "title": "未経験OK｜20代向け📖「有給を使いたいのに気まずい…そんなモヤモヤとの向き合い方」ライター募集✨",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-28T14:30:46+00:00"
     }
   }
 }
