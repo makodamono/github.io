@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13313181": {
-      "title": "FIGMAでHPのデザインの作成お願いします。",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-16T14:28:10+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13313015": {
       "title": "不動産会社情報の取得",
       "keyword": "GAS",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-28T14:30:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13341385": {
+      "title": "1本最大2万円（はねたらボーナスも！）登山・災害に関する安全啓蒙のリサーチャー・ライター様大募集！登山等専門知識・経験歓迎",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-28T22:38:40+00:00"
     }
   }
 }
