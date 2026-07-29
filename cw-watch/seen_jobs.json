@@ -1,47 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13312971": {
-      "title": "【ゲーム事業】3DCGモデラー/モデリングの募集【Blender】（継続アリ）",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-07-17T01:07:18+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13312547": {
-      "title": "【フルリモート】AI駆動開発を活かしたCOBOLシステムのモダナイゼーション",
-      "keyword": "コーディング",
-      "priority": "高",
-      "notified_at": "2026-07-17T01:07:18+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13313499": {
-      "title": "【月5万円〜】YouTubeサブディレクター募集｜未経験OK・リモート可・継続前提のお仕事",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-17T01:07:18+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13313254": {
-      "title": "【今週中・優先募集】全国のサンプリング配布会社・ポケットティッシュ制作会社への電話調査",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-17T01:07:18+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13311657": {
-      "title": "【大手町】大規模ネットワークシステムの設計・構築（ハイクラスNWエンジニア）",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-17T01:07:18+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13311686": {
-      "title": "【公共・金融業界向け】提案・要件定義をリードするITアーキテクト",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-17T01:07:18+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13311661": {
-      "title": "【大手町】官公庁向け 大規模NWシステム（GSS）設計・構築（SD-WAN担当）",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-17T01:07:18+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13311664": {
       "title": "【大手町】官公庁向け 大規模NWシステム（GSS）のサーバー基盤構築",
       "keyword": "AI",
@@ -2999,6 +2957,48 @@
       "keyword": "AI活用",
       "priority": "高",
       "notified_at": "2026-07-29T01:03:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13342869": {
+      "title": "⭐【VBA】業務効率化に向けた社内DX推進・開発エンジニア業務案件⭐",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-29T04:22:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13342802": {
+      "title": "実践経験を積みながらWebスキルを伸ばしたい方へ。未経験から始められるSNS運用プロジェクトです。",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-29T04:22:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13342575": {
+      "title": "【急募】広告LPのエラー改修ができるコーダー募集｜継続依頼あり",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-29T04:22:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13342215": {
+      "title": "【周年リブランディング】Web／コンテンツディレクター募集｜構成・コピー・説明資料の伴走支援及び資料作成",
+      "keyword": "ビジネスグループ",
+      "priority": "高",
+      "notified_at": "2026-07-29T04:22:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13342730": {
+      "title": "【WooCommerce × AffiliateWP 導入設定のご依頼】",
+      "keyword": "WordPress",
+      "priority": "高",
+      "notified_at": "2026-07-29T04:22:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13342717": {
+      "title": "【チェックリスト付】 SNS投稿＆記録サポート｜SNS投稿作成のお仕事",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-07-29T04:22:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13342184": {
+      "title": "［パートナー募集］AI×Instagram運用｜SNSを駆使して「集客」につなげたい方向け案件",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-29T04:22:57+00:00"
     }
   }
 }
