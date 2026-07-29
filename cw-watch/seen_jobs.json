@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13316016": {
-      "title": "犬のイラストデータ作成",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-17T11:48:42+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13315985": {
       "title": "エンタメ系オウンドメディア用インタビュー記事作成のライター募集",
       "keyword": "AI",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-29T11:50:44+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13344330": {
+      "title": "【継続あり！】Instagramのフィード・リール投稿のデザイン制作（初心者相談可）",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-29T13:27:39+00:00"
     }
   }
 }
