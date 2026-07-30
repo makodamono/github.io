@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13311759": {
-      "title": "【マリーンズキャラクター】親しみやすく長く使えるA4クリアファイルデザイン募集！【採用イベント・若手向け】",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-20T00:06:27+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13282800": {
-      "title": "【美容系LPデザイナー募集】Photoshop必須｜女性向けLP制作経験者歓迎｜継続案件あり",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-20T03:57:24+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13319218": {
-      "title": "【募集】WordPressサイトのSEO／AIO／GEO最適化・AI活用によるHTML再構築ができる方",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-07-20T03:57:24+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13305373": {
       "title": "【長期利用向け】落ち着き・信頼感を表現したシンプルで上品なA4クリアファイルデザイン（千葉ロッテマリーンズロゴ×藤田商事ロゴ）",
       "keyword": "ホームページ",
@@ -2999,6 +2981,24 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-07-30T12:23:12+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13347467": {
+      "title": "【急募】位置情報×UGCアプリ「LocPic」のUI/UXデザイナーを募集します",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-30T14:39:28+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13347145": {
+      "title": "【猫専用ペットホテル】記憶に残る「サウンドロゴ（音のロゴ）」募集／採用1点3万円",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-07-30T14:39:28+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13347458": {
+      "title": "企業のシステム管理",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-30T14:39:28+00:00"
     }
   }
 }
