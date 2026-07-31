@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13318630": {
-      "title": "【月額10,000円・継続前提】国内Amazon新品販売 長期コンサル募集（月1回Zoom・チャット相談可）",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-07-21T06:17:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13323371": {
-      "title": "⭐【C#】データベースシステム構築における業務システム開発エンジニア（AI駆動開発）案件・JA-086396⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-21T06:17:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13323355": {
-      "title": "【AI広告マンガ】描いていただける方大募集＜継続あり＞",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-21T06:17:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13320606": {
       "title": "【急募！】AIパートナー募集！！【カンタン！修正案件！】『Claude Code / Codex / Cursor』",
       "keyword": "AI活用",
@@ -2999,6 +2981,24 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-07-31T10:10:50+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13351068": {
+      "title": "WordPressのテーマ移行・レイアウト調整をお願いします（FSVベーシックデザインからLightning等へ）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-31T14:37:15+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13318545": {
+      "title": "EC運用代行サービスの営業・紹介パートナー様募集",
+      "keyword": "ランディングページ制作",
+      "priority": "高",
+      "notified_at": "2026-07-31T14:37:15+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13318896": {
+      "title": "【HP制作、LP制作、制作ディレクション経験者】のWebサイト制作者（フロントエンド／デザイナー）を募集します。",
+      "keyword": "Webサイト制作",
+      "priority": "高",
+      "notified_at": "2026-07-31T14:37:15+00:00"
     }
   }
 }
