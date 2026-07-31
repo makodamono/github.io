@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13320606": {
-      "title": "【急募！】AIパートナー募集！！【カンタン！修正案件！】『Claude Code / Codex / Cursor』",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-07-21T06:17:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13317152": {
-      "title": "【総合AI活用パートナー募集】秘書・BPO業務改善／社内研修／事業成長支援",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-07-21T06:17:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13319165": {
-      "title": "法人向け生成AIサービス（RAG・議事録機能）の設計・開発を支援してくださるエンジニア募集（AI／バックエンド）",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-07-21T06:17:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13318409": {
       "title": "AI戦略・プロダクト統括（フルタイム）",
       "keyword": "AI活用",
@@ -2999,6 +2981,24 @@
       "keyword": "Webサイト制作",
       "priority": "高",
       "notified_at": "2026-07-31T14:37:15+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13351199": {
+      "title": "【AI使用OK】YouTubeの映像のみ(音声・シナリオ不要)の作成依頼",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-07-31T16:20:20+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13351103": {
+      "title": "【旅行好き歓迎】一人で満喫できる旅館紹介｜Instagram投稿作成（フィード投稿作成）デザイン制作（Canva・テンプレあり）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-07-31T16:20:20+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13351132": {
+      "title": "【ガジェット好き歓迎💻】便利アイテムの魅力を伝える動画クリエイター募集！",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-07-31T16:20:20+00:00"
     }
   }
 }
