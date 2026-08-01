@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13323976": {
-      "title": "【継続】WEBサイト制作業務",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-21T10:52:22+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13298096": {
-      "title": "⭐【Webディレクション・マーケ】海外不動産の日本向けWebディレクター業務案件・JA-086072⭐",
-      "keyword": "Webディレクター",
-      "priority": "高",
-      "notified_at": "2026-07-21T10:52:22+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13296085": {
       "title": "【初心者でもOK！！】美しさを整えたい20代へ。“ふわっと心が軽くなる美容投稿”をつくるデザイナーさん募集！！",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-01T14:16:05+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13324214": {
+      "title": "ecforce・Shopify等のLiquidを使ったショップページ編集ができる方を募集します",
+      "keyword": "CSS",
+      "priority": "高",
+      "notified_at": "2026-08-01T15:20:45+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13324205": {
+      "title": "ecforceでLP・ショップページ構築ができるコーダー募集",
+      "keyword": "CSS",
+      "priority": "高",
+      "notified_at": "2026-08-01T15:20:45+00:00"
     }
   }
 }
