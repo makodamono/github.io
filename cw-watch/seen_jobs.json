@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13296085": {
-      "title": "【初心者でもOK！！】美しさを整えたい20代へ。“ふわっと心が軽くなる美容投稿”をつくるデザイナーさん募集！！",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-21T14:27:07+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13324408": {
       "title": "【継続依頼あり】イラスト作成・文字入れができる方を募集します【YouTube漫画動画】計18枚",
       "keyword": "AI",
@@ -2999,6 +2993,12 @@
       "keyword": "CSS",
       "priority": "高",
       "notified_at": "2026-08-01T15:20:45+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13323976": {
+      "title": "【継続】WEBサイト制作業務",
+      "keyword": "Webサイト制作",
+      "priority": "高",
+      "notified_at": "2026-08-01T16:17:37+00:00"
     }
   }
 }
