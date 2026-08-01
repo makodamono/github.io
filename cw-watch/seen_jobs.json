@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13045287": {
-      "title": "YouTubeチャンネル運営の進捗管理のサポートをお任せします！",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-21T08:47:46+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13258910": {
       "title": "【在宅OK】最先端SNS人材を育成する企業のカウンセラー募集！",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-01T09:16:30+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13352435": {
+      "title": "コーポレートサイト制作｜継続依頼あり｜20代活躍中",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-01T10:50:11+00:00"
     }
   }
 }
