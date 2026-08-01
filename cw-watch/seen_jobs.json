@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13283774": {
-      "title": "【カンタン！高単価！】AI加工！動画・画像編集！『AI活用パートナー募集！』（AKOOL等）",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-07-21T06:17:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13318078": {
       "title": "［業務委託］AI技術を活用したSNSコンテンツ制作（画像・動画）の効率化および運用パートナー募集",
       "keyword": "データ収集",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-07-31T17:56:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13351443": {
+      "title": "AI漫画プロジェクト／Stable Diffusionプロンプト制作｜ 1プロンプト：最低150円  １件15000円～",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-01T01:17:30+00:00"
     }
   }
 }
