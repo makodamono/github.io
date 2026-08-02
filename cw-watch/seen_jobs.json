@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13324948": {
-      "title": "【※Non-Japanese Only】AIアバターモデル募集！（報酬5万円）/ AI Avatar Video Shoot",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-07-22T06:16:56+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13325242": {
       "title": "【完全在宅・地方歓迎】YouTube/TikTok運用のサポート｜サムネ作成・切り抜き・公開設定（1本最大5,000円・長期）",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-02T18:37:40+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13353911": {
+      "title": "【フライヤーデザイン募集】医療機関向けコミュニケーションサービス案内チラシ／A4両面",
+      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
+      "priority": "高",
+      "notified_at": "2026-08-02T20:38:01+00:00"
     }
   }
 }
