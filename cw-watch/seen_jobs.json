@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13325045": {
-      "title": "【実績ゼロでもOK】伴奏体制あり！SNS運用長期パートナー募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-22T06:16:56+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13325033": {
       "title": "【LP制作】既存のLPのデザインやブラッシュアップ業務",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-08-02T11:54:28+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13354165": {
+      "title": "ECサイトの画像編集スタッフ募集【在宅】",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-02T12:57:01+00:00"
     }
   }
 }
