@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13214029": {
-      "title": "【夏本番への準備をデザインする✨】アラサー向けボディメイク垢のSNS運用メンバー募集",
-      "keyword": "Webディレクター",
-      "priority": "高",
-      "notified_at": "2026-07-21T22:25:10+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13324815": {
       "title": "WordPress 修正　エレメンターElementor で稼働中サイト　店舗の追加削除を簡単にしたい",
       "keyword": "全体新着",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-02T04:32:16+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13353788": {
+      "title": "「Webサイト（事務所概要ページ）」および「LP（ランディングページ）」の修正",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-02T07:12:25+00:00"
     }
   }
 }
