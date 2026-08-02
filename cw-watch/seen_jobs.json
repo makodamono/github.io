@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13325008": {
-      "title": "Canvaスキルを実務で活かしたい方へ。未経験から経験を積めるSNS運用プロジェクトです。",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-22T06:16:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13324803": {
-      "title": "  【完全在宅・未経験OK】ブログ更新スタッフ募集（週3〜4日／継続あり）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-22T06:16:56+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13324952": {
       "title": "特定非営利活動法人のロゴデザイン",
       "keyword": "ホームページ",
@@ -2999,6 +2987,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-02T14:25:00+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13282059": {
+      "title": " 【ダイエット・美容好き歓迎✨】Instagram投稿作成（フィード投稿作成）スタッフ募集！",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-02T15:35:40+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13354329": {
+      "title": "未経験OK｜20代向け📖「社会人になってプライベートで変わったこと」ライター募集✨",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-02T15:35:40+00:00"
     }
   }
 }
