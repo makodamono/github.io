@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13324952": {
-      "title": "特定非営利活動法人のロゴデザイン",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-07-22T06:16:56+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13325069": {
       "title": "e-doctorの利用体験談を募集します",
       "keyword": "Webサイト",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-02T15:35:40+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/12780293": {
+      "title": "【高単価！ボーナス有！1本/4,000円】日本食や日本文化に関するyoutubeシナリオライター様募集(*^▽^*)",
+      "keyword": "LP修正",
+      "priority": "高",
+      "notified_at": "2026-08-02T17:39:18+00:00"
     }
   }
 }
