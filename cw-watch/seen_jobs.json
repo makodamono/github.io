@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13324815": {
-      "title": "WordPress 修正　エレメンターElementor で稼働中サイト　店舗の追加削除を簡単にしたい",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-21T23:27:04+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13324519": {
-      "title": "美容系投稿デザインのお仕事◎20代におすすめ｜AI活用・未経験OK",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-21T23:27:04+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13324850": {
       "title": "【月額約5万円/フルリモート】Google Apps Script（GAS）開発・保守エンジニア募集！",
       "keyword": "全体新着",
@@ -2999,6 +2987,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-02T07:12:25+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13353986": {
+      "title": "【SEO・WordPress】DNS変更後に検索順位が大幅下落した原因調査・復旧をお願いします",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-02T09:23:15+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13214029": {
+      "title": "【夏本番への準備をデザインする✨】アラサー向けボディメイク垢のSNS運用メンバー募集",
+      "keyword": "Webディレクター",
+      "priority": "高",
+      "notified_at": "2026-08-02T09:23:15+00:00"
     }
   }
 }
