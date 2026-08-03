@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13328494": {
-      "title": "香典返しの自社ECサイトのフル改装依頼",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-23T06:19:42+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13327984": {
-      "title": "【急募／7月26日納品】AI生成キービジュアルの高解像度化・Photoshopレタッチ",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-07-23T06:19:42+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13302123": {
-      "title": "かるーいWebサイト制作",
-      "keyword": "Webサイト制作",
-      "priority": "高",
-      "notified_at": "2026-07-23T06:19:42+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13328376": {
       "title": "【最大報酬~35万！】CLIP STUDIO PAINTでラフネーム通りに同人漫画を仕上げられる方募集！",
       "keyword": "STUDIO",
@@ -2999,6 +2981,24 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-03T16:26:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13357479": {
+      "title": "WordPressサイトのCloudflare移管・設定作業",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-03T23:20:37+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13357434": {
+      "title": "【高単価！顔出し不要・完全在宅】セールスライティング教材動画の制作にご協力いただける講師の方を募集します！",
+      "keyword": "LP",
+      "priority": "高",
+      "notified_at": "2026-08-03T23:20:37+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13357427": {
+      "title": "【高単価！顔出し不要・完全在宅】セールスライティング教材動画の制作にご協力いただける講師の方を募集します！",
+      "keyword": "LP",
+      "priority": "高",
+      "notified_at": "2026-08-03T23:20:37+00:00"
     }
   }
 }
