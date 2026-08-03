@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13328604": {
-      "title": "【継続案件あり】CMSベースにHP制作できるパートナーの募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-23T06:19:42+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13328544": {
-      "title": "【急募】ワイヤーあり！Figmaでのwebデザイン【下層ページ】",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-23T06:19:42+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13328494": {
       "title": "香典返しの自社ECサイトのフル改装依頼",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-03T14:00:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13297308": {
+      "title": "【旅行好きな方】「旅×仕事」をテーマにしたInstagram投稿作成✩",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-03T16:26:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13357230": {
+      "title": "「生成AIツール活用◎ SNSアイコン用イラスト・画像の制作をお願いしたいです」",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-03T16:26:57+00:00"
     }
   }
 }
