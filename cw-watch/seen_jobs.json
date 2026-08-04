@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13330251": {
-      "title": "エンタメIP（キャラクター・芸能）を活用したグッズ制作/LPやキャンペーンバナー などの制作",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-24T03:45:37+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13330360": {
       "title": "【獣医または飼育技師さん】ペット用品の商品監修・推薦コメント作成のご依頼",
       "keyword": "ホームページ",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-04T15:39:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13073262": {
+      "title": "光触媒加工【フェイクグリーン】ネーミング（ブランド名）募集",
+      "keyword": "ジャンル:Webディレクション/サイト制作ディレクション",
+      "priority": "高",
+      "notified_at": "2026-08-04T20:18:27+00:00"
     }
   }
 }
