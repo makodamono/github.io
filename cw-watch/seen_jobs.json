@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13330360": {
-      "title": "【獣医または飼育技師さん】ペット用品の商品監修・推薦コメント作成のご依頼",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-07-24T03:45:37+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13330308": {
       "title": "超単純なDM送信作業",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "ジャンル:Webディレクション/サイト制作ディレクション",
       "priority": "高",
       "notified_at": "2026-08-04T20:18:27+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13360153": {
+      "title": "[新規事業]越境トレカ取引オークションのブランドロゴをお願いします",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-08-04T21:39:34+00:00"
     }
   }
 }
