@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13330293": {
-      "title": "【急募】電話で企業へ問い合わせ・料金調査｜サンプリング会社のリサーチ業務",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-24T03:45:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13060001": {
-      "title": "【経験者急募】ebayリサーチスタッフ 100円/件 + インセンティブ ",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-24T03:45:37+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13330873": {
       "title": "【急募】医療業界のInstagram採用ディレクター募集｜継続案件あり",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-08-04T22:41:17+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13360526": {
+      "title": "美容・ライフスタイル系Instagramの投稿＆リール作成募集！AI活用！",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-04T23:44:09+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13360465": {
+      "title": "｜未経験OK◎｜20代におすすめ｜グルメ好き歓迎｜最近食べて美味しかったものやおすすめのお店を紹介する♪かんたんライター募集｜",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-08-04T23:44:09+00:00"
     }
   }
 }
