@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13330308": {
-      "title": "超単純なDM送信作業",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-24T03:45:37+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13330293": {
       "title": "【急募】電話で企業へ問い合わせ・料金調査｜サンプリング会社のリサーチ業務",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "Webサイト",
       "priority": "高",
       "notified_at": "2026-08-04T21:39:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13360395": {
+      "title": "不動産会社のサイトのデザイン(2ページ)をFigmaで行なっていただける方(できるだけ急ぎで可能な方)",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-04T22:41:17+00:00"
     }
   }
 }
