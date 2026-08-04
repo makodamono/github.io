@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13261590": {
-      "title": "【募集】システム開発が得意！なシステムエンジニアさん",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-24T03:45:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13330195": {
-      "title": "実践を通してWebスキルを磨きたい方へ。未経験から挑戦できるSNS運用のお仕事です。",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-24T03:45:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13330421": {
-      "title": "楽天市場で使用する女性下着のLP制作をお願いいたします★",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-24T03:45:37+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13330251": {
       "title": "エンタメIP（キャラクター・芸能）を活用したグッズ制作/LPやキャンペーンバナー などの制作",
       "keyword": "LP",
@@ -2999,6 +2981,24 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-04T13:18:45+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13360076": {
+      "title": "【自己成長に興味がある方歓迎】仕事の悩み解決ヒント｜Instagram投稿（フィード投稿作）デザイン（Canva・テンプレあり）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-04T15:39:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13360027": {
+      "title": "【医療従事者歓迎】AI活用・業務効率化サポート（事務・資料作成）",
+      "keyword": "ビジネスグループ",
+      "priority": "高",
+      "notified_at": "2026-08-04T15:39:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13360189": {
+      "title": "【1本500円】長編シナリオ・最終チェック＆添削スタッフ募集！物語の矛盾を見抜く「第3の目」をお持ちの方へ",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-04T15:39:10+00:00"
     }
   }
 }
