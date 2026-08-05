@@ -1,59 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13333109": {
-      "title": "【初心者でもOK！！】美しさを整えたい20代へ。“ふわっと心が軽くなる美容投稿”をつくるデザイナーさん募集！！",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-25T11:23:05+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13333093": {
-      "title": "デザイナー募集｜継続案件（LP・コーポレートサイト・Web / iOS / Macアプリ）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-25T11:23:05+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13333099": {
-      "title": "【ホームページ制作/女性向け】転職相談サイトの制作スタッフ募集🙋🏻‍♀️（キャリア支援事業）",
-      "keyword": "ホームページ制作",
-      "priority": "高",
-      "notified_at": "2026-07-25T11:23:05+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13304845": {
-      "title": "報酬計算業務（平日の日中対応・長期）【フルリモート】",
-      "keyword": "GAS",
-      "priority": "高",
-      "notified_at": "2026-07-25T11:23:05+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13305717": {
-      "title": "メルカリとXをAPIで自動連携したい",
-      "keyword": "Google Apps Script",
-      "priority": "高",
-      "notified_at": "2026-07-25T11:23:05+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13333355": {
-      "title": "【報酬1.6万円】お店で使っているレジ・キャッシュレス決済を取材させてください",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-25T14:03:33+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13333259": {
-      "title": "Claude Codeでの記事作成代行",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-25T14:03:33+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13333359": {
-      "title": "【電話調査】全国のサンプリング・ティッシュ配布会社への料金・サービス調査",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-07-25T16:13:34+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13333568": {
-      "title": "【継続依頼あり・高単価】YouTubeのリスト作成",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-26T00:14:49+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13333485": {
       "title": "フィリピン中心／外国籍人材プラットフォーム事業立上げプロジェクト（プロジェクトマネージャー募集）",
       "keyword": "スプレッドシート",
@@ -2999,6 +2945,60 @@
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
       "priority": "高",
       "notified_at": "2026-08-05T07:09:07+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13362451": {
+      "title": "UI/UXデザイナー・ワイヤーフレーム作成者を募集します！",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-05T09:45:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13362391": {
+      "title": "【WP実装/実績可】デザイン作成済み（全7ページ）のWordPressのHP構築依頼",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-05T09:45:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13280338": {
+      "title": "【高報酬★具体ワイヤーフレーム有】美容系・コスメ系・健食などのECサイトのLPデザイン ",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-05T09:45:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13362452": {
+      "title": "【取材ライター募集】企業の健康経営・がん対策の好事例インタビュー記事（全5本）／首都圏・交通費別途支給",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-08-05T09:45:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13331831": {
+      "title": "【継続希望】WordPressサイトの公開後設定・運用サポート、作業等",
+      "keyword": "CSS",
+      "priority": "高",
+      "notified_at": "2026-08-05T09:45:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13362537": {
+      "title": "【データ検索収集】占い師に関しての簡単検索",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-05T09:45:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13361595": {
+      "title": "【投稿文作成サポート】Instagram投稿文の作成補助｜未経験から始めやすい内容",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-05T09:45:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13362379": {
+      "title": "【美容好き歓迎】自分磨きの体験や変化を書くライティング案件✨",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-08-05T09:45:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13360338": {
+      "title": "【高収益還元】スカッと感動朗読チャンネルのシナリオライター【長期継続／主婦歓迎／高インセンティブ】",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-08-05T09:45:11+00:00"
     }
   }
 }
