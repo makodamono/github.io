@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13336784": {
-      "title": "⭐【WEBディレクション/月80時間〜/フルリモート】高性能AIチャットボットSaaSプラットフォームにおけるデータ分析⭐",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-07-27T08:21:27+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13336530": {
-      "title": "⭐【Webディレクション】Webディレクター業務案件⭐",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-07-27T08:21:27+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13336460": {
       "title": "⭐【HubSpot】不動産領域におけるWebサイト・デジタル施策推進ディレクター業務案件⭐",
       "keyword": "Web",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-06T09:31:21+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13365396": {
+      "title": "記事LP制作",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-06T11:49:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13365250": {
+      "title": "貸別荘のロゴマークをお願いします！",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-06T11:49:33+00:00"
     }
   }
 }
