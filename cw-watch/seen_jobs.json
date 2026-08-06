@@ -1,35 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13334810": {
-      "title": "全国のドッグランに関するデータ収集をお願い致します",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-27T08:21:27+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13334749": {
-      "title": "【在宅】データ整理・入力作業（マニュアルあり／継続あり）",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-27T08:21:27+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13336733": {
-      "title": "⭐【TypeScript,React】AIを活用したHR領域の新規プロダクトにおける、フロント・バックエンドの0→1開発⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-27T08:21:27+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13336580": {
-      "title": "✨AI×Instagram運用✨未経験OK｜SNSを駆使して「集客」につなげてくれる長期パートナー募集",
-      "keyword": "リサーチ",
-      "priority": "高",
-      "notified_at": "2026-07-27T08:21:27+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13334925": {
-      "title": "IT・業務改善コンサルティング案件【月80〜140万／フルリモート案件◎】大手コンサルファーム出身者活躍中＆単価アップ可",
-      "keyword": "データ収集",
-      "priority": "高",
-      "notified_at": "2026-07-27T08:21:27+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13337433": {
       "title": "今流行のAI動画を作れる方急募！",
       "keyword": "全体新着",
@@ -2999,6 +2969,36 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-06T13:23:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13365828": {
+      "title": "【Webシステム開発】格安LP制作ツールの開発パートナー募集｜PM補佐できる方歓迎",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-06T15:38:55+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13365819": {
+      "title": "既存HPをワードプレス（Elementor使用）でざっくり再現するお仕事",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-06T15:38:55+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13336325": {
+      "title": "⭐【Webディレクター】SaaSサービスのWebディレクション業務案件⭐",
+      "keyword": "Webディレクター",
+      "priority": "高",
+      "notified_at": "2026-08-06T15:38:55+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13365088": {
+      "title": "英語スキル歓迎・ボーナスあり】指定条件の企業リスト作成＆お問い合わせフォーム送信（在宅ワーク）",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-06T15:38:55+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13181316": {
+      "title": "【在宅】月8〜20時間｜事務サポート募集（電話なし）",
+      "keyword": "ジャンル:Webディレクション/LPディレクション",
+      "priority": "高",
+      "notified_at": "2026-08-06T15:38:55+00:00"
     }
   }
 }
