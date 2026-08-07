@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13339624": {
-      "title": "月3万円／平日稼働】Webディレクター募集（撮影立ち会い・打ち合わせ・FB対応）",
-      "keyword": "Webディレクター",
-      "priority": "高",
-      "notified_at": "2026-07-28T07:22:34+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13338653": {
-      "title": "急成長スタートアップ　トレカDB整備メンバー募集",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-28T07:22:34+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13338252": {
       "title": "【継続案件】Stable Diffusion（Illustrious）画像生成スタッフ募集｜経験者歓迎",
       "keyword": "スプレッドシート",
@@ -2999,6 +2987,18 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-08-07T08:45:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13367655": {
+      "title": "【未経験の方も◎】電子書籍の表紙デザインをしてくださる方を募集します！（素材あり◎） ",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-07T09:43:09+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13367679": {
+      "title": "ギフトショー展示ブース用 A0パネルデザイン制作／写真・ロゴ支給",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-07T09:43:09+00:00"
     }
   }
 }
