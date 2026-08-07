@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13340641": {
-      "title": "【美容・ネイル好き歓迎】ネイルサロンの新規HP制作✨",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-28T10:02:22+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13340564": {
-      "title": "【共創パートナー募集】WordPressコーダー募集｜歯科医療サイト制作｜長期的にご一緒できる方",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-28T10:02:22+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13340443": {
-      "title": "https://www.fairselect.jp/のサイトの改修のお願い",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-28T10:02:22+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13340601": {
-      "title": "【スマイルゼミ利用者募集】幼児・小学生・中学生のお子さまの動画素材撮影／SNS広告用！",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-28T10:02:22+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13340595": {
       "title": "【スマイルゼミ利用者募集】幼児・小学生・中学生のお子さまの動画素材撮影／SNS広告用",
       "keyword": "LP",
@@ -2999,6 +2975,30 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-07T12:06:02+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13368125": {
+      "title": "【国内在住エンジニア限定】エンタメ系企業コーポレートサイト新規構築案件｜WordPress＋Next.js経験者募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-07T13:24:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13368051": {
+      "title": "不動産賃貸物件の入居者募集LP制作（SEO対策も含め）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-07T13:24:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13368003": {
+      "title": "【データ検索収集】占い師に関しての簡単検索 ",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-07T13:24:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13368090": {
+      "title": "Raspberry Pi＋AIエージェントによる工場冷却制御システム開発",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-07T13:24:32+00:00"
     }
   }
 }
