@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13339599": {
-      "title": "不動産物件の内観写真・動画撮影 ",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-07-28T07:22:34+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13338658": {
-      "title": "【フルリモート】ChatGPT Skillsカタログアプリ開発（Next.js / FastAPI）⑦",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-07-28T07:22:34+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13339624": {
       "title": "月3万円／平日稼働】Webディレクター募集（撮影立ち会い・打ち合わせ・FB対応）",
       "keyword": "Webディレクター",
@@ -2999,6 +2987,18 @@
       "keyword": "ジャンル:Webディレクション/LPディレクション",
       "priority": "高",
       "notified_at": "2026-08-07T07:54:02+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13367625": {
+      "title": "【LP制作】助産院のランディングページ制作をお願いできる方募集（女性向けデザイン）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-07T08:45:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13367608": {
+      "title": "【LPデザイン/制作】個室サウナの新規LP",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-07T08:45:32+00:00"
     }
   }
 }
