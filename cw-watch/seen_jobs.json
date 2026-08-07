@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13339612": {
-      "title": "［業務委託契約］AI技術を活用したSNSコンテンツ制作の効率化および運用パートナー募集",
-      "keyword": "リサーチ",
-      "priority": "高",
-      "notified_at": "2026-07-28T07:22:34+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13340784": {
-      "title": "クリニックのランディングページデザイナー募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-28T10:02:22+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13340641": {
       "title": "【美容・ネイル好き歓迎】ネイルサロンの新規HP制作✨",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-07T11:26:28+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13367171": {
+      "title": "【AI活用OK】スピリチュアル系YouTubeチャンネルのリストアップ作業",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-07T12:06:02+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13367997": {
+      "title": "HPのリニューアル",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-07T12:06:02+00:00"
     }
   }
 }
