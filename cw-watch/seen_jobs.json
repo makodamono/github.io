@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13337433": {
-      "title": "今流行のAI動画を作れる方急募！",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-27T11:47:50+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13337395": {
-      "title": "【Webデザイン】旅行フィード投稿作成など　旅先紹介のお手伝い！",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-27T11:47:50+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13285039": {
       "title": "気軽にご応募いただけますと嬉しいです！ホームページ実績作り",
       "keyword": "ホームページ作成",
@@ -2999,6 +2987,18 @@
       "keyword": "ジャンル:Webディレクション/LPディレクション",
       "priority": "高",
       "notified_at": "2026-08-06T15:38:55+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13365448": {
+      "title": "webサイトの修正、機能追加希望（squarespaceで出来る方）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-07T00:31:58+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13365878": {
+      "title": "🌻｜未経験OK◎｜20代におすすめ♪｜お出かけ好き歓迎｜この夏行ってみたい場所やおすすめスポットを書くライター募集｜継続あり｜",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-08-07T00:31:58+00:00"
     }
   }
 }
