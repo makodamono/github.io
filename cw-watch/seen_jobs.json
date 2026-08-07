@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13340512": {
-      "title": "【継続業務　月15,000円以上】求人サイトの原稿更新から実績入力",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-28T10:02:22+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13331350": {
       "title": "【急募】新規出店するお店のロゴデザインの作成をお願いします (店名：奏屋)",
       "keyword": "AI",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-07T18:54:13+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13368469": {
+      "title": "イラスト風アイコン制作｜女性タッチ・30点",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-07T23:43:27+00:00"
     }
   }
 }
