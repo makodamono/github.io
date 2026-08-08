@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13287728": {
-      "title": "【月25万保証＋歩合】広告代理店での営業経験を活かす！最先端AIツールのBtoB営業メンバー募集！フルリモート/継続",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-28T14:30:46+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13341054": {
-      "title": "【継続依頼あり】イラスト作成・文字入れができる方を募集します【YouTube漫画動画】計25枚",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-28T14:30:46+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13341033": {
       "title": "未経験OK｜20代向け📖「有給を使いたいのに気まずい…そんなモヤモヤとの向き合い方」ライター募集✨",
       "keyword": "AI",
@@ -2999,6 +2987,18 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-08-08T04:45:54+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13368930": {
+      "title": "【継続依頼あり】Webサイト・SNS用のイラスト／図解・クリエイティブ制作デザイナー募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-08T06:05:04+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13330873": {
+      "title": "【急募】医療業界のInstagram採用ディレクター募集｜継続案件あり",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-08T06:05:04+00:00"
     }
   }
 }
