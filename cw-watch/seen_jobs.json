@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13340046": {
-      "title": "【主婦さん歓迎！長期での依頼も◎】ラーメン屋をリスト化する簡単業務(スマホのみでもOK！)",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-07-29T01:03:33+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13342025": {
       "title": "【マニュアルあり】Threads運用サポート｜投稿文作成のお仕事",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-08T13:25:17+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13369506": {
+      "title": "【急募】Webサイト 下層ページデザイン",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-08T14:43:17+00:00"
     }
   }
 }
