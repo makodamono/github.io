@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13185603": {
-      "title": "【ebay経験者優遇】リサーチ業務♪在宅ワークや隙間時間に最適な作業です！",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-29T01:03:33+00:00"
-    },
     "https://crowdworks.jp/public/jobs/12884350": {
       "title": "【マニュアル完備・簡単】完全在宅・ 未経験者・主婦の方大歓迎！★海外ECサイト「イーベイ」の商品リサーチ作業★",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-08T16:36:13+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13369530": {
+      "title": "武道館ライブ会場上映用CM ",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-08T17:40:35+00:00"
     }
   }
 }
