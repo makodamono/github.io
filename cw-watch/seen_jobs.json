@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13331350": {
-      "title": "【急募】新規出店するお店のロゴデザインの作成をお願いします (店名：奏屋)",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-28T10:02:22+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13341059": {
-      "title": "クラウドワークス問いフォ送付代行の募集",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-28T12:06:30+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13312724": {
       "title": "【急募】ホームページの保守・修正・実装をお任せできるフリーランスの方を募集!",
       "keyword": "CSS",
@@ -2999,6 +2987,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-07T23:43:27+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13368601": {
+      "title": "Shopify定期便EC カスタム機能 追加実装一式（1案件分）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-08T02:31:28+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13320058": {
+      "title": "Xの投稿作成をお願いいたします。",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-08T02:31:28+00:00"
     }
   }
 }
