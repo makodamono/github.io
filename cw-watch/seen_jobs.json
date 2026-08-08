@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13312724": {
-      "title": "【急募】ホームページの保守・修正・実装をお任せできるフリーランスの方を募集!",
-      "keyword": "CSS",
-      "priority": "高",
-      "notified_at": "2026-07-28T12:06:30+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13340996": {
-      "title": "コラボカフェ",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-28T12:06:30+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13340855": {
       "title": "【急募のため高単価!!】【1本1万2000円〜】漫画広告動画の編集できる方募集",
       "keyword": "AI",
@@ -2999,6 +2987,18 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-08-08T02:31:28+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13334749": {
+      "title": "【在宅】データ整理・入力作業（マニュアルあり／継続あり）",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-08T03:54:03+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13368542": {
+      "title": "【継続あり】キャリアに悩む方へ🤔働き方の選択肢を紹介するバナー作りを手伝ってくれる方を募集します！【未経験OK✨】",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-08T03:54:03+00:00"
     }
   }
 }
