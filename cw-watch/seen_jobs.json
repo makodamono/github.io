@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13340855": {
-      "title": "【急募のため高単価!!】【1本1万2000円〜】漫画広告動画の編集できる方募集",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-28T12:06:30+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13341237": {
-      "title": "【AWS】静的Webサイトのインフラ構築サポート（要件整理・PM補佐できる方歓迎）",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-28T14:30:46+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13287728": {
       "title": "【月25万保証＋歩合】広告代理店での営業経験を活かす！最先端AIツールのBtoB営業メンバー募集！フルリモート/継続",
       "keyword": "LP",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-08T03:54:03+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13368776": {
+      "title": "メディアサイトのTOPページのデザイン作成",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-08T04:45:54+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13368774": {
+      "title": "わんちゃんに与えてはいけない食べ物3選🐶　　継続あり！",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-08T04:45:54+00:00"
     }
   }
 }
