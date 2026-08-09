@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13341332": {
-      "title": "【20代におすすめ！未経験OK◎】キャリア系の記事作成のお仕事｜AI活用OK！",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-07-29T01:03:33+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13342869": {
-      "title": "⭐【VBA】業務効率化に向けた社内DX推進・開発エンジニア業務案件⭐",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-29T04:22:57+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13342802": {
       "title": "実践経験を積みながらWebスキルを伸ばしたい方へ。未経験から始められるSNS運用プロジェクトです。",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "LP",
       "priority": "高",
       "notified_at": "2026-08-09T03:21:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13369957": {
+      "title": "FlutterFlowを活用したスマートフォンアプリ等の開発、および外部システムとのAPI連携に強いエンジニアの方を募集します。",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-09T04:42:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13369994": {
+      "title": "【単発2万円】AIでの台本作成者を募集",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-08-09T04:42:46+00:00"
     }
   }
 }
