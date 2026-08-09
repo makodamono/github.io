@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13342792": {
-      "title": "【20,000円～/分間】女の子・女子高生らしい声質の声優さんを大募集【高単価】【複数名募集】",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-07-29T07:12:51+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13343179": {
       "title": "【急募・8/7納品】LPコーディング（HTML/CSS/JS/レスポンシブ・アニメーションあり）のご依頼【デザインFigma完備",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-09T08:57:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13370395": {
+      "title": "Instagramリール動画の編集、サムネ作成ができる方を募集します",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-09T10:08:01+00:00"
     }
   }
 }
