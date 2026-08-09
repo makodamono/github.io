@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13342575": {
-      "title": "【急募】広告LPのエラー改修ができるコーダー募集｜継続依頼あり",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-29T04:22:57+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13342215": {
       "title": "【周年リブランディング】Web／コンテンツディレクター募集｜構成・コピー・説明資料の伴走支援及び資料作成",
       "keyword": "ビジネスグループ",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-09T05:35:44+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13370203": {
+      "title": "アウトドア向け虫対策商品のパッケージ台紙デザイン募集",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-09T08:08:34+00:00"
     }
   }
 }
