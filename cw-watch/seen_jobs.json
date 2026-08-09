@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13343071": {
-      "title": "スプシBにある項目(量多め)をスプシAからコピーしてくるツール【サンプルのスプシあり】GAS？",
-      "keyword": "GAS",
-      "priority": "高",
-      "notified_at": "2026-07-29T07:12:51+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13342719": {
       "title": "未経験OK/マニュアル完備で安心【簡単リスト作成】YouTubeやネットで検索＆入力するだけの作業",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-09T14:25:27+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13370753": {
+      "title": "AI時代のライティング力が身につけたい、IT・マーケティング系ジャンルのライターを募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-09T14:59:33+00:00"
     }
   }
 }
