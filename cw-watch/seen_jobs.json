@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13342802": {
-      "title": "実践経験を積みながらWebスキルを伸ばしたい方へ。未経験から始められるSNS運用プロジェクトです。",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-29T04:22:57+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13342575": {
       "title": "【急募】広告LPのエラー改修ができるコーダー募集｜継続依頼あり",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-08-09T04:42:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13370091": {
+      "title": "AI漫画プロジェクト／Stable Diffusionプロンプト制作｜ 1プロンプト：最低150円  １件15000円～",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-09T05:35:44+00:00"
     }
   }
 }
