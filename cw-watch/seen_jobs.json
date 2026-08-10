@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13346177": {
-      "title": "【お子様モデル募集】成長期向けインソールWEB広告出演｜報酬10,000円（税込）｜東京都内撮影",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-07-30T10:52:25+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13310120": {
       "title": "ECサイトの商品タイトル・説明文作成",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-10T18:24:50+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13373678": {
+      "title": "【緊急・スポット依頼】WordPressサイトの「polyfill.io」不審ポップアップ削除・復旧作業",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-10T19:28:05+00:00"
     }
   }
 }
