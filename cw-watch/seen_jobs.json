@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13347105": {
-      "title": "【継続依頼あり】サービスのカテゴリページをデザインしてくださる方募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-30T10:52:25+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13346819": {
-      "title": "【AEM経験者限定】Adobe Experience ManagerでのLP実装・コーディング案件（1ページ）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-30T10:52:25+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13346782": {
       "title": "位置情報×UGCアプリ「LocPic」のUI/UXデザイナーを募集します",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-10T09:19:50+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13373105": {
+      "title": "【ポートフォリオ重視】新規ブランドのロゴデザイン制作｜シンプル・信頼感のあるデザイン",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-10T10:39:01+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13372998": {
+      "title": "8月21日【鳥取県・現地撮影】竹林・竹炭加工の商用撮影をしていただける方募集",
+      "keyword": "LP",
+      "priority": "高",
+      "notified_at": "2026-08-10T10:39:01+00:00"
     }
   }
 }
