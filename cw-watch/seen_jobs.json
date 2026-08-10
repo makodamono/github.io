@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13347072": {
-      "title": "【経験者限定／継続依頼あり】上場企業の採用サイト WordPressコーディング アクセシビリティ対応必須",
-      "keyword": "Web制作",
-      "priority": "高",
-      "notified_at": "2026-07-30T10:52:25+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13346329": {
       "title": "【継続依頼あり】女性向けキャリアコーチングサービスのバナーデザイナー募集✈！",
       "keyword": "Webサイト",
@@ -2999,6 +2993,12 @@
       "keyword": "Webサイト",
       "priority": "高",
       "notified_at": "2026-08-10T14:50:21+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13218539": {
+      "title": "実績作りでどなたでも気軽にご応募ください！カフェホームページ作成。",
+      "keyword": "ホームページ作成",
+      "priority": "高",
+      "notified_at": "2026-08-10T15:43:45+00:00"
     }
   }
 }
