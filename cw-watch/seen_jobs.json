@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13346358": {
-      "title": "【高単価：15万円】美容・健康・スキンケアの記事LPライター募集【実績者限定】",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-07-30T10:52:25+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13346262": {
       "title": "【急募】★★HP検索＋問合せフォーム送信業務　完全在宅　経験者募集★★",
       "keyword": "ホームページ",
@@ -2999,6 +2993,12 @@
       "keyword": "ホームページ制作",
       "priority": "高",
       "notified_at": "2026-08-10T12:26:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13373372": {
+      "title": "ECサイトの画像編集担当スタッフ募集",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-10T13:52:13+00:00"
     }
   }
 }
