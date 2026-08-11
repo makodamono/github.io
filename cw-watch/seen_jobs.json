@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13310120": {
-      "title": "ECサイトの商品タイトル・説明文作成",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-30T10:52:25+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13346050": {
       "title": "【月額6万円／フルリモート】給与計算・労務サポート担当募集｜社労士さん歓迎",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-10T19:28:05+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13373770": {
+      "title": "【企業ロゴ募集】「人ありき、そして躍進」を表現するロゴデザイン",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-11T01:14:21+00:00"
     }
   }
 }
