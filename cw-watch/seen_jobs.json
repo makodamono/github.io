@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13241370": {
-      "title": "【会社外の繋がりをデザインする✨】朝活×カフェコミュニティのSNS運用メンバー募集",
-      "keyword": "Webディレクター",
-      "priority": "高",
-      "notified_at": "2026-07-30T12:23:12+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13347419": {
       "title": "【美容好き歓迎】ChatGPTを使って学べる♪美容ブログライター募集",
       "keyword": "ChatGPT",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-11T05:42:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13374391": {
+      "title": "【3万円】指定のサイトからスクレイピングをお願いします。",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-11T07:51:17+00:00"
     }
   }
 }
