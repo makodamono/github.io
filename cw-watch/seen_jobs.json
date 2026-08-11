@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13013360": {
-      "title": "【経験者急募】eBayの商品リサーチ【1件100円～】※17期目の安定した企業案件！！",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-07-31T01:15:45+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13347509": {
       "title": "【AI活用◎20代・30代前半におすすめ！】未経験OK♪コンビニ記事ライター募集",
       "keyword": "AI活用",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-11T20:59:53+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13375525": {
+      "title": "WordPress上で動く「一覧表から比較したいサービスを選択して比較表を生成する」機能を作れる人を募集します。",
+      "keyword": "WordPress",
+      "priority": "高",
+      "notified_at": "2026-08-11T23:10:02+00:00"
     }
   }
 }
