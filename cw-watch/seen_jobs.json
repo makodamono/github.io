@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13347419": {
-      "title": "【美容好き歓迎】ChatGPTを使って学べる♪美容ブログライター募集",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-07-30T12:23:12+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13347467": {
-      "title": "【急募】位置情報×UGCアプリ「LocPic」のUI/UXデザイナーを募集します",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-07-30T14:39:28+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13347145": {
       "title": "【猫専用ペットホテル】記憶に残る「サウンドロゴ（音のロゴ）」募集／採用1点3万円",
       "keyword": "Webサイト",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-11T07:51:17+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13374876": {
+      "title": "【急募／8月12日夜まで】WordPressサイトの一部更新・改修｜報酬2万円",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-11T09:44:04+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13374837": {
+      "title": "【コピーと調整】WordPressの既存コーポレートサイトを別ドメインに複製して調整する",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-11T09:44:04+00:00"
     }
   }
 }
