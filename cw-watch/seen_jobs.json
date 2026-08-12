@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13348481": {
-      "title": "【急募】指定されたキーワードをTikTok内で検索・収集",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-07-31T04:42:52+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13348267": {
       "title": "【月8〜10本／月5万円〜】リモートワークが快適になるアイテムのInstagram運用",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "Webサイト",
       "priority": "高",
       "notified_at": "2026-08-12T05:12:04+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13376980": {
+      "title": "【AI活用】Google広告出稿企業を高精度で抽出・管理する営業支援システムの構築依頼",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-12T06:43:28+00:00"
     }
   }
 }
