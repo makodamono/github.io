@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13353257": {
-      "title": "✨パートナー募集✨AI×Instagram運用｜SNSを駆使して「集客」につなげたい方向け案件",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-02T04:32:16+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13353226": {
       "title": "新たに開園する予定の墓地に使用するロゴデザインの募集",
       "keyword": "AI",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-08-12T14:40:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13369367": {
+      "title": "【未経験OK】Web検索で情報収集＆リスト作成・DM送信｜1,000件",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-12T23:20:22+00:00"
     }
   }
 }
