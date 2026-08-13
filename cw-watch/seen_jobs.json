@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13351447": {
-      "title": "【業務委託/フルリモート】海外マーケに強いマーケター募集|東南アジア展開・海外在住OK",
-      "keyword": "制作ディレクション",
-      "priority": "高",
-      "notified_at": "2026-08-03T01:10:37+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13352215": {
       "title": "【在宅/未経験 OK】入力作業をお任せできる方をお探ししています！ ",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "Web",
       "priority": "高",
       "notified_at": "2026-08-13T08:44:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13379730": {
+      "title": "【20代会社員歓迎】AI×CanvaでInstagram投稿作成｜新しいスキルに挑戦したい方募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-13T10:46:25+00:00"
     }
   }
 }
