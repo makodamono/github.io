@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13351663": {
-      "title": "［業務委託］AI技術を活用したSNSコンテンツ制作の効率化および運用パートナー募集",
-      "keyword": "データ収集",
-      "priority": "高",
-      "notified_at": "2026-08-03T01:10:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13350533": {
-      "title": "AIエンジニア / DXエンジニア （AIシステム構築・業務自動化・業務改善コンサルティング）募集！（フルタイム）",
-      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
-      "priority": "高",
-      "notified_at": "2026-08-03T01:10:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13282800": {
-      "title": "【美容系LPデザイナー募集】Photoshop必須｜女性向けLP制作経験者歓迎｜継続案件あり",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-03T04:44:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13355134": {
-      "title": "未経験からSNS運用の実績づくりへ。実務を通して着実にスキルアップできる長期プロジェクトです。",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-03T04:44:40+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13353961": {
       "title": "Webサイト（事務所概要ページ）およびLPについて、掲載内容の修正・画像加工",
       "keyword": "Web制作グループ",
@@ -2999,6 +2975,30 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-13T14:46:00+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380129": {
+      "title": "AI研修の営業パートナー募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-13T15:40:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380105": {
+      "title": "AI時代の映像クリエイティブを牽引する、映画監督／映像ディレクターを募集します",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-13T15:40:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380056": {
+      "title": "【未経験OK！】他人の目やSNS比較から離れる「自分軸を取り戻すメンタルケア」note記事作成案件📖✨",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-08-13T15:40:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380035": {
+      "title": "【未経験OK！】無理しない働き方を伝える「職場の人間関係・環境の整え方」note記事作成案件🌿",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-13T15:40:19+00:00"
     }
   }
 }
