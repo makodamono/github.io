@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13353961": {
-      "title": "Webサイト（事務所概要ページ）およびLPについて、掲載内容の修正・画像加工",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-03T04:44:40+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13355509": {
       "title": "【急成長マッチングアプリ】バチェラーデートの恋愛コンシェルジュ / 恋活・婚活アプリ / リモート可/ 未経験可",
       "keyword": "ビジネスグループ",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-13T15:40:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380024": {
+      "title": "「無意識の思い込み」に関する電子書籍の表紙デザインを募集します",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-13T16:32:09+00:00"
     }
   }
 }
