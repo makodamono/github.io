@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13355035": {
-      "title": "美容クリニック紹介パートナー（卸/内装/機器等の営業担当者歓迎）",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-08-03T04:44:40+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13353548": {
       "title": "【1成約33万円】歯科医院向け集客支援サービスの営業代行募集",
       "keyword": "ホームページ",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-13T18:31:37+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13379897": {
+      "title": "新会社 FASHION & CO.｜既存イメージをベースとしたコーポレートロゴのブラッシュアップ・正式制作",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-08-13T19:38:54+00:00"
     }
   }
 }
