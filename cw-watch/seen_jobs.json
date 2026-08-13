@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13351461": {
-      "title": "【皮膚科・美容皮膚科クリニックホームページ】SEO／AIOコンサルタント募集｜長期歓迎",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-08-03T01:10:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13350507": {
-      "title": "【急ぎ】企業リスト作成（10,000件・採用担当or代表者メールアドレス付き）",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-08-03T01:10:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13351154": {
-      "title": "【WEB広告モデル募集】30～40代女性｜報酬20,000円（顔出し撮影）",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-08-03T01:10:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13346320": {
-      "title": "【継続依頼あり】女性向けキャリアコーチングサービスのバナーデザイナー募集✈！",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-08-03T01:10:37+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13352796": {
       "title": "【継続依頼／1本10,000円】2名トーク動画（YouTube・10〜15分）の編集をお願いできる方を募集します",
       "keyword": "STUDIO",
@@ -2999,6 +2975,30 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-13T05:56:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13378890": {
+      "title": "【Shopify / PageFly】Webページ実装担当者募集｜継続依頼あり",
+      "keyword": "Web制作",
+      "priority": "高",
+      "notified_at": "2026-08-13T07:11:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13351651": {
+      "title": "個人カメラマン（車メイン）の撮影依頼獲得向けLP制作",
+      "keyword": "CSS",
+      "priority": "高",
+      "notified_at": "2026-08-13T07:11:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13379228": {
+      "title": "⭐【Java】AI活用型業務プラットフォーム開発業務案件⭐",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-13T07:11:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13379218": {
+      "title": "⭐【TypeScript,LLM】【AI×HR】新規HRプロダクトにおけるフルスタック開発業務案件⭐",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-13T07:11:46+00:00"
     }
   }
 }
