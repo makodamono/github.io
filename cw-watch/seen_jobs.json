@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13352796": {
-      "title": "【継続依頼／1本10,000円】2名トーク動画（YouTube・10〜15分）の編集をお願いできる方を募集します",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-08-03T01:10:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13351019": {
-      "title": "【長期歓迎／高単価】AI生成画像を漫画に仕上げるお仕事（月20万円）",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-08-03T01:10:37+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13351447": {
       "title": "【業務委託/フルリモート】海外マーケに強いマーケター募集|東南アジア展開・海外在住OK",
       "keyword": "制作ディレクション",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-13T07:11:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13379581": {
+      "title": "【経験者限定・継続依頼あり】記事LP制作｜スピード重視",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-13T08:44:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13379337": {
+      "title": "【名古屋・対面】Webサイト3サイトの公開前セキュリティレビュー・修正｜最大5時間・契約金額30,000円（税抜）",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-08-13T08:44:38+00:00"
     }
   }
 }
