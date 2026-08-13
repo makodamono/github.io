@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13350760": {
-      "title": "富裕層向けラグジュアリー事業　高級シェア別荘・民泊プロジェクト販売パートナー募集　※AI活用",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-08-03T01:10:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13350125": {
-      "title": "【リモート相談可・長期】AI/Pythonを使った業務自動化・開発支援エンジニア募集",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-08-03T01:10:37+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13351663": {
       "title": "［業務委託］AI技術を活用したSNSコンテンツ制作の効率化および運用パートナー募集",
       "keyword": "データ収集",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-13T13:42:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380028": {
+      "title": "【未経験でもOK！】あなたの心を動かされたアニメを文章で伝えるnote記事作成案件📺✨/ 1記事2,000円！",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-13T14:46:00+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13379996": {
+      "title": "美容室で使用するPOPを作成していただけるデザイナーさんを募集します",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-13T14:46:00+00:00"
     }
   }
 }
