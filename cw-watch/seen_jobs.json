@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13355657": {
-      "title": "【Zoom面談1件1万円＋契約成立10万円】歯科医院院長の紹介パートナー募集",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-08-03T14:00:33+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13356337": {
       "title": "【1件1,000円】大学受験の模試成績表の画像をご提供ください（お手持ちの画像を撮影して送るだけ）",
       "keyword": "Webサイト",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-14T08:03:00+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13381635": {
+      "title": "急募！15日16日動ける方、募集！",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-14T09:16:40+00:00"
     }
   }
 }
