@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13356337": {
-      "title": "【1件1,000円】大学受験の模試成績表の画像をご提供ください（お手持ちの画像を撮影して送るだけ）",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-08-03T14:00:33+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13356084": {
       "title": "パワーポイント資料の作成",
       "keyword": "ChatGPT",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-08-14T09:16:40+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13381816": {
+      "title": "会社の名刺のデザインをお願いいたします。",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-14T11:10:58+00:00"
     }
   }
 }
