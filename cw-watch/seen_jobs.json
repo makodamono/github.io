@@ -1,53 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13355855": {
-      "title": "【AI活用】【長期依頼】YouTube 都市伝説系動画の編集者さんor 素材収集者さん（AI動画生成）募集",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-03T08:04:43+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13357192": {
-      "title": "【急募】食品PR用ランディングページのデザイン依頼",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-03T14:00:33+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13357173": {
-      "title": "Wordpressで作成したホームページのSEO対策実施",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-03T14:00:33+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13356916": {
-      "title": "不動産買取LPの制作・改善をお任せできる方募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-03T14:00:33+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13356915": {
-      "title": "不動産買取LPの制作・改善をお任せできる方募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-03T14:00:33+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13355924": {
-      "title": "pngのデザインを基にそのままコーディング出来る方",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-03T14:00:33+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13356934": {
-      "title": "医療事務向け生成AI研修提案書の作成（リサーチ＋デザイン＋構成強化）",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-08-03T14:00:33+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13357122": {
-      "title": "小児科クリニックホームページ素材撮影(兵庫県宝塚市)",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-08-03T14:00:33+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13355657": {
       "title": "【Zoom面談1件1万円＋契約成立10万円】歯科医院院長の紹介パートナー募集",
       "keyword": "ホームページ",
@@ -2999,6 +2951,54 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-08-14T06:43:23+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13381506": {
+      "title": "新発売のラベルへの文字入れ",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-14T08:03:00+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13381463": {
+      "title": "⭐【WEBディレクション】Web制作(LP・バナー等)のディレクション業務案件⭐",
+      "keyword": "LP",
+      "priority": "高",
+      "notified_at": "2026-08-14T08:03:00+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13045287": {
+      "title": "YouTubeチャンネル運営の進捗管理のサポートをお任せします！",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-14T08:03:00+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13381496": {
+      "title": "【急募のため高単価!!】【1本1万2000円〜】YouTube広告動画の編集できる方募集",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-14T08:03:00+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13381460": {
+      "title": "⭐【Python】VTuber向けAI Agent PoC開発業務案件⭐",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-14T08:03:00+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13381447": {
+      "title": "⭐【TypeScript/VoIP/WebRTC】レガシーな電話基盤と最先端音声AIをつなぐ音声リアルタイム通信基盤エンジニア⭐",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-14T08:03:00+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13381446": {
+      "title": "⭐【TypeScript】最先端音声AI×次世代SaaSプロダクトのコア開発(共通基盤・リファクタリング)案件⭐",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-14T08:03:00+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13381445": {
+      "title": "⭐【TypeScript】最先端音声AI×次世代SaaSプロダクトの開発組織責任者(EM/VPoE候補)案件⭐",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-14T08:03:00+00:00"
     }
   }
 }
