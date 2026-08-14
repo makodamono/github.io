@@ -1,65 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13355107": {
-      "title": "【長期/経験者優遇】Webディレクションをお願いできる方を募集",
-      "keyword": "Web制作",
-      "priority": "高",
-      "notified_at": "2026-08-03T04:44:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13353198": {
-      "title": "【歯科医師限定／継続案件】公開済み歯科コラムの医学監修・修正案作成：3記事：18,000円（税込・システム利用料込み)",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-08-03T04:44:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13326075": {
-      "title": "通販サイト(楽天・ヤフーなど)の商品ページのデザイン、コーディング制作をお手伝いいただける方を募集。定期依頼",
-      "keyword": "サイト修正",
-      "priority": "高",
-      "notified_at": "2026-08-03T04:44:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/12785932": {
-      "title": "【文字単価3円】金融実務経験者向けWebライター募集｜税務・投資・保険案件中心",
-      "keyword": "WordPress",
-      "priority": "高",
-      "notified_at": "2026-08-03T04:44:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13354205": {
-      "title": "【高単価案件あり・実力次第で青天井】Claude Code/生成AI活用エンジニア募集|Axiom Partners",
-      "keyword": "GAS",
-      "priority": "高",
-      "notified_at": "2026-08-03T04:44:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13355142": {
-      "title": "★【専業主婦さん限定】★【完全在宅】★パソコン１台でOK★お休み自由★",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-03T04:44:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13354938": {
-      "title": "【Canva初心者OK】 【未経験OK！】SNS投稿作成メンバー募集　マニュアル完備！",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-03T04:44:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13352913": {
-      "title": "【1記事10,000円/4,000文字以上】現役弁護士の方へ、ブログ記事執筆のご依頼",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-08-03T04:44:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13355174": {
-      "title": "［業務委託］AI技術を活用したSNSコンテンツ制作の効率化および運用パートナー募集",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-03T04:44:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13353461": {
-      "title": "指定Webサイトから事業者リストを作成いただける方を募集します（データ収集・整形・名寄せ）",
-      "keyword": "営業リスト作成",
-      "priority": "高",
-      "notified_at": "2026-08-03T04:44:40+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13356364": {
       "title": "パーソナルジムのLPデザイン【ベースデザインあり】",
       "keyword": "Web制作グループ",
@@ -2999,6 +2939,66 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-08-14T01:01:53+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380601": {
+      "title": "【化粧品EC／トライアル】ブランドの世界観から一緒に考えていただけるLPデザイナー募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-14T03:28:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380341": {
+      "title": "新規事業の立ち上げメンバー募集｜SNSデザイン制作アシスタント",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-14T03:28:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380606": {
+      "title": "SNS運用を仕事に活かしたい方へ！未経験から実践経験を積めるお仕事です。",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-14T03:28:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380474": {
+      "title": "【美容系LPデザイナー募集】Photoshop必須｜女性向けLP制作経験者歓迎｜継続案件あり",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-14T03:28:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380313": {
+      "title": "【経験者歓迎】暗号資産・ブロックチェーン関連のニュース記事ライター募集",
+      "keyword": "WordPress",
+      "priority": "高",
+      "notified_at": "2026-08-14T03:28:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380510": {
+      "title": "＼ 「健康」をもっと分かりやすく、一緒に届けませんか？ ／",
+      "keyword": "STUDIO",
+      "priority": "高",
+      "notified_at": "2026-08-14T03:28:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380784": {
+      "title": "事務業務のお手伝いいただける方募集🌷（資料作成や進捗管理）副業でOK/完全リモート/20代女性歓迎✨",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-14T03:28:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380405": {
+      "title": "【初心者・主婦大歓迎!】在宅で1件2～4分でできるPR会社の営業メール代行！",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-14T03:28:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380487": {
+      "title": "［業務委託］AI技術を活用したSNSコンテンツ制作の効率化および運用パートナー募集！",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-14T03:28:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380799": {
+      "title": "1週間から始める💡 AIリサーチ✖️投稿作成 |20代ライフスタイルのInstagram運用",
+      "keyword": "リサーチ",
+      "priority": "高",
+      "notified_at": "2026-08-14T03:28:18+00:00"
     }
   }
 }
