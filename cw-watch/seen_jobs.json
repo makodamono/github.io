@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13355987": {
-      "title": "【営業募集】AIエンジニアの私の営業代行をお願いしたいです",
-      "keyword": "スクレイピング",
-      "priority": "高",
-      "notified_at": "2026-08-04T03:41:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13356839": {
-      "title": "EC・物流｜在庫管理・システム運用担当募集",
-      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
-      "priority": "高",
-      "notified_at": "2026-08-04T03:41:40+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13358931": {
       "title": "Webサイト下層ページ・TOPページのコーディング",
       "keyword": "全体新着",
@@ -2999,6 +2987,18 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-08-15T13:31:09+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13383281": {
+      "title": "【医療職歓迎！】20代医療職向け転職イベント告知LP作成✨",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-15T14:40:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13383243": {
+      "title": "パンフレットの制作をお願いします！",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-08-15T14:40:57+00:00"
     }
   }
 }
