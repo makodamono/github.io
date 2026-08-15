@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13358931": {
-      "title": "Webサイト下層ページ・TOPページのコーディング",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-04T06:16:28+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13358930": {
-      "title": "新規オープンする美容サロンホームページ作成",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-04T06:16:28+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13358494": {
       "title": "【文字起こしから投稿準備などの運用まで】幅広いお仕事がしたい人募集！",
       "keyword": "スプレッドシート",
@@ -2999,6 +2987,18 @@
       "keyword": "ホームページ",
       "priority": "高",
       "notified_at": "2026-08-15T14:40:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13383317": {
+      "title": "ホームページ制作のディレクション業務",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-15T14:57:49+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13355987": {
+      "title": "【営業募集】AIエンジニアの私の営業代行をお願いしたいです",
+      "keyword": "スクレイピング",
+      "priority": "高",
+      "notified_at": "2026-08-15T14:57:49+00:00"
     }
   }
 }
