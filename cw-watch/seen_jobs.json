@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13357235": {
-      "title": "【HP制作、LP制作、制作ディレクション経験者】のWebサイト制作者（フロントエンド／デザイナー）を募集します。",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-08-04T03:41:40+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13357145": {
       "title": "【韓国語→日本語】美容系資料の翻訳＋日本語資料として再編集ができる方募集（継続あり）",
       "keyword": "LP",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-15T03:40:41+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13358325": {
+      "title": "Webディレクターの募集",
+      "keyword": "CSS",
+      "priority": "高",
+      "notified_at": "2026-08-15T04:07:26+00:00"
     }
   }
 }
