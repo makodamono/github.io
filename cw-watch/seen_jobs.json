@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13358167": {
-      "title": "秘書・社長の右腕業務・A.IやDX化　などの企業OJTトレーニングの参加　★スキルアップ★主婦のみ★在宅・取り組む時間帯が自由★",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-04T03:41:40+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13355987": {
       "title": "【営業募集】AIエンジニアの私の営業代行をお願いしたいです",
       "keyword": "スクレイピング",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-08-15T13:00:23+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13316269": {
+      "title": "【スマホで作業OK】20代向けギフト紹介｜Instagram投稿作成（フィード投稿作成）デザイン制作、Canva制作",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-15T13:31:09+00:00"
     }
   }
 }
