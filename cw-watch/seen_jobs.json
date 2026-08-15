@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13358494": {
-      "title": "【文字起こしから投稿準備などの運用まで】幅広いお仕事がしたい人募集！",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-04T06:16:28+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13357770": {
       "title": "【コツコツ作業】Instagram投稿文作成サポート｜在宅でできるお仕事",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "スクレイピング",
       "priority": "高",
       "notified_at": "2026-08-15T14:57:49+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13358931": {
+      "title": "Webサイト下層ページ・TOPページのコーディング",
+      "keyword": "CSS",
+      "priority": "高",
+      "notified_at": "2026-08-15T15:15:05+00:00"
     }
   }
 }
