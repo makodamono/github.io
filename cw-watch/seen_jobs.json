@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13357169": {
-      "title": "【完全在宅/未経験OK】YouTubeから情報を集めるだけ！リスト作成業務",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-04T03:41:40+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13358244": {
       "title": "【未経験OK！】周りと比べない「自分軸のキャリア」を文章で届けるnote記事作成案件✨/ 1記事2,000円！",
       "keyword": "ChatGPT",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-15T04:42:41+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380484": {
+      "title": "【介護・福祉×SNS新規事業】SNSプロデューサー・事業責任者候補募集｜企画・制作・企業案件対応まで",
+      "keyword": "制作ディレクション",
+      "priority": "高",
+      "notified_at": "2026-08-15T10:56:22+00:00"
     }
   }
 }
