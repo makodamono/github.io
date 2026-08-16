@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13359092": {
-      "title": "ホームページ制作",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-04T11:32:18+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13359063": {
       "title": "【新規開業】小型EVライドツアー(観光)のLPサイトの改善および改修",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-16T08:22:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13267285": {
+      "title": "レコーディングスタジオのHP作成",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-16T08:53:45+00:00"
     }
   }
 }
