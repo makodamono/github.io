@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13041709": {
-      "title": "【高インセンティブ】スカッと感動朗読チャンネルのシナリオライター【長期継続／主婦歓迎】",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-08-04T06:16:28+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13354413": {
       "title": "｜20代におすすめ♪｜未経験OK◎｜愛用している、おすすめしたいスキンケアや美容アイテムを紹介するライター募集｜継続あり｜",
       "keyword": "ChatGPT",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-15T22:55:25+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13383738": {
+      "title": "【経験者限定／継続依頼あり】上場企業の採用サイト WordPressコーディング アクセシビリティ対応必須",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-16T03:57:02+00:00"
     }
   }
 }
