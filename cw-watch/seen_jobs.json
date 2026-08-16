@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13359549": {
-      "title": "【女医・美容家募集】目元美容液の製品監修　★報酬10,000円【Web・LP掲載／顔写真・プロフィール掲載あり】",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-08-04T11:32:18+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13359062": {
       "title": "【関東エリア8/24-28】企業の採用LP・SNSのスチール撮影・ショート動画撮影ができるカメラマンを募集！",
       "keyword": "LP",
@@ -2999,6 +2993,12 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-08-16T13:10:26+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13384273": {
+      "title": "ECサイトの画像編集担当スタッフ募集",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-16T13:42:08+00:00"
     }
   }
 }
