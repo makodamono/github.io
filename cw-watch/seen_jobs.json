@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13358567": {
-      "title": "【有償トライアル8,000円】密着ドキュメンタリー動画の編集者募集｜継続後は1本30,000円〜｜Premiere Pro",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-04T06:16:28+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13358418": {
-      "title": "⭐【TypeScript】落とし物管理AI PoCのフルスタック業務案件⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-04T06:16:28+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13358417": {
       "title": "⭐【TypeScript】新AIプロダクトの開発を担エンジニア業務案件⭐",
       "keyword": "AI",
@@ -2999,6 +2987,18 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-08-16T04:28:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13383889": {
+      "title": "インタビューデータを基にしたブログ記事作成！指定の構成テンプレートあり【AIツール活用OK / 1,000文字〜】",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-16T07:07:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13383713": {
+      "title": "新規設立する法人のロゴマークデザイン作成",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-16T07:07:33+00:00"
     }
   }
 }
