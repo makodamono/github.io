@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13359373": {
-      "title": "Google Analyticsの設定代行業務をお願いいたします",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-08-04T11:32:18+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13359549": {
       "title": "【女医・美容家募集】目元美容液の製品監修　★報酬10,000円【Web・LP掲載／顔写真・プロフィール掲載あり】",
       "keyword": "LP",
@@ -2999,6 +2993,12 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-08-16T11:41:52+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13384248": {
+      "title": "【未経験OK！】自分をご機嫌にする「毎日のモーニング＆ナイトルーティン」note記事作成案件🌅✨",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-08-16T13:10:26+00:00"
     }
   }
 }
