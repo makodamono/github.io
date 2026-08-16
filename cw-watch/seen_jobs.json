@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13359062": {
-      "title": "【関東エリア8/24-28】企業の採用LP・SNSのスチール撮影・ショート動画撮影ができるカメラマンを募集！",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-08-04T11:32:18+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13358484": {
       "title": "AIを活用した事務サポート｜裏方力をこれからの働き方に活かしたい方へ",
       "keyword": "Webサイト",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-08-16T13:42:08+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13384418": {
+      "title": "【indeed/Airワーク運用】",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-16T14:45:38+00:00"
     }
   }
 }
