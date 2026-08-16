@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13358417": {
-      "title": "⭐【TypeScript】新AIプロダクトの開発を担エンジニア業務案件⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-04T06:16:28+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13359867": {
       "title": "AI動画を作れる方急募",
       "keyword": "全体新着",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-16T07:07:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13383968": {
+      "title": "整体院HPの改修｜HTML・レスポンシブ対応・店舗ページ追加・Google口コミ連携",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-16T07:40:25+00:00"
     }
   }
 }
