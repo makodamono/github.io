@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13363524": {
-      "title": "【AI活用OK】WordPress LP制作（通信制高校サポート校）｜構成・文章はこちらで用意",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-06T00:59:07+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13363483": {
       "title": "【不動産系YouTube 女性出演者募集】住まい・マンション購入の専門家募集｜出演料10万円〜／日｜継続出演の可能性あり",
       "keyword": "ホームページ",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-08-17T15:04:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13387583": {
+      "title": "【女性向けデザイン】美容・コスメ商品のLP制作｜デザイナー募集！",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-17T16:15:00+00:00"
     }
   }
 }
