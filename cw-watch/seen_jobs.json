@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13364218": {
-      "title": "【業務委託】Web制作の軽作業・修正対応スタッフ募集（リモート・都度依頼）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-06T04:10:24+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13364214": {
       "title": "パーソナルジムのウェブサイトデザイン",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "STUDIO",
       "priority": "高",
       "notified_at": "2026-08-17T22:35:09+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13387691": {
+      "title": "🎧｜20代におすすめ｜1記事3,000円〜｜未経験OK◎｜流行りの音楽や最近ハマっている曲を紹介するライター募集｜継続あり｜",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-08-17T23:38:08+00:00"
     }
   }
 }
