@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13363597": {
-      "title": "【未経験OK】AIの会話を作る簡単ライティング！完全在宅＆好きな時間に作業可能",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-06T00:59:07+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13363593": {
       "title": "【Amazonストア制作の実績必須】ブランドストアの企画構成・デザイン・公開まで一括お任せ◇売上伸ばすWeb制作",
       "keyword": "全体新着",
@@ -2999,6 +2993,12 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-08-17T13:13:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13387421": {
+      "title": "ＡＩ画像生成【人物の生成】",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-17T13:54:19+00:00"
     }
   }
 }
