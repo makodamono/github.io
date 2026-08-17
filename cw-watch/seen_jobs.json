@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13360526": {
-      "title": "美容・ライフスタイル系Instagramの投稿＆リール作成募集！AI活用！",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-04T23:44:09+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13360465": {
       "title": "｜未経験OK◎｜20代におすすめ｜グルメ好き歓迎｜最近食べて美味しかったものやおすすめのお店を紹介する♪かんたんライター募集｜",
       "keyword": "ChatGPT",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-17T04:12:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13385959": {
+      "title": "【継続案件あり】2コママンガのセリフ・シナリオ作成！キャラ設定＆過去作あり",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-17T04:59:33+00:00"
     }
   }
 }
