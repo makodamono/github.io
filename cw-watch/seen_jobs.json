@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13362655": {
-      "title": "求人サイトからコピーペーストしてリストを作成するお仕事",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-05T13:23:22+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13362121": {
       "title": "【主婦さん大歓迎】インスタグラムの運用代行をしてくださる方を募集します。【長期依頼・在宅可】",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-17T08:56:00+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13386490": {
+      "title": "【未経験OK◎旅行好き歓迎！】旅をもっと身近にするコンテンツライター募集✨",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-08-17T09:30:04+00:00"
     }
   }
 }
