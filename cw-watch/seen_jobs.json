@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13364214": {
-      "title": "パーソナルジムのウェブサイトデザイン",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-06T04:10:24+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13363863": {
-      "title": "【HP制作／WordPress構築】ECコンサル企業のホームページ再構築を一緒に進めていただける方募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-06T04:10:24+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13353116": {
       "title": "【農園紹介、商品紹介】ペライチによるwebページの作成２枚、紙媒体用チラシの原案作成１枚",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-08-17T23:38:08+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13364218": {
+      "title": "【業務委託】Web制作の軽作業・修正対応スタッフ募集（リモート・都度依頼）",
+      "keyword": "CSS",
+      "priority": "高",
+      "notified_at": "2026-08-17T23:55:03+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13387775": {
+      "title": "【20代メンバー活躍中】「こんなカフェ行ってみたい！」をWebでつくる。店舗ホームページ制作スタッフ募集",
+      "keyword": "リサーチ",
+      "priority": "高",
+      "notified_at": "2026-08-17T23:55:03+00:00"
     }
   }
 }
