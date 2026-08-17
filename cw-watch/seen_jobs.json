@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13331831": {
-      "title": "【継続希望】WordPressサイトの公開後設定・運用サポート、作業等",
-      "keyword": "CSS",
-      "priority": "高",
-      "notified_at": "2026-08-05T09:45:11+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13362537": {
-      "title": "【データ検索収集】占い師に関しての簡単検索",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-05T09:45:11+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13361595": {
       "title": "【投稿文作成サポート】Instagram投稿文の作成補助｜未経験から始めやすい内容",
       "keyword": "スプレッドシート",
@@ -2999,6 +2987,18 @@
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
       "priority": "高",
       "notified_at": "2026-08-17T07:12:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13386653": {
+      "title": "⭐【Python】自社広告審査AIサービスにおけるサーバーサイド開発業務案件⭐",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-17T08:01:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13386493": {
+      "title": "【有償トライアル・継続あり】写真をもとに犬・猫のイラストを描いていただける方募集",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-17T08:01:39+00:00"
     }
   }
 }
