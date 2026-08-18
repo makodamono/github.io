@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13366593": {
-      "title": "【AIスクール卒業生歓迎】SNS運用の長期パートナー募集",
-      "keyword": "リサーチ",
-      "priority": "高",
-      "notified_at": "2026-08-07T05:19:15+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13367271": {
       "title": "【医師監修者募集】健康器具の監修にご協力いただける医師の方",
       "keyword": "全体新着",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-18T15:58:23+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13390268": {
+      "title": "【長期歓迎／高単価】AI生成画像を漫画に仕上げるお仕事（月20万円）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-18T17:47:19+00:00"
     }
   }
 }
