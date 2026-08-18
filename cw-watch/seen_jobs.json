@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13365690": {
-      "title": "広告で回すLPをデザインできる方へ｜転職サイトのLP改善＋Metaバナー（継続案件）",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-08-07T05:19:15+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13366253": {
       "title": "【コンペ｜海外高級ランジェリーブランド 新商品LP・商品詳細文】",
       "keyword": "LP",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-18T09:00:49+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13389474": {
+      "title": "商用昼夜ハイブリッド式完全自己完結型いびき＆睡眠環境改善システム」のプロトタイプ開発と完成機器の商品化 ",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-18T09:36:07+00:00"
     }
   }
 }
