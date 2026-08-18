@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13364605": {
-      "title": "球場・テニスコート、サッカー場の名称ロゴデザインの制作",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-06T09:31:21+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13365396": {
       "title": "記事LP制作",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-08-18T04:59:50+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/12944925": {
+      "title": "WordPressで制作するホームページの依頼",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-18T05:28:50+00:00"
     }
   }
 }
