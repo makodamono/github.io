@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13366795": {
-      "title": "AI動画クリエイター募集",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-08-07T05:19:15+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13365401": {
       "title": "【AI開発・DX支援の方へ】商談化後の成約率50%／AI研修の紹介パートナー募集",
       "keyword": "ChatGPT",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-08-18T13:51:22+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13389993": {
+      "title": "【未経験OK・20代向け】ひとり暮らしで実践したい節約術｜無理なく続けるお金の貯め方ライター募集✨️",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-08-18T14:59:38+00:00"
     }
   }
 }
