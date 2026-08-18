@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13367271": {
-      "title": "【医師監修者募集】健康器具の監修にご協力いただける医師の方",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-07T06:35:27+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13366939": {
       "title": "【30万円前後／多言語】浅草のヴィンテージ着物店｜インバウンド向けWebサイト新規制作",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-18T17:47:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13390282": {
+      "title": "【AIフォーム営業ツールの開発】BtoBリスト向けの問い合わせフォーム自動送信ツールを制作いただける方を募集します",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-18T18:52:15+00:00"
     }
   }
 }
