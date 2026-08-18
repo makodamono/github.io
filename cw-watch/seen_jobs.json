@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13365401": {
-      "title": "【AI開発・DX支援の方へ】商談化後の成約率50%／AI研修の紹介パートナー募集",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-08-07T05:19:15+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13365388": {
       "title": "スピリチュアル系YouTubeチャンネルのディレクターとADを募集します！【サポートあり】【経験者のみ】",
       "keyword": "ChatGPT",
@@ -2999,6 +2993,12 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-08-18T14:59:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13390170": {
+      "title": "【Illustrator／入稿データ作成】完成済み食品パッケージデザインをAIデータ化（デザイン提案不要）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-18T15:30:36+00:00"
     }
   }
 }
