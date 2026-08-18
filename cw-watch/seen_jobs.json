@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13367110": {
-      "title": "【薬機法・景表法レビュー担当募集】化粧品パッケージ・LP・広告表現のCheck（在宅・月額10万円）",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-08-07T06:35:27+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13367195": {
-      "title": "【急募】千歳拠点のペット専用レンタカー｜Web制作・予約システム・集客広告の一括お任せ",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-08-07T06:35:27+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13285039": {
-      "title": "気軽にご応募いただけますと嬉しいです！ホームページ実績作り",
-      "keyword": "ホームページ作成",
-      "priority": "高",
-      "notified_at": "2026-08-07T06:35:27+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13337809": {
       "title": "【Webコーダー募集】Webサイト下層ページ・TOPページのコーディング",
       "keyword": "HTML・CSS",
@@ -2999,6 +2981,24 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-18T21:01:50+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13390356": {
+      "title": "【未経験からやってみたい方】旅行メディアの“Webサイト”を一緒に作ってみませんか？【参考サイトあり】",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-18T23:01:30+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13293596": {
+      "title": "【Webデザイナー募集】Webサイトのサイドメニューデザイン",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-18T23:01:30+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13389839": {
+      "title": "【急募・フェーズ1】補助金・助成金情報の自動収集システム｜要件定義をお願いします",
+      "keyword": "GAS",
+      "priority": "高",
+      "notified_at": "2026-08-18T23:01:30+00:00"
     }
   }
 }
