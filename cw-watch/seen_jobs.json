@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13367190": {
-      "title": "⭐【FDE】国産LLM活用AIプロダクト導入推進業務案件⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-07T06:35:27+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13367524": {
       "title": "【フルリモート・業務委託】美容サロン向けLP制作デザイナー募集♪1",
       "keyword": "全体新着",
@@ -2999,6 +2993,12 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-08-18T23:31:26+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13389965": {
+      "title": "男女対立問題をテーマにしたYouTube動画用台本の制作依頼",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-18T23:52:57+00:00"
     }
   }
 }
