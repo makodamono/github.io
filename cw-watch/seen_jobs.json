@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13369994": {
-      "title": "【単発2万円】AIでの台本作成者を募集",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-08-09T04:42:46+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13370091": {
-      "title": "AI漫画プロジェクト／Stable Diffusionプロンプト制作｜ 1プロンプト：最低150円  １件15000円～",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-09T05:35:44+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13370203": {
       "title": "アウトドア向け虫対策商品のパッケージ台紙デザイン募集",
       "keyword": "AI",
@@ -2999,6 +2987,18 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-08-19T07:21:44+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13391814": {
+      "title": "ストーリー漫画のネーム作成（プロットまで用意しています。ネームのみお願いします。作画はありません。）※ZOOM打合せ必須",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-19T08:00:28+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13390935": {
+      "title": "【医師監修者募集】男性向けサプリメントの医師監修にご協力いただける方",
+      "keyword": "LP",
+      "priority": "高",
+      "notified_at": "2026-08-19T08:00:28+00:00"
     }
   }
 }
