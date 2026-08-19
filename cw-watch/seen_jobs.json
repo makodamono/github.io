@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13370373": {
-      "title": "【デザイン制作】Instagram投稿用バナーの作成依頼・継続あり",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-08-09T10:49:07+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13370523": {
       "title": "【美容💄】美しさを整えたい20代へ。“ふわっと心が軽くなる美容投稿”をつくるデザイナーさん募集！！",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-19T13:52:14+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13287141": {
+      "title": "【LP制作】歯科クリニックのランディングページ制作をお願いできる方募集（継続あり）",
+      "keyword": "ランディングページ制作",
+      "priority": "高",
+      "notified_at": "2026-08-19T15:30:26+00:00"
     }
   }
 }
