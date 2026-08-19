@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13370336": {
-      "title": "【報酬1.6万円】お店で使っているレジ・キャッシュレス決済を取材させてください",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-09T08:57:57+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13370297": {
       "title": "貿易データを活用した海外企業リサーチ・新規顧客へのメールアプローチ",
       "keyword": "ホームページ",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-19T08:38:50+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13388608": {
+      "title": "洗車用品のパッケージデザイン作成を募集します",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-19T09:46:15+00:00"
     }
   }
 }
