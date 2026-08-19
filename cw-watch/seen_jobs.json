@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13367524": {
-      "title": "【フルリモート・業務委託】美容サロン向けLP制作デザイナー募集♪1",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-07T07:54:02+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13367031": {
-      "title": "【kintone REST API連携 実績必須／フルリモート】BtoB業務システム 会員制サイトリニューアル（PHP／CMS）",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-08-07T07:54:02+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13367460": {
-      "title": "AI動画つくるのが好きな方急募",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-07T07:54:02+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13367049": {
       "title": "【総額8万円】新たに採用する工法のパンフレットデザイン＊納期短め＊",
       "keyword": "AI",
@@ -2999,6 +2981,24 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-08-18T23:52:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13390483": {
+      "title": "クリニックのランディングページデザイナー募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-19T00:36:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13297697": {
+      "title": "【CanvaでOK✨】たまごっちやラブベリなどの懐かしさをフィード投稿で表現していただきたいです🎀",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-19T00:36:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13390432": {
+      "title": "日報作成(スプレッドシート)",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-19T00:36:43+00:00"
     }
   }
 }
