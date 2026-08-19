@@ -1,35 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13368299": {
-      "title": "Instagramでのキーワード検索と情報の収集",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-07T15:26:43+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13368404": {
-      "title": "【長期歓迎】AIオウンドメディア立ち上げディレクター募集｜SEO・メディア運営経験者限定",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-07T18:54:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13368469": {
-      "title": "イラスト風アイコン制作｜女性タッチ・30点",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-07T23:43:27+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13368601": {
-      "title": "Shopify定期便EC カスタム機能 追加実装一式（1案件分）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-08T02:31:28+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13320058": {
-      "title": "Xの投稿作成をお願いいたします。",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-08T02:31:28+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13334749": {
       "title": "【在宅】データ整理・入力作業（マニュアルあり／継続あり）",
       "keyword": "スプレッドシート",
@@ -2999,6 +2969,36 @@
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
       "priority": "高",
       "notified_at": "2026-08-19T04:26:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13391312": {
+      "title": "⭐【Python】大手通信_マーケティングAI支援プロダクト開発業務案件⭐",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-19T05:00:14+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13391309": {
+      "title": "⭐【講師】AIスクールの講師案件⭐",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-19T05:00:14+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13391294": {
+      "title": "⭐【TypeScript】新AIプロダクトの開発を担エンジニア業務案件⭐",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-19T05:00:14+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13368051": {
+      "title": "不動産賃貸物件の入居者募集LP制作（SEO対策も含め）",
+      "keyword": "ランディングページ制作",
+      "priority": "高",
+      "notified_at": "2026-08-19T05:00:14+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13390730": {
+      "title": "【未経験OK】在宅でできるお問い合わせフォーム入力・送信スタッフ募集",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-08-19T05:00:14+00:00"
     }
   }
 }
