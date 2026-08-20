@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13346819": {
-      "title": "【AEM経験者限定】Adobe Experience ManagerでのLP実装・コーディング案件（1ページ）",
-      "keyword": "CSS",
-      "priority": "高",
-      "notified_at": "2026-08-10T11:32:47+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13373142": {
-      "title": "企業リスト作成",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-10T11:32:47+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13371960": {
       "title": "【朝夕30分ずつ／月20日】完全完全在宅の事務アシスタントを募集！",
       "keyword": "スプレッドシート",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-20T09:45:27+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13393958": {
+      "title": "⭐【Java】BtoCサービスリニューアル業務案件⭐",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-08-20T10:12:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13394225": {
+      "title": "海外動画リサーチャー募集！日本に感動する外国人のTikTok動画を集めるお仕事です！",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-20T10:12:18+00:00"
     }
   }
 }
