@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13372771": {
-      "title": "既存HTMLサイトを1ページ型にリニューアル｜デザイン・HTML実装・FTP公開まで",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-10T09:19:50+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13372675": {
-      "title": "【漫画制作】50代女性が主人公｜かゆみ・不快感の表現が得意な漫画家さん募集",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-08-10T09:19:50+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13344713": {
-      "title": "【福岡県のドーナツ屋のHP作成依頼‼️】",
-      "keyword": "ホームページ制作",
-      "priority": "高",
-      "notified_at": "2026-08-10T09:19:50+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13343299": {
       "title": "【急募/既存サイト有】WordPressを用いた多言語Webサイト制作（日・英全120P）｜経験者限定",
       "keyword": "Webサイト制作",
@@ -2999,6 +2981,24 @@
       "keyword": "営業リスト作成",
       "priority": "高",
       "notified_at": "2026-08-20T07:51:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13393585": {
+      "title": "【漫画制作】50代男性が主人公｜痛みや違和感、悩みの表現が得意な漫画家さん募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-20T08:25:09+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13393948": {
+      "title": "【Webデザイナー募集】BtoB企業コーポレートサイトのデザイン制作｜構成・方向性決定済み",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-20T08:25:09+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13393993": {
+      "title": "⭐【Python,PyTorch】業務案件コンテンツモデレーション向けAIシステムの開発・運用⭐",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-20T08:25:09+00:00"
     }
   }
 }
