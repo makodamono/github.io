@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13371960": {
-      "title": "【朝夕30分ずつ／月20日】完全完全在宅の事務アシスタントを募集！",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-10T11:32:47+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13268494": {
       "title": "どなたでも気軽にご応募ください！実績作りにいかがでしょうか？ホームページ制作。",
       "keyword": "ホームページ制作",
@@ -2999,6 +2993,12 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-08-20T10:12:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13393963": {
+      "title": "⭐【X】 自社開発PDFエディター(サブスク型)の認知拡大に向けたSNSマーケティング・広報業務案件⭐",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-08-20T13:31:05+00:00"
     }
   }
 }
