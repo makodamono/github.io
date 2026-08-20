@@ -1,35 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13368748": {
-      "title": "［業務委託］AI技術を活用したSNSコンテンツ制作の効率化および運用パートナー募集！",
-      "keyword": "データ収集",
-      "priority": "高",
-      "notified_at": "2026-08-10T07:59:24+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13372865": {
-      "title": "⭐【PdM】AI活用HR領域新規プロダクト開発(PdM)業務案件⭐",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-10T09:19:50+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13372848": {
-      "title": "⭐【Python,LLM,Azure】製造業向けAIエージェント/LLMを活用した業務自動化PoCのアーキテクト業務案件⭐",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-10T09:19:50+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13372843": {
-      "title": "⭐【機械学習】AIソリューションエンジニア業務案件⭐",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-10T09:19:50+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13372837": {
-      "title": "⭐【プロダクトエンジニア】自社プロダクトのAI駆動開発のスループットを最大化する自動検証基盤構築⭐",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-10T09:19:50+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13372771": {
       "title": "既存HTMLサイトを1ページ型にリニューアル｜デザイン・HTML実装・FTP公開まで",
       "keyword": "Web制作グループ",
@@ -2999,6 +2969,36 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-20T07:01:24+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13393968": {
+      "title": "⭐【Rails・Go】自社プロダクト(マーケティングツール)の開発業務案件⭐",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-20T07:51:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13393962": {
+      "title": "⭐【Python】不動産業界向けAI駆動SaaSのフルスタック開発案件⭐",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-20T07:51:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13393952": {
+      "title": "⭐【Python】行政の緑化計画に伴うAI映像解析・利用状況分析システム構築業務案件⭐",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-20T07:51:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13393900": {
+      "title": "【急募・短納期】漫画10Pのキャラペン入れ｜CLIP STUDIO PAINT必須・AI下絵あり",
+      "keyword": "STUDIO",
+      "priority": "高",
+      "notified_at": "2026-08-20T07:51:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13235732": {
+      "title": "【未経験OK/完全在宅】1件5円〜 営業リスト作成｜コツコツ作業が得意な方歓迎！#165",
+      "keyword": "営業リスト作成",
+      "priority": "高",
+      "notified_at": "2026-08-20T07:51:38+00:00"
     }
   }
 }
