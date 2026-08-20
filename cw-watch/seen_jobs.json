@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13343299": {
-      "title": "【急募/既存サイト有】WordPressを用いた多言語Webサイト制作（日・英全120P）｜経験者限定",
-      "keyword": "Webサイト制作",
-      "priority": "高",
-      "notified_at": "2026-08-10T09:19:50+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13371755": {
       "title": "【フルリモート】看護師の新たなキャリアを支援する！WEBライティング講師募集",
       "keyword": "WordPress",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-20T08:25:09+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13394129": {
+      "title": "シンクタンクWebサイトのファーストビュー改善案（採用案には別案件発注予定）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-20T09:03:50+00:00"
     }
   }
 }
