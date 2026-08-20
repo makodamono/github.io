@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13218539": {
-      "title": "実績作りでどなたでも気軽にご応募ください！カフェホームページ作成。",
-      "keyword": "ホームページ作成",
-      "priority": "高",
-      "notified_at": "2026-08-10T15:43:45+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13373665": {
-      "title": "【広告クリエイティブ責任者】月100万円以上も｜数値分析・AI活用が得意な方歓迎",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-10T18:24:50+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13373678": {
       "title": "【緊急・スポット依頼】WordPressサイトの「polyfill.io」不審ポップアップ削除・復旧作業",
       "keyword": "全体新着",
@@ -2999,6 +2987,18 @@
       "keyword": "Webディレクター",
       "priority": "高",
       "notified_at": "2026-08-20T15:23:45+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13394331": {
+      "title": "不動産会社情報の取得",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-08-20T15:56:17+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13373205": {
+      "title": "【月10万継続案件あり/36万円】小中学生向けメタバース基盤開発＆初期エリア構築パートナー募集",
+      "keyword": "Webサイト制作",
+      "priority": "高",
+      "notified_at": "2026-08-20T15:56:17+00:00"
     }
   }
 }
