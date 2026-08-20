@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13368491": {
-      "title": "TOPページデザイン制作｜女性向けビジネス・LP風",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-10T07:59:24+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13368477": {
-      "title": "Webサイト下層ページのメインタイトルデザイン制作",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-10T07:59:24+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13261590": {
       "title": "【募集】システム開発が得意！なシステムエンジニアさん",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-20T05:01:55+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13393572": {
+      "title": "【A4両面チラシ】PDF/Word資料を編集可能なAi・パワポデータに清書・デザイン化",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-20T05:40:37+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13393501": {
+      "title": "Googleスプレッドシートに関するツール作成",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-20T05:40:37+00:00"
     }
   }
 }
