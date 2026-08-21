@@ -1,35 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13375498": {
-      "title": "AIによる文章生成自動化システムの開発依頼",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-08-12T08:05:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13373206": {
-      "title": "【フルリモート】GASツールのWebアプリ化経験がある方（個人開発規模のWebアプリをリリースした経験がある方）",
-      "keyword": "HTML",
-      "priority": "高",
-      "notified_at": "2026-08-12T08:05:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13376299": {
-      "title": "eBayのActiveリスティング情報をもとにしたスプレッドシート入力・転記作業",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-12T08:05:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13375537": {
-      "title": "【完全在宅・経験者・主婦の方大歓迎】★インセンティブアリあり★隙間時間での作業可能☆海外ECサイト「ebay」の商品リサーチ作業",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-12T08:05:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/12963094": {
-      "title": "【リモートOK｜月15万円】代表直下｜秘書 / バックオフィスアシスタント募集",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-08-12T08:05:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/12960638": {
       "title": "【リモートOK｜月15万円】代表直下｜全社秘書 / バックオフィスアシスタント募集",
       "keyword": "ChatGPT",
@@ -2999,6 +2969,36 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-21T09:06:36+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13396846": {
+      "title": "WebサイトのSEOを改善したい",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-21T10:14:01+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13373293": {
+      "title": "【ECマーケター募集】フェアトレード通販サイト「Fair Select」の注文数を2倍にする改善プロジェクト",
+      "keyword": "CSS",
+      "priority": "高",
+      "notified_at": "2026-08-21T10:14:01+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13332478": {
+      "title": "美顔器の機能説明CG制作（45秒）",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-21T10:14:01+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13396496": {
+      "title": "⭐【Python】バックエンド開発業務案件⭐",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-21T10:14:01+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13396483": {
+      "title": "⭐【Python】ソフトウェアエンジニア業務案件⭐",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-21T10:14:01+00:00"
     }
   }
 }
