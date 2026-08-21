@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13377318": {
-      "title": "⭐【AI導入】クライアント企業向けの生成AIに関するコンサルタント業務案件⭐",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-12T08:05:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13377315": {
       "title": "飲食店　バナー　沖縄系居酒屋",
       "keyword": "全体新着",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-21T04:24:22+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13395807": {
+      "title": "1ドメインのサーバー移管作業",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-21T05:01:35+00:00"
     }
   }
 }
