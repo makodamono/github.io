@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13377328": {
-      "title": "⭐【Webディレクション】自社および受託ECサイトやWeb制作におけるディレクション業務案件⭐",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-08-12T09:20:45+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13376644": {
-      "title": "【継続案件】YouTube運用者を募集！！フリーランス大歓迎！！",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-08-12T09:20:45+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13376620": {
       "title": "【YouTube】チャンネルの立ち上げディレクター募集",
       "keyword": "制作ディレクション",
@@ -2999,6 +2987,18 @@
       "keyword": "ホームページ",
       "priority": "高",
       "notified_at": "2026-08-21T23:33:30+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397400": {
+      "title": "【Web制作に挑戦したい方歓迎】旅行系メディアのサイト制作メンバー募集｜参考サイトあり",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-21T23:54:14+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13377352": {
+      "title": "⭐【Webディレクター】SaaSサービスのWebディレクション業務案件⭐",
+      "keyword": "Webディレクター",
+      "priority": "高",
+      "notified_at": "2026-08-21T23:54:14+00:00"
     }
   }
 }
