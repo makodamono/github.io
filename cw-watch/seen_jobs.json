@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13377436": {
-      "title": "【美容系LP制作】美容院・ヘアサロンのLPデザイナー募集（継続あり）",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-12T09:20:45+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13377352": {
       "title": "⭐【Webディレクター】SaaSサービスのWebディレクション業務案件⭐",
       "keyword": "ビジネスグループ",
@@ -2999,6 +2993,12 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-08-21T18:51:15+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397374": {
+      "title": "【SEOライティング経験者】webサイトのSEO記事ディレクション、マーケティングアシスタント業務",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-21T23:02:03+00:00"
     }
   }
 }
