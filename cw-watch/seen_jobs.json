@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13376495": {
-      "title": "１話3000円【AI生成のお仕事】初めての方でも安心のマニュアル付き",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-12T08:05:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13376363": {
       "title": "［スクール受講生歓迎］学んだスキルを「実務」へ。SNS運用の長期パートナー募集",
       "keyword": "リサーチ",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-21T13:05:26+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397084": {
+      "title": "【AI使用可】※AIエージェントの知見ある方のみ！AIエージェント系のセミナー台本一部作成",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-21T13:53:21+00:00"
     }
   }
 }
