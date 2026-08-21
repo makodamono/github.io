@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/12960638": {
-      "title": "【リモートOK｜月15万円】代表直下｜全社秘書 / バックオフィスアシスタント募集",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-08-12T08:05:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13376495": {
       "title": "１話3000円【AI生成のお仕事】初めての方でも安心のマニュアル付き",
       "keyword": "AI",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-21T10:14:01+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397011": {
+      "title": "【相談・レクチャー希望】既存の学習動画をAIで最新内容に更新・再生成する方法を教えてください",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-21T13:05:26+00:00"
     }
   }
 }
