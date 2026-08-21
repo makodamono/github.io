@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13376363": {
-      "title": "［スクール受講生歓迎］学んだスキルを「実務」へ。SNS運用の長期パートナー募集",
-      "keyword": "リサーチ",
-      "priority": "高",
-      "notified_at": "2026-08-12T08:05:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13376335": {
-      "title": "【業務委託】AI技術を活用したSNSコンテンツ制作の効率化および運用パートナー募集",
-      "keyword": "リサーチ",
-      "priority": "高",
-      "notified_at": "2026-08-12T08:05:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13377468": {
-      "title": "⭐【Rails・Go】自社プロダクト(マーケティングツール)の開発業務案件⭐",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-12T09:20:45+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13377466": {
-      "title": "⭐【AIエージェント活用】教育系SaaSの開発・運用全般業務案件⭐",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-12T09:20:45+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13377464": {
       "title": "⭐【PdM】バックオフィス業務効率化サービス開発プロダクトマネージャー業務案件⭐",
       "keyword": "全体新着",
@@ -2999,6 +2975,30 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-21T13:53:21+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397176": {
+      "title": "【共感できる方歓迎】人の顔色を気にしてしまう人向け｜Instagram投稿（フィード投稿作）デザイン（Canva・テンプレあり）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-21T15:00:37+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13396331": {
+      "title": "【長期契約/フルリモート可】民泊・塗装業者マッチングサービスのフロントエンドエンジニア募集 ",
+      "keyword": "Web制作",
+      "priority": "高",
+      "notified_at": "2026-08-21T15:00:37+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/12374247": {
+      "title": "【アンケート】保険に関するアンケート調査実施中",
+      "keyword": "Google Apps Script",
+      "priority": "高",
+      "notified_at": "2026-08-21T15:00:37+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13354863": {
+      "title": " 【カフェ店舗SNS☕】Instagram運用アシスタント募集",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-21T15:00:37+00:00"
     }
   }
 }
