@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13377352": {
-      "title": "⭐【Webディレクター】SaaSサービスのWebディレクション業務案件⭐",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-08-12T09:20:45+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13377328": {
       "title": "⭐【Webディレクション】自社および受託ECサイトやWeb制作におけるディレクション業務案件⭐",
       "keyword": "Web",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-21T23:02:03+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13396501": {
+      "title": "⭐【広報担当】ヘルスケアスタートアップ企業での広報・PR業務案件⭐",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-08-21T23:33:30+00:00"
     }
   }
 }
