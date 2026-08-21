@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13377464": {
-      "title": "⭐【PdM】バックオフィス業務効率化サービス開発プロダクトマネージャー業務案件⭐",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-12T09:20:45+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13377456": {
       "title": "⭐【TypeScript,Next.js】請求書管理をはじめとするバックオフィス業務効率化サービスの開発・改善業務案件⭐",
       "keyword": "全体新着",
@@ -2999,6 +2993,12 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-08-21T15:00:37+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397242": {
+      "title": "著者の看護師になるまでのマインドセットを紹介する電子書籍の表紙デザインを募集します。",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-21T15:35:33+00:00"
     }
   }
 }
