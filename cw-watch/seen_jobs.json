@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13377697": {
-      "title": "⭐【DX推進】AIを活用した業務効率化推進案件⭐",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-12T11:23:11+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13377690": {
       "title": "⭐【React・Go】新規プロダクトAI駆動エンジニアリングマネージャー開発業務案件⭐",
       "keyword": "全体新着",
@@ -2999,6 +2993,12 @@
       "keyword": "Webディレクター",
       "priority": "高",
       "notified_at": "2026-08-22T10:01:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13386462": {
+      "title": "【女性向けデザイン】美容・コスメ商品のLP制作｜デザイナー募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-22T10:34:36+00:00"
     }
   }
 }
