@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13350617": {
-      "title": "【新規募集】htmlが組み上がっているサイトのcssコーディング（2026年7月31日）",
-      "keyword": "CSS",
-      "priority": "高",
-      "notified_at": "2026-08-12T10:30:07+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13273363": {
       "title": "広告クリエイティブディレクター・マーケティング募集｜企画・制作進行・動画ディレクション",
       "keyword": "Webディレクター",
@@ -2999,6 +2993,12 @@
       "keyword": "Webディレクター",
       "priority": "高",
       "notified_at": "2026-08-22T04:22:31+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13396954": {
+      "title": "【10名募集】企業HPの問い合わせフォーム送信／1日100件×10日・9月1日スタート",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-22T04:56:46+00:00"
     }
   }
 }
