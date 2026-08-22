@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13377704": {
-      "title": "⭐【Webディレクター・集客マーケティング】Web3.0関連新規サービスの集客マーケティング⭐",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-12T11:23:11+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13377702": {
       "title": "⭐【PM】エンタープライズ向け生成AIプロダクト受託開発の専任PM業務案件⭐",
       "keyword": "全体新着",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-22T07:52:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13398111": {
+      "title": "切り抜き担当急募！",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-22T09:44:16+00:00"
     }
   }
 }
