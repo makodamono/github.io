@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13377905": {
-      "title": "フィットネスジムの新規オープンに伴い、ホームページを制作いただける方を募集します。STUDIOを使用し日本語・英語ページ 作成。",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-12T13:38:11+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13377839": {
       "title": "株式投資",
       "keyword": "全体新着",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-22T21:42:52+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13398509": {
+      "title": "スマホ用 無音2軸電動雲台（パン・チルト）の部品選定〜組み立て・調整 ※仕様書とプログラムは支給／部品代は先払い",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-22T23:54:38+00:00"
     }
   }
 }
