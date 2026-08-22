@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13377485": {
-      "title": "⭐【HubSpot】不動産領域におけるWebサイト・デジタル施策推進ディレクター業務案件⭐",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-08-12T10:30:07+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13350617": {
       "title": "【新規募集】htmlが組み上がっているサイトのcssコーディング（2026年7月31日）",
       "keyword": "CSS",
@@ -2999,6 +2993,12 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-08-22T03:51:02+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13377527": {
+      "title": "⭐【Webディレクション】Webディレクター業務案件⭐",
+      "keyword": "Webディレクター",
+      "priority": "高",
+      "notified_at": "2026-08-22T04:22:31+00:00"
     }
   }
 }
