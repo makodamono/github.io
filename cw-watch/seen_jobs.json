@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13377512": {
-      "title": "⭐【システムコンサルティング】AI駆動開発およびバックオフィス支援システム根本課題解決に向けたITコンサルタント案件⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-12T10:30:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13377504": {
-      "title": "⭐【Azure,GCP】生成AI活用BtoBプロダクトのマルチクラウド(Azure・GCP)移植・IaC化推進業務案件⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-12T10:30:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13377708": {
-      "title": "⭐【Python】AIエージェント開発リード業務案件⭐",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-12T11:23:11+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13377704": {
       "title": "⭐【Webディレクター・集客マーケティング】Web3.0関連新規サービスの集客マーケティング⭐",
       "keyword": "全体新着",
@@ -2999,6 +2981,24 @@
       "keyword": "Webディレクター",
       "priority": "高",
       "notified_at": "2026-08-22T06:55:23+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397991": {
+      "title": "SNSの投稿管理担当(AI使ってる方限定)",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-22T07:52:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397989": {
+      "title": "【ロゴ製作】AIサービスのロゴ製作をお願いいたします",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-22T07:52:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397962": {
+      "title": "【女性向けデザイン】美容・コスメ商品のLP制作｜デザイナー募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-22T07:52:32+00:00"
     }
   }
 }
