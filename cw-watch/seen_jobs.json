@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13377483": {
-      "title": "⭐【法人営業】デザイン・Web制作案件の新規リード獲得営業業務案件⭐",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-08-12T10:30:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13377527": {
-      "title": "⭐【Webディレクション】Webディレクター業務案件⭐",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-08-12T10:30:07+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13377485": {
       "title": "⭐【HubSpot】不動産領域におけるWebサイト・デジタル施策推進ディレクター業務案件⭐",
       "keyword": "Web",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-22T03:03:20+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397203": {
+      "title": "新しい子ども事業を展開する会社の名前募集",
+      "keyword": "Webサイト修正",
+      "priority": "高",
+      "notified_at": "2026-08-22T03:51:02+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13365878": {
+      "title": "🌻｜未経験OK◎｜20代におすすめ♪｜お出かけ好き歓迎｜この夏行ってみたい場所やおすすめスポットを書くライター募集｜継続あり｜",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-08-22T03:51:02+00:00"
     }
   }
 }
