@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13273363": {
-      "title": "広告クリエイティブディレクター・マーケティング募集｜企画・制作進行・動画ディレクション",
-      "keyword": "Webディレクター",
-      "priority": "高",
-      "notified_at": "2026-08-12T10:30:07+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13377520": {
       "title": "⭐【AI】Claudeを活用した業務自動化やAIエージェントの設計および構築業務案件⭐",
       "keyword": "AI",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-22T04:56:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397827": {
+      "title": "【Amazonストア構築のプロ募集】売上改善につなげる構成案〜デザイン制作・公開サポート◇Web制作",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-22T06:02:10+00:00"
     }
   }
 }
