@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13377157": {
-      "title": "😻美しさを整えたい20代へ。“ふわっと心が軽くなる美容投稿”をつくるデザイナーさん募集！！",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-12T10:30:07+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13377483": {
       "title": "⭐【法人営業】デザイン・Web制作案件の新規リード獲得営業業務案件⭐",
       "keyword": "ビジネスグループ",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-22T02:03:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397599": {
+      "title": "✨SNS運用に興味がある方向け✨AI×SNS運用｜SNSを駆使して「集客」につなげてくれる長期パートナー募集",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-22T03:03:20+00:00"
     }
   }
 }
