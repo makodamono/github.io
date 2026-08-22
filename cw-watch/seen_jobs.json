@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13377520": {
-      "title": "⭐【AI】Claudeを活用した業務自動化やAIエージェントの設計および構築業務案件⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-12T10:30:07+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13377513": {
-      "title": "⭐【TypeScript】音声×生成AIを活用した自社SaaSの0→1開発と組織づくりを牽引するテックリード業務案件⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-12T10:30:07+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13377512": {
       "title": "⭐【システムコンサルティング】AI駆動開発およびバックオフィス支援システム根本課題解決に向けたITコンサルタント案件⭐",
       "keyword": "AI",
@@ -2999,6 +2987,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-22T06:02:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397905": {
+      "title": "🤖AI活用人材の次のステージへ🤖単なる作業屋は卒業！プロンプト設計を活かしたSNS運用アシスタント募集！",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-22T06:55:23+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13273363": {
+      "title": "広告クリエイティブディレクター・マーケティング募集｜企画・制作進行・動画ディレクション",
+      "keyword": "Webディレクター",
+      "priority": "高",
+      "notified_at": "2026-08-22T06:55:23+00:00"
     }
   }
 }
