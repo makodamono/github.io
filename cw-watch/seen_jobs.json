@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13376620": {
-      "title": "【YouTube】チャンネルの立ち上げディレクター募集",
-      "keyword": "制作ディレクション",
-      "priority": "高",
-      "notified_at": "2026-08-12T09:20:45+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13377486": {
-      "title": "⭐【PM】AIを活用した新規恋愛DXアプリのデザインスパムリジェクト突破アドバイザリー業務案件⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-12T09:20:45+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13377480": {
-      "title": "⭐【カスタマーサクセス】生成AI教育サービスの運用設計業務案件⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-12T09:20:45+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13377402": {
-      "title": "【Illustrator入稿データ作成】Canvaで作成済みの展示会ブース壁面デザイン1面を.aiデータ化",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-12T09:20:45+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13377350": {
       "title": "⭐【フルスタックエンジニア】日本最大級の音声会話型AIアプリのフルスタック開発業務案件⭐",
       "keyword": "AI",
@@ -2999,6 +2975,30 @@
       "keyword": "Webディレクター",
       "priority": "高",
       "notified_at": "2026-08-21T23:54:14+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397406": {
+      "title": "【GAS】株価データを毎日スプレッドシートに自動記録するスクリプトの作成",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-22T00:36:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397415": {
+      "title": "【経験不問】「仕事の後、何してる？」をテーマにした記事制作のお仕事｜1本10,000円・AI活用OK",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-22T00:36:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13396506": {
+      "title": "⭐【マーケティング】新規・既存SaaSプロダクトのコンテンツマーケティング・施策アドバイザリー案件⭐",
+      "keyword": "LP",
+      "priority": "高",
+      "notified_at": "2026-08-22T00:36:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397147": {
+      "title": "【ゲーム事業】3DCGモデラー/モデリングの募集【Blender】（継続アリ）",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-08-22T00:36:35+00:00"
     }
   }
 }
