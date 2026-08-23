@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13238947": {
-      "title": "【長期歓迎】ドキュメンタリー調・対談動画の編集パートナー募集｜月2本〜・テロップ入力済み",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-08-13T04:29:10+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13378663": {
       "title": "【未経験OK】SNS広告の企画・台本制作に挑戦したい方募集",
       "keyword": "制作ディレクション",
@@ -2999,6 +2993,12 @@
       "keyword": "データ収集",
       "priority": "高",
       "notified_at": "2026-08-23T15:01:29+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13399553": {
+      "title": "【未経験OK】一人暮らしをして学んだこと￤20代のリアルな体験談を書いてくださるライターさん募集！",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-08-23T15:32:36+00:00"
     }
   }
 }
