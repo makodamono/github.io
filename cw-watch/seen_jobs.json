@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13378663": {
-      "title": "【未経験OK】SNS広告の企画・台本制作に挑戦したい方募集",
-      "keyword": "制作ディレクション",
-      "priority": "高",
-      "notified_at": "2026-08-13T04:29:10+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13378650": {
       "title": "【在宅ワーク】X投稿作成スタッフ｜1日5投稿程度・短時間作業",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-08-23T15:32:36+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13399710": {
+      "title": "【20代〜30代女性向け】美容・コスメLPのデザイン制作",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-23T18:54:15+00:00"
     }
   }
 }
