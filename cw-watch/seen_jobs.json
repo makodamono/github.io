@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13378412": {
-      "title": "【急募】事業用ドライバー向けテキスト作成募集",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-13T02:40:07+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13378804": {
       "title": "【急募】運転教材に使用するイラスト7枚を描いてください（シンプル画風）",
       "keyword": "全体新着",
@@ -2999,6 +2993,12 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-08-23T04:48:30+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13398904": {
+      "title": "ふるさと納税での楽天の商品ページ(デザイン作成)を作成できる方を探しています。※過去に作成したことある方のみ応募をお願いします。",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-23T05:14:40+00:00"
     }
   }
 }
