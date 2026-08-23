@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13377839": {
-      "title": "株式投資",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-12T13:38:11+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13377593": {
       "title": "【犬を飼っている方】ショート動画用の素材撮影していただける方を募集！スマホ撮影OK・顔出し不要・継続依頼あり",
       "keyword": "Webサイト",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-22T23:54:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13398655": {
+      "title": "キャンプ投稿についてのSNS収集をお願い致します",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-23T02:12:43+00:00"
     }
   }
 }
