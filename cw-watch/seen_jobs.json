@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13362514": {
-      "title": "SANYOグループ公式サイトのファーストビューに使用する動画の制作",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-08-13T04:29:10+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13238947": {
       "title": "【長期歓迎】ドキュメンタリー調・対談動画の編集パートナー募集｜月2本〜・テロップ入力済み",
       "keyword": "STUDIO",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-23T14:20:04+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13376335": {
+      "title": "【業務委託】AI技術を活用したSNSコンテンツ制作の効率化および運用パートナー募集",
+      "keyword": "データ収集",
+      "priority": "高",
+      "notified_at": "2026-08-23T15:01:29+00:00"
     }
   }
 }
