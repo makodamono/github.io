@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13377967": {
-      "title": "【LPデザイン/制作】女性用サプリメントの新規LPおよびLPO",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-13T04:29:10+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13377841": {
-      "title": "メイクレッスンモデル募集",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-08-13T04:29:10+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13377711": {
       "title": "🎨 Webデザイナー募集｜継続案件あり・パートナー3名募集！",
       "keyword": "Webサイト",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-23T10:34:41+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13399278": {
+      "title": "フランス語学習動画の文字起こし修正スタッフ募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-23T13:58:41+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13399370": {
+      "title": "【美容💄】美しさを整えたい20代へ。“ふわっと心が軽くなる美容投稿”をつくるデザイナーさん募集！！",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-23T13:58:41+00:00"
     }
   }
 }
