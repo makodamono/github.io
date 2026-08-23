@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13185603": {
-      "title": "【ebay経験者優遇】リサーチ業務♪在宅ワークや隙間時間に最適な作業です！",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-13T04:29:10+00:00"
-    },
     "https://crowdworks.jp/public/jobs/12884350": {
       "title": "【マニュアル完備・簡単】完全在宅・ 未経験者・主婦の方大歓迎！★海外ECサイト「イーベイ」の商品リサーチ作業★",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "制作ディレクション",
       "priority": "高",
       "notified_at": "2026-08-23T19:36:09+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13399764": {
+      "title": "☕｜20代におすすめ｜未経験OK◎｜休日にしていることやおすすめの過ごし方を書くライター募集｜継続あり｜",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-08-23T23:39:59+00:00"
     }
   }
 }
