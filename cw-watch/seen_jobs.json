@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13377711": {
-      "title": "🎨 Webデザイナー募集｜継続案件あり・パートナー3名募集！",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-08-13T04:29:10+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13362514": {
       "title": "SANYOグループ公式サイトのファーストビューに使用する動画の制作",
       "keyword": "Webサイト",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-08-23T13:58:41+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13399526": {
+      "title": "企業マスコットキャラクターを一緒に制作してくださる方を募集します【AI原案あり】",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-23T14:20:04+00:00"
     }
   }
 }
