@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13380313": {
-      "title": "【経験者歓迎】暗号資産・ブロックチェーン関連のニュース記事ライター募集",
-      "keyword": "WordPress",
-      "priority": "高",
-      "notified_at": "2026-08-14T03:28:18+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13380510": {
       "title": "＼ 「健康」をもっと分かりやすく、一緒に届けませんか？ ／",
       "keyword": "STUDIO",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-24T04:56:53+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13400799": {
+      "title": "【継続案件あり】採用サイトをSTUDIOでデザイン・実装できる方募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-24T05:31:52+00:00"
     }
   }
 }
