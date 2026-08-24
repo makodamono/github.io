@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13381274": {
-      "title": "【名古屋・対面・3.3万円】Webサイト3件の公開前セキュリティ最終レビュー",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-08-14T06:43:23+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13262806": {
-      "title": "YouTubeチャンネル運営の進捗管理のサポートをお任せします！",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-14T06:43:23+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13381506": {
-      "title": "新発売のラベルへの文字入れ",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-14T08:03:00+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13381463": {
-      "title": "⭐【WEBディレクション】Web制作(LP・バナー等)のディレクション業務案件⭐",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-08-14T08:03:00+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13045287": {
       "title": "YouTubeチャンネル運営の進捗管理のサポートをお任せします！",
       "keyword": "スプレッドシート",
@@ -2999,6 +2975,30 @@
       "keyword": "データ収集",
       "priority": "高",
       "notified_at": "2026-08-24T08:05:04+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401458": {
+      "title": "テスト",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-24T08:59:25+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401399": {
+      "title": "⭐【Python】VTuber向けAI Agent PoC開発(テックリード)業務案件⭐",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-24T08:59:25+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401288": {
+      "title": "【1作品10000円】登録者数9万人のYoutube感動朗読動画のシナリオライター募集【継続・長期契約あり】",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-24T08:59:25+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401236": {
+      "title": "⭐【Google Cloud】自社プロダクト・受託開発におけるインフラ/SREリードエンジニア案件⭐",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-24T08:59:25+00:00"
     }
   }
 }
