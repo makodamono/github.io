@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13382145": {
-      "title": "オリジナルシナリオをもとにした漫画制作のご依頼",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-08-15T03:40:41+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13381687": {
       "title": "在宅勤務OK！簡単な営業アシスタント業務をお願いします！",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-08-24T14:09:56+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401991": {
+      "title": "Gmailから情報を取得し、パワポに転記するAIサービス開発依頼",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-24T14:56:46+00:00"
     }
   }
 }
