@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13045287": {
-      "title": "YouTubeチャンネル運営の進捗管理のサポートをお任せします！",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-14T08:03:00+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13381496": {
-      "title": "【急募のため高単価!!】【1本1万2000円〜】YouTube広告動画の編集できる方募集",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-14T08:03:00+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13381460": {
-      "title": "⭐【Python】VTuber向けAI Agent PoC開発業務案件⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-14T08:03:00+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13381447": {
-      "title": "⭐【TypeScript/VoIP/WebRTC】レガシーな電話基盤と最先端音声AIをつなぐ音声リアルタイム通信基盤エンジニア⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-14T08:03:00+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13381446": {
       "title": "⭐【TypeScript】最先端音声AI×次世代SaaSプロダクトのコア開発(共通基盤・リファクタリング)案件⭐",
       "keyword": "AI",
@@ -2999,6 +2975,30 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-24T08:59:25+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401535": {
+      "title": "Amazon新規注文をメール・PC（Brave/Chrome）へ自動通知するシステム構築のお願い【リアルタイム通知希望】",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-24T09:45:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401502": {
+      "title": "LPデザイン制作のご依頼",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-24T09:45:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401495": {
+      "title": "急募！「ホームページ内容修正」のお仕事のお願い",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-24T09:45:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401489": {
+      "title": "⭐【Python】医療診断AIにおける画像解析・深層学習モデル開発業務案件⭐",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-24T09:45:35+00:00"
     }
   }
 }
