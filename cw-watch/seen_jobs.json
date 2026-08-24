@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13380341": {
-      "title": "新規事業の立ち上げメンバー募集｜SNSデザイン制作アシスタント",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-14T03:28:18+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13380606": {
-      "title": "SNS運用を仕事に活かしたい方へ！未経験から実践経験を積めるお仕事です。",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-14T03:28:18+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13380474": {
       "title": "【美容系LPデザイナー募集】Photoshop必須｜女性向けLP制作経験者歓迎｜継続案件あり",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "ジャンル:Webディレクション/サイト制作ディレクション",
       "priority": "高",
       "notified_at": "2026-08-24T03:14:44+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13400107": {
+      "title": "【マニュアルあり】Instagram運用のお手伝い｜在宅でできるサポート業務",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-24T04:07:07+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13400498": {
+      "title": "Instagramリサーチ✖️投稿作成☁️ |20代ライフスタイル（AIの使用OK！）",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-24T04:07:07+00:00"
     }
   }
 }
