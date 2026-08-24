@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13381446": {
-      "title": "⭐【TypeScript】最先端音声AI×次世代SaaSプロダクトのコア開発(共通基盤・リファクタリング)案件⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-14T08:03:00+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13381445": {
-      "title": "⭐【TypeScript】最先端音声AI×次世代SaaSプロダクトの開発組織責任者(EM/VPoE候補)案件⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-14T08:03:00+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13381635": {
       "title": "急募！15日16日動ける方、募集！",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-24T09:45:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401610": {
+      "title": "【タクシー会社 採用LPリニューアル制作】経験者募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-24T10:23:08+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401573": {
+      "title": "超軽量・鉄鍋フライパンのLP・動画用 スチール＆動画撮影カメラマン募集（日給1万円＋交通費全額支給）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-24T10:23:08+00:00"
     }
   }
 }
