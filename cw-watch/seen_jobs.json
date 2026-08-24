@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13380510": {
-      "title": "＼ 「健康」をもっと分かりやすく、一緒に届けませんか？ ／",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-08-14T03:28:18+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13380784": {
-      "title": "事務業務のお手伝いいただける方募集🌷（資料作成や進捗管理）副業でOK/完全リモート/20代女性歓迎✨",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-14T03:28:18+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13380405": {
       "title": "【初心者・主婦大歓迎!】在宅で1件2～4分でできるPR会社の営業メール代行！",
       "keyword": "スプレッドシート",
@@ -2999,6 +2987,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-24T05:31:52+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13400940": {
+      "title": "＼AIスキルを単発で終わらせない！／企画力を磨くSNS運用パートナー募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-24T06:06:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13400774": {
+      "title": "【料理好き歓迎】自炊やお弁当作りの思い出を書くライティング案件✨",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-08-24T06:06:33+00:00"
     }
   }
 }
