@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13380474": {
-      "title": "【美容系LPデザイナー募集】Photoshop必須｜女性向けLP制作経験者歓迎｜継続案件あり",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-14T03:28:18+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13380313": {
       "title": "【経験者歓迎】暗号資産・ブロックチェーン関連のニュース記事ライター募集",
       "keyword": "WordPress",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-24T04:07:07+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13400698": {
+      "title": "⭐【FDE】国産LLM活用AIプロダクト導入推進業務案件⭐",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-24T04:56:53+00:00"
     }
   }
 }
