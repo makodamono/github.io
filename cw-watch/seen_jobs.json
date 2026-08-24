@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13381635": {
-      "title": "急募！15日16日動ける方、募集！",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-14T09:16:40+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13381816": {
-      "title": "会社の名刺のデザインをお願いいたします。",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-14T11:10:58+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13382001": {
       "title": "【WordPress】教育系Webサイトのリニューアル・情報ポータル化／既存サイト活用",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-24T10:23:08+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401693": {
+      "title": "【継続依頼あり】業務自動化・システム改善をお願いできる方募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-24T11:00:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401576": {
+      "title": "超軽量・鉄鍋フライパンの調理レシピ開発＆調理スタッフ募集（日給1万円＋交通費全額支給）",
+      "keyword": "LP",
+      "priority": "高",
+      "notified_at": "2026-08-24T11:00:11+00:00"
     }
   }
 }
