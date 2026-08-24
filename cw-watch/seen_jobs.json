@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13382498": {
-      "title": "設立50周年記念Tシャツ 背面デザインの募集！",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-15T03:40:41+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13358325": {
       "title": "Webディレクターの募集",
       "keyword": "CSS",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-24T16:05:21+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401746": {
+      "title": "【プログラミング経験者歓迎】IT・プログラミングに関する記事ライター募集！",
+      "keyword": "Web制作",
+      "priority": "高",
+      "notified_at": "2026-08-24T16:50:42+00:00"
     }
   }
 }
