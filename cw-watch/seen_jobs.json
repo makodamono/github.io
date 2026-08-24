@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13358325": {
-      "title": "Webディレクターの募集",
-      "keyword": "CSS",
-      "priority": "高",
-      "notified_at": "2026-08-15T04:07:26+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13357235": {
       "title": "【HP制作、LP制作、制作ディレクション経験者】のWebサイト制作者（フロントエンド／デザイナー）を募集します。",
       "keyword": "Webサイト制作",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作",
       "priority": "高",
       "notified_at": "2026-08-24T16:50:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13402139": {
+      "title": "【1曲3000円】ショート動画用の3分程度のオリジナルBGM制作",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-24T17:49:53+00:00"
     }
   }
 }
