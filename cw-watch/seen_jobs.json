@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13381687": {
-      "title": "在宅勤務OK！簡単な営業アシスタント業務をお願いします！",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-15T03:40:41+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13382409": {
       "title": "📺｜1記事3,000円〜｜ドラマ好き歓迎｜経験がなくてもOK◎｜好きな作品やおすすめのドラマを書くライター募集｜継続あり｜",
       "keyword": "ChatGPT",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-24T14:56:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13402032": {
+      "title": "【未経験OK】20代向け休日にゆっくりしたいカフェの記事ライター募集☕️",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-24T15:30:19+00:00"
     }
   }
 }
