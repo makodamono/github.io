@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13385727": {
-      "title": "GASで作った売上自動入力ツールが途中で止まらない様に修正して頂けませんか【csv→スプシ※データ膨大】",
-      "keyword": "GAS",
-      "priority": "高",
-      "notified_at": "2026-08-17T04:12:33+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13385481": {
-      "title": "【継続業務　月15,000円以上】求人サイトの原稿更新から実績入力作業",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-17T04:12:33+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13385892": {
-      "title": "学習アプリの画面推移に関してのアイデア出し",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-08-17T04:12:33+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13381368": {
-      "title": "【初心者・未経験OK】Threads・Instagram・TikTokを活用したSNS運用メンバー募集 | 在宅OK",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-17T04:12:33+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13385959": {
       "title": "【継続案件あり】2コママンガのセリフ・シナリオ作成！キャラ設定＆過去作あり",
       "keyword": "スプレッドシート",
@@ -2999,6 +2975,30 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-25T04:19:37+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13403187": {
+      "title": "⭐【PdM】AI活用HR領域新規プロダクト開発(PdM)業務案件⭐",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-25T04:58:03+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13403178": {
+      "title": "⭐【プロダクトエンジニア】自社プロダクトのAI駆動開発のスループットを最大化する自動検証基盤構築⭐",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-25T04:58:03+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13402898": {
+      "title": "30秒程度のオリジナル楽曲制作をお願いします",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-08-25T04:58:03+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13402536": {
+      "title": "【長期募集】営業事務・営業サポート｜一都三県に通勤可能な方歓迎",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-25T04:58:03+00:00"
     }
   }
 }
