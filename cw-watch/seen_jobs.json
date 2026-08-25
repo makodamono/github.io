@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13383495": {
-      "title": "【データ収集】ハローワーク・Indeed求人情報から都内工場リスト作成",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-16T11:41:52+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13384248": {
-      "title": "【未経験OK！】自分をご機嫌にする「毎日のモーニング＆ナイトルーティン」note記事作成案件🌅✨",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-08-16T13:10:26+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13384273": {
-      "title": "ECサイトの画像編集担当スタッフ募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-16T13:42:08+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13384418": {
-      "title": "【indeed/Airワーク運用】",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-16T14:45:38+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13384401": {
       "title": "【Instagram投稿作成】カフェを紹介するお仕事！未経験可　継続あり！",
       "keyword": "Web制作グループ",
@@ -2999,6 +2975,30 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-24T23:48:31+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13402155": {
+      "title": "【1本8000円・量より質重視、副業さん歓迎】ラブコメ/悪役/いい話シナリオライターさん募集【継続案件】",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-25T00:01:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13383770": {
+      "title": "カフェのホームページ制作、デザインで実績作ってみませんか？気軽にご相談ください！",
+      "keyword": "ホームページ制作",
+      "priority": "高",
+      "notified_at": "2026-08-25T00:01:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13267285": {
+      "title": "レコーディングスタジオのHP作成",
+      "keyword": "Webサイト制作",
+      "priority": "高",
+      "notified_at": "2026-08-25T00:01:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13383968": {
+      "title": "整体院HPの改修｜HTML・レスポンシブ対応・店舗ページ追加・Google口コミ連携",
+      "keyword": "CSS",
+      "priority": "高",
+      "notified_at": "2026-08-25T00:01:39+00:00"
     }
   }
 }
