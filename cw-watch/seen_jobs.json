@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13381068": {
-      "title": "【継続あり】ブランドサイトのTOPページデザイン",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-17T04:12:33+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13381479": {
-      "title": "【報酬2万円・簡単】漫画コレクター・漫画好きの書店員の方募集｜漫画グッズの商品監修・推薦コメント",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-08-17T04:12:33+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13385727": {
       "title": "GASで作った売上自動入力ツールが途中で止まらない様に修正して頂けませんか【csv→スプシ※データ膨大】",
       "keyword": "GAS",
@@ -2999,6 +2987,18 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-08-25T03:32:20+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13403146": {
+      "title": "【WEB関連のライター】LPや広告バナーなどの文章作成サポート",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-25T04:19:37+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13403139": {
+      "title": "【ベースデザインあり】店舗ガラス用デザインの調整・Illustrator入稿データ作成",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-25T04:19:37+00:00"
     }
   }
 }
