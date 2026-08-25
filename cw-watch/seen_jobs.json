@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13385845": {
-      "title": "【未経験可！法人営業または人材紹介経験者歓迎】CA・RA業務｜AI×IT事業の営業パートナー募集（長期案件）",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-17T07:12:18+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13385847": {
       "title": "【Webセールス経験者求む】メディア出演多数の有名スクール販売★月50万可/報酬補填あり/完全在宅",
       "keyword": "AI",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-08-25T14:11:48+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13404788": {
+      "title": "【1曲1,500円】ショート動画用２分程度のオリジナルBGM制作",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-25T21:45:12+00:00"
     }
   }
 }
