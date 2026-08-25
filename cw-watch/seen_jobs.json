@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13385803": {
-      "title": "【成長事業で営業に挑戦したい方募集】AI×IT×人材紹介｜営業経験者歓迎",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-08-17T07:12:18+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13202940": {
       "title": "【フリーランス・独立予定の方】採用戦略～実行まで｜採用コンサルタント募集（業務委託／フルリモート）",
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-25T22:56:30+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13404575": {
+      "title": "【20代限定/美容好き×Webデザイン💄】コスメの世界観を形に♪美容系Webデザイナー募集",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-25T23:17:44+00:00"
     }
   }
 }
