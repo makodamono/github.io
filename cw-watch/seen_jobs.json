@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13208885": {
-      "title": "【初心者OK】SNS発信にも力を入れるカフェブランド立ち上げ｜デザインメンバー募集",
-      "keyword": "ランディングページ制作",
-      "priority": "高",
-      "notified_at": "2026-08-18T03:04:56+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13388350": {
       "title": "AIを活用した漫画制作",
       "keyword": "Web",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-26T12:06:16+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13406926": {
+      "title": "スキルより\"やる気\"重視🚃｜推し活の合間の旅先診断LP作成",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-26T13:10:59+00:00"
     }
   }
 }
