@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13387454": {
-      "title": "【未経験OK】20代会社員向け￤副業を始めたいと思ったきっかけを書いてみませんか？",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-18T02:03:22+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13280185": {
       "title": "【カット・テロップ調整のみ】海外動画まとめ編集者募集｜かんたん編集",
       "keyword": "AI",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-26T08:46:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13406429": {
+      "title": "社内プラットフォームの作成",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-26T09:25:38+00:00"
     }
   }
 }
