@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13280185": {
-      "title": "【カット・テロップ調整のみ】海外動画まとめ編集者募集｜かんたん編集",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-18T02:03:22+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13388294": {
-      "title": "【完全在宅】チャットサポートスタッフ｜未経験OK｜マニュアル完備・長期歓迎",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-18T03:04:56+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13388256": {
       "title": "【UTAGE】LP制作・動画視聴ページ構築",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-08-26T09:25:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13406704": {
+      "title": "【AI素材生成】参考動画をもとに素材を作れる方募集｜1本1,000円（税込）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-26T10:04:31+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13406583": {
+      "title": "【継続案件あり】2コママンガのセリフ・シナリオ作成！キャラ設定＆過去作あり",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-26T10:04:31+00:00"
     }
   }
 }
