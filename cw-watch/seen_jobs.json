@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13382083": {
-      "title": "🍃頑張る人に届けたい、日頃の疲れを癒す自然スポットの投稿デザイン募集！",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-18T00:36:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13386936": {
-      "title": "【今のままでいいのか感じている・20〜30代会社員の方向け】学び直し・自己投資テーマのSNS画像を作ってくれるデザイナー募集",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-08-18T00:36:37+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13388236": {
       "title": "【Webコーダー募集】Webサイト下層ページ・TOPページのコーディング",
       "keyword": "全体新着",
@@ -2999,6 +2987,18 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-08-26T05:02:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13405966": {
+      "title": "PDFデータからスプレッドシートへの転記作業",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-26T05:44:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13405847": {
+      "title": "AIを活用した営業",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-26T05:44:35+00:00"
     }
   }
 }
