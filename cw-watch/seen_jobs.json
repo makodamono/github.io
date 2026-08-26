@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13364626": {
-      "title": "【長期/経験者優遇】Webディレクションをお願いできる方を募集",
-      "keyword": "HTML・CSS",
-      "priority": "高",
-      "notified_at": "2026-08-18T03:04:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13388309": {
-      "title": "【SNS運用に興味がある方向け】AI×SNS運用｜SNSを駆使して「集客」につなげてくれる長期パートナー募集",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-18T03:04:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13388561": {
-      "title": "FDE（Forward Deployed Engineer) 募集/フルリモ/長期契約あり",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-18T04:24:49+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13388494": {
       "title": "Canvaを使った実務に挑戦！未経験からSNS運用の経験を積めるお仕事です。",
       "keyword": "Web制作グループ",
@@ -2999,6 +2981,24 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-26T14:02:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13378719": {
+      "title": "【働く人歓迎】仕事に疲れた人向け情報｜Instagram投稿（フィード投稿）デザイン制作（Canva・テンプレあり）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-26T14:56:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13407103": {
+      "title": "【月1万円・継続あり】AIエージェントを活用した業務効率化サポート",
+      "keyword": "GAS",
+      "priority": "高",
+      "notified_at": "2026-08-26T14:56:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/12780293": {
+      "title": "【高単価！ボーナス有！1本/4,000円】日本食や日本文化に関するyoutubeシナリオライター様募集(*^▽^*)",
+      "keyword": "GAS自動化",
+      "priority": "高",
+      "notified_at": "2026-08-26T14:56:32+00:00"
     }
   }
 }
