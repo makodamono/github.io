@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13388494": {
-      "title": "Canvaを使った実務に挑戦！未経験からSNS運用の経験を積めるお仕事です。",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-18T04:24:49+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13387679": {
-      "title": "【これからチャレンジしたい20代の方歓迎🌍✨】旅行好きなライター募集♪｜継続あり◎",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-08-18T04:24:49+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13388459": {
-      "title": "【1本1.5万円】漫画広告動画の編集（1分／継続あり／素材支給）",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-18T04:24:49+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13388346": {
       "title": "【1本3000円〜】YouTubeスカッと×恋愛系漫画動画のシナリオライター様募集！【長期継続】",
       "keyword": "AI",
@@ -2999,6 +2981,24 @@
       "keyword": "GAS自動化",
       "priority": "高",
       "notified_at": "2026-08-26T14:56:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13407165": {
+      "title": "会社紹介資料の作成をお願いします。",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-26T16:10:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13406414": {
+      "title": "【未経験OK】人の心を動かすWEBマーケッター募集",
+      "keyword": "制作ディレクション",
+      "priority": "高",
+      "notified_at": "2026-08-26T16:10:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13407192": {
+      "title": "【データ検索収集】占い師に関しての簡単検索",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-26T16:10:38+00:00"
     }
   }
 }
