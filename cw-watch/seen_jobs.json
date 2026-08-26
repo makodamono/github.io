@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13364504": {
-      "title": "【S歯科：コーディング依頼】 デザインのみOK／静的コーディングまでできる方大歓迎です！",
-      "keyword": "ランディングページ制作",
-      "priority": "高",
-      "notified_at": "2026-08-18T03:04:56+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13208885": {
       "title": "【初心者OK】SNS発信にも力を入れるカフェブランド立ち上げ｜デザインメンバー募集",
       "keyword": "ランディングページ制作",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-08-26T11:14:14+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401648": {
+      "title": "【在宅作業】写真の加工がお好きな方にオススメのお仕事です！",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-26T12:06:16+00:00"
     }
   }
 }
