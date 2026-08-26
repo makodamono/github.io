@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13388350": {
-      "title": "AIを活用した漫画制作",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-08-18T03:04:56+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13364626": {
       "title": "【長期/経験者優遇】Webディレクションをお願いできる方を募集",
       "keyword": "HTML・CSS",
@@ -2999,6 +2993,12 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-08-26T13:10:59+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/12785932": {
+      "title": "【文字単価3円】金融実務経験者向けWebライター募集｜税務・投資・保険案件中心",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-26T14:02:10+00:00"
     }
   }
 }
