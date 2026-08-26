@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13387775": {
-      "title": "【20代メンバー活躍中】「こんなカフェ行ってみたい！」をWebでつくる。店舗ホームページ制作スタッフ募集",
-      "keyword": "リサーチ",
-      "priority": "高",
-      "notified_at": "2026-08-17T23:55:03+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13388019": {
-      "title": "【Webサイト構築】東京のタイ料理店検索サービス「THAI SPOT TOKYO」MVP制作",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-18T00:36:37+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13382083": {
       "title": "🍃頑張る人に届けたい、日頃の疲れを癒す自然スポットの投稿デザイン募集！",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-26T04:22:03+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13405264": {
+      "title": "会社と事業のキャラクター作成（２点）",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-08-26T05:02:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13405672": {
+      "title": "【マニュアル完備 / 単純作業】SNS発信者のリストアップをお願いいたします！",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-08-26T05:02:35+00:00"
     }
   }
 }
