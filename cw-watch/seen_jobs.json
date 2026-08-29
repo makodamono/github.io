@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13392298": {
-      "title": "【リモート】スキルアップ希望＆稼ぎたい方大募集！業界最高の還元率でのアポインター募集　最先端のサービスを販売したい方",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-08-20T00:36:46+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13392322": {
       "title": "【完全フルリモート＆インハウス】業界最高の還元率でアポインター募集！独立された方もいますのでスキルアップ希望＆稼ぎたい方もOK",
       "keyword": "ホームページ",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-08-29T17:10:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13386811": {
+      "title": "[複数人採用あり] 体験型エンターテイメントのLP作成: 説明文章/KV/コピー提案",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-08-29T19:43:31+00:00"
     }
   }
 }
