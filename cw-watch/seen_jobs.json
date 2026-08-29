@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13392002": {
-      "title": "■8/27 午前■ホームページの出演モデル様募集【30分 5,000円】",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-08-20T00:36:46+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13392451": {
-      "title": "【 ※急募※ 経験者歓迎 】Web検索で情報収集＆リスト作成・DM送信｜1,000件",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-08-20T00:36:46+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13392460": {
       "title": "【完全在宅/未経験OK】ネットから情報を集めるだけ！リスト作成業務",
       "keyword": "スプレッドシート",
@@ -2999,6 +2987,18 @@
       "keyword": "ホームページ制作",
       "priority": "高",
       "notified_at": "2026-08-29T21:58:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13370927": {
+      "title": "【Canva使用OK・構成支給あり】セルフネイル情報を発信するSNS投稿デザイン制作パートナー募集🌸",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-29T23:53:31+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13392322": {
+      "title": "【完全フルリモート＆インハウス】業界最高の還元率でアポインター募集！独立された方もいますのでスキルアップ希望＆稼ぎたい方もOK",
+      "keyword": "ホームページ制作",
+      "priority": "高",
+      "notified_at": "2026-08-29T23:53:31+00:00"
     }
   }
 }
