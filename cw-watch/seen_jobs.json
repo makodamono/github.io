@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13392131": {
-      "title": "簡単なリストの統合と整備【1件5円〜1000~5000件あり/継続的に発注可能】",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-19T10:05:02+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13392105": {
-      "title": "【フルリモート】人事評価システム（カオナビ・HRBrain等）の設定担当メンバー募集！（長期・プロジェクト制）",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-19T10:05:02+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13392078": {
       "title": "【Instagram投稿作成】カフェを紹介するお仕事！未経験可　継続あり！",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
       "priority": "高",
       "notified_at": "2026-08-28T16:54:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13391879": {
+      "title": "【LPデザイン】牡蠣小屋のランディングページ制作をお願いできる方募集（飲食店）",
+      "keyword": "ランディングページ制作",
+      "priority": "高",
+      "notified_at": "2026-08-29T00:48:20+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13412859": {
+      "title": "【未経験OK！】戸建て・持ち家にお住まいの方限定！簡単なアンケートに回答をしていただける方を募集しています【200円！】",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-29T00:48:20+00:00"
     }
   }
 }
