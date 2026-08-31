@@ -1,101 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13394677": {
-      "title": "【美容好きな方へ✨】“キレイになりたい”を後押しする｜美容系Webデザイン制作",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-20T23:42:33+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13394686": {
-      "title": "【カフェ好き必見☕】“行ってみたい”をデザインする｜カフェのWebデザイン制作",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-20T23:42:33+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13394944": {
-      "title": "話題の美容アイテムを紹介するInstagramデザイナー｜canva使用可",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-21T00:01:04+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13373952": {
-      "title": "LP作成",
-      "keyword": "LP作成",
-      "priority": "高",
-      "notified_at": "2026-08-21T00:01:04+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13394995": {
-      "title": "WordPress CMS開発・カスタマイズ｜実務経験者募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-21T01:52:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13394761": {
-      "title": "HPのトップページをリニューアルしてくださる方募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-21T01:52:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13395243": {
-      "title": "【Canva】継続依頼｜簡易LPデザイン制作",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-21T01:52:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13395102": {
-      "title": "【映えグルメ✨】Instagram投稿デザイン制作（canva）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-21T01:52:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13394799": {
-      "title": "【継続案件◎】花や緑に囲まれる都内ボタニカルカフェのSNS投稿デザイン募集🌼🌿",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-21T01:52:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13395012": {
-      "title": "【高単価：15万円】美容・健康・スキンケアの記事LPライター募集【実績者限定】",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-08-21T01:52:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13394882": {
-      "title": "恋愛マンガのネーム制作パートナー募集",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-08-21T01:52:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13394640": {
-      "title": "レベニューシェア型｜Youtube Shortsディレクター募集（アイドル系切り抜きチャンネル）/未経験OK！　",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-08-21T01:52:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13394008": {
-      "title": "【文字単価3円！！】2chスカッとショート動画のシナリオ作成者様を募集します【主婦・副業大歓迎】【継続案件】",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-21T01:52:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13391108": {
-      "title": "【9/19〜10/4短期】国際スポーツイベント関連・公式Xのリアルタイム運用補助スタッフ募集",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-08-21T01:52:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13394285": {
-      "title": "【人脈を活かせる | 営業対応不要】企業向けAI研修の紹介パートナー募集",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-08-21T01:52:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13394951": {
-      "title": "AI組込み経験のあるエンジニアの方募集",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-21T01:52:36+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13395001": {
       "title": "経験5年以上のフリーランスエンジニア募集",
       "keyword": "AI",
@@ -2999,6 +2903,102 @@
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
       "priority": "高",
       "notified_at": "2026-08-31T06:23:28+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13418734": {
+      "title": "【大至急／即日対応優先／メンバー増員】STUDIOホームページ制作｜トップページ・お問い合わせ部分の実装",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-31T23:47:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13418335": {
+      "title": "【グルメ好き歓迎】OL向けランチ食堂紹介｜Instagram投稿（フィード投稿）デザイン（Canva・テンプレあり）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-31T23:47:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13418085": {
+      "title": "サイトリニューアルのお願い",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-31T23:47:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13418084": {
+      "title": "【継続あり】「次の休み、どこ行こう？」を考えるのが好きな方へ",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-31T23:47:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13418082": {
+      "title": "サイトリニューアル",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-31T23:47:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13418075": {
+      "title": "新規サイトの制作ディレクション",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-31T23:47:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13418036": {
+      "title": "【✈️旅行好き必見！】「ホテル探しが楽しい」が仕事になる！canva使用可能✨",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-31T23:47:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13418028": {
+      "title": "【Webデザイン】カフェのフィード投稿",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-31T23:47:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13417727": {
+      "title": "未経験から実務にチャレンジ！SNS運用の経験を積みながら成長できるお仕事です。",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-08-31T23:47:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13417796": {
+      "title": "⭐【WEBディレクション】Web制作(LP・バナー等)のディレクション業務案件⭐",
+      "keyword": "LP",
+      "priority": "高",
+      "notified_at": "2026-08-31T23:47:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13418827": {
+      "title": "✈️｜20代におすすめ｜未経験OK◎｜旅行好きな方へ｜行ってみたい場所やおすすめの旅行先を紹介するライター募集｜継続あり｜",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-08-31T23:47:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13418279": {
+      "title": "【未経験OK】仕事終わりの過ごし方をテーマにした記事ライター募集｜AI利用可・1本10,000円",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-08-31T23:47:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13418329": {
+      "title": "20代におすすめ◎未経験OK！「自分の大事な時間」をテーマにしたライティング｜AI使用OK◎",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-31T23:47:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13418777": {
+      "title": "【長期継続歓迎】アニメ系YouTubeショート動画を編集いただける方を募集します　",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-31T23:47:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13418639": {
+      "title": "【未経験OK】20代向け社会人3年目になって考え始めたこと￤リアルな経験を記事にしませんか🌿",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-08-31T23:47:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13360027": {
+      "title": "【医療従事者歓迎】AI活用・業務効率化サポート（事務・資料作成）",
+      "keyword": "AI活用",
+      "priority": "高",
+      "notified_at": "2026-08-31T23:47:19+00:00"
     }
   }
 }
