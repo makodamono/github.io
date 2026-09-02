@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13398843": {
-      "title": "AIエンジニア / DXエンジニア （AIシステム構築・業務自動化・業務改善コンサルティング）募集！（フルタイム）",
-      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
-      "priority": "高",
-      "notified_at": "2026-08-24T02:10:16+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13397879": {
-      "title": "人材会社の業務改善システム開発｜要件定義〜開発・初期設定まで",
-      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
-      "priority": "高",
-      "notified_at": "2026-08-24T02:10:16+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13400452": {
-      "title": "BtoB専門WebメディアのSEO・AIO対策によるWebメディア成長支援パートナー募集",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-24T03:14:44+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13400344": {
       "title": "【本日対応希望】完成済みLPデザインのWeb実装・画像差し替え・公開作業",
       "keyword": "Web制作グループ",
@@ -2999,6 +2981,24 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-02T13:03:56+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13404538": {
+      "title": "【継続あり/STUDIO】LPのデザイン制作",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-09-02T17:07:06+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397176": {
+      "title": "【共感できる方歓迎】人の顔色を気にしてしまう人向け｜Instagram投稿（フィード投稿作）デザイン（Canva・テンプレあり）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-09-02T17:07:06+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13198817": {
+      "title": "【日給20,000円〜・全国出張撮影】ショート動画撮影",
+      "keyword": "Google Apps Script",
+      "priority": "高",
+      "notified_at": "2026-09-02T17:07:06+00:00"
     }
   }
 }
