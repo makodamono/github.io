@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13400344": {
-      "title": "【本日対応希望】完成済みLPデザインのWeb実装・画像差し替え・公開作業",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-24T03:14:44+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13400371": {
       "title": "競馬好き必見！重賞の考察記事作成ができる方！",
       "keyword": "AI",
@@ -2999,6 +2993,12 @@
       "keyword": "Google Apps Script",
       "priority": "高",
       "notified_at": "2026-09-02T17:07:06+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13424553": {
+      "title": "【未経験OK！】「自分らしさ」を取り戻す！「自分にご褒美をあげるおこもりホテルステイ旅」note記事作成案件🛋️✨",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-09-02T22:00:17+00:00"
     }
   }
 }
