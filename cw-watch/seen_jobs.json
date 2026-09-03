@@ -1,59 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13401791": {
-      "title": "WordPress入稿】note・既存HPの記事移設作業／約75記事／画像・公開日・レイアウト調整含む",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-24T12:24:49+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13401745": {
-      "title": "【未経験OK！】車でサクッとリフレッシュ「絶景＆グルメを巡る日帰りドライブ旅」note記事作成案件🚗✨",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-08-24T12:24:49+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13401941": {
-      "title": "【指定サイトのコピー + 一部内容変更】自社のSTUDIOで作成ホームページに、新規ページ・CMSを追加し、自社メディアの作成",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-24T14:09:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13401883": {
-      "title": "【WooCommerce】ポップアップ及び調メールシステムの連携",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-24T14:09:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13401881": {
-      "title": "💊医療職の“働き方の悩み”に寄り添うフィード投稿を一緒につくりませんか？？",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-24T14:09:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13401991": {
-      "title": "Gmailから情報を取得し、パワポに転記するAIサービス開発依頼",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-24T14:56:46+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13402032": {
-      "title": "【未経験OK】20代向け休日にゆっくりしたいカフェの記事ライター募集☕️",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-08-24T15:30:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13402097": {
-      "title": "【宿泊・旅行系LP制作】兵庫県のプライベートヴィラLPデザイナー募集｜継続あり",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-08-24T16:05:21+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13401746": {
-      "title": "【プログラミング経験者歓迎】IT・プログラミングに関する記事ライター募集！",
-      "keyword": "Web制作",
-      "priority": "高",
-      "notified_at": "2026-08-24T16:50:42+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13402139": {
       "title": "【1曲3000円】ショート動画用の3分程度のオリジナルBGM制作",
       "keyword": "全体新着",
@@ -2999,6 +2945,60 @@
       "keyword": "データ収集",
       "priority": "高",
       "notified_at": "2026-09-03T06:49:01+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13426527": {
+      "title": "どのような方でもご応募お待ちしております！実績作り、カフェのホームページ制作",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-09-03T11:45:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13426523": {
+      "title": "ウェブサイトの新規コーディング",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-09-03T11:45:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13426461": {
+      "title": "【報酬15,000円】ベビーゲートの商品監修・推奨にご協力いただける保育士さん募集",
+      "keyword": "ビジネスグループ",
+      "priority": "高",
+      "notified_at": "2026-09-03T11:45:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13426740": {
+      "title": "大阪府守口市で社長と事務所の写真の撮影依頼（9月16日15時～）",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-09-03T11:45:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401693": {
+      "title": "【継続依頼あり】業務自動化・システム改善をお願いできる方募集",
+      "keyword": "GAS",
+      "priority": "高",
+      "notified_at": "2026-09-03T11:45:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13426604": {
+      "title": "【在宅・手書き】封筒300枚／宛名＋約50文字の一言記入／往復送料別途支給",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-09-03T11:45:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13426884": {
+      "title": "【急募】線画イラストのIllustratorデータ化・印刷用版下作成【1色／W200×H200mm】",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-03T11:45:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13426873": {
+      "title": "【歯科医院のチラシデザイン制作】清潔感・信頼感のあるデザインが得意な方募集",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-03T11:45:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13426553": {
+      "title": "💡プロンプト設計は武器になる！AI×SNSで市場を動かす仕事に挑戦💡SNSコンテンツAIパートナー募集",
+      "keyword": "AI活用",
+      "priority": "高",
+      "notified_at": "2026-09-03T11:45:19+00:00"
     }
   }
 }
