@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13388236": {
-      "title": "【Webコーダー募集】Webサイト下層ページ・TOPページのコーディング",
-      "keyword": "CSS",
-      "priority": "高",
-      "notified_at": "2026-08-26T07:12:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13405846": {
       "title": "【継続】AI×SNSマーケティング戦略パートナー募集｜集客導線設計",
       "keyword": "ディレクション",
@@ -2999,6 +2993,12 @@
       "keyword": "Webディレクター",
       "priority": "高",
       "notified_at": "2026-09-06T18:23:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13406135": {
+      "title": "⭐【HTML】車載機器ブランドのWeb制作・マーケティング運用支援業務案件⭐",
+      "keyword": "Webサイト制作",
+      "priority": "高",
+      "notified_at": "2026-09-06T20:34:13+00:00"
     }
   }
 }
