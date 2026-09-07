@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13409934": {
-      "title": "【コーヒー好き歓迎】コーヒーが美味しいカフェ紹介｜Instagram投稿（フィード投稿作成）デザイン（Canva・テンプレあり）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-08-27T20:47:59+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13409854": {
       "title": "ダンス教室 イベント　チラシ",
       "keyword": "STUDIO",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-07T18:23:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13436168": {
+      "title": "アイドル曲の編曲",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-09-07T21:38:35+00:00"
     }
   }
 }
