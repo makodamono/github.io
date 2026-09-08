@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13413828": {
-      "title": "WEBサービスのInstagram投稿クリエイティブ制作",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-08-29T13:16:57+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13287141": {
-      "title": "【LP制作】歯科クリニックのランディングページ制作をお願いできる方募集（継続あり）",
-      "keyword": "ランディングページ制作",
-      "priority": "高",
-      "notified_at": "2026-08-29T13:16:57+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13392434": {
       "title": "【継続案件あり！】Web制作をヒアリング〜納品まで一貫して対応できる方を募集してます！",
       "keyword": "ホームページ制作",
@@ -2999,6 +2987,18 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-09-08T18:34:21+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13439621": {
+      "title": "🍴｜20代におすすめ｜未経験OK◎｜美味しいものが好きな方へ｜好きなグルメやおすすめのお店について書くライター募集｜継続あり｜",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-09-08T23:29:19+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13439501": {
+      "title": "【未経験OK】20代毎日整えるルーティンを書いてみませんか？☀️",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-08T23:29:19+00:00"
     }
   }
 }
