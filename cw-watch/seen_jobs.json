@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13419960": {
-      "title": "出張買取LPの作成をお願いできる方を募集｜専用ツール使用・継続案件あり",
-      "keyword": "LP作成",
-      "priority": "高",
-      "notified_at": "2026-09-01T07:43:32+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13396495": {
-      "title": "⭐【WEBマーケティング】新AIプロダクトのBtoBマーケティング業務案件⭐",
-      "keyword": "LP改善",
-      "priority": "高",
-      "notified_at": "2026-09-01T07:43:32+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13419985": {
       "title": "【完全フルリモート＆インハウス】業界最高の還元率でアポインター募集！独立された方もいますのでスキルアップ希望＆稼ぎたい方もOK",
       "keyword": "ホームページ",
@@ -2999,6 +2987,18 @@
       "keyword": "Web制作グループ",
       "priority": "高",
       "notified_at": "2026-09-10T22:29:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13445134": {
+      "title": "🌱｜20代におすすめ｜未経験OK◎｜好きなことがある方へ｜趣味やハマっていることについて書くライター募集｜継続あり｜",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-09-11T00:22:14+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13445150": {
+      "title": "１時間の切り抜き動画のテロップ入れ",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-11T00:22:14+00:00"
     }
   }
 }
