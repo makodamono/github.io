@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13421478": {
-      "title": "【電子部品調達・コスト査定・長期】BOMの部品妥当性と代替部品提案",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-09-02T00:01:52+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13421475": {
-      "title": "【金型・成形原価解剖・スポット】金型費用と成形単価の妥当性検証",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-09-02T00:01:52+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13422813": {
       "title": "【新しいことに挑戦したい方歓迎】デザイナー育成ツールのLPデザイン制作",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-11T19:39:45+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13446647": {
+      "title": "【20代女性向け/犬好き×Webデザイン】「かわいい！」を仕事に。サモエドカフェの魅力を届けるWebデザイナー募集🐶✨",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-09-11T23:40:58+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13446771": {
+      "title": "コーヒー焙煎機導入するにあたり、店名の募集です",
+      "keyword": "ジャンル:Webディレクション/サイト制作ディレクション",
+      "priority": "高",
+      "notified_at": "2026-09-11T23:40:58+00:00"
     }
   }
 }
