@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13423619": {
-      "title": "【1コマ10分程度！】AI×漫画で女性向け広告の漫画イラストを生成していただける方募集【急募】",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-09-02T08:51:04+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13423226": {
       "title": "【経験者募集】Microsoft 365による業務改善・システム設計へのアドバイス（相談料目安：5,000～1万円/h）",
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-09-12T19:00:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13411435": {
+      "title": "【AI執筆OK/継続依頼あり】海外サッカーに詳しいシナリオライターさん募集！プレミアリーグ系YouTube台本",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-09-12T23:05:08+00:00"
     }
   }
 }
