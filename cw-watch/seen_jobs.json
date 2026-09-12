@@ -1,35 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13422192": {
-      "title": "webサイトアップ用zoom記録動画の編集",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-09-02T04:20:43+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13422115": {
-      "title": "【1件1,000円】SNS動画クリエイターの衣装コーデ提案",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-09-02T04:20:43+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13422098": {
-      "title": "【情報検索と収集作業】トレンドキャッチャーさん募集",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-09-02T04:20:43+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13422676": {
-      "title": "⭐【 Python】株価予測・SNS運用自動化におけるAIエージェント構築業務案件⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-09-02T04:20:43+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13422660": {
-      "title": "⭐【Python】AIキャラクター対話型ノベルプロダクトのLLMアプリケーション開発業務案件⭐",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-09-02T04:20:43+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13422658": {
       "title": "⭐【バックエンドエンジニア】AIキャラクター対話型ノベルプロダクトのバックエンド開発業務案件業務案件⭐",
       "keyword": "AI",
@@ -2999,6 +2969,36 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-12T06:26:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13448549": {
+      "title": "Studioを用いたWebサイト制作",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-09-12T11:01:24+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13448447": {
+      "title": "【ベクター/パス限定】YouTube動画用オリジナル猫キャラクターの立ち絵作成｜均一な線幅・シンプル作風",
+      "keyword": "STUDIO",
+      "priority": "高",
+      "notified_at": "2026-09-12T11:01:24+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13448413": {
+      "title": "【再募集/要SP-API経験】Amazon新規注文をPC画面・Gmailへ自動通知するシステム構築",
+      "keyword": "GAS",
+      "priority": "高",
+      "notified_at": "2026-09-12T11:01:24+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13448440": {
+      "title": "【継続あり】ショートドラマのAI動画生成・編集｜完成動画まで一貫対応",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-12T11:01:24+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13448382": {
+      "title": "【美容サロン】店舗用・新規看板のデザイン作成依頼（過去デザイン・設置場所の写真あり）",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-12T11:01:24+00:00"
     }
   }
 }
