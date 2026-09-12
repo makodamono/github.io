@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13423205": {
-      "title": "【AI画像調整メイン/修正指示アリ】Amazon商品カタログ画像の編集・合成作業（Canva / 1枚1,500円 / 継続）",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-09-02T08:51:04+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13423619": {
       "title": "【1コマ10分程度！】AI×漫画で女性向け広告の漫画イラストを生成していただける方募集【急募】",
       "keyword": "AI",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-12T17:00:34+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13449020": {
+      "title": "【HP制作｜3〜4万円程度】新規クリエイティブサービスのWebサイト制作｜構成・導線からご提案いただける方",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-09-12T19:00:42+00:00"
     }
   }
 }
