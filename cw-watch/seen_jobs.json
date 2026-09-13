@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13404538": {
-      "title": "【継続あり/STUDIO】LPのデザイン制作",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-02T17:07:06+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13397176": {
-      "title": "【共感できる方歓迎】人の顔色を気にしてしまう人向け｜Instagram投稿（フィード投稿作）デザイン（Canva・テンプレあり）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-02T17:07:06+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13198817": {
       "title": "【日給20,000円〜・全国出張撮影】ショート動画撮影",
       "keyword": "Google Apps Script",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-13T10:30:07+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13449873": {
+      "title": "【在宅・PC作業】企業のお問い合わせフォームに定型文を送る作業｜1件3円｜続けてお願いできます",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-09-13T14:33:56+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13449048": {
+      "title": "工事の受注金額と、外注費の対比表、原価管理表作成　※継続希望あり",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-09-13T14:33:56+00:00"
     }
   }
 }
