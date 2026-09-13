@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13424654": {
-      "title": "【WooCommerce】ポップアップとメールシステム連携及び全体調整",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-02T23:53:59+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13424660": {
       "title": "🐾｜20代におすすめ｜未経験OK◎｜動物好きな方へ｜好きな動物や魅力について紹介するライター募集｜継続あり｜",
       "keyword": "ChatGPT",
@@ -2999,6 +2993,12 @@
       "keyword": "STUDIO",
       "priority": "高",
       "notified_at": "2026-09-13T17:37:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13450187": {
+      "title": "既存Webシステムの保守・管理｜月額8,000円｜AI活用できる方歓迎・作業少なめ",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-09-13T19:44:03+00:00"
     }
   }
 }
