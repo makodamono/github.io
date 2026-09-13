@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13423226": {
-      "title": "【経験者募集】Microsoft 365による業務改善・システム設計へのアドバイス（相談料目安：5,000～1万円/h）",
-      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
-      "priority": "高",
-      "notified_at": "2026-09-02T08:51:04+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13424245": {
-      "title": "🤖【AIスキルを実務へ】AI×SNS運用｜企画・マーケティングに挑戦する長期パートナー募集！",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-09-02T13:03:56+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13424059": {
       "title": "【canva使用可✨】一人暮らし好き歓迎♡暮らしを彩るSNSデザイン🏠",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-09-12T23:05:08+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13448867": {
+      "title": "【Webデザイナー募集】遺品整理サイトSEOテンプレート制作｜実務10年以上｜4万円",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-09-13T00:53:25+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13449088": {
+      "title": "【20代歓迎】海外旅行サイトを一緒につくりましょう！【未経験から始められる✨】",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-09-13T00:53:25+00:00"
     }
   }
 }
