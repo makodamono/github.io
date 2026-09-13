@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13198817": {
-      "title": "【日給20,000円〜・全国出張撮影】ショート動画撮影",
-      "keyword": "Google Apps Script",
-      "priority": "高",
-      "notified_at": "2026-09-02T17:07:06+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13424553": {
-      "title": "【未経験OK！】「自分らしさ」を取り戻す！「自分にご褒美をあげるおこもりホテルステイ旅」note記事作成案件🛋️✨",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-09-02T22:00:17+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13424654": {
       "title": "【WooCommerce】ポップアップとメールシステム連携及び全体調整",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-09-13T14:33:56+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13449687": {
+      "title": "【ロゴ清書・データ化】既存デザインをベースに企業ロゴの微調整・Illustratorデータ作成",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-09-13T17:37:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13450001": {
+      "title": "【複業迷子の相談所｜ショート動画の編集をお任せしたい方を募集します】",
+      "keyword": "STUDIO",
+      "priority": "高",
+      "notified_at": "2026-09-13T17:37:18+00:00"
     }
   }
 }
