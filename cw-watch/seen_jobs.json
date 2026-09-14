@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13425264": {
-      "title": "【Studio経験者募集】既存Webサイトへのスタッフ紹介ページ追加・アンカーリンク設定",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-03T01:58:27+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13425113": {
-      "title": "カフェ紹介｜Instagram運用のお仕事",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-03T01:58:27+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13424852": {
-      "title": "【20代急募】旅行系メディアのwebサイトを一緒に作りましょう！【サイト制作未経験OK】",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-03T01:58:27+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13424778": {
       "title": "【AI活用】既存LP（7〜8割完成）の微調整・海外向け決済導入対応",
       "keyword": "Web制作グループ",
@@ -2999,6 +2981,24 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-13T23:35:44+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13450353": {
+      "title": "【フリーランス/月30万〜60万】AI駆動開発ができるエンジニア募集(ハイブリッド出社歓迎)",
+      "keyword": "コーディング",
+      "priority": "高",
+      "notified_at": "2026-09-14T01:33:54+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13450308": {
+      "title": "【文字単価2円】洋服レンタルサービスに関するSEO記事ライティング【長期継続あり】",
+      "keyword": "WordPress",
+      "priority": "高",
+      "notified_at": "2026-09-14T01:33:54+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13422526": {
+      "title": "【報酬5万円｜プロの焙煎士・バリスタ募集】上場企業の「滋養強壮コーヒー」の商品監修",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-14T01:33:54+00:00"
     }
   }
 }
