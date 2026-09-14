@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13427132": {
-      "title": "【Canva使用】ファッション好き歓迎♡トレンドを発信するInstagramデザイナー募集👗",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-03T15:13:03+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13399370": {
       "title": "【美容💄】美しさを整えたい20代へ。“ふわっと心が軽くなる美容投稿”をつくるデザイナーさん募集！！",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-14T18:51:39+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13453154": {
+      "title": "【女性活躍中｜完全在宅OK】Googleスプレッドシートが得意な方募集｜朝の時間を有効活用◎",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-09-14T22:12:04+00:00"
     }
   }
 }
