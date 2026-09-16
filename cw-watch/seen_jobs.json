@@ -1,53 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13425296": {
-      "title": "税理士事務所の看板デザイン依頼",
-      "keyword": "GAS自動化",
-      "priority": "高",
-      "notified_at": "2026-09-05T01:21:21+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13420393": {
-      "title": "猫・ペットと暮らしてる人〜！｜フィード投稿デザインやりませんか?(1投稿2,500円)🐈",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-05T05:57:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13430421": {
-      "title": "✨実績がなくても安心✨「ゼロからSNS運用」を叶える！成長意欲を活かすアシスタント募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-05T05:57:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13430274": {
-      "title": "「グンディ」をモチーフとした可愛いデフォルメキャラクターのデザインを募集します。",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-09-05T05:57:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13430585": {
-      "title": "コーヒーに関する情報の検索と収集作業依頼",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-09-05T05:57:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13430154": {
-      "title": "海外の反応をテーマにしたYouTube動画用の寸劇系台本の制作依頼",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-09-05T05:57:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13430478": {
-      "title": "【２万文字４００００〜５００００円】女性医師が伝える「20〜30代で知るべき、女性の身体と人生設計」に関する電子書籍ライティング",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-09-05T05:57:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13430459": {
-      "title": "【２万文字４００００〜５００００円】「繰り返す腰痛の本当の原因」を伝える書籍ライティング",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-09-05T05:57:19+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13430382": {
       "title": "【１万文字１００００〜１５０００円】「患者さんの行動が変わる保健指導」を伝える歯科衛生士向け電子書籍の編集",
       "keyword": "AI",
@@ -2999,6 +2951,54 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-16T01:42:56+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13456534": {
+      "title": "⭐【AIコンサルティング・PM】大手企業向け業務特化型AI活用支援案件⭐",
+      "keyword": "ビジネスグループ",
+      "priority": "高",
+      "notified_at": "2026-09-16T06:48:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13380474": {
+      "title": "【美容系LPデザイナー募集】Photoshop必須｜女性向けLP制作経験者歓迎｜継続案件あり",
+      "keyword": "ランディングページ",
+      "priority": "高",
+      "notified_at": "2026-09-16T06:48:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13453304": {
+      "title": "■【AIエージェント活用】比較サイトのコラム自動生成・SEO改善の仕組み構築",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-09-16T06:48:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13453437": {
+      "title": "【チラシ作成】国際会議パンフレット掲載用 活動紹介広告デザイン",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-09-16T06:48:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13456384": {
+      "title": "【シナリオ作成×1件6000円×長期継続案件】YouTube_2ch馴れ初め系",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-09-16T06:48:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13456091": {
+      "title": "レトロゲームに関するゆっくり解説動画の台本作成",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-09-16T06:48:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13456517": {
+      "title": "⭐【Python/週4or5日】AIチームにおけるコンテンツモデレーション向けAIシステム開発業務案件⭐",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-16T06:48:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13456525": {
+      "title": "⭐【Python or Go or Java】大規模AI駆動開発におけるハーネス作成業務案件⭐",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-16T06:48:18+00:00"
     }
   }
 }
