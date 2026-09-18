@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13436014": {
-      "title": "【1本8000円・量より質重視、副業さん歓迎】ラブコメ/悪役/いい話シナリオライターさん募集【継続案件】",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-09-08T01:25:48+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13435478": {
       "title": "AIエンジニア / DXエンジニア （AIシステム構築・業務自動化・業務改善コンサルティング）募集！（フルタイム）",
       "keyword": "AI",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-18T11:44:37+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13452271": {
+      "title": "あまづくりパビリオン　ロゴデザイン制作",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-09-18T15:11:15+00:00"
     }
   }
 }
