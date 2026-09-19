@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13392105": {
-      "title": "【フルリモート】人事評価システム（カオナビ・HRBrain等）の設定担当メンバー募集！（長期・プロジェクト制）",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-09-08T15:04:20+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13439041": {
-      "title": "AI Agent Security Training パンフレット制作依頼",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-09-08T15:04:20+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13439057": {
       "title": "【マニュアルあり】Instagram向け短文原稿作成スタッフ｜1日3件程度・短時間作業",
       "keyword": "スプレッドシート",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-19T13:34:13+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13429680": {
+      "title": "【継続あり】モノクロ漫画30Pの作画依頼【1ページ1～2コマ】",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-09-19T16:46:44+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13465753": {
+      "title": "【未経験OK】20代向け！初めての一人旅で気を付けたことについての記事を書いてくれるライターさん募集✈️🌿",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-19T16:46:44+00:00"
     }
   }
 }
