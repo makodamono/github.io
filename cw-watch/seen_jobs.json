@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13439057": {
-      "title": "【マニュアルあり】Instagram向け短文原稿作成スタッフ｜1日3件程度・短時間作業",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-09-08T15:04:20+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13439034": {
       "title": "女性の方！普段の生活の切り抜きを動画でいただけませんか(^o^)？",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-19T16:46:44+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13465884": {
+      "title": "会社ホームページ制作をお願いできる方を募集します",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-09-19T18:58:07+00:00"
     }
   }
 }
