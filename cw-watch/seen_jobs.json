@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13439034": {
-      "title": "女性の方！普段の生活の切り抜きを動画でいただけませんか(^o^)？",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-09-08T15:04:20+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13439158": {
       "title": "【20代歓迎・初めての方もOK】「好き」を記事にするnoteライター募集✨",
       "keyword": "ChatGPT",
@@ -2999,6 +2993,12 @@
       "keyword": "全体新着",
       "priority": "高",
       "notified_at": "2026-09-19T18:58:07+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13465823": {
+      "title": "▶月収48万以上可【SNSマーケ ディレクター】",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-19T21:14:05+00:00"
     }
   }
 }
