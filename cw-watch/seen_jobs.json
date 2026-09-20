@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13439462": {
-      "title": "【継続案件あり】｜AI活用LP制作スタッフ募集",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-09-08T18:34:21+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13439030": {
-      "title": "【コーポレートロゴのデザイン募集】広報マーケティング/パートナー開拓支援会社のロゴのデザインを募集します！",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-09-08T18:34:21+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13438895": {
-      "title": "在宅ワーク｜星座や誕生月占いを楽しく執筆！AI占いライター募集｜1記事1500円｜初心者OK・分かりやすい手順書完備・長期",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-09-08T18:34:21+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13439621": {
       "title": "🍴｜20代におすすめ｜未経験OK◎｜美味しいものが好きな方へ｜好きなグルメやおすすめのお店について書くライター募集｜継続あり｜",
       "keyword": "全体新着",
@@ -2999,6 +2981,24 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-20T01:02:41+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13466045": {
+      "title": "【資格保有者限定】ネズミ駆除サイトの記事監修者を募集します",
+      "keyword": "ビジネスグループ",
+      "priority": "高",
+      "notified_at": "2026-09-20T06:06:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13466193": {
+      "title": "【女性向け】あなたのやる気を引き出す行動を文章にしてみませんか？｜継続あり",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-09-20T06:06:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13466101": {
+      "title": "20代キャリア記事ライター",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-20T06:06:18+00:00"
     }
   }
 }
