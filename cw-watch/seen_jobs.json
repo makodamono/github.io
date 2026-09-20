@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13439566": {
-      "title": "【未経験可・在宅】X運用サポート｜1日1時間程度・月3万円",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-09T01:23:11+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13438654": {
-      "title": "【長期案件】Instagram運用サポートスタッフ募集｜未経験・経験者歓迎",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-09T01:23:11+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13439634": {
-      "title": "【Figmaデザインあり】競馬系データ分析Webサービスβ版の構築をお願いできるエンジニア募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-09T01:23:11+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13439161": {
-      "title": "Claude CodeでのAI経理の導入設定・運用アドバイス（MFクラウド会計を利用）",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-09-09T01:23:11+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13438643": {
       "title": "【緊急募集】シナリオ制作をお願い致します【ライティング好き求む】 ",
       "keyword": "Webサイト",
@@ -2999,6 +2975,30 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-09-20T11:14:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13466805": {
+      "title": "WordPress｜既存ページへの内容追加・実装作業",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-09-20T14:43:01+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13466715": {
+      "title": "SNSで見かけるトレンドコスメ風バナーの制作お仕事募集！（初心者OK）",
+      "keyword": "LP",
+      "priority": "高",
+      "notified_at": "2026-09-20T14:43:01+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13439938": {
+      "title": "【STUDIO】コーポレートサイトのデザインリニューアル・制作をお願いできる方を募集します。",
+      "keyword": "Webサイト制作",
+      "priority": "高",
+      "notified_at": "2026-09-20T14:43:01+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13466758": {
+      "title": "【 継続依頼あり 】英語電子書籍の翻訳",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-20T14:43:01+00:00"
     }
   }
 }
