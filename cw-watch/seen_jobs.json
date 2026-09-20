@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13439245": {
-      "title": "ペットケア商品のパッケージ ※生成AI不可【継続あり】",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-09-09T01:23:11+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13438506": {
       "title": "【完全テンプレ作業】DM送信スタッフ募集｜文章もリストもすべて支給",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-09-20T17:41:50+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13466987": {
+      "title": "【未経験･20代歓迎】同期に対する不満・悩み、文章にしませんか？💭",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-20T21:53:24+00:00"
     }
   }
 }
