@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13439621": {
-      "title": "🍴｜20代におすすめ｜未経験OK◎｜美味しいものが好きな方へ｜好きなグルメやおすすめのお店について書くライター募集｜継続あり｜",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-09-08T23:29:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13439501": {
-      "title": "【未経験OK】20代毎日整えるルーティンを書いてみませんか？☀️",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-09-08T23:29:19+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13439938": {
-      "title": "【STUDIO】コーポレートサイトのデザインリニューアル・制作をお願いできる方を募集します。",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-09-09T01:23:11+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13439892": {
-      "title": "【Canva使用】Instagram投稿デザイン制作スタッフ募集｜在宅・継続依頼",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-09T01:23:11+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13439566": {
       "title": "【未経験可・在宅】X運用サポート｜1日1時間程度・月3万円",
       "keyword": "Web制作グループ",
@@ -2999,6 +2975,30 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-20T06:06:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13466628": {
+      "title": "☕️☕️SNS投稿デザイナー募集！！☕️☕️　カフェ風デザインが好きな方歓迎！！",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-09-20T11:14:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13466541": {
+      "title": "POSレジを活用して業務を行った経験のある方募集！Webサイト・記事のファクトチェックをお願いします",
+      "keyword": "ビジネスグループ",
+      "priority": "高",
+      "notified_at": "2026-09-20T11:14:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13466489": {
+      "title": "WordPressセキュリティ不具合調査と修正",
+      "keyword": "WordPress",
+      "priority": "高",
+      "notified_at": "2026-09-20T11:14:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13466312": {
+      "title": "【TikTok・Instagram等】話題の新作SNSアプリ・トレンド調査アシスタント｜アットホームなチームで楽しくリサーチ！",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-09-20T11:14:11+00:00"
     }
   }
 }
