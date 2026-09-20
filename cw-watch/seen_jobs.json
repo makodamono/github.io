@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13438643": {
-      "title": "【緊急募集】シナリオ制作をお願い致します【ライティング好き求む】 ",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-09-09T01:23:11+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13437818": {
-      "title": "【在宅ワーク】在宅でできるX向け短文原稿作成サポート｜記録作業あり｜在宅で始めやすい",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-09-09T01:23:11+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13439245": {
       "title": "ペットケア商品のパッケージ ※生成AI不可【継続あり】",
       "keyword": "スプレッドシート",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-20T14:43:01+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13466159": {
+      "title": "ライター募集",
+      "keyword": "LP",
+      "priority": "高",
+      "notified_at": "2026-09-20T17:41:50+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13466921": {
+      "title": "【長期案件】スパロボに関するゆっくり解説動画の台本作成（スパロボ、ガンダム、ロボゲー好きな方、詳しい方歓迎です！）",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-09-20T17:41:50+00:00"
     }
   }
 }
