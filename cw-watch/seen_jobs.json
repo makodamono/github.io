@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13444075": {
-      "title": "法人向けのAI導入と伴走支援",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-09-10T10:13:35+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13444207": {
-      "title": "⭐【開発品質保証リーダー】消費税改変対応/AI活用テスト設計および品質管理体制改善業務案件⭐",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-09-10T10:13:35+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13431312": {
-      "title": "【未経験OK】PDF→Word文字起こし☆在宅ワーク",
-      "keyword": "ジャンル:Webディレクション/LPディレクション",
-      "priority": "高",
-      "notified_at": "2026-09-10T10:13:35+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13444710": {
       "title": "【美容・コスメ好き歓迎】「好き」を仕事に♪SNSで目を引くPRバナーを作るデザイナー募集｜20代限定",
       "keyword": "Web制作グループ",
@@ -2999,6 +2981,24 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-09-23T09:53:52+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13439269": {
+      "title": "【イベント好き歓迎】冬に行きたいイベント紹介｜Instagram投稿（フィード投稿作成）デザイン制作（Canva・テンプレあり）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-09-23T14:31:29+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13472174": {
+      "title": "【20〜30代男女】審美歯科ショートドラマのキャスト募集｜都内撮影｜1日15000円",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-09-23T14:31:29+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13472108": {
+      "title": "【20〜30代男女】審美歯科ショートドラマのキャスト募集｜都内撮影｜1日12000円",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-09-23T14:31:29+00:00"
     }
   }
 }
