@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13448744": {
-      "title": "流し込みコーディングのお仕事募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-12T14:02:32+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13448742": {
-      "title": " 【20代〜30代歓迎✈️】海外旅行系Instagramのフィード投稿デザイン制作｜継続案件◎",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-12T14:02:32+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13448714": {
-      "title": "映画好き必見！20代・未経験から始められるWebライティングのお仕事",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-12T14:02:32+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13448670": {
-      "title": "ホームページ作成【SWELL】企業HP制作 TOP＋固定4P｜構成・原稿・素材支給｜実装中心",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-12T14:02:32+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13448729": {
       "title": "【完全在宅】映像作品の配信状況チェック・情報リスト作成スタッフ募集",
       "keyword": "ビジネスグループ",
@@ -2999,6 +2975,30 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-09-24T13:43:29+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13477600": {
+      "title": "【お酒好き歓迎】1人でも行きやすいBAR紹介｜Instagram投稿（フィード投稿作成）デザイン（Canva・テンプレあり）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-09-24T17:58:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13477718": {
+      "title": "【主婦さん歓迎／1本～5000円】ずんだもん風YouTube動画のシナリオライターさんを募集！【継続案件】",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-09-24T17:58:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13477785": {
+      "title": "〈未経験OK〉次の連休どこ行く？おすすめ旅行プラン￤20代向け記事ライター募集✈️",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-24T17:58:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13477731": {
+      "title": "【マンガのディープな考察＆解説】最後まで魅せる構成ができるプロライターさん募集！",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-24T17:58:35+00:00"
     }
   }
 }
