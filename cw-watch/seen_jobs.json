@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13450975": {
-      "title": "「旅に出たくなる」投稿、20代目線で一緒に作りませんか✈️",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-14T06:59:15+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13425264": {
       "title": "【Studio経験者募集】既存Webサイトへのスタッフ紹介ページ追加・アンカーリンク設定",
       "keyword": "Webサイト制作",
@@ -2999,6 +2993,12 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-09-25T18:04:04+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13480659": {
+      "title": "【未経験OK】職場のコミュニケーションで意識していること｜20代向け記事ライター募集🌿‬",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-09-25T21:29:31+00:00"
     }
   }
 }
