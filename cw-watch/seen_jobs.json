@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13453154": {
-      "title": "【女性活躍中｜完全在宅OK】Googleスプレッドシートが得意な方募集｜朝の時間を有効活用◎",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-09-14T22:12:04+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13453340": {
       "title": "【資格保有者限定】ネズミ駆除サイトの記事監修者を募集します",
       "keyword": "全体新着",
@@ -2999,6 +2993,12 @@
       "keyword": "GAS自動化",
       "priority": "高",
       "notified_at": "2026-09-26T20:00:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13453102": {
+      "title": "スムージーカフェweb制作！どなたでも気軽にご応募ください。",
+      "keyword": "Webサイト制作",
+      "priority": "高",
+      "notified_at": "2026-09-26T22:28:27+00:00"
     }
   }
 }
