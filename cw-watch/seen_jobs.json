@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13452309": {
-      "title": "士業事務所向けAI業務統合・自動化システムの設計・構築",
-      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
-      "priority": "高",
-      "notified_at": "2026-09-15T00:39:40+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13448629": {
       "title": "【業務委託】IT導入補助金の申請サポート・ディレクション募集",
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-27T19:07:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13483595": {
+      "title": "60分程度のインタビュー動画の文字起こし※1本8,000円※",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-09-27T22:03:37+00:00"
     }
   }
 }
