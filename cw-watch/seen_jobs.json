@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13456749": {
-      "title": "【高額報酬】DM送信スタッフ募集 | スマホでお仕事可",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-09-16T12:10:26+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13455980": {
-      "title": "【リモート】スキルアップ希望＆稼ぎたい方大募集！業界最高の還元率でのアポインター募集　最先端のサービスを販売したい方",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-09-16T12:10:26+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13455978": {
       "title": "【完全フルリモート＆インハウス】業界最高の還元率でアポインター募集！独立された方もいますのでスキルアップ希望＆稼ぎたい方もOK",
       "keyword": "ホームページ",
@@ -2999,6 +2987,18 @@
       "keyword": "ホームページ制作",
       "priority": "高",
       "notified_at": "2026-09-28T19:37:18+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13489841": {
+      "title": "会議の文字起こし",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-09-28T23:54:56+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13489929": {
+      "title": "🐶｜20代におすすめ｜犬や猫の動画って、気づいたら最後まで見ていませんか？｜癒やされたエピソードを書くライター募集｜継続あり｜",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-09-28T23:54:56+00:00"
     }
   }
 }
