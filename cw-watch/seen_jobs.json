@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13461205": {
-      "title": "STUDIOでのサービスページ改修",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-09-17T10:13:41+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13432612": {
       "title": "ホームページ作成依頼",
       "keyword": "ホームページ作成",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-29T16:13:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13491946": {
+      "title": "【キャスト募集】審美歯科をテーマにしたショートドラマ｜男性1名・女性2名｜出演料2万円／日",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-09-29T20:49:21+00:00"
     }
   }
 }
