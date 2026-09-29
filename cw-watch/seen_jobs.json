@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13432612": {
-      "title": "ホームページ作成依頼",
-      "keyword": "ホームページ作成",
-      "priority": "高",
-      "notified_at": "2026-09-17T10:13:41+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13456326": {
       "title": "【20日間で最大70,000円獲得チャンス】10秒ほどの短い動画を見て「何をしているか」を入力するだけ！【完全在宅／未経験OK】",
       "keyword": "ホームページ修正",
@@ -2999,6 +2993,12 @@
       "keyword": "Webサイト",
       "priority": "高",
       "notified_at": "2026-09-29T20:49:21+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13492058": {
+      "title": "新規オープン店舗の販促チラシ作成",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-09-29T23:59:12+00:00"
     }
   }
 }
