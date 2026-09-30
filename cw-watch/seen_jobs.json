@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13463041": {
-      "title": "【転職興味がある方歓迎】学歴に自信がない転職情報｜Instagram投稿（フィード投稿）デザイン（Canva・テンプレあり）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-18T06:35:24+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13462973": {
-      "title": "【20代歓迎】簡単なレイアウト作成📱旅行系SNS画像デザイン【未経験OK】 ",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-18T06:35:24+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13462615": {
       "title": "WordPress × Claude Code で、サイト構築・編集ができる方（30日 / 12000円〜）",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-09-30T16:26:25+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13495103": {
+      "title": "一度きりではなく、長く一緒にできる方を探しています。",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-09-30T20:54:23+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13397974": {
+      "title": "AIOディレクター(SEO対策のAI版)募集中！｜未経験からでも安心のマニュアルあり｜SEOライティング経験のある方歓迎！",
+      "keyword": "WordPress",
+      "priority": "高",
+      "notified_at": "2026-09-30T20:54:23+00:00"
     }
   }
 }
