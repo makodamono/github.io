@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13467520": {
-      "title": "【東京・週5】SEOディレクター（コンテンツマーケティング）案件",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-09-21T01:42:58+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13429197": {
-      "title": "【カフェ好き必見☕️】Instagramで“行きたい”をつくるデザイン案件",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-21T01:42:58+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13465939": {
       "title": "便利屋開業につきLP作成をお願いします",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-10-02T19:11:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13501570": {
+      "title": "PDF議事録をスプレッドシートへ転記するお仕事",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-10-02T22:59:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13501549": {
+      "title": "【未経験OK／Javaエンジニア募集】AI活用可｜継続案件あり｜月20〜30万円",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-10-02T22:59:11+00:00"
     }
   }
 }
