@@ -1,53 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13450105": {
-      "title": "【一人暮らしのQOLを上げる🌿】暮らしのアイデアを発信するInstagram投稿制作！",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-21T01:42:58+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13464166": {
-      "title": "【経験者限定】高単価Web商材のクロージング専門スタッフ募集!!",
-      "keyword": "Web制作",
-      "priority": "高",
-      "notified_at": "2026-09-21T01:42:58+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13464624": {
-      "title": "【月額15万〜20万円/継続案件】SNS運用事業の立ち上げパートナー（専属ディレクター）募集！【チーム持ち・商談同席あり】",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-09-21T01:42:58+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13466860": {
-      "title": "【犬を飼っていて、UGCモデルできる女性の方】ショート動画用の素材撮影していただける方を募集！スマホ撮影OK・継続依頼あり",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-09-21T01:42:58+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13466923": {
-      "title": "【ゲーム解説の編集】スパロボのゆっくり解説動画の編集のお仕事です！",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-09-21T01:42:58+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13467513": {
-      "title": "｜20代におすすめ｜最近よく見ているもの、ありませんか？｜あなたがハマっている動画やSNSを紹介するライター募集｜継続あり｜",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-09-21T01:42:58+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13465363": {
-      "title": "【月50万円〜・完全在宅】RaiseTechのWebセールス｜AI×IT・フルコミットできる方募集",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-09-21T01:42:58+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13467195": {
-      "title": "【東京・週5】Java・Reactによる電力収益システムの機能追加案件",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-09-21T01:42:58+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13467015": {
       "title": "【1本8000円・量より質重視、副業さん歓迎】ラブコメ/悪役/いい話シナリオライターさん募集【継続案件】",
       "keyword": "AI",
@@ -2999,6 +2951,54 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-10-03T01:43:29+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13502485": {
+      "title": "【報酬5万】サイトの再構築と編集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-10-03T07:07:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13501986": {
+      "title": "【継続あり◎】女子旅・おでかけ系Instagram投稿制作✈️🤍",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-10-03T07:07:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13492263": {
+      "title": "【給料日前でも焦らない👛】一人暮らしのお金管理Instagram投稿制作スタッフ募集！",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-10-03T07:07:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13465939": {
+      "title": "便利屋開業につきLP作成をお願いします",
+      "keyword": "LP作成",
+      "priority": "高",
+      "notified_at": "2026-10-03T07:07:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13500720": {
+      "title": "【旅行好き歓迎】在宅事務サポート｜継続前提",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-10-03T07:07:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13502366": {
+      "title": "製造・建築の現場経験×生成AI|安全教育のショート動画を一緒につくる方募集(在宅・チェック役も)",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-10-03T07:07:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13502286": {
+      "title": "【未経験OK】超簡単！おうち時短レシピをAIで画像生成するお仕事✨",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-10-03T07:07:32+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13501957": {
+      "title": "写真を使用したYUOTUBE用の広告動画の制作",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-10-03T07:07:32+00:00"
     }
   }
 }
