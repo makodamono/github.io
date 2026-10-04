@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13443781": {
-      "title": "【継続発注あり】ショートLPの制作依頼",
-      "keyword": "ランディングページ制作",
-      "priority": "高",
-      "notified_at": "2026-09-22T15:44:09+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13471002": {
-      "title": "【報酬1万円／商品監修】サックス奏者・講師募集｜サックス用アクセサリーの監修・動画撮影",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-09-22T15:44:09+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13470997": {
-      "title": "【報酬1万円／商品監修】DIY・建築・インテリア系の専門家募集｜壁掛け用品の監修・動画撮影",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-09-22T15:44:09+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13464726": {
       "title": "【LPコーディング／継続あり】デザインデータ支給、1ページ、HTML/CSS/JS、レスポンシブ、フォーム、修正3回込み",
       "keyword": "HTML・CSS",
@@ -2999,6 +2981,24 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-10-04T19:51:58+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13470773": {
+      "title": "医療職の“働き方の悩み”に寄り添うフィード投稿を一緒につくりませんか？？",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-10-04T22:36:47+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13504001": {
+      "title": "ダイニングカフェ＆バーの店名募集",
+      "keyword": "Webサイト修正",
+      "priority": "高",
+      "notified_at": "2026-10-04T22:36:47+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13504673": {
+      "title": "スペシャリティコーヒーイベントの記録撮影４日間",
+      "keyword": "STUDIO",
+      "priority": "高",
+      "notified_at": "2026-10-04T22:36:47+00:00"
     }
   }
 }
