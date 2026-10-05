@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13469927": {
-      "title": "【リモート/時間自由】X(旧Twitter)の投稿作成・運用管理スタッフ",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-24T03:17:06+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13469833": {
       "title": "【マニュアル完備】在宅でXのSNS運用サポート／月3万円",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "AI活用",
       "priority": "高",
       "notified_at": "2026-10-05T15:54:27+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13507440": {
+      "title": "【未経験OK／Javaエンジニア募集】AI活用可｜継続案件あり｜月20〜30万円",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-10-05T22:15:23+00:00"
     }
   }
 }
