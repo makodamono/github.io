@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13472506": {
-      "title": "メイクレッスンモデル募集",
-      "keyword": "LP",
-      "priority": "高",
-      "notified_at": "2026-09-24T08:31:09+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13472374": {
       "title": "スケジュール管理サービスの販売パートナーを募集します",
       "keyword": "LP",
@@ -2999,6 +2993,12 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-10-06T15:52:15+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/12932989": {
+      "title": "◆インドネシア語必須◆　日本語の文法解説動画をインドネシア語で解説お願いします（N3文法）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-10-06T20:38:41+00:00"
     }
   }
 }
