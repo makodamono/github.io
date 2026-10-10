@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13481576": {
-      "title": "【在宅×YouTube】新チャンネルの動画ディレクター募集│長期依頼/企画/台本",
-      "keyword": "制作ディレクション",
-      "priority": "高",
-      "notified_at": "2026-09-28T05:47:42+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13488048": {
       "title": "【未経験OK】観葉植物情報の入力作業",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "AI活用",
       "priority": "高",
       "notified_at": "2026-10-10T15:15:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13522395": {
+      "title": "【未経験OK】１時間の動画の文字起こしのお仕事依頼",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-10-10T19:17:49+00:00"
     }
   }
 }
