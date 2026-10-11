@@ -1,53 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13447002": {
-      "title": "TOPページのテキスト流し込み・画像差し替え・配置",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-28T12:01:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13488363": {
-      "title": "【古民家宿サイト】トップページのデザインリニューアル＋HTML/CSS/JavaScriptコーディング＋ライティングも重視",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-09-28T12:01:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13488867": {
-      "title": "【女性WEBディレクター募集｜】 ホームページ作成の仕事の依頼",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-09-28T12:01:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13488298": {
-      "title": "【CA・元CA歓迎】旅行・海外渡航の経験を活かした旅行用ポンプ式の商品監修・推薦コメント作成のご依頼",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-09-28T12:01:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13488182": {
-      "title": "【継続依頼あり】旅行・防犯の専門家優遇◎「首下げパスポートケース」の商品監修・推薦コメント作成",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-09-28T12:01:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13454600": {
-      "title": "こだわりのコーヒーとパンを提供する「カフェ＆ベーカリー」のホームページ制作",
-      "keyword": "ホームページ制作",
-      "priority": "高",
-      "notified_at": "2026-09-28T12:01:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13488630": {
-      "title": "介護老人保健施設のロゴデザイン作成",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-09-28T12:01:56+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13455842": {
-      "title": "【Wix Studio】ホームページ構築・制作スタッフ募集｜約10ページ・デザイン支給｜まずはトップページのテスト制作",
-      "keyword": "Webサイト制作",
-      "priority": "高",
-      "notified_at": "2026-09-28T12:01:56+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13488339": {
       "title": "【月額報酬：10,000円〜】SEO対策業務のアシスタント募集！（副業OK！） ",
       "keyword": "WordPress",
@@ -2999,6 +2951,54 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-10-11T07:14:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13524549": {
+      "title": "隠れ家夜カフェ＆バー｜公式Webサイト（LP/HP）デザイン制作",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-10-11T14:04:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13524533": {
+      "title": "大阪・心斎橋エリアの人気夜カフェ＆バーの公式Webサイト新規制作",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-10-11T14:04:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13523401": {
+      "title": "お問い合わせフォーム送信作業（500件分）",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-10-11T14:04:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13523516": {
+      "title": "【在宅・未経験OK♪】動画の文字起こしのお仕事依頼",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-10-11T14:04:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13523330": {
+      "title": "カフェ＆スイーツのデザインのお仕事🍋（クラウドワークス初心者の方も✨）",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-10-11T14:04:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13523474": {
+      "title": "【2ch好きな方へ】登録者10万人のまとめショート動画の台本ライター【10本6000円～・継続】",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-10-11T14:04:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13523438": {
+      "title": "【10本6000円～・長期】2ch系まとめショート動画の台本ライター募集【マニュアル完備】",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-10-11T14:04:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13523944": {
+      "title": "【1本1,800円・継続】AI画像を使ったショート動画の制作者募集｜画像生成から編集まで",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-10-11T14:04:43+00:00"
     }
   }
 }
