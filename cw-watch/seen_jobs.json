@@ -1,35 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13496897": {
-      "title": "追加募集！【議事録をスプレッドシートへ文字起こし】",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-10-01T05:57:47+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13495876": {
-      "title": "【Excelツール開発】既存スプレッドシートのExcel化／複製・模倣防止対策の構築",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-10-01T05:57:47+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13495427": {
-      "title": "在宅勤務OK！簡単な営業アシスタント業務をお願いします！",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-10-01T05:57:47+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13496761": {
-      "title": "【未経験OK／Javaエンジニア募集】AI活用可｜継続案件あり｜月20〜30万円",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-10-01T05:57:47+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13495372": {
-      "title": "【若手社会人向け】一人でも楽しめる趣味について書いてくれるライターさん募集🌷｜継続あり",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-10-01T05:57:47+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13494277": {
       "title": "【未経験・スマホのみOK】SNS運用のサポート業務｜簡単なリサーチ・投稿作成補助など｜継続依頼あり",
       "keyword": "AI",
@@ -2999,6 +2969,36 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-10-13T18:15:04+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13532081": {
+      "title": "【3名募集・長期】企業の問い合わせフォーム送信スタッフ募集",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-10-13T22:46:58+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13532073": {
+      "title": "【Studio】不動産会社のTOPページ制作コンペ｜テンプレート・素材支給あり",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-10-13T22:46:58+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13531480": {
+      "title": "【在宅・未経験OK】60分音声データの文字起こし依頼",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-10-13T22:46:58+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13532099": {
+      "title": "｜20代歓迎｜好きな場所で、自分らしく働けたらと思いませんか？｜自由な働き方を考えるライター募集｜継続あり｜",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-10-13T22:46:58+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13531873": {
+      "title": "【同年代の方歓迎🍂】この秋にしたいことを教えてください♡継続あり♡ライティングのたまごさん歓迎☺︎",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-10-13T22:46:58+00:00"
     }
   }
 }
