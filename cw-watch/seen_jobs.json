@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13503932": {
-      "title": "【未経験OK／Javaエンジニア募集】AI活用可｜継続案件あり｜月20〜30万円",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-10-04T06:19:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13503913": {
       "title": "【コピペ中心】Webフォームへの営業メッセージ入力・送信業務",
       "keyword": "全体新着",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-10-15T15:46:02+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13531884": {
+      "title": "【旅行・お出かけ好きさん歓迎🍁】秋の紅葉おすすめスポットを教えてください♡人柄重視♡",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-10-15T19:24:49+00:00"
     }
   }
 }
