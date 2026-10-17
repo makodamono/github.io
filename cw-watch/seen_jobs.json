@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13510548": {
-      "title": "【完全在宅】映像作品の情報リスト作成スタッフ募集",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-10-06T15:52:15+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13510494": {
       "title": "【完全在宅】海外企業向け営業アシスタント募集｜AIを活用した企業リサーチ・営業支援・進捗管理",
       "keyword": "スプレッドシート",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-10-17T16:26:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13540437": {
+      "title": "【ライティングのたまごさん🥚夜のリラックスタイムやナイトルーティンを記事にしませんか？♡★在宅でできる簡単な文章作成のお仕事✨",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-10-17T18:39:46+00:00"
     }
   }
 }
