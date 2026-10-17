@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13510563": {
-      "title": "【データ分析】マイクロソフトクラリティを活用したヒートマップ分析",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-10-06T15:52:15+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13510430": {
-      "title": "【未経験OK／Javaエンジニア募集】AI活用可｜継続案件あり｜月20〜30万円",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-10-06T15:52:15+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13510666": {
-      "title": "【主婦さん歓迎／1本～6000円】ずんだもん風YouTube動画のシナリオライターさんを募集！【継続案件】",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-10-06T15:52:15+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13510548": {
       "title": "【完全在宅】映像作品の情報リスト作成スタッフ募集",
       "keyword": "スプレッドシート",
@@ -2999,6 +2981,24 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-10-17T13:14:56+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13540671": {
+      "title": "【スマホ作業OK】「画像タグ付け」サポート業務",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-10-17T16:26:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13540289": {
+      "title": "【在宅ライター募集】平日の夜の過ごし方をテーマにしたエッセイ執筆✨",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-10-17T16:26:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13540491": {
+      "title": "競馬好き必見！重賞の考察記事作成ができる方！",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-10-17T16:26:33+00:00"
     }
   }
 }
