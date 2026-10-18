@@ -1,53 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13510925": {
-      "title": "🔍｜20代歓迎◎｜気になるお店を見つけると、つい口コミを調べたくなりませんか？｜お店探しについて書くライター募集｜継続あり｜",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-10-07T00:05:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13510824": {
-      "title": "1本8000円【男性向けラブコメ・恋愛動画漫画のネーム制作業務】",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-10-07T00:05:36+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13512126": {
-      "title": "⭐【Python または TypeScript】社内AI活用・AX(AI Transformation)推進案件⭐",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-10-07T05:46:16+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13512125": {
-      "title": "⭐【Python,コンサル】生成AI×業務改善(FDE)業務案件⭐",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-10-07T05:46:16+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13512123": {
-      "title": "⭐【TypeScript】AI関連プロジェクトにおけるバックエンド設計・開発業務案件⭐",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-10-07T05:46:16+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13512054": {
-      "title": "【継続あり/8秒で1万円〜】AIを活用した実写風ショート動画（8秒程度）の制作者募集！【上場企業運営メディア】",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-10-07T05:46:16+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13509320": {
-      "title": "【Canva初心者も歓迎✨】SNS投稿代行スタッフ募集｜完全在宅×週１～OK",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-07T05:46:16+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13511394": {
-      "title": "【Canva使用OK】岩盤浴・サウナも楽しめる温泉施設の投稿デザイン",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-07T05:46:16+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13511327": {
       "title": "【美容系デザイン制作】美容サロンのECサイトの制作できる方募集（継続あり）",
       "keyword": "LP",
@@ -2999,6 +2951,54 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-10-18T04:50:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13438303": {
+      "title": "女性、20代男性歓迎！どなたでも気軽にご応募ください！夜カフェホームページ制作。",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-10-18T09:10:23+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13541378": {
+      "title": "LPのコーディング｜HTML・CSSでの実装",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-10-18T09:10:23+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13541376": {
+      "title": "LPのデザイン制作｜PC・スマホのレイアウト作成",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-10-18T09:10:23+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13541134": {
+      "title": "【未経験でもok】「20代女子が行きたい！」秋のお出かけスポットをテーマにしたInstagram投稿制作🍁",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-10-18T09:10:23+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13509978": {
+      "title": "【副業・実績作り歓迎】旅行・ホテル系サービスのLPデザイン制作｜PC版のみ・構成/素材あり",
+      "keyword": "ランディングページ",
+      "priority": "高",
+      "notified_at": "2026-10-18T09:10:23+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13540950": {
+      "title": " 【東京上野駅・モデル】広告等のモデル募集！（20〜40代女性）",
+      "keyword": "Webサイト",
+      "priority": "高",
+      "notified_at": "2026-10-18T09:10:23+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13541258": {
+      "title": "【AIクリエイティブ募集 ✨】ChatGPT・画像生成の経験を、もっと活かせるお仕事に！",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-10-18T09:10:23+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13541211": {
+      "title": "【継続依頼】スカッと朗読YouTubeのナレーター募集！約2時間半の物語を読み上げるお仕事【1本2,500円】",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-10-18T09:10:23+00:00"
     }
   }
 }
