@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13512986": {
-      "title": "【AI】通所・訪問介護の契約書の進捗報告を自動化",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-10-07T12:02:26+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13512977": {
-      "title": "【AI開発】サ高住施設ご利用者の安否確認業務を自動化",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-10-07T12:02:26+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13512927": {
       "title": "コンサルティング会社のロゴデザインの募集",
       "keyword": "AI",
@@ -2999,6 +2987,18 @@
       "keyword": "ChatGPT",
       "priority": "高",
       "notified_at": "2026-10-18T18:52:56+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13542040": {
+      "title": "【追加募集】PDFの議事録をスプレッドシートへ転記するお仕事｜在宅・継続案件",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-10-18T23:06:31+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13542037": {
+      "title": "AI音声の学習に使用する、ご自身のボイスをご提供いただける方（女性限定）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-10-18T23:06:31+00:00"
     }
   }
 }
