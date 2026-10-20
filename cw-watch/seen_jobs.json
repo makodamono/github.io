@@ -1,53 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13520151": {
-      "title": "【未経験OK】20代会社員のリアルな仕事の悩みをテーマにした記事執筆🌿‬",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-10-09T19:42:42+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13520663": {
-      "title": "【マニュアルあり】Instagram向け短文原稿作成サポート｜記録作業あり",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-10-10T02:41:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13520635": {
-      "title": "【追加募集】PDF議事録をスプレッドシートへ転記するお仕事｜1件2,000円",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-10-10T02:41:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13482747": {
-      "title": "【600文字/¥1500～】YouTube：2ch系ショート動画のシナリオライター募集！【長期継続案件】",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-10-10T02:41:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13516818": {
-      "title": "【カフェ好き歓迎☕】店舗情報の事務・運営サポート｜継続前提",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-10-10T02:41:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13519648": {
-      "title": "【会社名のネーミング】「直感でわかる算数・数学」×データサイエンスの新会社の社名を募集します",
-      "keyword": "ジャンル:Webディレクション/サイト制作ディレクション",
-      "priority": "高",
-      "notified_at": "2026-10-10T02:41:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13522429": {
-      "title": "【PC壁紙デザイン】企業理念（Mission・Vision・Value）を立体的な白ベースデザインで表現｜ニューモーフィズム",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-10T15:15:57+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13457883": {
-      "title": "【自然好き歓迎】癒しの自然スポット紹介｜Instagram投稿（フィード投稿）デザイン制作（Canva・テンプレあり）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-10T15:15:57+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13522296": {
       "title": "☕️☕️SNS投稿デザイナー募集！！☕️☕️　カフェ風デザインが好きな方歓迎！！",
       "keyword": "Web制作グループ",
@@ -2999,6 +2951,54 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-10-20T11:25:35+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13547615": {
+      "title": "【創業期のブランドづくり】ブランド戦略からFigmaでのWebデザインまで伴走いただける方を募集｜AI活用歓迎",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-10-20T15:42:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13547404": {
+      "title": "【Studioでホームページ制作できる方募集】国内在住・日本人限定・打合せ可能な人（継続依頼予定）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-10-20T15:42:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13512966": {
+      "title": "【AI開発】研修受講報告書提出確認業務を自動化・効率化するAIエージェント",
+      "keyword": "LP修正",
+      "priority": "高",
+      "notified_at": "2026-10-20T15:42:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13547369": {
+      "title": "【報酬1万円】スヌーピーやシンプソンズ風！海外アニメタッチの動物キャラ4コマ漫画制作（5本）",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-10-20T15:42:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13306861": {
+      "title": "【1件5000円〜】ホラーゲームに特化したゆっくり解説動画のシナリオ作成",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-10-20T15:42:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13547610": {
+      "title": "【女性芸能人雑学】YouTubeショート動画の台本作成者募集！【長期継続依頼・フリーランス、主婦の方募集！】",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-10-20T15:42:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13547569": {
+      "title": "PDF議事録をスプレッドシートへ転記するお仕事｜1件3,000円",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-10-20T15:42:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13547502": {
+      "title": "海外ブランドショップへの電話問い合わせ・交渉　【英語・英会話】お願いします",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-10-20T15:42:46+00:00"
     }
   }
 }
