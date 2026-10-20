@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13520645": {
-      "title": "韓国占いサイトリニューアル",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-10T15:15:57+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13522403": {
-      "title": "Google広告のCV設定についてサポートいただける方を募集します",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-10-10T15:15:57+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13496082": {
       "title": "【完全在宅・未経験可】賃貸情報のSNS投稿スタッフ｜Instagram・TikTok",
       "keyword": "LP修正",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-10-20T19:38:10+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13547820": {
+      "title": "【Shopify構築】日本の伝統工芸ブランド「Rin House」ECサイト制作｜英語対応・Wabi Sabiデザイン",
+      "keyword": "STUDIO",
+      "priority": "高",
+      "notified_at": "2026-10-20T22:37:20+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13547794": {
+      "title": "【月30万円（税込）／女性限定】TikTok広告動画クリエイター募集｜構成・撮影・編集まで／顔出し不要",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-10-20T22:37:20+00:00"
     }
   }
 }
