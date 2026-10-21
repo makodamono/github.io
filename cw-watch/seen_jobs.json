@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13526430": {
-      "title": "Instagram投稿用の短文ライティングと投稿内容の記録管理（在宅・リモート対応）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-12T07:56:28+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13526401": {
-      "title": "【フリーランスに興味ある方へ✨】おしゃれなカフェを紹介のSNS投稿スタッフ募集！",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-12T07:56:28+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13526300": {
-      "title": "【継続的な在宅でできるお仕事です！】SNSの投稿デザインの作業をお任せします！",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-12T07:56:28+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13457396": {
       "title": "実績作りでも構いません！カフェのホームページ制作。",
       "keyword": "ホームページ制作",
@@ -2999,6 +2981,24 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-10-21T15:33:56+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13551616": {
+      "title": "AI関連企業・最先端テックの\"リアルな内情・年収\"を語ってくれる方募集｜謝礼10,000円（顔出しなし・声のみOK）",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-10-21T22:41:22+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13551569": {
+      "title": "【商品撮影カメラマン募集】旅行用サコッシュ・リュックの写真/動画撮影/編集不要",
+      "keyword": "LP",
+      "priority": "高",
+      "notified_at": "2026-10-21T22:41:22+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13551566": {
+      "title": "【未経験OK】キャリア・仕事に関するライティング/副業に挑戦したい方歓迎",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-10-21T22:41:22+00:00"
     }
   }
 }
