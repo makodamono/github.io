@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13529629": {
-      "title": "《フロント案件》Webディレクターの募集",
-      "keyword": "HTML",
-      "priority": "高",
-      "notified_at": "2026-10-13T03:49:02+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13519480": {
-      "title": "【女性向け/BL恋愛マンガ】原作プロットからのラフネーム（下書き）制作依頼【21P/継続あり/著作権譲渡】",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-10-13T03:49:02+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13526475": {
       "title": "【AX戦略立案】事業会社内・長期",
       "keyword": "ディレクション",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-10-22T19:26:02+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13521416": {
+      "title": "【東京・週5】大手スポーツ系WebサービスのWebディレクター・PM案件",
+      "keyword": "Webディレクター",
+      "priority": "高",
+      "notified_at": "2026-10-22T22:32:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13553950": {
+      "title": "未経験でもok！長期依頼あり！音声データの文字起こし作業",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-10-22T22:32:38+00:00"
     }
   }
 }
