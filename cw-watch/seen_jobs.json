@@ -1,53 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13531019": {
-      "title": "AIエンジニア / DXエンジニア （AIシステム構築・業務自動化・業務改善コンサルティング）募集！（フルタイム）",
-      "keyword": "ジャンル:業務自動化・AI活用/業務改善",
-      "priority": "高",
-      "notified_at": "2026-10-14T01:25:55+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13533314": {
-      "title": "【20代歓迎🌿未経験OK！】旅行好き集まれ！「行ってみたい！」を届けるInstagramデザイン制作｜AI・Canva使用OK",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-10-14T06:20:21+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13533246": {
-      "title": "【Stable Diffusion】AIイラスト生成画像を作っていただける方募集",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-10-14T06:20:21+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13453011": {
-      "title": "【副業・スキマ仕事】アプリを触ってみてUI/UXをアドバイスするだけ！",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-14T06:20:21+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13532931": {
-      "title": "推し活診断「どこスキ」の結果画面デザイン｜プロフィール帳・詳しく読む画面",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-14T06:20:21+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13527620": {
-      "title": "ねこ特化型ヘルスケアブランドのLPの制作〜改善まで（LPO(CVR改善)がメインのお仕事）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-14T06:20:21+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13532250": {
-      "title": "【Canva初心者も歓迎★】SNS投稿代行スタッフ募集｜完全在宅✕週1～OK",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-14T06:20:21+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13532459": {
-      "title": "【リモートワーク歓迎】Instagram向け短文ライティングと進捗記録のお仕事｜マニュアル提供",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-14T06:20:21+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13532907": {
       "title": "Canva・ChatGPT使える方歓迎！◎SNS投稿作成＆分析のお仕事（インスタ/X/スレッズ） ",
       "keyword": "ビジネスグループ",
@@ -2999,6 +2951,54 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-10-24T05:05:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13557167": {
+      "title": "🥩 グルメ・食のデザインのお仕事 🍺（20代×初心者応援）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-10-24T09:26:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13556924": {
+      "title": "【20代歓迎】国内の温泉・ご当地旅♨️の紹介サイトを一緒に作る仲間募集【未経験🔰積極採用中✨】",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-10-24T09:26:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13556628": {
+      "title": "【完全在宅・未経験OK】建築・不動産関連企業のWebリサーチ＆リスト作成｜Googleマップ・公式サイトを使用",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-10-24T09:26:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13557085": {
+      "title": "【完全在宅・未経験OK】建築・不動産関連企業のWebリサーチ＆リスト作成｜Googleマップ・公式サイトを使用",
+      "keyword": "Web",
+      "priority": "高",
+      "notified_at": "2026-10-24T09:26:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13557065": {
+      "title": "【1本800円・声だけ・顔なし】AIで作ったものを家族に見せたときの「反応」を録るだけ（20〜30秒・何本でも）",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-10-24T09:26:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13556944": {
+      "title": "🎮｜気づいたら時間が過ぎていることはありませんか？｜夢中になれる趣味や日常の体験談ライター募集｜継続依頼あり",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-10-24T09:26:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13557087": {
+      "title": "【20代歓迎！】思わず保存したくなる国内旅行スポットのInstagram投稿制作！「初めてでもOK！」",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-10-24T09:26:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13557068": {
+      "title": "【1カット500円・10秒・画面録画だけ】家計簿アプリや応募画面の画面録画を送るだけ（ダミーデータOK）",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-10-24T09:26:43+00:00"
     }
   }
 }
