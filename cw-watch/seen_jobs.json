@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13534259": {
-      "title": "【写真50～100枚】実際に庭づくり・外構工事をされた方のリアルな写真募集！",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-10-14T20:36:50+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13499564": {
-      "title": "【毎月複数案件依頼】ホームページ制作の原稿作成（Zoom取材含む）のライター募集",
-      "keyword": "ホームページ作成",
-      "priority": "高",
-      "notified_at": "2026-10-14T20:36:50+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13534401": {
       "title": "USB5V小型消臭装置の電気安全・EMC試験支援／電子回路経験者募集",
       "keyword": "Web",
@@ -2999,6 +2987,18 @@
       "keyword": "Webディレクター",
       "priority": "高",
       "notified_at": "2026-10-25T18:56:33+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13558945": {
+      "title": "追加募集！【議事録をスプレッドシートへ文字起こし】",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-10-25T23:20:24+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13558942": {
+      "title": "大人気！紙資料の文字起こし  〇未経験ＯＫ〇在宅○高報酬",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-10-25T23:20:24+00:00"
     }
   }
 }
