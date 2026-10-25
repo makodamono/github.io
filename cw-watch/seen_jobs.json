@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13533631": {
-      "title": "⭐【WEB構築ディレクション】WEB制作・リブランディング案件におけるサイト企画・ディレクション業務⭐",
-      "keyword": "ビジネスグループ",
-      "priority": "高",
-      "notified_at": "2026-10-14T12:05:23+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13464930": {
       "title": "【美容系LPデザイナー募集】Photoshop必須｜女性向けLP制作経験者歓迎｜継続案件あり",
       "keyword": "LP制作カテゴリ候補",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-10-25T06:44:59+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13558435": {
+      "title": "【LP・広告デザイン】冬のアウトドア体験サービス",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-10-25T12:03:09+00:00"
     }
   }
 }
