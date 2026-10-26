@@ -1,47 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13536967": {
-      "title": "【幼稚園の先生を救う新規SaaS】音楽サポートサービス「えんシェルジュ」のロゴ＆タイポグラフィデザイン",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-10-15T15:46:02+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13531884": {
-      "title": "【旅行・お出かけ好きさん歓迎🍁】秋の紅葉おすすめスポットを教えてください♡人柄重視♡",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-10-15T19:24:49+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13537470": {
-      "title": "【リモート30分】ネクストエンジン「出荷検品アプリ（改）」初期設定 ＆ Brotherラベル印刷P-touch Editor設定",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-10-15T22:32:01+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13537467": {
-      "title": "20代×スキルを身につけ本業にしていきたい方へ（AI活用可／完全在宅）",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-10-15T22:32:01+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13537451": {
-      "title": "【初心者OK】生成AIを活用したWebライティング｜在宅で始める記事制作・継続依頼あり",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-10-15T22:32:01+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13537450": {
-      "title": "【初心者OK】生成AIを活用したWeb記事執筆のお仕事｜在宅ワーク・継続依頼あり",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-10-15T22:32:01+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13537446": {
-      "title": "【ライター未経験OK】ChatGPTを活用した記事制作のお仕事｜報酬10,000円～｜長期契約あり",
-      "keyword": "全体新着",
-      "priority": "高",
-      "notified_at": "2026-10-15T22:32:01+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13537433": {
       "title": "【資格保有者限定】ネズミ駆除サイトの記事監修者を募集します",
       "keyword": "全体新着",
@@ -2999,6 +2957,48 @@
       "keyword": "ジャンル:業務自動化・AI活用/業務改善",
       "priority": "高",
       "notified_at": "2026-10-26T13:22:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13535721": {
+      "title": "【ペット好き歓迎🐾】ペットとの暮らしを彩るInstagram投稿デザイン制作｜フリーランスを目指す20代におすすめ！",
+      "keyword": "LP制作カテゴリ候補",
+      "priority": "高",
+      "notified_at": "2026-10-26T19:27:31+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13536244": {
+      "title": "【月80h・フルリモート】Claude Codeを使いこなすWebディレクター募集（AIマーケ支援会社）",
+      "keyword": "CSS",
+      "priority": "高",
+      "notified_at": "2026-10-26T19:27:31+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13559736": {
+      "title": "60分程度のインタビュー動画の文字起こし｜1本8,000円",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-10-26T19:27:31+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13561083": {
+      "title": "【在宅ライター募集✨】平日の夜の過ごし方をテーマを記事にしませんか？",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-10-26T19:27:31+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13558660": {
+      "title": "〖初心者さん大歓迎✨〗仕事のモチベーションをあげる方法について記事を書いてみませんか？🌿",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-10-26T19:27:31+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13560983": {
+      "title": "ライター募集｜20代向け「静かな時間を楽しめる隠れ家カフェ」の魅力を紹介しませんか？☕️🫧",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-10-26T19:27:31+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13560781": {
+      "title": "【メディア運営サポート】旅行・カフェ・お出かけ等のトレンド情報リサーチ",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-10-26T19:27:31+00:00"
     }
   }
 }
