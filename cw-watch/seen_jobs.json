@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/12960638": {
-      "title": "【リモートOK｜月15万円】代表直下｜全社秘書 / バックオフィスアシスタント募集",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-10-19T06:05:50+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13542724": {
-      "title": "【1本5000円〜】ショート動画の編集【マニュアル完備】",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-10-19T06:05:50+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13541283": {
       "title": "【東京・週5】初めてのフリーランス歓迎｜AI活用プロダクトのPdM（マーケティング領域）案件（独立サポートあり）",
       "keyword": "AI活用",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-10-29T15:43:11+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13565244": {
+      "title": "【ラノベ・キャラ文芸・お仕事小説】プロ作家のKindle電子書籍・表紙イラスト＋ロゴデザイン制作（継続依頼あり・ラフ応募OK）",
+      "keyword": "LP",
+      "priority": "高",
+      "notified_at": "2026-10-29T20:39:31+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13569784": {
+      "title": "💼20代旅行好き歓迎！｜自分へのご褒美に楽しむ温泉旅行特集",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-10-29T20:39:31+00:00"
     }
   }
 }
