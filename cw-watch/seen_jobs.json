@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13544522": {
-      "title": "【リモート】スキルアップ希望＆稼ぎたい方大募集！業界最高の還元率でのアポインター募集　最先端のサービスを販売したい方",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-10-20T06:06:24+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13544526": {
-      "title": "【完全フルリモート＆インハウス】業界最高の還元率でアポインター募集！独立された方もいますのでスキルアップ希望＆稼ぎたい方もOK",
-      "keyword": "ホームページ",
-      "priority": "高",
-      "notified_at": "2026-10-20T06:06:24+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13543218": {
       "title": "11/3 or 11/24 ホームページのイメージ撮影 出演モデル様募集【30-60分 5,000円+交通費】",
       "keyword": "ホームページ",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-10-30T17:45:48+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13544524": {
+      "title": "【リモート】スキルアップ希望＆稼ぎたい方大募集！業界最高の還元率でのアポインター募集　最先端のサービスを販売したい方",
+      "keyword": "ホームページ制作",
+      "priority": "高",
+      "notified_at": "2026-10-30T21:42:43+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13543267": {
+      "title": "【継続依頼あり】デザイナーアシスタント募集！WEBから印刷物まで多岐にわたるデザイン業務をお任せします。経験者歓迎！",
+      "keyword": "Web制作",
+      "priority": "高",
+      "notified_at": "2026-10-30T21:42:43+00:00"
     }
   }
 }
