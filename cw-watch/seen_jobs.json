@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13512966": {
-      "title": "【AI開発】研修受講報告書提出確認業務を自動化・効率化するAIエージェント",
-      "keyword": "LP修正",
-      "priority": "高",
-      "notified_at": "2026-10-20T15:42:46+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13547369": {
       "title": "【報酬1万円】スヌーピーやシンプソンズ風！海外アニメタッチの動物キャラ4コマ漫画制作（5本）",
       "keyword": "Web",
@@ -2999,6 +2993,12 @@
       "keyword": "スプレッドシート",
       "priority": "高",
       "notified_at": "2026-10-31T20:42:09+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13573972": {
+      "title": "カンタン！文字起こしのお仕事",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-10-31T23:47:10+00:00"
     }
   }
 }
