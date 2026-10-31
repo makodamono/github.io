@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13547615": {
-      "title": "【創業期のブランドづくり】ブランド戦略からFigmaでのWebデザインまで伴走いただける方を募集｜AI活用歓迎",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-20T15:42:46+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13547404": {
       "title": "【Studioでホームページ制作できる方募集】国内在住・日本人限定・打合せ可能な人（継続依頼予定）",
       "keyword": "Web制作グループ",
@@ -2999,6 +2993,12 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-10-31T13:11:46+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13555262": {
+      "title": "【AI開発】車両情報引用・財務CSV変換AIエージェン",
+      "keyword": "Webサイト修正",
+      "priority": "高",
+      "notified_at": "2026-10-31T17:45:42+00:00"
     }
   }
 }
