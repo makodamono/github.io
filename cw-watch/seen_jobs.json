@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13547404": {
-      "title": "【Studioでホームページ制作できる方募集】国内在住・日本人限定・打合せ可能な人（継続依頼予定）",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-20T15:42:46+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13512966": {
       "title": "【AI開発】研修受講報告書提出確認業務を自動化・効率化するAIエージェント",
       "keyword": "LP修正",
@@ -2999,6 +2993,12 @@
       "keyword": "Webサイト修正",
       "priority": "高",
       "notified_at": "2026-10-31T17:45:42+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13572938": {
+      "title": "好きな場所で働くスキルを！SNS運用のお仕事🌱【20代チャレンジ応援✨】",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-10-31T20:42:09+00:00"
     }
   }
 }
