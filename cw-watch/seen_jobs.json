@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13549730": {
-      "title": "【複業迷子の相談所｜フィードデザインを一緒に作りたい方を募集します】",
-      "keyword": "STUDIO",
-      "priority": "高",
-      "notified_at": "2026-10-21T05:31:49+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13547596": {
-      "title": "【GAS開発】Googleフォーム×スプレッドシートによる勤怠管理・給与自動計算・給与明細発行システムの構築",
-      "keyword": "GAS",
-      "priority": "高",
-      "notified_at": "2026-10-21T05:31:49+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13549858": {
-      "title": "【スマホ作業OK】Instagram向け短文原稿作成・記録サポート｜マニュアルあり｜在宅で始めやすいサポート",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-10-21T05:31:49+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13547292": {
       "title": "【1記事12,000円/4,000文字以上】現役社労士の方へ、ブログ記事執筆のご依頼",
       "keyword": "ChatGPT",
@@ -2999,6 +2981,24 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-11-01T16:25:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13575309": {
+      "title": "公園の名称と所在地をWebで確認し一覧に入力する作業",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-11-01T20:40:29+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13575308": {
+      "title": "画廊の名称と所在地をWebで確認し一覧に入力する作業",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-11-01T20:40:29+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13575192": {
+      "title": "【１万文字２００００〜２５０００円】「釣りの楽しさと独自の釣法」を伝える、創業30年の釣り具メーカーの書籍ライティング",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-11-01T20:40:29+00:00"
     }
   }
 }
