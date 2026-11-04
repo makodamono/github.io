@@ -1,29 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13555856": {
-      "title": "EXCELやPDFデータからスプレッドシートへの転記作業",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-10-23T10:28:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13554131": {
-      "title": "完全在宅！！サイトに掲載されている商品をスプレッドシートに記入するお仕事",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-10-23T10:28:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13553833": {
-      "title": "【1本2,500円・月15〜20本】AI未経験から在宅の仕事を始めるまでを記録する出演者｜手元と声だけ・成果は問いません",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-10-23T10:28:13+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13553129": {
-      "title": "【急募/長期継続】英会話教材のコンテンツ制作担当★TOEIC860点以上限定/マニュアル＆ネイティブ監修あり",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-10-23T10:28:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13555432": {
       "title": "【ロゴ募集】室内に公園があるホテル・老犬の施設のロゴを募集します☺︎",
       "keyword": "AI",
@@ -2999,6 +2975,30 @@
       "keyword": "ジャンル:Webディレクション/進行管理",
       "priority": "高",
       "notified_at": "2026-11-04T17:35:59+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13401007": {
+      "title": "AIO対策（SEOのAI版）運用担当｜ブランク可｜SEOライティング経験歓迎",
+      "keyword": "WordPress",
+      "priority": "高",
+      "notified_at": "2026-11-04T22:50:41+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13554866": {
+      "title": "月額3万円で事務のお仕事全般できる方募集！子育て中の主婦の方や在宅で働きたい方歓迎！急なお休みにも柔軟に対応可能です。",
+      "keyword": "GAS",
+      "priority": "高",
+      "notified_at": "2026-11-04T22:50:41+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13553316": {
+      "title": "モバイルアプリ（iOS・Android）の開発",
+      "keyword": "Google Apps Script",
+      "priority": "高",
+      "notified_at": "2026-11-04T22:50:41+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13553061": {
+      "title": "BPO・Google Workspace・Microsoft 365 Copilot・AIエージェント導入経験者募集",
+      "keyword": "Google Apps Script",
+      "priority": "高",
+      "notified_at": "2026-11-04T22:50:41+00:00"
     }
   }
 }
