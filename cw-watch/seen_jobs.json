@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13566022": {
-      "title": "⭐【UI/UX/週3~4日】SaaSプロダクトのサービスリニューアルに伴うUI/UXデザイン案件⭐",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-28T07:29:21+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13565913": {
-      "title": "⭐【Figma】 機能開発におけるUX設計とUIデザイン業務案件⭐",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-10-28T07:29:21+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13565904": {
       "title": "⭐【UIデザイナー】医療WebサービスのUIデザイン業務案件⭐",
       "keyword": "Web制作グループ",
@@ -2999,6 +2987,18 @@
       "keyword": "AI",
       "priority": "高",
       "notified_at": "2026-11-08T15:33:52+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13590472": {
+      "title": "💼【20代会社員歓迎！キャリア系ライティングスタッフ募集】✨",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-11-08T19:55:57+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13590482": {
+      "title": "【絵本の挿絵】猫と男の子の絵本 キャラクター設定　15見開き 表紙 裏表紙 扉",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-11-08T19:55:57+00:00"
     }
   }
 }
