@@ -1,53 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13567805": {
-      "title": "【東京のカメラマン必見】WEB広告用の動画撮影について ",
-      "keyword": "Web",
-      "priority": "高",
-      "notified_at": "2026-10-29T02:39:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13567952": {
-      "title": "【コツコツ作業】Instagram向け短文原稿作成補助｜条件明記のお仕事｜マニュアルありで安心",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-10-29T02:39:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13567632": {
-      "title": "【1件15,000円】AI業務システムの商談アポ設定｜法人営業の経験・人脈を活かせる副業",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-10-29T02:39:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13567090": {
-      "title": "【急募・11/1初稿】生成AI活用セミナー（製造業向け・応用編）の構成案とスライド資料作成",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-10-29T02:39:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13566442": {
-      "title": "【ロゴデザインコンペ】飲食ブランド「座銀（ZAGIN）」の新ロゴ募集｜シンプルで記憶に残るシンボルマーク",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-10-29T02:39:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13567806": {
-      "title": "工業製品の3DCG",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-10-29T02:39:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13567781": {
-      "title": "音楽好きな方・主婦さん歓迎・作曲家さん募集　BGM作成",
-      "keyword": "AI",
-      "priority": "高",
-      "notified_at": "2026-10-29T02:39:37+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13566609": {
-      "title": "【営業責任者候補】業務改善・AI活用支援サービスの営業／商談獲得・営業基盤構築",
-      "keyword": "AI活用",
-      "priority": "高",
-      "notified_at": "2026-10-29T02:39:37+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13569113": {
       "title": "【高単価 / 在宅】AI学習用 関西弁の音声収録（台本の読み上げ）【日本語ネイティブ限定】",
       "keyword": "全体新着",
@@ -2999,6 +2951,54 @@
       "keyword": "リサーチ",
       "priority": "高",
       "notified_at": "2026-11-09T20:53:50+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13593623": {
+      "title": "Instagram・Threads投稿用の短文原稿作成と投稿記録の管理（在宅・リモート）",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-11-10T03:03:40+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13593456": {
+      "title": "新規オープンするパーソナルジムのHP作成をお願いしたい",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-11-10T03:03:40+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13453102": {
+      "title": "スムージーカフェweb制作！どなたでも気軽にご応募ください。",
+      "keyword": "Webサイト制作",
+      "priority": "高",
+      "notified_at": "2026-11-10T03:03:40+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13593709": {
+      "title": "【手順書あり】Instagram向け短文原稿準備サポート｜コツコツ進める在宅作業｜マニュアルありで安心",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-11-10T03:03:40+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13593629": {
+      "title": "【在宅勤務可】Instagram向け短文原稿作成・記録サポート｜マニュアルあり",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-11-10T03:03:40+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13593296": {
+      "title": "60分程度のインタビュー動画の文字起こし｜1本8,000円",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-11-10T03:03:40+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13593115": {
+      "title": "カンタン！文字起こしのお仕事 ",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-11-10T03:03:40+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13592994": {
+      "title": "🎧｜20代におすすめ｜疲れたときやリラックスしたいときに聴くお気に入りの音楽を紹介するライター募集｜継続あり｜",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-11-10T03:03:40+00:00"
     }
   }
 }
