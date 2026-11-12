@@ -1,59 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13531670": {
-      "title": "【Canva使用可】アロマ・キャンドル系Instagramデザイナー募集🕯️｜癒されるをデザインに♪",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-11-01T02:39:14+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13573930": {
-      "title": "【在宅OK】名刺情報をExcelに入力するリスト作成スタッフ募集｜長期のお仕事",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-11-01T02:39:14+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13574099": {
-      "title": "🍂｜秋になると、なぜか食べたくなるものはありませんか？｜秋の楽しみや好きな食べ物について書くライター募集｜継続あり｜",
-      "keyword": "ChatGPT",
-      "priority": "高",
-      "notified_at": "2026-11-01T02:39:14+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13574556": {
-      "title": "＜20代社会人歓迎×未経験OK🌿＞【初回2,000円〜】温泉・ご当地グルメ旅のサイト制作メンバー募集｜実践経験が積める",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-11-01T09:41:32+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13574514": {
-      "title": "ウェルネスブランドのECサイト向けカラーパレット制作",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-11-01T09:41:32+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13438106": {
-      "title": "【人柄重視・20代の旅行好きさん◎】あなたのデザインで「行ってみたい」を生み出すWebデザイナー募集",
-      "keyword": "Web制作グループ",
-      "priority": "高",
-      "notified_at": "2026-11-01T09:41:32+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13574188": {
-      "title": "20代×カフェ・Webデザインのクリエイター募集🍰🫖【副業から本業へ】",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-11-01T09:41:32+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13574615": {
-      "title": "【文字単価2円】洋服レンタルサービスに関するSEO記事ライティング【長期継続あり】",
-      "keyword": "WordPress",
-      "priority": "高",
-      "notified_at": "2026-11-01T09:41:32+00:00"
-    },
-    "https://crowdworks.jp/public/jobs/13574497": {
-      "title": "公園の名称と所在地をWebで確認し一覧に入力する作業",
-      "keyword": "スプレッドシート",
-      "priority": "高",
-      "notified_at": "2026-11-01T09:41:32+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13574487": {
       "title": "画廊の名称と所在地をWebで確認し一覧に入力する作業",
       "keyword": "スプレッドシート",
@@ -2999,6 +2945,60 @@
       "keyword": "ジャンル:Webディレクション/LPディレクション",
       "priority": "高",
       "notified_at": "2026-11-12T13:57:54+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13600172": {
+      "title": "【GAS開発】WEB DATA GETTERの簡単なカスタマイズ依頼",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-11-12T21:16:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13600035": {
+      "title": "【コツコツ在宅】Instagram向け短文原稿作成補助｜条件明記のお仕事",
+      "keyword": "Web制作グループ",
+      "priority": "高",
+      "notified_at": "2026-11-12T21:16:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13571578": {
+      "title": "【ロゴデザインコンペ】メンズファッション・ガジェットブランド「ZARVO」の新ロゴ募集｜シンプルで遊び心のあるシンボルマーク",
+      "keyword": "LP修正",
+      "priority": "高",
+      "notified_at": "2026-11-12T21:16:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13585822": {
+      "title": "【在宅ワーク】ホームページ制作のサポートスタッフ募集｜簡単なデータ整理からスタート・継続案件あり",
+      "keyword": "ホームページ",
+      "priority": "高",
+      "notified_at": "2026-11-12T21:16:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13572806": {
+      "title": "WordPress既存ホームページの施術メニュー・料金表修正【急募】",
+      "keyword": "ホームページ作成",
+      "priority": "高",
+      "notified_at": "2026-11-12T21:16:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13599910": {
+      "title": "【ゲーム好き歓迎】神ゲーに特化したゆっくり解説動画のシナリオ作成【継続希望】",
+      "keyword": "スプレッドシート",
+      "priority": "高",
+      "notified_at": "2026-11-12T21:16:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13600017": {
+      "title": "最近サウナが気になる♡20代女子のリアルなサ活事情🤫￤未経験OK🙆‍♀️",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-11-12T21:16:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13600001": {
+      "title": "【若手社員の気持ち💭】正直ちょっと悔しい！同期に負けていると感じる瞬間￤ライター未経験OK✍️",
+      "keyword": "ChatGPT",
+      "priority": "高",
+      "notified_at": "2026-11-12T21:16:51+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13600064": {
+      "title": "【パラアイスホッケー】東海アイスアークス 試合用ユニフォームのデザイン募集（Illustrator納品）",
+      "keyword": "AI",
+      "priority": "高",
+      "notified_at": "2026-11-12T21:16:51+00:00"
     }
   }
 }
