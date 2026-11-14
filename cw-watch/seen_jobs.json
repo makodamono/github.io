@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://crowdworks.jp/public/jobs/13579019": {
-      "title": "【主婦の方歓迎】画像編集スタッフ募集！在宅ワークで自分のペースで働けます♪",
-      "keyword": "Webサイト",
-      "priority": "高",
-      "notified_at": "2026-11-03T10:02:13+00:00"
-    },
     "https://crowdworks.jp/public/jobs/13562985": {
       "title": "新ブランド「JAPAN SOUNDS」ロゴデザイン募集",
       "keyword": "Webサイト修正",
@@ -2999,6 +2993,12 @@
       "keyword": "ホームページ作成",
       "priority": "高",
       "notified_at": "2026-11-14T20:09:38+00:00"
+    },
+    "https://crowdworks.jp/public/jobs/13603686": {
+      "title": "業界で自分で売ってきた方・経営者の方へ｜取引先の社長に業務システムをご紹介 1件15,000円",
+      "keyword": "全体新着",
+      "priority": "高",
+      "notified_at": "2026-11-14T23:52:24+00:00"
     }
   }
 }
